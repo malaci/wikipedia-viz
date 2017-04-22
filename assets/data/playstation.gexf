@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="playstation games">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="150.58986" y="233.28548"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="playstation 2">
+        <viz:size value="82.63005"></viz:size>
+        <viz:position x="-152.25137" y="-234.87132"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="playstation 3">
+        <viz:size value="80.4588"></viz:size>
+        <viz:position x="-80.84999" y="-649.29333"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="playstation network">
+        <viz:size value="76.89176"></viz:size>
+        <viz:position x="302.80338" y="-576.25696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="playstation portable">
+        <viz:size value="74.02261"></viz:size>
+        <viz:position x="-231.81006" y="150.0102"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="playstation 4">
+        <viz:size value="71.77383"></viz:size>
+        <viz:position x="237.01007" y="-157.10556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="playstation vita">
+        <viz:size value="67.3538"></viz:size>
+        <viz:position x="-624.1245" y="-117.45778"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="playstation accessories">
+        <viz:size value="38.042004"></viz:size>
+        <viz:position x="79.843346" y="654.88477"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="playstation magazines">
+        <viz:size value="25.789984"></viz:size>
+        <viz:position x="616.38684" y="-289.69043"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="playstation emulators">
+        <viz:size value="24.936996"></viz:size>
+        <viz:position x="-471.17752" y="-485.27985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="playstation store">
+        <viz:size value="18.035542"></viz:size>
+        <viz:position x="622.50555" y="117.28179"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="playstation move">
+        <viz:size value="8.497578"></viz:size>
+        <viz:position x="-306.33734" y="578.65405"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="playstation 3 nbsp games">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="469.66824" y="486.92792"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="playstation 2 nbsp games">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-612.2566" y="288.911"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="1244.0"></edge>
+      <edge id="1" source="0" target="2" weight="1222.0"></edge>
+      <edge id="2" source="3" target="0" weight="1109.0"></edge>
+      <edge id="3" source="2" target="4" weight="404.0"></edge>
+      <edge id="4" source="1" target="5" weight="347.0"></edge>
+      <edge id="5" source="1" target="4" weight="278.0"></edge>
+      <edge id="6" source="1" target="6" weight="277.0"></edge>
+      <edge id="7" source="3" target="5" weight="213.0"></edge>
+      <edge id="8" source="3" target="6" weight="182.0"></edge>
+      <edge id="9" source="4" target="3" weight="133.0"></edge>
+      <edge id="10" source="7" target="0" weight="5.0"></edge>
+      <edge id="11" source="0" target="8" weight="2.0"></edge>
+      <edge id="12" source="7" target="4" weight="2.0"></edge>
+      <edge id="13" source="9" target="8" weight="2.0"></edge>
+      <edge id="14" source="5" target="7"></edge>
+      <edge id="15" source="0" target="10"></edge>
+      <edge id="16" source="11" target="4"></edge>
+      <edge id="17" source="5" target="11"></edge>
+      <edge id="18" source="12" target="0"></edge>
+      <edge id="19" source="6" target="11"></edge>
+      <edge id="20" source="6" target="7"></edge>
+      <edge id="21" source="1" target="13"></edge>
+    </edges>
+  </graph>
+</gexf>

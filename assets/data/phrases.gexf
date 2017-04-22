@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="words and phrases">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="21.35263" y="-12.806978"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="english phrases">
+        <viz:size value="64.17178"></viz:size>
+        <viz:position x="-630.7967" y="-340.86737"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="biblical phrases">
+        <viz:size value="46.50307"></viz:size>
+        <viz:position x="192.05312" y="348.92148"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="latin religious phrases">
+        <viz:size value="46.012276"></viz:size>
+        <viz:position x="-179.00388" y="-357.86374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="philosophical phrases">
+        <viz:size value="37.374237"></viz:size>
+        <viz:position x="365.05823" y="668.25824"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="political catch phrases">
+        <viz:size value="37.374237"></viz:size>
+        <viz:position x="-633.4942" y="363.94656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="latin political phrases">
+        <viz:size value="31.975462"></viz:size>
+        <viz:position x="-13.550095" y="-735.4755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="latin logical phrases">
+        <viz:size value="30.601229"></viz:size>
+        <viz:position x="631.07385" y="381.64087"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="canadian political phrases">
+        <viz:size value="24.809816"></viz:size>
+        <viz:position x="-202.819" y="324.1066"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="ukrainian phrases">
+        <viz:size value="23.042946"></viz:size>
+        <viz:position x="-382.2885" y="-14.937719"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="latin literary phrases">
+        <viz:size value="21.079758"></viz:size>
+        <viz:position x="220.41345" y="-344.39886"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="british political phrases">
+        <viz:size value="17.055218"></viz:size>
+        <viz:position x="-388.03174" y="649.18774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="latin biological phrases">
+        <viz:size value="16.07362"></viz:size>
+        <viz:position x="408.34042" y="15.442463"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="latin medical phrases">
+        <viz:size value="14.993867"></viz:size>
+        <viz:position x="637.47144" y="-367.4181"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="parting phrases">
+        <viz:size value="12.638039"></viz:size>
+        <viz:position x="-18.710703" y="722.4176"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="hip hop phrases">
+        <viz:size value="12.638039"></viz:size>
+        <viz:position x="-760.6192" y="9.244171"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="quebec political phrases">
+        <viz:size value="11.263804"></viz:size>
+        <viz:position x="371.74542" y="-666.9839"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="jain phrases">
+        <viz:size value="6.257669"></viz:size>
+        <viz:position x="763.5227" y="5.4576874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="french medical phrases">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-401.71738" y="-647.87115"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="19.0"></edge>
+      <edge id="1" source="0" target="2" weight="15.0"></edge>
+      <edge id="2" source="3" target="4" weight="12.0"></edge>
+      <edge id="3" source="0" target="3" weight="10.0"></edge>
+      <edge id="4" source="5" target="6" weight="8.0"></edge>
+      <edge id="5" source="0" target="7" weight="5.0"></edge>
+      <edge id="6" source="8" target="0" weight="5.0"></edge>
+      <edge id="7" source="9" target="0" weight="4.0"></edge>
+      <edge id="8" source="10" target="0" weight="4.0"></edge>
+      <edge id="9" source="0" target="11" weight="3.0"></edge>
+      <edge id="10" source="12" target="0" weight="2.0"></edge>
+      <edge id="11" source="0" target="13" weight="2.0"></edge>
+      <edge id="12" source="5" target="14" weight="2.0"></edge>
+      <edge id="13" source="8" target="5" weight="2.0"></edge>
+      <edge id="14" source="14" target="0" weight="2.0"></edge>
+      <edge id="15" source="15" target="0"></edge>
+      <edge id="16" source="5" target="16"></edge>
+      <edge id="17" source="17" target="0"></edge>
+      <edge id="18" source="18" target="6"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,943 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="9" label="operating systems">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-808.2961" y="-1035.2468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="management systems">
+        <viz:size value="96.10672"></viz:size>
+        <viz:position x="-1480.2104" y="-64.522964"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="planetary systems">
+        <viz:size value="86.27107"></viz:size>
+        <viz:position x="307.81558" y="-561.9106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="information systems">
+        <viz:size value="85.7588"></viz:size>
+        <viz:position x="-912.7102" y="-523.2173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="writing systems">
+        <viz:size value="83.91462"></viz:size>
+        <viz:position x="390.02737" y="-336.0665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="computer systems">
+        <viz:size value="82.99252"></viz:size>
+        <viz:position x="-580.5478" y="960.4525"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="dynamical systems">
+        <viz:size value="78.89435"></viz:size>
+        <viz:position x="779.41345" y="1035.9955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="embedded systems">
+        <viz:size value="77.45998"></viz:size>
+        <viz:position x="-559.8922" y="-1366.6345"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="systems theory">
+        <viz:size value="77.25506"></viz:size>
+        <viz:position x="-118.379036" y="1091.7314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="town tramway systems by city">
+        <viz:size value="77.15261"></viz:size>
+        <viz:position x="88.62843" y="250.95909"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="payment systems">
+        <viz:size value="77.050156"></viz:size>
+        <viz:position x="-1104.0667" y="-106.63553"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="systems scientists">
+        <viz:size value="76.74279"></viz:size>
+        <viz:position x="334.12418" y="1041.194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="classification systems">
+        <viz:size value="73.15688"></viz:size>
+        <viz:position x="-109.32531" y="-1261.767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="systems engineering">
+        <viz:size value="72.4397"></viz:size>
+        <viz:position x="1357.8391" y="588.0016"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="star systems">
+        <viz:size value="70.902885"></viz:size>
+        <viz:position x="-591.7575" y="324.11588"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="fare collection systems">
+        <viz:size value="69.468506"></viz:size>
+        <viz:position x="157.07727" y="-388.34076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="parties of one party systems">
+        <viz:size value="68.956245"></viz:size>
+        <viz:position x="-406.42172" y="-118.96153"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="economic systems">
+        <viz:size value="68.44397"></viz:size>
+        <viz:position x="-50.378162" y="55.501514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="military radio systems">
+        <viz:size value="66.90715"></viz:size>
+        <viz:position x="345.63293" y="213.84"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="electric power transmission systems">
+        <viz:size value="66.18997"></viz:size>
+        <viz:position x="124.08634" y="629.8725"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="complex systems">
+        <viz:size value="65.78015"></viz:size>
+        <viz:position x="167.66023" y="1257.3336"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="disk file systems">
+        <viz:size value="65.57524"></viz:size>
+        <viz:position x="-964.4797" y="513.64307"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="electoral systems">
+        <viz:size value="64.96051"></viz:size>
+        <viz:position x="822.9247" y="-171.73442"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="warning systems">
+        <viz:size value="64.34578"></viz:size>
+        <viz:position x="467.68454" y="422.96262"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="systems biology">
+        <viz:size value="64.03842"></viz:size>
+        <viz:position x="-60.922558" y="-378.5334"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="coordinate systems">
+        <viz:size value="63.321236"></viz:size>
+        <viz:position x="1081.5406" y="-58.601772"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="systems engineers">
+        <viz:size value="63.11633"></viz:size>
+        <viz:position x="56.08192" y="-166.96674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="bae systems">
+        <viz:size value="62.39914"></viz:size>
+        <viz:position x="-313.13525" y="-775.5002"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="numeral systems">
+        <viz:size value="61.989323"></viz:size>
+        <viz:position x="-171.59406" y="-142.23201"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="intelligent systems">
+        <viz:size value="61.374596"></viz:size>
+        <viz:position x="311.47412" y="-1453.6367"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="multi-agent systems">
+        <viz:size value="61.374596"></viz:size>
+        <viz:position x="-761.61725" y="80.12605"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="regional rail systems">
+        <viz:size value="61.067234"></viz:size>
+        <viz:position x="-519.4341" y="-326.3629"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="sensory systems">
+        <viz:size value="60.145145"></viz:size>
+        <viz:position x="-492.582" y="543.52856"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="football league systems">
+        <viz:size value="59.427956"></viz:size>
+        <viz:position x="-27.468935" y="459.4192"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="trolleybus systems by city">
+        <viz:size value="58.50587"></viz:size>
+        <viz:position x="-527.58026" y="97.13449"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="file systems supported by the linux kernel">
+        <viz:size value="57.993595"></viz:size>
+        <viz:position x="-1085.461" y="691.269"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="political systems">
+        <viz:size value="57.993595"></viz:size>
+        <viz:position x="-152.4697" y="273.97867"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="systems of units">
+        <viz:size value="57.788685"></viz:size>
+        <viz:position x="56.904945" y="1495.1307"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="version control systems">
+        <viz:size value="57.58378"></viz:size>
+        <viz:position x="25.505672" y="-1075.9958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="rating systems">
+        <viz:size value="57.173958"></viz:size>
+        <viz:position x="-416.26913" y="-978.87256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="distributed file systems">
+        <viz:size value="57.173958"></viz:size>
+        <viz:position x="-1213.4253" y="470.12476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="systems science">
+        <viz:size value="56.969048"></viz:size>
+        <viz:position x="-50.364876" y="1305.6243"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="network file systems">
+        <viz:size value="56.764137"></viz:size>
+        <viz:position x="-1218.0565" y="882.5198"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="cisco systems">
+        <viz:size value="56.764137"></viz:size>
+        <viz:position x="-386.1245" y="755.33997"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="systems ecology">
+        <viz:size value="56.55923"></viz:size>
+        <viz:position x="976.422" y="415.84845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="voting systems">
+        <viz:size value="56.14941"></viz:size>
+        <viz:position x="584.694" y="-208.07037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="court systems">
+        <viz:size value="56.14941"></viz:size>
+        <viz:position x="-275.9422" y="508.11743"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="legal systems">
+        <viz:size value="55.944504"></viz:size>
+        <viz:position x="-289.10193" y="77.69785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="electric power systems components">
+        <viz:size value="55.944504"></viz:size>
+        <viz:position x="-376.4426" y="300.17624"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="bulletin board systems">
+        <viz:size value="55.22732"></viz:size>
+        <viz:position x="-131.41975" y="667.4924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="systems biologists">
+        <viz:size value="54.51013"></viz:size>
+        <viz:position x="48.786335" y="842.05225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="heritage streetcar systems">
+        <viz:size value="54.51013"></viz:size>
+        <viz:position x="187.5364" y="45.692543"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="systems thinking">
+        <viz:size value="53.997864"></viz:size>
+        <viz:position x="-284.40985" y="-340.27045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="digital systems">
+        <viz:size value="53.485588"></viz:size>
+        <viz:position x="-786.67975" y="-1268.0914"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="streaming media systems">
+        <viz:size value="53.485588"></viz:size>
+        <viz:position x="-1476.993" y="182.27094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="accounting systems">
+        <viz:size value="53.28068"></viz:size>
+        <viz:position x="286.7556" y="-154.70386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="systems programming languages">
+        <viz:size value="52.665955"></viz:size>
+        <viz:position x="230.82321" y="424.83945"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="role playing game systems">
+        <viz:size value="52.665955"></viz:size>
+        <viz:position x="-388.61417" y="-537.0401"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="systems analysis">
+        <viz:size value="52.15368"></viz:size>
+        <viz:position x="1254.3911" y="767.61285"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="social systems">
+        <viz:size value="52.15368"></viz:size>
+        <viz:position x="-292.29352" y="1245.6501"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="public university systems in the united states">
+        <viz:size value="52.15368"></viz:size>
+        <viz:position x="282.22662" y="827.5125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="land systems">
+        <viz:size value="51.846317"></viz:size>
+        <viz:position x="1068.7574" y="195.17068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="radio stations and systems itu">
+        <viz:size value="51.231586"></viz:size>
+        <viz:position x="1490.157" y="105.679565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="train protection systems">
+        <viz:size value="50.924225"></viz:size>
+        <viz:position x="666.5641" y="13.599513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="telecommunications systems">
+        <viz:size value="50.924225"></viz:size>
+        <viz:position x="1446.4629" y="365.1914"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="recommender systems">
+        <viz:size value="50.924225"></viz:size>
+        <viz:position x="-637.8134" y="-121.014015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="airport people mover systems">
+        <viz:size value="50.616863"></viz:size>
+        <viz:position x="890.95087" y="-791.8751"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="expert systems">
+        <viz:size value="50.309498"></viz:size>
+        <viz:position x="-778.6118" y="-704.0602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="satellite navigation systems">
+        <viz:size value="49.69477"></viz:size>
+        <viz:position x="74.82653" y="-1481.1234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="shorthand systems">
+        <viz:size value="48.670223"></viz:size>
+        <viz:position x="556.1657" y="-464.67853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="people mover systems in the united states">
+        <viz:size value="48.670223"></viz:size>
+        <viz:position x="682.6303" y="-863.8188"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="air pollution control systems">
+        <viz:size value="48.260403"></viz:size>
+        <viz:position x="71.0348" y="-617.8117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="nonlinear systems">
+        <viz:size value="48.260403"></viz:size>
+        <viz:position x="975.8055" y="1127.2965"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="formal systems">
+        <viz:size value="47.95304"></viz:size>
+        <viz:position x="-434.73093" y="1419.3568"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="special-purpose file systems">
+        <viz:size value="47.54322"></viz:size>
+        <viz:position x="-988.7991" y="887.2532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="retail pos systems">
+        <viz:size value="44.981853"></viz:size>
+        <viz:position x="-877.0222" y="-120.21904"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="systems architecture">
+        <viz:size value="44.981853"></viz:size>
+        <viz:position x="-1005.51685" y="-1113.0256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="biological systems">
+        <viz:size value="44.46958"></viz:size>
+        <viz:position x="-184.94608" y="876.692"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="technology systems">
+        <viz:size value="43.547493"></viz:size>
+        <viz:position x="1201.157" y="435.23187"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="advanced driver assistance systems">
+        <viz:size value="43.547493"></viz:size>
+        <viz:position x="145.07938" y="-1275.1644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="systems psychology">
+        <viz:size value="42.42049"></viz:size>
+        <viz:position x="101.161026" y="1048.8441"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="fuel injection systems">
+        <viz:size value="42.42049"></viz:size>
+        <viz:position x="-358.7023" y="-1434.9865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="systems of plant taxonomy">
+        <viz:size value="42.42049"></viz:size>
+        <viz:position x="-1464.4501" y="-298.22278"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="legacy systems">
+        <viz:size value="42.42049"></viz:size>
+        <viz:position x="-933.26154" y="-861.7477"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="media content ratings systems">
+        <viz:size value="41.908215"></viz:size>
+        <viz:position x="-531.1853" y="-712.9621"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="systems ecologists">
+        <viz:size value="41.908215"></viz:size>
+        <viz:position x="572.8238" y="1111.9731"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="capability systems">
+        <viz:size value="40.678757"></viz:size>
+        <viz:position x="-1159.5574" y="-925.9203"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="userspace file systems">
+        <viz:size value="40.064034"></viz:size>
+        <viz:position x="-839.27734" y="723.52747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="close-in weapon systems">
+        <viz:size value="40.064034"></viz:size>
+        <viz:position x="703.0345" y="446.98907"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="lightweight unix-like systems">
+        <viz:size value="39.449306"></viz:size>
+        <viz:position x="-584.5297" y="-1144.958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="systems psychologists">
+        <viz:size value="39.449306"></viz:size>
+        <viz:position x="514.1312" y="882.9034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="theorem proving software systems">
+        <viz:size value="38.732124"></viz:size>
+        <viz:position x="-815.8766" y="1201.1328"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="systems journals">
+        <viz:size value="38.732124"></viz:size>
+        <viz:position x="-1018.297" y="-325.97318"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="video game content ratings systems">
+        <viz:size value="38.014942"></viz:size>
+        <viz:position x="-631.3029" y="-902.6931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="vehicle security systems">
+        <viz:size value="37.297756"></viz:size>
+        <viz:position x="-148.4914" y="-1471.6448"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="physical systems">
+        <viz:size value="37.297756"></viz:size>
+        <viz:position x="-526.17596" y="1173.2882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="aircraft emergency systems">
+        <viz:size value="35.658485"></viz:size>
+        <viz:position x="1294.1343" y="-9.605782"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="linux kernel-supported file systems">
+        <viz:size value="35.658485"></viz:size>
+        <viz:position x="-736.9535" y="523.9144"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="storage systems">
+        <viz:size value="35.658485"></viz:size>
+        <viz:position x="-1432.4036" y="416.56998"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="flash file systems">
+        <viz:size value="34.73639"></viz:size>
+        <viz:position x="-626.199" y="742.84973"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="conceptual systems">
+        <viz:size value="34.73639"></viz:size>
+        <viz:position x="-202.06253" y="1473.7853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="systems modeling language">
+        <viz:size value="33.8143"></viz:size>
+        <viz:position x="1145.0342" y="951.8249"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="railway signalling block systems">
+        <viz:size value="33.8143"></viz:size>
+        <viz:position x="446.41208" y="0.41043216"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="electrical systems">
+        <viz:size value="33.8143"></viz:size>
+        <viz:position x="-156.03218" y="-580.3397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="authoring systems">
+        <viz:size value="33.8143"></viz:size>
+        <viz:position x="-1286.3081" y="21.995136"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="engine cooling systems">
+        <viz:size value="33.8143"></viz:size>
+        <viz:position x="382.24042" y="-1229.3168"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="nexter systems">
+        <viz:size value="33.8143"></viz:size>
+        <viz:position x="-102.3327" y="-810.3901"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="compression file systems">
+        <viz:size value="32.789757"></viz:size>
+        <viz:position x="-1326.8403" y="659.2288"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="urban people mover systems">
+        <viz:size value="32.789757"></viz:size>
+        <viz:position x="1188.2443" y="-460.57608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="people mover systems in japan">
+        <viz:size value="31.662752"></viz:size>
+        <viz:position x="518.42365" y="-693.38464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="multi-robot systems">
+        <viz:size value="31.662752"></viz:size>
+        <viz:position x="-807.32965" y="286.68842"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="aircraft landing systems">
+        <viz:size value="31.662752"></viz:size>
+        <viz:position x="1483.8801" y="-146.45457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="systems in blue songs">
+        <viz:size value="30.433296"></viz:size>
+        <viz:position x="814.1628" y="252.68701"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="engine lubrication systems">
+        <viz:size value="30.433296"></viz:size>
+        <viz:position x="546.1698" y="-1383.7009"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="aeronautical navigation systems">
+        <viz:size value="30.433296"></viz:size>
+        <viz:position x="1283.4634" y="216.20479"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="binary systems">
+        <viz:size value="29.20384"></viz:size>
+        <viz:position x="294.13583" y="-777.9375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="engine control systems">
+        <viz:size value="29.20384"></viz:size>
+        <viz:position x="-347.13254" y="-1209.9648"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="controlled ecological life support systems">
+        <viz:size value="27.769474"></viz:size>
+        <viz:position x="1065.8716" y="643.09863"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="user space file systems">
+        <viz:size value="27.769474"></viz:size>
+        <viz:position x="-1022.9904" y="1097.6199"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="systems sciences organizations">
+        <viz:size value="26.232656"></viz:size>
+        <viz:position x="298.78235" y="1459.4006"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="integrable systems">
+        <viz:size value="26.232656"></viz:size>
+        <viz:position x="954.49664" y="858.40045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="spacecraft life support systems">
+        <viz:size value="26.232656"></viz:size>
+        <viz:position x="849.8338" y="616.78876"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="systems sciences awards">
+        <viz:size value="24.490927"></viz:size>
+        <viz:position x="564.1127" y="1386.3499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="differential systems">
+        <viz:size value="24.490927"></viz:size>
+        <viz:position x="893.9946" y="45.8931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="systems of bacterial taxonomy">
+        <viz:size value="24.490927"></viz:size>
+        <viz:position x="-1176.8544" y="-485.0001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="distributed bug tracking systems">
+        <viz:size value="22.54429"></viz:size>
+        <viz:position x="102.29779" y="-865.5528"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="automotive navigation systems">
+        <viz:size value="22.54429"></viz:size>
+        <viz:position x="-656.75" y="1336.4165"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="special purpose file systems">
+        <viz:size value="20.187832"></viz:size>
+        <viz:position x="-787.8624" y="973.17737"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="informal value transfer systems">
+        <viz:size value="20.187832"></viz:size>
+        <viz:position x="-1016.04474" y="89.52302"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="systems in blue albums">
+        <viz:size value="17.524012"></viz:size>
+        <viz:position x="583.9171" y="223.03137"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="thermodynamic systems">
+        <viz:size value="17.524012"></viz:size>
+        <viz:position x="-359.63156" y="1010.0074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="revision control systems">
+        <viz:size value="17.524012"></viz:size>
+        <viz:position x="-192.62894" y="-1027.5264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="aircraft collision avoidance systems">
+        <viz:size value="17.524012"></viz:size>
+        <viz:position x="368.74902" y="628.9744"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="automotive cooling systems">
+        <viz:size value="17.524012"></viz:size>
+        <viz:position x="263.21048" y="-1046.8707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="union file systems">
+        <viz:size value="14.245463"></viz:size>
+        <viz:position x="-1028.4669" y="302.9602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="systems geology">
+        <viz:size value="14.245463"></viz:size>
+        <viz:position x="397.18494" y="1258.9451"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="semantic file systems">
+        <viz:size value="14.245463"></viz:size>
+        <viz:position x="-1247.0851" y="240.7048"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="systems of algae taxonomy">
+        <viz:size value="14.245463"></viz:size>
+        <viz:position x="-1295.4349" y="-726.5247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="people mover systems in france">
+        <viz:size value="14.245463"></viz:size>
+        <viz:position x="1023.40607" y="-286.5919"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="people mover systems in china">
+        <viz:size value="14.245463"></viz:size>
+        <viz:position x="1351.8557" y="-611.2767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="proposed people mover systems">
+        <viz:size value="14.245463"></viz:size>
+        <viz:position x="1097.7686" y="-683.11127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="people mover systems in germany">
+        <viz:size value="14.245463"></viz:size>
+        <viz:position x="806.8353" y="-1029.6401"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="dynamic systems">
+        <viz:size value="14.245463"></viz:size>
+        <viz:position x="768.2577" y="1268.203"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="optimized systems software">
+        <viz:size value="14.245463"></viz:size>
+        <viz:position x="-1068.1926" y="-692.96375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="systems of fungi taxonomy">
+        <viz:size value="9.942369"></viz:size>
+        <viz:position x="-1388.5638" y="-516.2806"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="university people mover systems">
+        <viz:size value="9.942369"></viz:size>
+        <viz:position x="970.5881" y="-1147.5104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="people mover systems in canada">
+        <viz:size value="9.942369"></viz:size>
+        <viz:position x="743.16626" y="-619.5594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="people mover systems in italy">
+        <viz:size value="9.942369"></viz:size>
+        <viz:position x="1434.5386" y="-388.10602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="people mover systems in the united kingdom">
+        <viz:size value="9.942369"></viz:size>
+        <viz:position x="954.8316" y="-517.76117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="hospital people mover systems">
+        <viz:size value="9.942369"></viz:size>
+        <viz:position x="1070.2113" y="-955.3804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="norad systems">
+        <viz:size value="9.942369"></viz:size>
+        <viz:position x="-649.63495" y="-511.68225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="people mover systems in mexico">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="585.4101" y="-1121.6823"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="bio-regenerative life support systems">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="735.2708" y="817.24304"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="people mover systems in switzerland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="756.1689" y="-1272.3247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="general electric systems">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-771.73425" y="-325.49686"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="package managem ent systems">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1265.9645" y="-250.42943"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="people mover systems in singapore">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1246.6528" y="-831.73"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="people mover systems in malaysia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="464.97903" y="-935.7249"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="people mover systems in australia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1258.392" y="-241.39757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="turkish navy weapon systems">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="588.4468" y="647.603"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="people mover systems in taiwan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="772.5227" y="-385.77805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="25.0"></edge>
+      <edge id="1" source="2" target="3" weight="22.0"></edge>
+      <edge id="2" source="4" target="5" weight="19.0"></edge>
+      <edge id="3" source="6" target="7" weight="18.0"></edge>
+      <edge id="4" source="8" target="5" weight="17.0"></edge>
+      <edge id="5" source="9" target="10" weight="15.0"></edge>
+      <edge id="6" source="11" target="5" weight="15.0"></edge>
+      <edge id="7" source="6" target="12" weight="14.0"></edge>
+      <edge id="8" source="12" target="13" weight="13.0"></edge>
+      <edge id="9" source="14" target="15" weight="11.0"></edge>
+      <edge id="10" source="7" target="16" weight="10.0"></edge>
+      <edge id="11" source="5" target="17" weight="10.0"></edge>
+      <edge id="12" source="18" target="8" weight="10.0"></edge>
+      <edge id="13" source="19" target="5" weight="8.0"></edge>
+      <edge id="14" source="20" target="7" weight="8.0"></edge>
+      <edge id="15" source="21" target="22" weight="8.0"></edge>
+      <edge id="16" source="23" target="12" weight="8.0"></edge>
+      <edge id="17" source="18" target="11" weight="7.0"></edge>
+      <edge id="18" source="24" target="25" weight="7.0"></edge>
+      <edge id="19" source="26" target="27" weight="7.0"></edge>
+      <edge id="20" source="9" target="28" weight="7.0"></edge>
+      <edge id="21" source="29" target="30" weight="6.0"></edge>
+      <edge id="22" source="31" target="17" weight="6.0"></edge>
+      <edge id="23" source="19" target="18" weight="5.0"></edge>
+      <edge id="24" source="9" target="32" weight="5.0"></edge>
+      <edge id="25" source="33" target="34" weight="5.0"></edge>
+      <edge id="26" source="35" target="31" weight="5.0"></edge>
+      <edge id="27" source="36" target="37" weight="4.0"></edge>
+      <edge id="28" source="4" target="31" weight="4.0"></edge>
+      <edge id="29" source="7" target="38" weight="4.0"></edge>
+      <edge id="30" source="10" target="27" weight="4.0"></edge>
+      <edge id="31" source="39" target="40" weight="4.0"></edge>
+      <edge id="32" source="9" target="41" weight="4.0"></edge>
+      <edge id="33" source="42" target="43" weight="4.0"></edge>
+      <edge id="34" source="18" target="44" weight="4.0"></edge>
+      <edge id="35" source="45" target="27" weight="4.0"></edge>
+      <edge id="36" source="21" target="46" weight="4.0"></edge>
+      <edge id="37" source="47" target="48" weight="4.0"></edge>
+      <edge id="38" source="49" target="50" weight="4.0"></edge>
+      <edge id="39" source="51" target="52" weight="3.0"></edge>
+      <edge id="40" source="31" target="53" weight="3.0"></edge>
+      <edge id="41" source="0" target="54" weight="3.0"></edge>
+      <edge id="42" source="55" target="48" weight="3.0"></edge>
+      <edge id="43" source="56" target="57" weight="3.0"></edge>
+      <edge id="44" source="58" target="12" weight="3.0"></edge>
+      <edge id="45" source="34" target="59" weight="3.0"></edge>
+      <edge id="46" source="8" target="31" weight="3.0"></edge>
+      <edge id="47" source="60" target="61" weight="3.0"></edge>
+      <edge id="48" source="19" target="31" weight="3.0"></edge>
+      <edge id="49" source="62" target="63" weight="3.0"></edge>
+      <edge id="50" source="53" target="5" weight="3.0"></edge>
+      <edge id="51" source="12" target="64" weight="3.0"></edge>
+      <edge id="52" source="56" target="65" weight="3.0"></edge>
+      <edge id="53" source="44" target="5" weight="3.0"></edge>
+      <edge id="54" source="66" target="67" weight="3.0"></edge>
+      <edge id="55" source="68" target="61" weight="3.0"></edge>
+      <edge id="56" source="69" target="70" weight="3.0"></edge>
+      <edge id="57" source="1" target="71" weight="3.0"></edge>
+      <edge id="58" source="72" target="73" weight="2.0"></edge>
+      <edge id="59" source="74" target="75" weight="2.0"></edge>
+      <edge id="60" source="43" target="11" weight="2.0"></edge>
+      <edge id="61" source="76" target="12" weight="2.0"></edge>
+      <edge id="62" source="62" target="72" weight="2.0"></edge>
+      <edge id="63" source="75" target="44" weight="2.0"></edge>
+      <edge id="64" source="77" target="78" weight="2.0"></edge>
+      <edge id="65" source="79" target="80" weight="2.0"></edge>
+      <edge id="66" source="1" target="81" weight="2.0"></edge>
+      <edge id="67" source="21" target="51" weight="2.0"></edge>
+      <edge id="68" source="29" target="82" weight="2.0"></edge>
+      <edge id="69" source="83" target="1" weight="2.0"></edge>
+      <edge id="70" source="84" target="1" weight="2.0"></edge>
+      <edge id="71" source="85" target="86" weight="2.0"></edge>
+      <edge id="72" source="44" target="31" weight="2.0"></edge>
+      <edge id="73" source="0" target="87" weight="2.0"></edge>
+      <edge id="74" source="18" target="17" weight="2.0"></edge>
+      <edge id="75" source="88" target="89" weight="2.0"></edge>
+      <edge id="76" source="90" target="85" weight="2.0"></edge>
+      <edge id="77" source="91" target="13" weight="2.0"></edge>
+      <edge id="78" source="9" target="92" weight="2.0"></edge>
+      <edge id="79" source="18" target="35"></edge>
+      <edge id="80" source="93" target="94"></edge>
+      <edge id="81" source="8" target="75"></edge>
+      <edge id="82" source="85" target="95"></edge>
+      <edge id="83" source="96" target="48"></edge>
+      <edge id="84" source="97" target="98"></edge>
+      <edge id="85" source="99" target="100"></edge>
+      <edge id="86" source="101" target="91"></edge>
+      <edge id="87" source="90" target="83"></edge>
+      <edge id="88" source="79" target="102"></edge>
+      <edge id="89" source="85" target="1"></edge>
+      <edge id="90" source="103" target="1"></edge>
+      <edge id="91" source="104" target="105"></edge>
+      <edge id="92" source="104" target="106"></edge>
+      <edge id="93" source="107" target="8"></edge>
+      <edge id="94" source="73" target="108"></edge>
+      <edge id="95" source="109" target="75"></edge>
+      <edge id="96" source="91" target="110"></edge>
+      <edge id="97" source="111" target="112"></edge>
+      <edge id="98" source="1" target="113"></edge>
+      <edge id="99" source="73" target="27"></edge>
+      <edge id="100" source="114" target="18"></edge>
+      <edge id="101" source="99" target="115"></edge>
+      <edge id="102" source="116" target="61"></edge>
+      <edge id="103" source="117" target="67"></edge>
+      <edge id="104" source="99" target="118"></edge>
+      <edge id="105" source="1" target="119"></edge>
+      <edge id="106" source="35" target="5"></edge>
+      <edge id="107" source="75" target="35"></edge>
+      <edge id="108" source="120" target="15"></edge>
+      <edge id="109" source="121" target="110"></edge>
+      <edge id="110" source="122" target="123"></edge>
+      <edge id="111" source="75" target="121"></edge>
+      <edge id="112" source="1" target="124"></edge>
+      <edge id="113" source="85" target="125"></edge>
+      <edge id="114" source="126" target="69"></edge>
+      <edge id="115" source="69" target="13"></edge>
+      <edge id="116" source="91" target="23"></edge>
+      <edge id="117" source="127" target="15"></edge>
+      <edge id="118" source="128" target="9"></edge>
+      <edge id="119" source="129" target="130"></edge>
+      <edge id="120" source="84" target="87"></edge>
+      <edge id="121" source="76" target="121"></edge>
+      <edge id="122" source="131" target="24"></edge>
+      <edge id="123" source="132" target="1"></edge>
+      <edge id="124" source="1" target="133"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="british army personnel">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-266.12875" y="-121.40359"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="united states army personnel">
+        <viz:size value="73.05722"></viz:size>
+        <viz:position x="253.101" y="117.15212"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="prussian army personnel">
+        <viz:size value="67.73842"></viz:size>
+        <viz:position x="602.335" y="283.93594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="indian army personnel">
+        <viz:size value="61.634876"></viz:size>
+        <viz:position x="-124.27339" y="258.00577"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="norwegian army personnel">
+        <viz:size value="61.634876"></viz:size>
+        <viz:position x="616.8505" y="-159.95473"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="french army personnel">
+        <viz:size value="53.61308"></viz:size>
+        <viz:position x="-53.70044" y="-645.31805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="ghana army personnel">
+        <viz:size value="29.722069"></viz:size>
+        <viz:position x="-656.82214" y="-50.60345"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="australian army personnel">
+        <viz:size value="18.822887"></viz:size>
+        <viz:position x="-533.5867" y="364.06015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="south african army personnel">
+        <viz:size value="15.509536"></viz:size>
+        <viz:position x="-451.41537" y="-476.9733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="yugoslav people s army personnel">
+        <viz:size value="15.509536"></viz:size>
+        <viz:position x="-163.26015" y="644.91974"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="army of the republic of macedonia personnel">
+        <viz:size value="11.06267"></viz:size>
+        <viz:position x="266.65164" y="578.68445"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="finnish army personnel">
+        <viz:size value="9.05722"></viz:size>
+        <viz:position x="397.54382" y="-530.0655"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="portuguese army personnel">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="112.70505" y="-262.43967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="144.0"></edge>
+      <edge id="1" source="2" target="3" weight="6.0"></edge>
+      <edge id="2" source="4" target="0" weight="3.0"></edge>
+      <edge id="3" source="5" target="0" weight="2.0"></edge>
+      <edge id="4" source="6" target="7" weight="2.0"></edge>
+      <edge id="5" source="8" target="0"></edge>
+      <edge id="6" source="9" target="1"></edge>
+    </edges>
+  </graph>
+</gexf>

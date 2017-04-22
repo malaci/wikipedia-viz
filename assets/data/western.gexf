@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="western australia">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="215.27902" y="-839.51074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="western films">
+        <viz:size value="90.42922"></viz:size>
+        <viz:position x="-567.3859" y="1033.2819"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="western university">
+        <viz:size value="80.20091"></viz:size>
+        <viz:position x="-639.64374" y="-943.5393"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="western united states">
+        <viz:size value="74.72146"></viz:size>
+        <viz:position x="-937.2909" y="-34.633327"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="great western railway">
+        <viz:size value="74.35616"></viz:size>
+        <viz:position x="-695.51196" y="619.7695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="western bulldogs">
+        <viz:size value="70.11872"></viz:size>
+        <viz:position x="424.8724" y="551.3692"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="western conference">
+        <viz:size value="68.14612"></viz:size>
+        <viz:position x="-1305.0178" y="-481.16098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="western new guinea">
+        <viz:size value="67.70776"></viz:size>
+        <viz:position x="-925.87427" y="206.26036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="london and north western railway">
+        <viz:size value="67.561646"></viz:size>
+        <viz:position x="-85.398605" y="-197.46266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="western province">
+        <viz:size value="66.977165"></viz:size>
+        <viz:position x="523.39594" y="-195.92137"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="western cape">
+        <viz:size value="66.24658"></viz:size>
+        <viz:position x="-267.5396" y="-63.941364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="western district">
+        <viz:size value="66.02739"></viz:size>
+        <viz:position x="167.04022" y="915.0679"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="western michigan">
+        <viz:size value="65.2968"></viz:size>
+        <viz:position x="-475.32242" y="-497.6972"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="south western railway">
+        <viz:size value="64.12785"></viz:size>
+        <viz:position x="433.54486" y="280.08746"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="western asia">
+        <viz:size value="62.666664"></viz:size>
+        <viz:position x="997.0593" y="-629.5456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="members of the western australian legislative assembly">
+        <viz:size value="62.22831"></viz:size>
+        <viz:position x="413.02832" y="-886.2692"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="western province, sri lanka">
+        <viz:size value="61.278538"></viz:size>
+        <viz:position x="-700.2606" y="144.56929"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="western state">
+        <viz:size value="60.621002"></viz:size>
+        <viz:position x="768.4092" y="-545.8447"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="western ghats">
+        <viz:size value="60.03653"></viz:size>
+        <viz:position x="-479.05154" y="-182.24773"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="western novels">
+        <viz:size value="58.794518"></viz:size>
+        <viz:position x="350.21793" y="1098.4141"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="western sahara">
+        <viz:size value="58.72146"></viz:size>
+        <viz:position x="393.04807" y="832.287"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="western hockey league">
+        <viz:size value="58.50228"></viz:size>
+        <viz:position x="-197.60344" y="153.30267"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="western front">
+        <viz:size value="58.283104"></viz:size>
+        <viz:position x="229.73921" y="136.50517"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="western region">
+        <viz:size value="57.69863"></viz:size>
+        <viz:position x="25.180473" y="4.2591786"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="members of the western australian legislative council">
+        <viz:size value="57.479446"></viz:size>
+        <viz:position x="-18.340166" y="-1175.1412"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="western film actors">
+        <viz:size value="57.260273"></viz:size>
+        <viz:position x="1380.3452" y="93.064476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="schools accredited by the western association of schools and colleges">
+        <viz:size value="57.18721"></viz:size>
+        <viz:position x="13.580399" y="258.28098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="western canada">
+        <viz:size value="57.041096"></viz:size>
+        <viz:position x="-518.0109" y="786.5686"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="western writers">
+        <viz:size value="56.164383"></viz:size>
+        <viz:position x="-257.9062" y="-1346.734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="western football league">
+        <viz:size value="56.164383"></viz:size>
+        <viz:position x="460.13232" y="34.248135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="western suburbs magpies">
+        <viz:size value="55.726025"></viz:size>
+        <viz:position x="-1070.6033" y="-433.45316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="western television series">
+        <viz:size value="54.484016"></viz:size>
+        <viz:position x="-232.28128" y="650.21045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="western region, uganda">
+        <viz:size value="53.388126"></viz:size>
+        <viz:position x="-299.5055" y="-338.9267"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="western washington">
+        <viz:size value="52.730595"></viz:size>
+        <viz:position x="223.00743" y="397.81793"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="western carpathians">
+        <viz:size value="51.6347"></viz:size>
+        <viz:position x="-1394.0035" y="-32.32881"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="western culture">
+        <viz:size value="51.488583"></viz:size>
+        <viz:position x="335.31848" y="-357.23383"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="male spaghetti western actors">
+        <viz:size value="49.88128"></viz:size>
+        <viz:position x="1351.9525" y="-356.47577"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="western australian local government politicians">
+        <viz:size value="49.36986"></viz:size>
+        <viz:position x="18.81105" y="-952.53107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="western illinois leathernecks">
+        <viz:size value="48.78539"></viz:size>
+        <viz:position x="-1150.8792" y="269.0739"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="delaware, lackawanna and western railroad">
+        <viz:size value="48.34703"></viz:size>
+        <viz:position x="409.74442" y="1330.2245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="western force">
+        <viz:size value="48.27397"></viz:size>
+        <viz:position x="-27.014254" y="-706.86053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="western film actresses">
+        <viz:size value="46.958904"></viz:size>
+        <viz:position x="0.7751167" y="505.03113"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="western oceanic languages">
+        <viz:size value="45.643833"></viz:size>
+        <viz:position x="-865.84784" y="433.02957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="western law school alumni">
+        <viz:size value="45.643833"></viz:size>
+        <viz:position x="-987.57837" y="-658.7748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="western carolina catamounts">
+        <viz:size value="45.351597"></viz:size>
+        <viz:position x="-1081.6697" y="876.6779"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="western mexico">
+        <viz:size value="45.20548"></viz:size>
+        <viz:position x="1282.1399" y="532.88074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="western comics">
+        <viz:size value="44.9863"></viz:size>
+        <viz:position x="-1222.5237" y="686.224"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="western characters">
+        <viz:size value="44.694065"></viz:size>
+        <viz:position x="-1083.9354" y="502.5665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="denver and rio grande western railroad">
+        <viz:size value="44.109585"></viz:size>
+        <viz:position x="-467.743" y="74.5875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="western north american coastal fauna">
+        <viz:size value="42.356163"></viz:size>
+        <viz:position x="959.75665" y="745.5507"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="western port">
+        <viz:size value="41.47945"></viz:size>
+        <viz:position x="113.802734" y="-310.37775"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="western art">
+        <viz:size value="41.041096"></viz:size>
+        <viz:position x="652.2756" y="-956.4917"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="western television actors">
+        <viz:size value="40.821915"></viz:size>
+        <viz:position x="1388.3695" y="-125.90671"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="western north american migratory birds">
+        <viz:size value="40.38356"></viz:size>
+        <viz:position x="1128.1759" y="275.8625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="case western spartans football">
+        <viz:size value="40.01826"></viz:size>
+        <viz:position x="-826.18976" y="-820.07916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="norfolk and western railway">
+        <viz:size value="39.506847"></viz:size>
+        <viz:position x="822.37335" y="1127.846"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="western australian ministries">
+        <viz:size value="39.28767"></viz:size>
+        <viz:position x="652.3933" y="-1238.5117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="western film directors">
+        <viz:size value="38.703194"></viz:size>
+        <viz:position x="1360.0463" y="317.1754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="women s western open">
+        <viz:size value="38.557076"></viz:size>
+        <viz:position x="-116.55339" y="1188.7218"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="great western main line">
+        <viz:size value="38.11872"></viz:size>
+        <viz:position x="764.5331" y="887.3126"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="western jets players">
+        <viz:size value="37.24201"></viz:size>
+        <viz:position x="625.8208" y="428.09262"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="western australian institute of sport">
+        <viz:size value="36.584473"></viz:size>
+        <viz:position x="-35.49472" y="-1406.2281"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="western reds">
+        <viz:size value="36.365295"></viz:size>
+        <viz:position x="-1137.6057" y="-208.59212"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="western pacific railroad">
+        <viz:size value="34.757988"></viz:size>
+        <viz:position x="922.2137" y="109.85242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="spaghetti western actresses">
+        <viz:size value="34.173515"></viz:size>
+        <viz:position x="212.83928" y="655.348"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="western fury">
+        <viz:size value="33.88128"></viz:size>
+        <viz:position x="-262.6622" y="-616.13727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="western australian sports star of the year winners">
+        <viz:size value="32.858444"></viz:size>
+        <viz:position x="455.35898" y="-1114.6904"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="western south american coastal fauna">
+        <viz:size value="32.566208"></viz:size>
+        <viz:position x="1016.85876" y="972.8131"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="speakers of the western australian legislative assembly">
+        <viz:size value="31.835615"></viz:size>
+        <viz:position x="219.29442" y="-1108.7535"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="western seminary">
+        <viz:size value="31.031961"></viz:size>
+        <viz:position x="-467.97226" y="-1075.0115"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="members of the western provincial council">
+        <viz:size value="30.593605"></viz:size>
+        <viz:position x="-701.01855" y="-86.40321"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="western central american coastal fauna">
+        <viz:size value="29.716894"></viz:size>
+        <viz:position x="1187.1708" y="755.52356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="western philosophy">
+        <viz:size value="28.767122"></viz:size>
+        <viz:position x="771.277" y="-302.29004"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="animated western animation">
+        <viz:size value="28.767122"></viz:size>
+        <viz:position x="-89.28334" y="959.46594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="western asian countries">
+        <viz:size value="28.255709"></viz:size>
+        <viz:position x="1015.06464" y="-404.46332"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="flora of western south america">
+        <viz:size value="28.255709"></viz:size>
+        <viz:position x="1148.7179" y="26.51266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="british western pacific territories">
+        <viz:size value="28.255709"></viz:size>
+        <viz:position x="1046.8555" y="507.82227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="western astrology">
+        <viz:size value="27.744291"></viz:size>
+        <viz:position x="938.00836" y="-139.49406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="presidents of the western australian legislative council">
+        <viz:size value="26.575342"></viz:size>
+        <viz:position x="-210.6129" y="-879.4839"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="western airlines">
+        <viz:size value="26.575342"></viz:size>
+        <viz:position x="369.42746" y="-618.13196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="grand trunk western railroad">
+        <viz:size value="26.575342"></viz:size>
+        <viz:position x="1179.7343" y="-769.7279"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="western oregon wolves">
+        <viz:size value="26.575342"></viz:size>
+        <viz:position x="-1066.1438" y="-905.9008"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="predecessors of the chicago and north western transportation company">
+        <viz:size value="25.260275"></viz:size>
+        <viz:position x="-449.90918" y="551.4759"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="western collegiate hockey association">
+        <viz:size value="24.52968"></viz:size>
+        <viz:position x="-1217.7688" y="-698.1823"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="central and western district, hong kong">
+        <viz:size value="23.726027"></viz:size>
+        <viz:position x="-13.191513" y="744.44556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="chairmen of committees of the western australian legislative assembly">
+        <viz:size value="23.726027"></viz:size>
+        <viz:position x="186.31204" y="-1351.7928"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="western australian literature">
+        <viz:size value="22.849314"></viz:size>
+        <viz:position x="-418.94803" y="-803.17084"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="chief judicial commissioners for the western pacific">
+        <viz:size value="22.849314"></viz:size>
+        <viz:position x="798.9291" y="581.99884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="western orthodoxy">
+        <viz:size value="21.972603"></viz:size>
+        <viz:position x="-885.75507" y="-274.96368"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="western tatras">
+        <viz:size value="21.972603"></viz:size>
+        <viz:position x="-1369.2733" y="-259.50143"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="western radio series">
+        <viz:size value="21.972603"></viz:size>
+        <viz:position x="-1328.1934" y="452.2006"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="companies operating former chicago and north western transportation company lines">
+        <viz:size value="21.972603"></viz:size>
+        <viz:position x="-639.67035" y="374.12424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="western australian courts and tribunals">
+        <viz:size value="20.94977"></viz:size>
+        <viz:position x="840.31573" y="-1097.6898"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="flora of the western indian ocean">
+        <viz:size value="20.94977"></viz:size>
+        <viz:position x="828.62384" y="-802.0886"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="case western spartans baseball players">
+        <viz:size value="20.94977"></viz:size>
+        <viz:position x="-491.46765" y="-1313.5393"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="western nebraska cougars men s basketball players">
+        <viz:size value="19.853882"></viz:size>
+        <viz:position x="-929.4538" y="699.27374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="western australian government railways">
+        <viz:size value="19.853882"></viz:size>
+        <viz:position x="-82.865585" y="-460.0872"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="iowa western community college">
+        <viz:size value="17.223743"></viz:size>
+        <viz:position x="670.66254" y="182.99489"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="trees of western south america">
+        <viz:size value="17.223743"></viz:size>
+        <viz:position x="1021.20026" y="-948.1559"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="western australian grade cricket clubs">
+        <viz:size value="15.543378"></viz:size>
+        <viz:position x="412.74588" y="-1343.1584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="chairmen of committees of the western australian legislative council">
+        <viz:size value="15.543378"></viz:size>
+        <viz:position x="-247.18874" y="-1105.9235"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="1940s western film stubs">
+        <viz:size value="13.643835"></viz:size>
+        <viz:position x="-745.73865" y="1183.794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="iowa western reivers baseball players">
+        <viz:size value="13.643835"></viz:size>
+        <viz:position x="712.04095" y="-47.691315"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="western australian timelines">
+        <viz:size value="13.643835"></viz:size>
+        <viz:position x="591.00555" y="-707.4387"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="case western spartans men s basketball players">
+        <viz:size value="11.305936"></viz:size>
+        <viz:position x="-622.5743" y="-677.1119"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="prisoners who died in western australian detention">
+        <viz:size value="11.305936"></viz:size>
+        <viz:position x="553.25037" y="-445.05838"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="spin-offs of the chicago and north western transportation company">
+        <viz:size value="11.305936"></viz:size>
+        <viz:position x="-423.47495" y="297.23618"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="accidents and incidents involving first great western">
+        <viz:size value="11.305936"></viz:size>
+        <viz:position x="567.6062" y="1008.14215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="western kentucky hilltoppers and lady toppers">
+        <viz:size value="11.305936"></viz:size>
+        <viz:position x="-704.9258" y="-1201.1975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="case western spartans baseball coaches">
+        <viz:size value="8.237443"></viz:size>
+        <viz:position x="-892.703" y="-1068.1025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="western christianity">
+        <viz:size value="8.237443"></viz:size>
+        <viz:position x="256.84402" y="-111.10712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="western orthodox christians">
+        <viz:size value="8.237443"></viz:size>
+        <viz:position x="-652.8577" y="-341.04584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="spin-offs of the denver rio grande western railroad">
+        <viz:size value="8.237443"></viz:size>
+        <viz:position x="-218.41838" y="400.6827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="case western spartans athletic directors">
+        <viz:size value="8.237443"></viz:size>
+        <viz:position x="-800.85706" y="-522.49945"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="escapees from western australian detention">
+        <viz:size value="8.237443"></viz:size>
+        <viz:position x="152.444" y="-560.69244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="chicago and western indiana railroad">
+        <viz:size value="8.237443"></viz:size>
+        <viz:position x="1251.7887" y="-550.87946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="2007 western southern financial group masters">
+        <viz:size value="8.237443"></viz:size>
+        <viz:position x="-52.40208" y="1405.2579"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="crops originating from western south america">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1156.7275" y="-222.19518"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="1960s western film stubs">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-306.16568" y="1360.5754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="companies operating former chicago and north western transportation company lines --monterey junction-benld and ex-l m-- ">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="621.194" y="1245.5643"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="western film series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-529.7836" y="1290.1016"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="1999 in western sahaa">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="597.4592" y="718.9698"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="companies operating former chicago and north western transportation company lines --orin-fisher junction, ex-m stl hanley falls-madison-- ">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1163.8015" y="31.14992"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="western canadian championship">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-310.0129" y="871.0131"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="companies operating former chicago and north western transportation company lines --including cgw and m stl-- ">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="872.28326" y="336.96823"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="companies operating former chicago and north western transportation company lines --dm e-- ">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="187.3367" y="1380.4033"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="1950s western film stubs">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-754.5136" y="872.1246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="1930s western film stubs">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-344.2781" y="1106.1893"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="cowboy western">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="120.88776" y="1153.1866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="iowa western reivers baseball coaches">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1382.8387" y="207.09453"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="1910s western film stubs">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-920.3321" y="1037.6536"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="451.0"></edge>
+      <edge id="1" source="2" target="0" weight="174.0"></edge>
+      <edge id="2" source="3" target="1" weight="91.0"></edge>
+      <edge id="3" source="1" target="4" weight="62.0"></edge>
+      <edge id="4" source="0" target="5" weight="42.0"></edge>
+      <edge id="5" source="0" target="6" weight="30.0"></edge>
+      <edge id="6" source="7" target="8" weight="30.0"></edge>
+      <edge id="7" source="9" target="10" weight="28.0"></edge>
+      <edge id="8" source="0" target="11" weight="28.0"></edge>
+      <edge id="9" source="0" target="12" weight="27.0"></edge>
+      <edge id="10" source="13" target="0" weight="25.0"></edge>
+      <edge id="11" source="9" target="14" weight="25.0"></edge>
+      <edge id="12" source="15" target="16" weight="22.0"></edge>
+      <edge id="13" source="15" target="17" weight="21.0"></edge>
+      <edge id="14" source="18" target="0" weight="16.0"></edge>
+      <edge id="15" source="0" target="19" weight="15.0"></edge>
+      <edge id="16" source="20" target="21" weight="15.0"></edge>
+      <edge id="17" source="4" target="22" weight="15.0"></edge>
+      <edge id="18" source="0" target="23" weight="13.0"></edge>
+      <edge id="19" source="24" target="25" weight="13.0"></edge>
+      <edge id="20" source="0" target="22" weight="13.0"></edge>
+      <edge id="21" source="0" target="26" weight="12.0"></edge>
+      <edge id="22" source="0" target="27" weight="12.0"></edge>
+      <edge id="23" source="0" target="28" weight="11.0"></edge>
+      <edge id="24" source="29" target="30" weight="10.0"></edge>
+      <edge id="25" source="31" target="32" weight="9.0"></edge>
+      <edge id="26" source="33" target="34" weight="8.0"></edge>
+      <edge id="27" source="0" target="35" weight="8.0"></edge>
+      <edge id="28" source="36" target="37" weight="7.0"></edge>
+      <edge id="29" source="38" target="39" weight="7.0"></edge>
+      <edge id="30" source="40" target="41" weight="7.0"></edge>
+      <edge id="31" source="0" target="42" weight="6.0"></edge>
+      <edge id="32" source="43" target="0" weight="6.0"></edge>
+      <edge id="33" source="44" target="38" weight="6.0"></edge>
+      <edge id="34" source="45" target="9" weight="6.0"></edge>
+      <edge id="35" source="46" target="4" weight="5.0"></edge>
+      <edge id="36" source="0" target="47" weight="5.0"></edge>
+      <edge id="37" source="48" target="49" weight="5.0"></edge>
+      <edge id="38" source="15" target="50" weight="5.0"></edge>
+      <edge id="39" source="51" target="52" weight="5.0"></edge>
+      <edge id="40" source="13" target="4" weight="4.0"></edge>
+      <edge id="41" source="53" target="54" weight="4.0"></edge>
+      <edge id="42" source="0" target="55" weight="4.0"></edge>
+      <edge id="43" source="56" target="0" weight="4.0"></edge>
+      <edge id="44" source="3" target="22" weight="3.0"></edge>
+      <edge id="45" source="0" target="57" weight="3.0"></edge>
+      <edge id="46" source="58" target="59" weight="3.0"></edge>
+      <edge id="47" source="60" target="61" weight="3.0"></edge>
+      <edge id="48" source="13" target="3" weight="3.0"></edge>
+      <edge id="49" source="62" target="63" weight="3.0"></edge>
+      <edge id="50" source="0" target="46" weight="3.0"></edge>
+      <edge id="51" source="48" target="64" weight="2.0"></edge>
+      <edge id="52" source="15" target="42" weight="2.0"></edge>
+      <edge id="53" source="17" target="65" weight="2.0"></edge>
+      <edge id="54" source="66" target="17" weight="2.0"></edge>
+      <edge id="55" source="67" target="68" weight="2.0"></edge>
+      <edge id="56" source="69" target="48" weight="2.0"></edge>
+      <edge id="57" source="70" target="15" weight="2.0"></edge>
+      <edge id="58" source="15" target="71" weight="2.0"></edge>
+      <edge id="59" source="28" target="4" weight="2.0"></edge>
+      <edge id="60" source="72" target="73" weight="2.0"></edge>
+      <edge id="61" source="74" target="0" weight="2.0"></edge>
+      <edge id="62" source="75" target="76"></edge>
+      <edge id="63" source="77" target="78"></edge>
+      <edge id="64" source="79" target="80"></edge>
+      <edge id="65" source="81" target="82"></edge>
+      <edge id="66" source="83" target="5"></edge>
+      <edge id="67" source="28" target="3"></edge>
+      <edge id="68" source="48" target="84"></edge>
+      <edge id="69" source="85" target="86"></edge>
+      <edge id="70" source="87" target="88"></edge>
+      <edge id="71" source="81" target="89"></edge>
+      <edge id="72" source="8" target="90"></edge>
+      <edge id="73" source="91" target="92"></edge>
+      <edge id="74" source="93" target="94"></edge>
+      <edge id="75" source="95" target="96"></edge>
+      <edge id="76" source="97" target="98"></edge>
+      <edge id="77" source="93" target="0"></edge>
+      <edge id="78" source="99" target="100"></edge>
+      <edge id="79" source="101" target="102"></edge>
+      <edge id="80" source="65" target="71"></edge>
+      <edge id="81" source="103" target="104"></edge>
+      <edge id="82" source="105" target="48"></edge>
+      <edge id="83" source="15" target="46"></edge>
+      <edge id="84" source="15" target="106"></edge>
+      <edge id="85" source="107" target="108"></edge>
+      <edge id="86" source="82" target="109"></edge>
+      <edge id="87" source="25" target="93"></edge>
+      <edge id="88" source="110" target="111"></edge>
+      <edge id="89" source="112" target="113"></edge>
+      <edge id="90" source="114" target="115"></edge>
+      <edge id="91" source="48" target="116"></edge>
+      <edge id="92" source="117" target="15"></edge>
+      <edge id="93" source="15" target="22"></edge>
+    </edges>
+  </graph>
+</gexf>

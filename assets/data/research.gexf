@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="research institutes">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="223.3766" y="-173.87465"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="medical research">
+        <viz:size value="78.16273"></viz:size>
+        <viz:position x="152.28838" y="568.5835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="research in the united states">
+        <viz:size value="74.63516"></viz:size>
+        <viz:position x="704.6744" y="904.4885"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="research and development">
+        <viz:size value="70.3517"></viz:size>
+        <viz:position x="1188.4823" y="152.92088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="research companies">
+        <viz:size value="66.82414"></viz:size>
+        <viz:position x="-953.51184" y="-1095.8325"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="research organizations">
+        <viz:size value="65.22835"></viz:size>
+        <viz:position x="1166.4708" y="-280.8457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="research in india">
+        <viz:size value="63.80052"></viz:size>
+        <viz:position x="979.5912" y="-63.85551"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="research vessels">
+        <viz:size value="62.96063"></viz:size>
+        <viz:position x="-1357.9304" y="424.0387"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="agricultural research">
+        <viz:size value="61.028866"></viz:size>
+        <viz:position x="539.59625" y="-808.5918"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="research projects">
+        <viz:size value="59.265087"></viz:size>
+        <viz:position x="395.9373" y="-1375.7675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="operations research">
+        <viz:size value="58.677162"></viz:size>
+        <viz:position x="-984.4215" y="-259.16577"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="space research">
+        <viz:size value="58.425194"></viz:size>
+        <viz:position x="756.881" y="-702.7651"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="human subject research">
+        <viz:size value="57.921257"></viz:size>
+        <viz:position x="437.88104" y="931.2545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="market research">
+        <viz:size value="57.66929"></viz:size>
+        <viz:position x="-601.3262" y="1309.2872"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="canada research chairs">
+        <viz:size value="56.493435"></viz:size>
+        <viz:position x="-985.8735" y="160.89107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="clinical research">
+        <viz:size value="55.9895"></viz:size>
+        <viz:position x="193.66533" y="970.6811"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="research in the united kingdom">
+        <viz:size value="55.40157"></viz:size>
+        <viz:position x="-511.7688" y="148.77841"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="cancer research">
+        <viz:size value="54.981625"></viz:size>
+        <viz:position x="-220.92805" y="850.91394"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="trial and research firearms">
+        <viz:size value="54.729656"></viz:size>
+        <viz:position x="-753.75085" y="-670.425"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="legal research">
+        <viz:size value="54.309708"></viz:size>
+        <viz:position x="461.0293" y="-148.4804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="research libraries">
+        <viz:size value="53.721783"></viz:size>
+        <viz:position x="264.83942" y="1391.0648"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="research in australia">
+        <viz:size value="52.629917"></viz:size>
+        <viz:position x="-219.03165" y="410.72855"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="research in the soviet union">
+        <viz:size value="50.614174"></viz:size>
+        <viz:position x="448.60663" y="280.73648"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="linguistic research">
+        <viz:size value="50.53018"></viz:size>
+        <viz:position x="330.55258" y="66.52133"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="research stations">
+        <viz:size value="49.858265"></viz:size>
+        <viz:position x="-346.67322" y="-904.30023"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="environmental research">
+        <viz:size value="49.858265"></viz:size>
+        <viz:position x="1250.2731" y="-694.414"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="scripps research institute">
+        <viz:size value="49.606297"></viz:size>
+        <viz:position x="373.85812" y="512.28424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="french national centre for scientific research">
+        <viz:size value="49.606297"></viz:size>
+        <viz:position x="566.7898" y="59.598305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="arctic research">
+        <viz:size value="49.01837"></viz:size>
+        <viz:position x="-279.8493" y="-251.12259"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="nuclear research reactors">
+        <viz:size value="48.682415"></viz:size>
+        <viz:position x="109.849174" y="20.707588"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="research in china">
+        <viz:size value="46.918633"></viz:size>
+        <viz:position x="-492.09573" y="-689.3217"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="research methods">
+        <viz:size value="46.750656"></viz:size>
+        <viz:position x="-320.81085" y="1076.1545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="educational research">
+        <viz:size value="46.750656"></viz:size>
+        <viz:position x="-766.2719" y="996.4501"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="qualitative research">
+        <viz:size value="44.566925"></viz:size>
+        <viz:position x="-395.20996" y="1333.3486"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="genetics or genomics research institutions">
+        <viz:size value="44.39895"></viz:size>
+        <viz:position x="584.6121" y="1101.5349"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="tata institute of fundamental research">
+        <viz:size value="44.39895"></viz:size>
+        <viz:position x="1216.6423" y="-63.307938"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="council of scientific and industrial research">
+        <viz:size value="44.39895"></viz:size>
+        <viz:position x="984.4639" y="220.9796"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="research firms">
+        <viz:size value="44.14698"></viz:size>
+        <viz:position x="-717.54364" y="-1265.0505"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="military research facilities">
+        <viz:size value="42.46719"></viz:size>
+        <viz:position x="626.7523" y="-342.38165"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="neuroscience research centers">
+        <viz:size value="42.46719"></viz:size>
+        <viz:position x="768.43097" y="642.4751"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="government research">
+        <viz:size value="42.21522"></viz:size>
+        <viz:position x="824.0165" y="-911.1647"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="stem cell research">
+        <viz:size value="41.963253"></viz:size>
+        <viz:position x="348.22736" y="1163.8724"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="health research">
+        <viz:size value="41.71128"></viz:size>
+        <viz:position x="-68.09995" y="1024.4279"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="social research">
+        <viz:size value="41.71128"></viz:size>
+        <viz:position x="-201.33783" y="1445.2783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="research in brazil">
+        <viz:size value="40.871387"></viz:size>
+        <viz:position x="619.5383" y="-1029.8358"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="biomedical research foundations">
+        <viz:size value="40.619423"></viz:size>
+        <viz:position x="1056.5883" y="993.08887"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="research ethics">
+        <viz:size value="40.619423"></viz:size>
+        <viz:position x="533.77637" y="721.478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="military research of the united states">
+        <viz:size value="40.031494"></viz:size>
+        <viz:position x="1421.3612" y="178.68999"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="research museums">
+        <viz:size value="38.687664"></viz:size>
+        <viz:position x="104.70826" y="1195.8491"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="scientific research foundations">
+        <viz:size value="38.351704"></viz:size>
+        <viz:position x="389.64743" y="-374.0965"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="research in africa">
+        <viz:size value="37.931755"></viz:size>
+        <viz:position x="1295.1289" y="614.3596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="national estuarine research reserves of the united states">
+        <viz:size value="36.839893"></viz:size>
+        <viz:position x="-933.2361" y="809.25946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="auxiliary research ship classes">
+        <viz:size value="36.839893"></viz:size>
+        <viz:position x="-1437.7498" y="-221.85533"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="research installations of the united states army">
+        <viz:size value="36.419945"></viz:size>
+        <viz:position x="917.1218" y="810.6468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="cetacean research and conservation">
+        <viz:size value="36.419945"></viz:size>
+        <viz:position x="1.8964547" y="-244.09497"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="psychedelic drug research">
+        <viz:size value="35.496063"></viz:size>
+        <viz:position x="1174.7261" y="799.8677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="research councils">
+        <viz:size value="35.07611"></viz:size>
+        <viz:position x="109.30746" y="-962.2156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="public policy research">
+        <viz:size value="35.07611"></viz:size>
+        <viz:position x="-1130.1562" y="-46.644455"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="research lasers">
+        <viz:size value="35.07611"></viz:size>
+        <viz:position x="-47.87995" y="-1436.138"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="oceanic and atmospheric research">
+        <viz:size value="34.572174"></viz:size>
+        <viz:position x="-621.96704" y="-474.71762"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="military research of the united kingdom">
+        <viz:size value="34.068237"></viz:size>
+        <viz:position x="-642.66" y="-50.22476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="research submarines">
+        <viz:size value="33.5643"></viz:size>
+        <viz:position x="-1264.1147" y="-696.8747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="psychiatric research">
+        <viz:size value="33.5643"></viz:size>
+        <viz:position x="606.5147" y="-1302.4542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="closed research facilities of the united states army">
+        <viz:size value="33.5643"></viz:size>
+        <viz:position x="-500.51608" y="-249.95161"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="fusion research">
+        <viz:size value="33.060364"></viz:size>
+        <viz:position x="-493.12607" y="-1345.499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="hiv aids research">
+        <viz:size value="33.060364"></viz:size>
+        <viz:position x="602.9643" y="478.765"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="smithsonian institution research programs">
+        <viz:size value="33.060364"></viz:size>
+        <viz:position x="495.63303" y="1352.0687"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="cannabis research">
+        <viz:size value="33.060364"></viz:size>
+        <viz:position x="-808.68896" y="598.8534"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="ames research center">
+        <viz:size value="32.47244"></viz:size>
+        <viz:position x="994.45435" y="-1056.5237"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="forestry research">
+        <viz:size value="31.884514"></viz:size>
+        <viz:position x="877.6212" y="418.1723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="hiv vaccine research">
+        <viz:size value="31.296587"></viz:size>
+        <viz:position x="1028.7754" y="596.62744"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="nursing research">
+        <viz:size value="31.296587"></viz:size>
+        <viz:position x="-73.92607" y="616.5931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="research management">
+        <viz:size value="30.62467"></viz:size>
+        <viz:position x="-439.21786" y="377.1245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="peenemunde army research center and airfield">
+        <viz:size value="30.62467"></viz:size>
+        <viz:position x="1154.545" y="400.28055"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="research in new zealand">
+        <viz:size value="30.62467"></viz:size>
+        <viz:position x="-657.4033" y="405.4459"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="national research council of canada">
+        <viz:size value="29.952755"></viz:size>
+        <viz:position x="-136.8267" y="-1015.6532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="scientific and technological research council of turkey">
+        <viz:size value="29.952755"></viz:size>
+        <viz:position x="813.2072" y="66.06495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="nrc research press academic journals">
+        <viz:size value="29.952755"></viz:size>
+        <viz:position x="-484.76877" y="-1102.2611"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="primate research centers">
+        <viz:size value="29.19685"></viz:size>
+        <viz:position x="869.35034" y="1095.3418"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="research on poverty">
+        <viz:size value="29.19685"></viz:size>
+        <viz:position x="-143.55269" y="1240.5629"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="active research ships">
+        <viz:size value="28.440945"></viz:size>
+        <viz:position x="-1027.9757" y="-685.8101"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="st jude children s research hospital">
+        <viz:size value="26.677164"></viz:size>
+        <viz:position x="726.1746" y="1263.4418"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="british research associations">
+        <viz:size value="26.677164"></viz:size>
+        <viz:position x="928.181" y="-282.03955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="stanford university independent research">
+        <viz:size value="26.677164"></viz:size>
+        <viz:position x="691.66235" y="265.34213"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="public interest research groups">
+        <viz:size value="26.677164"></viz:size>
+        <viz:position x="-1129.3074" y="-475.7497"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="osaka university research">
+        <viz:size value="26.677164"></viz:size>
+        <viz:position x="-270.82388" y="-1414.7213"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="langley research center">
+        <viz:size value="25.669289"></viz:size>
+        <viz:position x="1116.8923" y="-875.7678"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="robert d conrad-class oceanographic research ships">
+        <viz:size value="25.669289"></viz:size>
+        <viz:position x="-1132.0828" y="389.4769"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="humboldt research award recipients">
+        <viz:size value="24.661417"></viz:size>
+        <viz:position x="420.73978" y="-1122.0098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="oceanographic research ships of the united states navy">
+        <viz:size value="24.661417"></viz:size>
+        <viz:position x="-1393.6676" y="-12.032797"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="members of the european research consortium for informatics and mathematics">
+        <viz:size value="24.661417"></viz:size>
+        <viz:position x="-16.349495" y="-1211.9064"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="council of american overseas research centers">
+        <viz:size value="24.661417"></viz:size>
+        <viz:position x="45.460564" y="1437.1522"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="work research institute">
+        <viz:size value="23.485563"></viz:size>
+        <viz:position x="-369.80887" y="-36.626633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="glenn research center">
+        <viz:size value="22.225721"></viz:size>
+        <viz:position x="799.69354" y="-1180.5723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="national research universities in russia">
+        <viz:size value="22.225721"></viz:size>
+        <viz:position x="-264.84183" y="173.33977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="research in serbia">
+        <viz:size value="22.225721"></viz:size>
+        <viz:position x="1345.8622" y="-493.19586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="research in sri lanka">
+        <viz:size value="22.225721"></viz:size>
+        <viz:position x="221.38425" y="283.04105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="research installations of the united states air force">
+        <viz:size value="22.225721"></viz:size>
+        <viz:position x="1407.9746" y="-279.3609"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="wageningen university and research centre">
+        <viz:size value="20.7979"></viz:size>
+        <viz:position x="716.7938" y="-145.53725"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="research administrators">
+        <viz:size value="20.7979"></viz:size>
+        <viz:position x="1091.8939" y="-495.2037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="high school research">
+        <viz:size value="20.7979"></viz:size>
+        <viz:position x="-276.05145" y="-1190.5258"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="bbc research development">
+        <viz:size value="20.7979"></viz:size>
+        <viz:position x="-892.68805" y="379.22836"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="research ships of germany">
+        <viz:size value="20.7979"></viz:size>
+        <viz:position x="-1441.4937" y="202.9242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="university of maryland, college park research centers">
+        <viz:size value="20.7979"></viz:size>
+        <viz:position x="1442.0511" y="-51.78664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="research in qatar">
+        <viz:size value="19.202099"></viz:size>
+        <viz:position x="-809.5314" y="1204.8143"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="european research networks">
+        <viz:size value="19.202099"></viz:size>
+        <viz:position x="170.77031" y="-422.03098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="alzheimer s disease research">
+        <viz:size value="19.202099"></viz:size>
+        <viz:position x="-535.1572" y="609.4608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="national institute of pharmaceutical education and research">
+        <viz:size value="19.202099"></viz:size>
+        <viz:position x="985.8988" y="-679.9828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="norwegian defence research establishment">
+        <viz:size value="19.202099"></viz:size>
+        <viz:position x="570.26685" y="-564.19415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="renaissance and early modern research centres">
+        <viz:size value="19.202099"></viz:size>
+        <viz:position x="-873.4078" y="-47.550552"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="research at the university of montana">
+        <viz:size value="17.27034"></viz:size>
+        <viz:position x="291.5356" y="744.79376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="polar research institute of china">
+        <viz:size value="17.27034"></viz:size>
+        <viz:position x="-250.92146" y="-670.66626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="data collection in research">
+        <viz:size value="17.27034"></viz:size>
+        <viz:position x="-542.7673" y="1080.5477"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="bangladeshi research organisations">
+        <viz:size value="17.27034"></viz:size>
+        <viz:position x="173.70952" y="-729.4639"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="research by country">
+        <viz:size value="17.27034"></viz:size>
+        <viz:position x="822.21954" y="-471.15198"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="parasitology research">
+        <viz:size value="17.27034"></viz:size>
+        <viz:position x="34.307278" y="811.20593"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="global studies research">
+        <viz:size value="15.086613"></viz:size>
+        <viz:position x="21.44187" y="377.89645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="education and research in troms ">
+        <viz:size value="15.086613"></viz:size>
+        <viz:position x="-742.31946" y="-274.2821"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="noaa ex-u s navy stalwart-class oceanographic research ships">
+        <viz:size value="15.086613"></viz:size>
+        <viz:position x="-1293.0509" y="636.13196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="adoption research">
+        <viz:size value="12.39895"></viz:size>
+        <viz:position x="179.46527" y="-1422.0594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="thomas g thompson-class oceanographic research ships">
+        <viz:size value="12.39895"></viz:size>
+        <viz:position x="-1057.5214" y="602.56055"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="new york public interest research group, inc ">
+        <viz:size value="12.39895"></viz:size>
+        <viz:position x="-888.41595" y="-479.09763"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="rural research centres">
+        <viz:size value="12.39895"></viz:size>
+        <viz:position x="-41.727142" y="173.12102"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="research at cal poly pomona">
+        <viz:size value="12.39895"></viz:size>
+        <viz:position x="-70.8376" y="-795.43964"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="the research council of norway">
+        <viz:size value="12.39895"></viz:size>
+        <viz:position x="207.97449" y="-1178.9805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="congressional research service">
+        <viz:size value="8.871391"></viz:size>
+        <viz:position x="-1216.5394" y="169.9868"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="global economic research">
+        <viz:size value="8.871391"></viz:size>
+        <viz:position x="337.8541" y="-893.7724"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="research organisations in spain">
+        <viz:size value="8.871391"></viz:size>
+        <viz:position x="-376.3426" y="-472.81522"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="research in ottawa">
+        <viz:size value="8.871391"></viz:size>
+        <viz:position x="-127.13627" y="-56.25284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="national estuarine research reserves of florida">
+        <viz:size value="8.871391"></viz:size>
+        <viz:position x="-679.7171" y="797.4528"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="research instiutues established in 1974">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-453.7337" y="849.58936"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="neil armstrong-class oceanographic research ships">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1221.6548" y="-254.31241"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="agrophysical research institute">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="353.5164" y="-614.1685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="research center borstel">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-307.01114" y="633.78156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="central research institute of culture and history">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="11.841398" y="-576.2797"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="endeavour class oceanographic research ships">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1365.8718" y="-468.9882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="employee research">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-603.344" y="-875.59033"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="chief research officers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1381.954" y="397.4797"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="customer research">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1123.1589" y="-909.0069"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="nonprofit research center">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-138.87904" y="-428.85013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="markets and products research">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-875.8895" y="-863.15234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="strategy research">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-729.37775" y="-1054.678"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="former research units of the mrc">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-745.2233" y="177.51349"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="university research project">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1012.4076" y="1033.2836"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="oceanographer-class oceanographic research ships">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1172.9127" y="834.61707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="125.0"></edge>
+      <edge id="1" source="0" target="2" weight="103.0"></edge>
+      <edge id="2" source="0" target="3" weight="79.0"></edge>
+      <edge id="3" source="0" target="4" weight="61.0"></edge>
+      <edge id="4" source="0" target="5" weight="36.0"></edge>
+      <edge id="5" source="0" target="6" weight="35.0"></edge>
+      <edge id="6" source="7" target="1" weight="30.0"></edge>
+      <edge id="7" source="8" target="0" weight="20.0"></edge>
+      <edge id="8" source="0" target="9" weight="18.0"></edge>
+      <edge id="9" source="1" target="10" weight="17.0"></edge>
+      <edge id="10" source="11" target="0" weight="17.0"></edge>
+      <edge id="11" source="12" target="13" weight="16.0"></edge>
+      <edge id="12" source="14" target="4" weight="15.0"></edge>
+      <edge id="13" source="15" target="16" weight="13.0"></edge>
+      <edge id="14" source="17" target="1" weight="13.0"></edge>
+      <edge id="15" source="18" target="0" weight="12.0"></edge>
+      <edge id="16" source="19" target="0" weight="12.0"></edge>
+      <edge id="17" source="0" target="20" weight="12.0"></edge>
+      <edge id="18" source="21" target="22" weight="12.0"></edge>
+      <edge id="19" source="23" target="15" weight="11.0"></edge>
+      <edge id="20" source="14" target="24" weight="11.0"></edge>
+      <edge id="21" source="25" target="0" weight="9.0"></edge>
+      <edge id="22" source="14" target="26" weight="8.0"></edge>
+      <edge id="23" source="0" target="27" weight="7.0"></edge>
+      <edge id="24" source="22" target="14" weight="7.0"></edge>
+      <edge id="25" source="22" target="28" weight="7.0"></edge>
+      <edge id="26" source="29" target="0" weight="6.0"></edge>
+      <edge id="27" source="30" target="31" weight="6.0"></edge>
+      <edge id="28" source="32" target="33" weight="6.0"></edge>
+      <edge id="29" source="25" target="14" weight="6.0"></edge>
+      <edge id="30" source="34" target="1" weight="5.0"></edge>
+      <edge id="31" source="35" target="0" weight="5.0"></edge>
+      <edge id="32" source="33" target="36" weight="5.0"></edge>
+      <edge id="33" source="37" target="15" weight="4.0"></edge>
+      <edge id="34" source="38" target="6" weight="4.0"></edge>
+      <edge id="35" source="15" target="39" weight="4.0"></edge>
+      <edge id="36" source="15" target="22" weight="4.0"></edge>
+      <edge id="37" source="2" target="40" weight="4.0"></edge>
+      <edge id="38" source="0" target="41" weight="4.0"></edge>
+      <edge id="39" source="33" target="42" weight="4.0"></edge>
+      <edge id="40" source="2" target="43" weight="4.0"></edge>
+      <edge id="41" source="0" target="44" weight="4.0"></edge>
+      <edge id="42" source="45" target="29" weight="4.0"></edge>
+      <edge id="43" source="15" target="46" weight="4.0"></edge>
+      <edge id="44" source="47" target="7" weight="4.0"></edge>
+      <edge id="45" source="25" target="15" weight="4.0"></edge>
+      <edge id="46" source="7" target="29" weight="4.0"></edge>
+      <edge id="47" source="33" target="48" weight="3.0"></edge>
+      <edge id="48" source="49" target="50" weight="3.0"></edge>
+      <edge id="49" source="0" target="51" weight="3.0"></edge>
+      <edge id="50" source="52" target="53" weight="3.0"></edge>
+      <edge id="51" source="7" target="54" weight="3.0"></edge>
+      <edge id="52" source="0" target="55" weight="3.0"></edge>
+      <edge id="53" source="26" target="28" weight="3.0"></edge>
+      <edge id="54" source="7" target="27" weight="3.0"></edge>
+      <edge id="55" source="6" target="56" weight="2.0"></edge>
+      <edge id="56" source="57" target="5" weight="2.0"></edge>
+      <edge id="57" source="58" target="18" weight="2.0"></edge>
+      <edge id="58" source="51" target="59" weight="2.0"></edge>
+      <edge id="59" source="60" target="15" weight="2.0"></edge>
+      <edge id="60" source="61" target="0" weight="2.0"></edge>
+      <edge id="61" source="2" target="62" weight="2.0"></edge>
+      <edge id="62" source="15" target="63" weight="2.0"></edge>
+      <edge id="63" source="15" target="64" weight="2.0"></edge>
+      <edge id="64" source="0" target="65" weight="2.0"></edge>
+      <edge id="65" source="5" target="66" weight="2.0"></edge>
+      <edge id="66" source="18" target="67" weight="2.0"></edge>
+      <edge id="67" source="68" target="25" weight="2.0"></edge>
+      <edge id="68" source="69" target="0" weight="2.0"></edge>
+      <edge id="69" source="70" target="71" weight="2.0"></edge>
+      <edge id="70" source="72" target="0" weight="2.0"></edge>
+      <edge id="71" source="4" target="57" weight="2.0"></edge>
+      <edge id="72" source="73" target="74" weight="2.0"></edge>
+      <edge id="73" source="15" target="75" weight="2.0"></edge>
+      <edge id="74" source="76" target="33" weight="2.0"></edge>
+      <edge id="75" source="77" target="5" weight="2.0"></edge>
+      <edge id="76" source="45" target="27" weight="2.0"></edge>
+      <edge id="77" source="33" target="78" weight="2.0"></edge>
+      <edge id="78" source="79" target="0" weight="2.0"></edge>
+      <edge id="79" source="80" target="81"></edge>
+      <edge id="80" source="82" target="70"></edge>
+      <edge id="81" source="0" target="83"></edge>
+      <edge id="82" source="84" target="68"></edge>
+      <edge id="83" source="85" target="51"></edge>
+      <edge id="84" source="0" target="86"></edge>
+      <edge id="85" source="87" target="4"></edge>
+      <edge id="86" source="88" target="89"></edge>
+      <edge id="87" source="0" target="90"></edge>
+      <edge id="88" source="0" target="91"></edge>
+      <edge id="89" source="92" target="5"></edge>
+      <edge id="90" source="14" target="93"></edge>
+      <edge id="91" source="94" target="95"></edge>
+      <edge id="92" source="96" target="0"></edge>
+      <edge id="93" source="97" target="26"></edge>
+      <edge id="94" source="98" target="7"></edge>
+      <edge id="95" source="61" target="45"></edge>
+      <edge id="96" source="99" target="6"></edge>
+      <edge id="97" source="100" target="27"></edge>
+      <edge id="98" source="5" target="101"></edge>
+      <edge id="99" source="102" target="56"></edge>
+      <edge id="100" source="103" target="0"></edge>
+      <edge id="101" source="104" target="26"></edge>
+      <edge id="102" source="60" target="0"></edge>
+      <edge id="103" source="105" target="14"></edge>
+      <edge id="104" source="106" target="107"></edge>
+      <edge id="105" source="15" target="108"></edge>
+      <edge id="106" source="109" target="1"></edge>
+      <edge id="107" source="110" target="111"></edge>
+      <edge id="108" source="94" target="112"></edge>
+      <edge id="109" source="113" target="45"></edge>
+      <edge id="110" source="0" target="114"></edge>
+      <edge id="111" source="115" target="51"></edge>
+      <edge id="112" source="4" target="89"></edge>
+      <edge id="113" source="116" target="30"></edge>
+      <edge id="114" source="13" target="117"></edge>
+      <edge id="115" source="4" target="118"></edge>
+      <edge id="116" source="60" target="119"></edge>
+      <edge id="117" source="0" target="120"></edge>
+      <edge id="118" source="121" target="122"></edge>
+      <edge id="119" source="94" target="0"></edge>
+      <edge id="120" source="107" target="60"></edge>
+      <edge id="121" source="48" target="123"></edge>
+      <edge id="122" source="0" target="124"></edge>
+      <edge id="123" source="0" target="125"></edge>
+      <edge id="124" source="48" target="122"></edge>
+      <edge id="125" source="126" target="127"></edge>
+      <edge id="126" source="128" target="129"></edge>
+      <edge id="127" source="130" target="131"></edge>
+      <edge id="128" source="127" target="26"></edge>
+      <edge id="129" source="132" target="13"></edge>
+      <edge id="130" source="122" target="76"></edge>
+      <edge id="131" source="133" target="134"></edge>
+      <edge id="132" source="135" target="0"></edge>
+      <edge id="133" source="45" target="136"></edge>
+      <edge id="134" source="128" target="137"></edge>
+      <edge id="135" source="0" target="26"></edge>
+      <edge id="136" source="0" target="138"></edge>
+      <edge id="137" source="45" target="139"></edge>
+      <edge id="138" source="140" target="141"></edge>
+    </edges>
+  </graph>
+</gexf>

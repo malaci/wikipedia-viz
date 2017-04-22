@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="hindu temples">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="767.5502" y="-13.995237"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="buddhist temples">
+        <viz:size value="91.60113"></viz:size>
+        <viz:position x="186.14287" y="839.8797"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="shiva temples">
+        <viz:size value="75.61618"></viz:size>
+        <viz:position x="393.08676" y="-170.67543"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="temples in india">
+        <viz:size value="68.75259"></viz:size>
+        <viz:position x="812.8485" y="-287.30508"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="temples in kerala">
+        <viz:size value="64.95955"></viz:size>
+        <viz:position x="627.33826" y="-185.54836"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="latter day saint temples">
+        <viz:size value="62.88241"></viz:size>
+        <viz:position x="-390.68365" y="491.4577"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="vishnu temples">
+        <viz:size value="59.089367"></viz:size>
+        <viz:position x="322.6419" y="239.63551"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="shakti temples">
+        <viz:size value="58.186264"></viz:size>
+        <viz:position x="833.25824" y="631.17505"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="temples in karnataka">
+        <viz:size value="57.6444"></viz:size>
+        <viz:position x="1017.7192" y="1033.8562"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="temples in sri lanka">
+        <viz:size value="56.92192"></viz:size>
+        <viz:position x="1291.9794" y="649.4874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="temples in maharashtra">
+        <viz:size value="54.122295"></viz:size>
+        <viz:position x="1245.1392" y="-334.41965"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="temples in rajasthan">
+        <viz:size value="53.761055"></viz:size>
+        <viz:position x="984.6268" y="-741.31665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="taoist temples">
+        <viz:size value="53.761055"></viz:size>
+        <viz:position x="-76.3896" y="1443.5746"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="ancient roman temples">
+        <viz:size value="53.038567"></viz:size>
+        <viz:position x="-190.12143" y="-512.9273"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="temples in the united states">
+        <viz:size value="52.677326"></viz:size>
+        <viz:position x="-1401.8378" y="-328.77115"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="krishna temples">
+        <viz:size value="50.87112"></viz:size>
+        <viz:position x="1154.5962" y="379.58762"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="temples in indonesia">
+        <viz:size value="50.509876"></viz:size>
+        <viz:position x="99.93126" y="618.09717"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="temples in nepal">
+        <viz:size value="50.148636"></viz:size>
+        <viz:position x="276.29385" y="457.99167"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="temples in china">
+        <viz:size value="49.335842"></viz:size>
+        <viz:position x="451.86148" y="1392.1569"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="tabernacle and temples in jerusalem">
+        <viz:size value="49.15522"></viz:size>
+        <viz:position x="63.37464" y="-545.2501"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="murugan temples">
+        <viz:size value="47.61994"></viz:size>
+        <viz:position x="-468.56964" y="909.92267"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="temples in madhya pradesh">
+        <viz:size value="46.445904"></viz:size>
+        <viz:position x="269.38223" y="11.284225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="temples in singapore">
+        <viz:size value="46.174976"></viz:size>
+        <viz:position x="1164.2064" y="848.00806"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="ganesha temples">
+        <viz:size value="45.362183"></viz:size>
+        <viz:position x="1443.1157" y="-281.78076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="temples in vietnam">
+        <viz:size value="45.362183"></viz:size>
+        <viz:position x="706.95715" y="951.51715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="durga temples">
+        <viz:size value="45.09125"></viz:size>
+        <viz:position x="1015.6981" y="182.26918"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="hanuman temples">
+        <viz:size value="41.298214"></viz:size>
+        <viz:position x="843.3458" y="-940.6653"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="temples in california">
+        <viz:size value="41.298214"></viz:size>
+        <viz:position x="-848.7958" y="512.69507"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="temples in taiwan">
+        <viz:size value="40.485416"></viz:size>
+        <viz:position x="-1229.7792" y="756.3532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="swaminarayan temples">
+        <viz:size value="39.672623"></viz:size>
+        <viz:position x="-102.24699" y="108.59926"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="rinzai temples">
+        <viz:size value="38.408276"></viz:size>
+        <viz:position x="-1005.40906" y="-748.26465"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="temples dedicated to jagannath">
+        <viz:size value="37.866417"></viz:size>
+        <viz:position x="-202.1698" y="335.00876"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="destroyed temples">
+        <viz:size value="37.41486"></viz:size>
+        <viz:position x="285.86343" y="-503.83206"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="confucian temples">
+        <viz:size value="37.41486"></viz:size>
+        <viz:position x="301.32797" y="1245.1158"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="temples in japan">
+        <viz:size value="36.872997"></viz:size>
+        <viz:position x="55.4002" y="1249.0981"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="temples in canada">
+        <viz:size value="36.872997"></viz:size>
+        <viz:position x="-143.91087" y="567.2688"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="rama temples">
+        <viz:size value="36.33114"></viz:size>
+        <viz:position x="31.056059" y="391.4054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="greek temples">
+        <viz:size value="34.61524"></viz:size>
+        <viz:position x="-302.44205" y="-916.41815"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="temples in west bengal">
+        <viz:size value="33.98307"></viz:size>
+        <viz:position x="786.5406" y="201.16266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="mariamman temples">
+        <viz:size value="33.35089"></viz:size>
+        <viz:position x="1067.0726" y="620.5554"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="temples of apollo">
+        <viz:size value="33.35089"></viz:size>
+        <viz:position x="356.8143" y="-955.2636"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="temples in latin america">
+        <viz:size value="33.35089"></viz:size>
+        <viz:position x="-1106.2245" y="516.06195"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="temples in utah">
+        <viz:size value="33.35089"></viz:size>
+        <viz:position x="1437.001" y="214.04832"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="megalithic temples of malta">
+        <viz:size value="33.35089"></viz:size>
+        <viz:position x="-16.060204" y="-1228.0691"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="temples in england">
+        <viz:size value="32.62841"></viz:size>
+        <viz:position x="95.974365" y="181.6795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="temples in the campus martius">
+        <viz:size value="32.62841"></viz:size>
+        <viz:position x="642.9567" y="-1069.3326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="temples in mexico">
+        <viz:size value="31.905928"></viz:size>
+        <viz:position x="-933.7553" y="-319.12695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="temples in ancient athens">
+        <viz:size value="31.905928"></viz:size>
+        <viz:position x="-514.48303" y="-1326.9844"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="fire temples">
+        <viz:size value="30.280338"></viz:size>
+        <viz:position x="-1093.0898" y="953.6655"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="temples in magna graecia">
+        <viz:size value="30.280338"></viz:size>
+        <viz:position x="-673.3712" y="-1038.5231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="temples in hanoi">
+        <viz:size value="30.280338"></viz:size>
+        <viz:position x="826.81433" y="1159.7098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="jain temples in gujarat">
+        <viz:size value="30.280338"></viz:size>
+        <viz:position x="67.754654" y="-775.831"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="temples in africa">
+        <viz:size value="29.377234"></viz:size>
+        <viz:position x="-619.2395" y="482.60828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="char dham temples">
+        <viz:size value="29.377234"></viz:size>
+        <viz:position x="703.01117" y="451.7052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="devi temples in andhra pradesh">
+        <viz:size value="29.377234"></viz:size>
+        <viz:position x="561.16565" y="246.60316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="temples in australia">
+        <viz:size value="28.38382"></viz:size>
+        <viz:position x="-276.38168" y="758.26166"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="temples of the roman forum">
+        <viz:size value="28.38382"></viz:size>
+        <viz:position x="-161.3679" y="-135.69191"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="temples in south america">
+        <viz:size value="27.300093"></viz:size>
+        <viz:position x="-717.22424" y="1234.1117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="temples in asia">
+        <viz:size value="26.216368"></viz:size>
+        <viz:position x="-1337.7391" y="548.694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="temples in ho chi minh city">
+        <viz:size value="26.216368"></viz:size>
+        <viz:position x="908.46814" y="843.6399"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="cave temples of sri lanka">
+        <viz:size value="26.216368"></viz:size>
+        <viz:position x="463.6899" y="885.92523"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="temples in texas">
+        <viz:size value="26.216368"></viz:size>
+        <viz:position x="-323.6089" y="113.80121"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="soto temples">
+        <viz:size value="26.216368"></viz:size>
+        <viz:position x="-861.2224" y="897.98456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="surya temples">
+        <viz:size value="26.216368"></viz:size>
+        <viz:position x="-755.91235" y="-126.526215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="balinese temples">
+        <viz:size value="24.95202"></viz:size>
+        <viz:position x="517.0955" y="36.77916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="temples of athena">
+        <viz:size value="24.95202"></viz:size>
+        <viz:position x="-251.83934" y="-1192.796"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="navagraha temples in tamil nadu">
+        <viz:size value="24.95202"></viz:size>
+        <viz:position x="-981.0181" y="-94.043755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="chan temples">
+        <viz:size value="24.95202"></viz:size>
+        <viz:position x="-964.887" y="309.26608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="temples in europe">
+        <viz:size value="24.95202"></viz:size>
+        <viz:position x="-186.671" y="1210.8839"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="temples of telangana">
+        <viz:size value="23.597366"></viz:size>
+        <viz:position x="1216.7263" y="-90.70311"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="temples in brazil">
+        <viz:size value="23.597366"></viz:size>
+        <viz:position x="-471.29126" y="271.78418"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="temples of artemis">
+        <viz:size value="23.597366"></viz:size>
+        <viz:position x="-658.8121" y="-662.1812"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="1st-century roman temples">
+        <viz:size value="22.062088"></viz:size>
+        <viz:position x="-37.170933" y="-341.74036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="temples in rome">
+        <viz:size value="22.062088"></viz:size>
+        <viz:position x="443.45453" y="-1171.0225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="temples of the capitoline hill">
+        <viz:size value="22.062088"></viz:size>
+        <viz:position x="-1103.3478" y="-530.64886"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="sun temples">
+        <viz:size value="22.062088"></viz:size>
+        <viz:position x="-311.50513" y="1407.1504"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="myoshin-ji temples">
+        <viz:size value="22.062088"></viz:size>
+        <viz:position x="-991.61096" y="710.499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="saraswati temples">
+        <viz:size value="22.062088"></viz:size>
+        <viz:position x="1227.7808" y="135.33792"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="temples on the palatine">
+        <viz:size value="20.34619"></viz:size>
+        <viz:position x="631.87335" y="-1309.3925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="lakshmi temples">
+        <viz:size value="20.34619"></viz:size>
+        <viz:position x="1430.3855" y="-39.30281"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="temples in north america">
+        <viz:size value="20.34619"></viz:size>
+        <viz:position x="-502.21954" y="692.2845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="temples in oceania">
+        <viz:size value="20.34619"></viz:size>
+        <viz:position x="-1169.8322" y="-317.9256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="phoenician temples">
+        <viz:size value="20.34619"></viz:size>
+        <viz:position x="125.202255" y="-994.96063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="temples of hera">
+        <viz:size value="20.34619"></viz:size>
+        <viz:position x="-813.48553" y="-856.4709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="temples in italy">
+        <viz:size value="20.34619"></viz:size>
+        <viz:position x="-148.923" y="-731.33813"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="temples in queensland">
+        <viz:size value="18.269049"></viz:size>
+        <viz:position x="-433.065" y="1142.9865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="temples in florida">
+        <viz:size value="18.269049"></viz:size>
+        <viz:position x="-594.36615" y="55.908356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="mallabhum temples">
+        <viz:size value="18.269049"></viz:size>
+        <viz:position x="988.6214" y="-48.461487"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="temples in thailand">
+        <viz:size value="18.269049"></viz:size>
+        <viz:position x="-1425.9603" y="322.0074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="temples in idaho">
+        <viz:size value="18.269049"></viz:size>
+        <viz:position x="1373.0067" y="436.2437"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="nyingma monasteries and temples">
+        <viz:size value="18.269049"></viz:size>
+        <viz:position x="675.8875" y="-490.75452"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="obaku temples">
+        <viz:size value="18.269049"></viz:size>
+        <viz:position x="9.914612" y="1031.2723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="temples in arizona">
+        <viz:size value="18.269049"></viz:size>
+        <viz:position x="-721.65936" y="724.08484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="temples in greece">
+        <viz:size value="15.920978"></viz:size>
+        <viz:position x="-538.33" y="-850.89374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="brahma temples">
+        <viz:size value="15.920978"></viz:size>
+        <viz:position x="863.859" y="-1171.4531"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="moon temples">
+        <viz:size value="15.920978"></viz:size>
+        <viz:position x="174.19196" y="1450.4543"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="temples of asclepius">
+        <viz:size value="15.920978"></viz:size>
+        <viz:position x="-99.32747" y="-997.1889"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="temples in germany">
+        <viz:size value="15.920978"></viz:size>
+        <viz:position x="-228.73776" y="992.19763"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="temples of zeus">
+        <viz:size value="13.031044"></viz:size>
+        <viz:position x="-904.0955" y="-1108.9633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="temples of the forum boarium">
+        <viz:size value="13.031044"></viz:size>
+        <viz:position x="-703.7534" y="-398.9603"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="jain temples in odisha">
+        <viz:size value="13.031044"></viz:size>
+        <viz:position x="576.4423" y="-850.6518"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="sita temples">
+        <viz:size value="13.031044"></viz:size>
+        <viz:position x="490.80988" y="471.5253"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="temples on the quirinal">
+        <viz:size value="13.031044"></viz:size>
+        <viz:position x="-1334.9491" y="-550.2656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="roman temples in spain">
+        <viz:size value="13.031044"></viz:size>
+        <viz:position x="-312.27222" y="-324.06262"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="temples of the imperial fora">
+        <viz:size value="13.031044"></viz:size>
+        <viz:position x="-484.96603" y="-480.7036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="temples in peru">
+        <viz:size value="13.031044"></viz:size>
+        <viz:position x="-531.3275" y="1344.8774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="temples in alberta">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="-710.1147" y="276.72397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="temples in malta">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="381.78607" y="-1388.6394"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="tendai temples">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="-1392.4404" y="104.181435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="zen temples">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="-1232.9713" y="-766.4723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="seon temples">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="-1452.197" y="-104.27457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="temples of pompeii">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="285.12125" y="-740.56946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="temples in lucknow">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="1063.6439" y="-993.0026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="pure land temples">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="362.40506" y="684.28503"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="temples in sindhudurg district">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="1348.5498" y="-565.8083"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="temples of heracles">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="-456.18066" y="-1096.9185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="kagyu monasteries and temples">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="-1219.2983" y="-102.71259"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="fo guang shan temples">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="-851.77563" y="108.676094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="temples of demeter">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="-92.48167" y="-1442.9152"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="vajrayogini temples">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="618.6078" y="713.74225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="shokoku-ji temples">
+        <viz:size value="9.238007"></viz:size>
+        <viz:position x="-1123.2825" y="102.13243"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="community of christ temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-658.4733" y="1001.72925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="temples in ancient olympia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1076.8455" y="-968.3314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="9th-century jain temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="755.8128" y="-709.97943"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="13th-century jain temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="192.7294" y="-286.16895"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="temples in jordan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-865.28467" y="-562.1078"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="temples in venezuela">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1205.4707" y="307.20163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="karttikeya temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1033.2163" y="-276.1446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="nanzen-ji temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="260.75433" y="1038.3627"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="devi temples in odisha">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1125.7777" y="-540.51105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="armenian temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-383.8672" y="-674.0863"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="temples completed in 1689">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="924.5933" y="410.59082"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="kali temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="494.30838" y="-638.9572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="temples in ancient ionia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="208.80383" y="-1200.6818"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="kennin-ji temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-51.29673" y="803.9063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="jain temples in pakistan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="478.0195" y="-379.85532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="temples in croatia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-392.07977" y="-92.38364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="engaku-ji temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="647.7" y="1270.8949"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="temples with dravidian architecture">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="909.96576" y="-502.26263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="parsi temples in chennai">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-915.1413" y="1125.0681"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="kokutai-ji temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="512.9877" y="1100.4056"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="sati temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1213.5321" y="-791.4247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="temples in ancient arcadia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="145.4092" y="-1437.0667"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="pudukottai temples">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="61.53339" y="-85.2748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="temples of dionysus">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-553.8324" y="-235.05052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="temples of aphrodite">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-726.4384" y="-1262.0907"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="temples of ares">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-315.58273" y="-1414.0272"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="393.0"></edge>
+      <edge id="1" source="2" target="0" weight="181.0"></edge>
+      <edge id="2" source="0" target="3" weight="175.0"></edge>
+      <edge id="3" source="0" target="4" weight="123.0"></edge>
+      <edge id="4" source="5" target="0" weight="120.0"></edge>
+      <edge id="5" source="0" target="6" weight="52.0"></edge>
+      <edge id="6" source="0" target="7" weight="41.0"></edge>
+      <edge id="7" source="8" target="0" weight="15.0"></edge>
+      <edge id="8" source="9" target="10" weight="14.0"></edge>
+      <edge id="9" source="0" target="11" weight="11.0"></edge>
+      <edge id="10" source="12" target="0" weight="11.0"></edge>
+      <edge id="11" source="10" target="13" weight="10.0"></edge>
+      <edge id="12" source="0" target="14" weight="10.0"></edge>
+      <edge id="13" source="15" target="10" weight="10.0"></edge>
+      <edge id="14" source="0" target="16" weight="10.0"></edge>
+      <edge id="15" source="17" target="18" weight="9.0"></edge>
+      <edge id="16" source="19" target="0" weight="9.0"></edge>
+      <edge id="17" source="0" target="20" weight="9.0"></edge>
+      <edge id="18" source="21" target="0" weight="8.0"></edge>
+      <edge id="19" source="17" target="22" weight="7.0"></edge>
+      <edge id="20" source="17" target="23" weight="7.0"></edge>
+      <edge id="21" source="21" target="10" weight="7.0"></edge>
+      <edge id="22" source="24" target="25" weight="7.0"></edge>
+      <edge id="23" source="26" target="27" weight="6.0"></edge>
+      <edge id="24" source="19" target="28" weight="6.0"></edge>
+      <edge id="25" source="17" target="29" weight="6.0"></edge>
+      <edge id="26" source="10" target="30" weight="6.0"></edge>
+      <edge id="27" source="17" target="31" weight="6.0"></edge>
+      <edge id="28" source="17" target="32" weight="5.0"></edge>
+      <edge id="29" source="33" target="14" weight="5.0"></edge>
+      <edge id="30" source="34" target="25" weight="5.0"></edge>
+      <edge id="31" source="27" target="10" weight="4.0"></edge>
+      <edge id="32" source="27" target="35" weight="4.0"></edge>
+      <edge id="33" source="32" target="10" weight="4.0"></edge>
+      <edge id="34" source="36" target="37" weight="4.0"></edge>
+      <edge id="35" source="9" target="38" weight="4.0"></edge>
+      <edge id="36" source="39" target="17" weight="3.0"></edge>
+      <edge id="37" source="40" target="3" weight="3.0"></edge>
+      <edge id="38" source="40" target="1" weight="3.0"></edge>
+      <edge id="39" source="41" target="4" weight="3.0"></edge>
+      <edge id="40" source="23" target="42" weight="3.0"></edge>
+      <edge id="41" source="43" target="36" weight="3.0"></edge>
+      <edge id="42" source="25" target="44" weight="3.0"></edge>
+      <edge id="43" source="21" target="45" weight="3.0"></edge>
+      <edge id="44" source="46" target="5" weight="3.0"></edge>
+      <edge id="45" source="47" target="19" weight="3.0"></edge>
+      <edge id="46" source="48" target="43" weight="3.0"></edge>
+      <edge id="47" source="27" target="49" weight="2.0"></edge>
+      <edge id="48" source="23" target="50" weight="2.0"></edge>
+      <edge id="49" source="17" target="51" weight="2.0"></edge>
+      <edge id="50" source="52" target="41" weight="2.0"></edge>
+      <edge id="51" source="53" target="10" weight="2.0"></edge>
+      <edge id="52" source="52" target="0" weight="2.0"></edge>
+      <edge id="53" source="25" target="54" weight="2.0"></edge>
+      <edge id="54" source="55" target="2" weight="2.0"></edge>
+      <edge id="55" source="56" target="40" weight="2.0"></edge>
+      <edge id="56" source="10" target="52" weight="2.0"></edge>
+      <edge id="57" source="57" target="10" weight="2.0"></edge>
+      <edge id="58" source="58" target="4" weight="2.0"></edge>
+      <edge id="59" source="24" target="59" weight="2.0"></edge>
+      <edge id="60" source="60" target="61" weight="2.0"></edge>
+      <edge id="61" source="46" target="1" weight="2.0"></edge>
+      <edge id="62" source="17" target="62" weight="2.0"></edge>
+      <edge id="63" source="46" target="3" weight="2.0"></edge>
+      <edge id="64" source="63" target="4" weight="2.0"></edge>
+      <edge id="65" source="4" target="64" weight="2.0"></edge>
+      <edge id="66" source="40" target="65" weight="2.0"></edge>
+      <edge id="67" source="48" target="66" weight="2.0"></edge>
+      <edge id="68" source="46" target="6" weight="2.0"></edge>
+      <edge id="69" source="25" target="67"></edge>
+      <edge id="70" source="68" target="10"></edge>
+      <edge id="71" source="32" target="69"></edge>
+      <edge id="72" source="70" target="14"></edge>
+      <edge id="73" source="71" target="9"></edge>
+      <edge id="74" source="6" target="72"></edge>
+      <edge id="75" source="36" target="66"></edge>
+      <edge id="76" source="23" target="73"></edge>
+      <edge id="77" source="32" target="74"></edge>
+      <edge id="78" source="17" target="52"></edge>
+      <edge id="79" source="75" target="76"></edge>
+      <edge id="80" source="77" target="78"></edge>
+      <edge id="81" source="4" target="79"></edge>
+      <edge id="82" source="36" target="80"></edge>
+      <edge id="83" source="21" target="81"></edge>
+      <edge id="84" source="82" target="83"></edge>
+      <edge id="85" source="84" target="85"></edge>
+      <edge id="86" source="61" target="86"></edge>
+      <edge id="87" source="87" target="54"></edge>
+      <edge id="88" source="58" target="6"></edge>
+      <edge id="89" source="88" target="2"></edge>
+      <edge id="90" source="89" target="3"></edge>
+      <edge id="91" source="40" target="90"></edge>
+      <edge id="92" source="56" target="91"></edge>
+      <edge id="93" source="92" target="43"></edge>
+      <edge id="94" source="0" target="93"></edge>
+      <edge id="95" source="94" target="8"></edge>
+      <edge id="96" source="95" target="14"></edge>
+      <edge id="97" source="20" target="96"></edge>
+      <edge id="98" source="2" target="81"></edge>
+      <edge id="99" source="10" target="97"></edge>
+      <edge id="100" source="98" target="99"></edge>
+      <edge id="101" source="56" target="100"></edge>
+      <edge id="102" source="70" target="2"></edge>
+      <edge id="103" source="31" target="69"></edge>
+      <edge id="104" source="43" target="34"></edge>
+      <edge id="105" source="101" target="10"></edge>
+      <edge id="106" source="24" target="40"></edge>
+      <edge id="107" source="88" target="20"></edge>
+      <edge id="108" source="48" target="102"></edge>
+      <edge id="109" source="103" target="24"></edge>
+      <edge id="110" source="104" target="105"></edge>
+      <edge id="111" source="106" target="0"></edge>
+      <edge id="112" source="8" target="107"></edge>
+      <edge id="113" source="108" target="109"></edge>
+      <edge id="114" source="73" target="31"></edge>
+      <edge id="115" source="48" target="110"></edge>
+      <edge id="116" source="54" target="100"></edge>
+      <edge id="117" source="111" target="4"></edge>
+      <edge id="118" source="25" target="112"></edge>
+      <edge id="119" source="52" target="25"></edge>
+      <edge id="120" source="33" target="113"></edge>
+      <edge id="121" source="114" target="66"></edge>
+      <edge id="122" source="115" target="116"></edge>
+      <edge id="123" source="38" target="8"></edge>
+      <edge id="124" source="117" target="0"></edge>
+      <edge id="125" source="118" target="10"></edge>
+      <edge id="126" source="56" target="76"></edge>
+      <edge id="127" source="0" target="119"></edge>
+      <edge id="128" source="25" target="120"></edge>
+      <edge id="129" source="34" target="80"></edge>
+      <edge id="130" source="45" target="5"></edge>
+      <edge id="131" source="49" target="121"></edge>
+      <edge id="132" source="23" target="122"></edge>
+      <edge id="133" source="56" target="123"></edge>
+      <edge id="134" source="124" target="8"></edge>
+      <edge id="135" source="6" target="125"></edge>
+      <edge id="136" source="126" target="98"></edge>
+      <edge id="137" source="127" target="56"></edge>
+      <edge id="138" source="123" target="24"></edge>
+      <edge id="139" source="128" target="3"></edge>
+      <edge id="140" source="31" target="63"></edge>
+      <edge id="141" source="129" target="34"></edge>
+      <edge id="142" source="130" target="54"></edge>
+      <edge id="143" source="41" target="131"></edge>
+      <edge id="144" source="96" target="3"></edge>
+      <edge id="145" source="96" target="19"></edge>
+      <edge id="146" source="132" target="48"></edge>
+      <edge id="147" source="133" target="24"></edge>
+      <edge id="148" source="25" target="134"></edge>
+      <edge id="149" source="25" target="56"></edge>
+      <edge id="150" source="135" target="10"></edge>
+      <edge id="151" source="71" target="27"></edge>
+      <edge id="152" source="34" target="130"></edge>
+      <edge id="153" source="136" target="137"></edge>
+      <edge id="154" source="127" target="34"></edge>
+      <edge id="155" source="138" target="10"></edge>
+      <edge id="156" source="139" target="140"></edge>
+      <edge id="157" source="34" target="140"></edge>
+      <edge id="158" source="141" target="0"></edge>
+      <edge id="159" source="142" target="2"></edge>
+      <edge id="160" source="14" target="143"></edge>
+      <edge id="161" source="144" target="49"></edge>
+      <edge id="162" source="145" target="146"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="adventure films">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-566.63245" y="-159.77315"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="adventure games">
+        <viz:size value="84.75927"></viz:size>
+        <viz:position x="511.8001" y="-291.69373"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="adventure anime and manga">
+        <viz:size value="70.84383"></viz:size>
+        <viz:position x="284.6996" y="534.5178"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="adventure television series">
+        <viz:size value="66.61951"></viz:size>
+        <viz:position x="-26.281048" y="-249.74751"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="adventure novels">
+        <viz:size value="63.057808"></viz:size>
+        <viz:position x="-321.1321" y="-530.947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="adventure fiction">
+        <viz:size value="53.44952"></viz:size>
+        <viz:position x="-152.46243" y="582.4565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="science adventure">
+        <viz:size value="52.621223"></viz:size>
+        <viz:position x="-553.3697" y="302.91708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="adventure game engines">
+        <viz:size value="33.653145"></viz:size>
+        <viz:position x="184.31316" y="-594.12146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="adventure game studio">
+        <viz:size value="17.087143"></viz:size>
+        <viz:position x="609.9099" y="160.8522"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="adventure game stubs">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="223.70505" y="101.47551"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="american adventure comedy film series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-194.5499" y="144.06375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="67.0"></edge>
+      <edge id="1" source="0" target="2" weight="67.0"></edge>
+      <edge id="2" source="3" target="4" weight="2.0"></edge>
+      <edge id="3" source="5" target="3" weight="2.0"></edge>
+      <edge id="4" source="6" target="3"></edge>
+      <edge id="5" source="0" target="7"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,1292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="6" label="legal scholars">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="181.3422" y="268.29282"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="classical scholars">
+        <viz:size value="99.69716"></viz:size>
+        <viz:position x="-406.35938" y="1062.7733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="biblical scholars">
+        <viz:size value="96.567825"></viz:size>
+        <viz:position x="524.8052" y="-696.0554"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="muslim scholars">
+        <viz:size value="93.0347"></viz:size>
+        <viz:position x="-818.58936" y="-324.62305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="fulbright scholars">
+        <viz:size value="92.73186"></viz:size>
+        <viz:position x="666.05817" y="941.53894"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="rhodes scholars">
+        <viz:size value="91.92429"></viz:size>
+        <viz:position x="759.4899" y="1374.2769"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="german scholars">
+        <viz:size value="82.13249"></viz:size>
+        <viz:position x="877.95013" y="-272.22552"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="islamic scholars">
+        <viz:size value="80.719246"></viz:size>
+        <viz:position x="-663.17957" y="-598.09094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="english scholars">
+        <viz:size value="79.00316"></viz:size>
+        <viz:position x="-567.98126" y="977.8516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="scholars of sunni islam">
+        <viz:size value="78.49842"></viz:size>
+        <viz:position x="-833.8585" y="-526.5177"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="pakistani scholars">
+        <viz:size value="77.28706"></viz:size>
+        <viz:position x="-1190.2706" y="-81.05517"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="203" label="institute for advanced study visiting scholars">
+        <viz:size value="77.28706"></viz:size>
+        <viz:position x="-1006.2201" y="562.7319"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="greek scholars">
+        <viz:size value="75.87381"></viz:size>
+        <viz:position x="-290.66364" y="1394.0273"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="international relations scholars">
+        <viz:size value="75.67193"></viz:size>
+        <viz:position x="800.85547" y="570.48865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="new testament scholars">
+        <viz:size value="74.763405"></viz:size>
+        <viz:position x="692.27014" y="-381.55194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="old testament scholars">
+        <viz:size value="73.753944"></viz:size>
+        <viz:position x="719.37366" y="-595.6739"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="indian scholars">
+        <viz:size value="73.55205"></viz:size>
+        <viz:position x="837.04297" y="-1123.9382"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="feminist studies scholars">
+        <viz:size value="72.74448"></viz:size>
+        <viz:position x="1338.4244" y="304.83652"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="scottish scholars and academics">
+        <viz:size value="72.3407"></viz:size>
+        <viz:position x="-217.57541" y="-1040.0764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="french scholars">
+        <viz:size value="70.6246"></viz:size>
+        <viz:position x="-5.737757" y="-89.09243"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="international law scholars">
+        <viz:size value="70.11987"></viz:size>
+        <viz:position x="362.10806" y="631.6519"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="sanskrit scholars">
+        <viz:size value="69.71609"></viz:size>
+        <viz:position x="1118.3202" y="-829.8147"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="irish scholars and academics">
+        <viz:size value="69.413246"></viz:size>
+        <viz:position x="263.26718" y="-362.2849"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="jewish scholars">
+        <viz:size value="68.50473"></viz:size>
+        <viz:position x="89.21817" y="-888.21063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="shakespearean scholars">
+        <viz:size value="68.20189"></viz:size>
+        <viz:position x="-313.7165" y="-1234.9694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="marshall scholars">
+        <viz:size value="61.943214"></viz:size>
+        <viz:position x="777.6684" y="175.83409"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="scholars of ancient philosophy">
+        <viz:size value="61.53943"></viz:size>
+        <viz:position x="-558.5672" y="747.239"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="heidegger scholars">
+        <viz:size value="60.93375"></viz:size>
+        <viz:position x="-72.305084" y="-1586.7389"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="scholars of shia islam">
+        <viz:size value="60.52997"></viz:size>
+        <viz:position x="-430.26453" y="-80.16765"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="media scholars">
+        <viz:size value="60.328075"></viz:size>
+        <viz:position x="1479.5048" y="-597.2963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="hadith scholars">
+        <viz:size value="60.328075"></viz:size>
+        <viz:position x="-1031.9335" y="-454.38574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="christian scholars">
+        <viz:size value="59.621452"></viz:size>
+        <viz:position x="460.6941" y="-287.93747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="translation scholars">
+        <viz:size value="58.611984"></viz:size>
+        <viz:position x="280.21042" y="-1003.8365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="fiqh scholars">
+        <viz:size value="58.30915"></viz:size>
+        <viz:position x="-1024.9001" y="-213.66315"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="urdu scholars">
+        <viz:size value="57.703472"></viz:size>
+        <viz:position x="-964.658" y="2.3156512"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="202" label="italian scholars">
+        <viz:size value="57.400627"></viz:size>
+        <viz:position x="25.64395" y="880.64825"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="religious scholars">
+        <viz:size value="56.996845"></viz:size>
+        <viz:position x="500.21136" y="-493.78748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="scholars of constitutional law">
+        <viz:size value="56.391167"></viz:size>
+        <viz:position x="188.63702" y="500.71542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="195" label="scholars of nationalism">
+        <viz:size value="55.987385"></viz:size>
+        <viz:position x="1376.2109" y="-116.0956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="moroccan scholars">
+        <viz:size value="55.987385"></viz:size>
+        <viz:position x="-654.0674" y="-1460.9675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="iranian scholars">
+        <viz:size value="55.78549"></viz:size>
+        <viz:position x="-882.5644" y="393.5353"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="scholars of roman history">
+        <viz:size value="55.583595"></viz:size>
+        <viz:position x="-259.50345" y="1194.0988"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="177" label="buddhist scholars">
+        <viz:size value="55.583595"></viz:size>
+        <viz:position x="-1229.1213" y="599.0715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="scandinavian studies scholars">
+        <viz:size value="53.26183"></viz:size>
+        <viz:position x="-1334.7003" y="420.31448"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="tamil scholars">
+        <viz:size value="53.05994"></viz:size>
+        <viz:position x="1285.2821" y="-959.54297"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="scholars of antisemitism">
+        <viz:size value="53.05994"></viz:size>
+        <viz:position x="-552.2907" y="252.9453"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="180" label="hindu scholars">
+        <viz:size value="52.757095"></viz:size>
+        <viz:position x="824.25616" y="-1360.5057"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="kurdish scholars">
+        <viz:size value="52.555202"></viz:size>
+        <viz:position x="-1339.1774" y="-856.69183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="aztec scholars">
+        <viz:size value="51.747635"></viz:size>
+        <viz:position x="-1268.6835" y="945.50336"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="armenian studies scholars">
+        <viz:size value="51.747635"></viz:size>
+        <viz:position x="1058.187" y="890.7388"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="quranic exegesis scholars">
+        <viz:size value="50.536278"></viz:size>
+        <viz:position x="-1288.5222" y="-487.53134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="scholars of latin literature">
+        <viz:size value="49.930603"></viz:size>
+        <viz:position x="-481.67386" y="1276.5244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="judaic scholars">
+        <viz:size value="48.719242"></viz:size>
+        <viz:position x="117.96207" y="-694.09454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="egyptian scholars">
+        <viz:size value="48.719242"></viz:size>
+        <viz:position x="-623.0128" y="-961.7"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="benedictine scholars">
+        <viz:size value="48.719242"></viz:size>
+        <viz:position x="490.01895" y="-914.957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="copyright scholars">
+        <viz:size value="48.01262"></viz:size>
+        <viz:position x="-193.35878" y="239.98737"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="19th-century scholars">
+        <viz:size value="46.49842"></viz:size>
+        <viz:position x="-127.415985" y="-847.7628"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="truman scholars">
+        <viz:size value="45.690853"></viz:size>
+        <viz:position x="730.84467" y="1160.7024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="171" label="chaucer scholars">
+        <viz:size value="44.782333"></viz:size>
+        <viz:position x="1010.3548" y="-106.78977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="medieval scholars">
+        <viz:size value="44.378548"></viz:size>
+        <viz:position x="71.16038" y="-476.26367"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="scholars of sufism">
+        <viz:size value="44.378548"></viz:size>
+        <viz:position x="-590.7537" y="-409.4289"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="communication scholars">
+        <viz:size value="43.873817"></viz:size>
+        <viz:position x="237.38892" y="-1382.281"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="stalinism-era scholars and writers">
+        <viz:size value="43.873817"></viz:size>
+        <viz:position x="1104.4957" y="1135.5399"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="20th-century scholars">
+        <viz:size value="43.470028"></viz:size>
+        <viz:position x="102.842186" y="1078.0247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="first amendment scholars">
+        <viz:size value="41.350155"></viz:size>
+        <viz:position x="-173.36725" y="462.95493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="icelandic scholars">
+        <viz:size value="41.350155"></viz:size>
+        <viz:position x="-1547.277" y="369.23532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="scholars of jainism">
+        <viz:size value="41.350155"></viz:size>
+        <viz:position x="1273.5079" y="-558.78143"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="patristic scholars">
+        <viz:size value="41.350155"></viz:size>
+        <viz:position x="652.9138" y="-1028.027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="200" label="nietzsche scholars">
+        <viz:size value="39.533123"></viz:size>
+        <viz:position x="21.18379" y="-1392.0554"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="21st-century scholars">
+        <viz:size value="39.533123"></viz:size>
+        <viz:position x="364.69254" y="142.73146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="saudi arabian scholars">
+        <viz:size value="39.533123"></viz:size>
+        <viz:position x="-1374.4453" y="-225.18701"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="persian scholars">
+        <viz:size value="38.927444"></viz:size>
+        <viz:position x="-1093.849" y="-832.5189"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="berber scholars">
+        <viz:size value="38.927444"></viz:size>
+        <viz:position x="-785.8607" y="-1086.335"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="estonian scholars">
+        <viz:size value="38.927444"></viz:size>
+        <viz:position x="454.4419" y="828.19257"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="somalian scholars">
+        <viz:size value="38.927444"></viz:size>
+        <viz:position x="-185.40181" y="-435.2948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="etruscan scholars">
+        <viz:size value="38.220818"></viz:size>
+        <viz:position x="-177.6846" y="976.94763"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="finnish scholars">
+        <viz:size value="37.5142"></viz:size>
+        <viz:position x="-742.07837" y="860.57385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="moorish scholars">
+        <viz:size value="37.5142"></viz:size>
+        <viz:position x="-1572.2053" y="-276.0712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="syrian scholars">
+        <viz:size value="37.5142"></viz:size>
+        <viz:position x="-978.05475" y="-655.898"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="187" label="scholars of marxism">
+        <viz:size value="37.5142"></viz:size>
+        <viz:position x="1588.502" y="13.780686"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="men and masculinities scholars">
+        <viz:size value="37.5142"></viz:size>
+        <viz:position x="1273.9017" y="499.56995"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="bangladeshi scholars">
+        <viz:size value="37.5142"></viz:size>
+        <viz:position x="-282.12387" y="-676.6566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="scholars of criminal law">
+        <viz:size value="36.80757"></viz:size>
+        <viz:position x="619.685" y="701.74524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="buyid scholars">
+        <viz:size value="36.80757"></viz:size>
+        <viz:position x="-795.07825" y="-101.20385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="183" label="world system scholars">
+        <viz:size value="36.80757"></viz:size>
+        <viz:position x="-366.57385" y="-896.1963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="national association of scholars">
+        <viz:size value="36.80757"></viz:size>
+        <viz:position x="318.25577" y="1125.7402"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="computer law scholars">
+        <viz:size value="36.0"></viz:size>
+        <viz:position x="-365.79556" y="369.21094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="scholars of competition law">
+        <viz:size value="36.0"></viz:size>
+        <viz:position x="-742.76263" y="611.8607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="arab scholars">
+        <viz:size value="36.0"></viz:size>
+        <viz:position x="-1186.1996" y="-662.7496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="pre-columbian scholars">
+        <viz:size value="36.0"></viz:size>
+        <viz:position x="-1378.7574" y="772.27637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="bach scholars">
+        <viz:size value="36.0"></viz:size>
+        <viz:position x="901.33777" y="-491.2021"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="james joyce scholars">
+        <viz:size value="35.19243"></viz:size>
+        <viz:position x="1522.8447" y="431.33392"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="middle eastern studies scholars">
+        <viz:size value="35.19243"></viz:size>
+        <viz:position x="-214.73071" y="-214.02486"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="newar studies scholars">
+        <viz:size value="35.19243"></viz:size>
+        <viz:position x="907.5511" y="-724.50665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="197" label="kierkegaard scholars">
+        <viz:size value="35.19243"></viz:size>
+        <viz:position x="635.531" y="-173.42"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="18th-century scholars">
+        <viz:size value="34.283913"></viz:size>
+        <viz:position x="-490.7581" y="-739.10516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="172" label="incan scholars">
+        <viz:size value="34.283913"></viz:size>
+        <viz:position x="-1141.7216" y="1108.4717"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="european union scholars">
+        <viz:size value="34.283913"></viz:size>
+        <viz:position x="804.292" y="-52.134865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="tunisian scholars">
+        <viz:size value="33.375397"></viz:size>
+        <viz:position x="-885.03674" y="-856.5788"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="vedic scholars">
+        <viz:size value="33.375397"></viz:size>
+        <viz:position x="1009.5976" y="-1231.4656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="iraqi scholars">
+        <viz:size value="33.375397"></viz:size>
+        <viz:position x="-1127.5015" y="370.9963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="william blake scholars">
+        <viz:size value="33.375397"></viz:size>
+        <viz:position x="-101.48978" y="-1242.3739"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="burmese studies scholars">
+        <viz:size value="33.375397"></viz:size>
+        <viz:position x="1354.0626" y="-767.71405"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="scholars from crete">
+        <viz:size value="32.36593"></viz:size>
+        <viz:position x="-63.285072" y="1399.9415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="labour law scholars">
+        <viz:size value="32.36593"></viz:size>
+        <viz:position x="373.38205" y="385.13702"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="178" label="romanian scholars">
+        <viz:size value="32.36593"></viz:size>
+        <viz:position x="-1475.2089" y="586.185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="pagan studies scholars">
+        <viz:size value="32.36593"></viz:size>
+        <viz:position x="-811.45526" y="1059.1824"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="mud scholars">
+        <viz:size value="32.36593"></viz:size>
+        <viz:position x="1528.2045" y="-396.2283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="libyan scholars">
+        <viz:size value="32.36593"></viz:size>
+        <viz:position x="-840.70636" y="-1322.0405"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="16th-century scholars">
+        <viz:size value="32.36593"></viz:size>
+        <viz:position x="11.695751" y="-1070.6469"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="franz kafka scholars">
+        <viz:size value="32.36593"></viz:size>
+        <viz:position x="176.43753" y="-1195.1304"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="united states constitutional law scholars">
+        <viz:size value="31.255522"></viz:size>
+        <viz:position x="12.852091" y="389.65125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="leadership scholars">
+        <viz:size value="31.255522"></viz:size>
+        <viz:position x="965.53546" y="689.1091"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="russian studies scholars">
+        <viz:size value="31.255522"></viz:size>
+        <viz:position x="945.46423" y="1276.8943"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="iqbal scholars">
+        <viz:size value="31.255522"></viz:size>
+        <viz:position x="-619.3896" y="-207.34918"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="environmental studies scholars">
+        <viz:size value="31.255522"></viz:size>
+        <viz:position x="501.29742" y="1048.3829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="15th-century scholars">
+        <viz:size value="31.255522"></viz:size>
+        <viz:position x="-83.78467" y="-628.21484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="scholars of comparative law">
+        <viz:size value="30.044165"></viz:size>
+        <viz:position x="-24.081556" y="627.0561"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="14th-century scholars">
+        <viz:size value="30.044165"></viz:size>
+        <viz:position x="-408.2094" y="-511.22406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="japanese scholars">
+        <viz:size value="30.044165"></viz:size>
+        <viz:position x="1569.7975" y="-200.09294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="hume scholars">
+        <viz:size value="30.044165"></viz:size>
+        <viz:position x="540.9047" y="1260.5729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="182" label="angier b duke scholars">
+        <viz:size value="30.044165"></viz:size>
+        <viz:position x="584.8906" y="1472.829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="scholars of contract law">
+        <viz:size value="28.83281"></viz:size>
+        <viz:position x="-366.61496" y="832.9476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="dominican scholars">
+        <viz:size value="28.83281"></viz:size>
+        <viz:position x="-381.04315" y="124.09267"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="olmec scholars">
+        <viz:size value="28.83281"></viz:size>
+        <viz:position x="1248.4791" y="977.41736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="181" label="nigerian scholars">
+        <viz:size value="28.83281"></viz:size>
+        <viz:position x="332.64224" y="1335.2344"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="sherlock holmes scholars">
+        <viz:size value="28.83281"></viz:size>
+        <viz:position x="901.9564" y="1047.933"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="194" label="world christianity scholars">
+        <viz:size value="27.419558"></viz:size>
+        <viz:position x="1384.7653" y="97.04896"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="mamluk scholars">
+        <viz:size value="27.419558"></viz:size>
+        <viz:position x="-1178.4004" y="-326.32492"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="scholars of administrative law">
+        <viz:size value="27.419558"></viz:size>
+        <viz:position x="546.7488" y="249.59943"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="teotihuacan scholars">
+        <viz:size value="27.419558"></viz:size>
+        <viz:position x="1363.0806" y="807.57904"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="sikh scholars">
+        <viz:size value="27.419558"></viz:size>
+        <viz:position x="621.7085" y="-1468.6434"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="scholars of tax law">
+        <viz:size value="27.419558"></viz:size>
+        <viz:position x="590.4067" y="45.801365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="scholars of privacy law">
+        <viz:size value="27.419558"></viz:size>
+        <viz:position x="-515.4321" y="530.0953"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="185" label="andean scholars">
+        <viz:size value="27.419558"></viz:size>
+        <viz:position x="-831.8414" y="1351.6195"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="albanian scholars">
+        <viz:size value="25.905363"></viz:size>
+        <viz:position x="-1434.0629" y="-669.7764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="rumi scholars">
+        <viz:size value="25.905363"></viz:size>
+        <viz:position x="-392.61682" y="-293.62805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="scholars from varanasi">
+        <viz:size value="25.905363"></viz:size>
+        <viz:position x="925.09784" y="-941.2087"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="13th-century scholars">
+        <viz:size value="25.905363"></viz:size>
+        <viz:position x="214.40927" y="-170.03697"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="hobbes scholars">
+        <viz:size value="25.905363"></viz:size>
+        <viz:position x="186.06259" y="1530.148"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="islam critical scholars">
+        <viz:size value="25.905363"></viz:size>
+        <viz:position x="701.2914" y="384.37247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="danish scholars">
+        <viz:size value="25.905363"></viz:size>
+        <viz:position x="-68.59239" y="1176.601"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="women scholars of islam">
+        <viz:size value="25.905363"></viz:size>
+        <viz:position x="976.9479" y="109.19916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="189" label="scholars of modern philosophy">
+        <viz:size value="25.905363"></viz:size>
+        <viz:position x="3.4366946" y="-292.72034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="198" label="ethiopian scholars">
+        <viz:size value="24.189274"></viz:size>
+        <viz:position x="-767.30566" y="159.63177"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="179" label="scholars of contemporary philosophy">
+        <viz:size value="24.189274"></viz:size>
+        <viz:position x="-456.29764" y="1529.9546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="186" label="zapotec scholars">
+        <viz:size value="24.189274"></viz:size>
+        <viz:position x="-974.4229" y="1221.5939"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="176" label="foucault scholars">
+        <viz:size value="24.189274"></viz:size>
+        <viz:position x="1186.6395" y="55.458782"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="mixtec scholars">
+        <viz:size value="24.189274"></viz:size>
+        <viz:position x="1450.3552" y="625.3977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="scholars of property law">
+        <viz:size value="22.271292"></viz:size>
+        <viz:position x="178.68556" y="38.744534"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="199" label="palestinian scholars">
+        <viz:size value="22.271292"></viz:size>
+        <viz:position x="-469.0529" y="-1089.6373"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="scholars of hadrian s wall">
+        <viz:size value="22.271292"></viz:size>
+        <viz:position x="125.35201" y="1304.7119"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="intellectual property law scholars">
+        <viz:size value="22.271292"></viz:size>
+        <viz:position x="-326.07697" y="609.2271"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="seljuq scholars">
+        <viz:size value="22.271292"></viz:size>
+        <viz:position x="-1210.9822" y="-1034.232"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="kartvelian studies scholars">
+        <viz:size value="22.271292"></viz:size>
+        <viz:position x="1183.8784" y="702.6496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="ancient roman scholars of religion">
+        <viz:size value="22.271292"></viz:size>
+        <viz:position x="427.10712" y="-1145.6031"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="10th-century scholars">
+        <viz:size value="22.271292"></viz:size>
+        <viz:position x="-967.97144" y="208.59955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="walter benjamin scholars">
+        <viz:size value="19.949526"></viz:size>
+        <viz:position x="369.9207" y="-1557.4592"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="scholars of securities law">
+        <viz:size value="19.949526"></viz:size>
+        <viz:position x="-997.39575" y="955.8572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="201" label="canonical augustinian scholars">
+        <viz:size value="19.949526"></viz:size>
+        <viz:position x="716.5117" y="-826.7027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="scholars of serer history">
+        <viz:size value="19.949526"></viz:size>
+        <viz:position x="1061.8091" y="494.9654"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="175" label="fanon scholars">
+        <viz:size value="19.949526"></viz:size>
+        <viz:position x="1132.937" y="272.6222"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="scholars of tort law">
+        <viz:size value="19.949526"></viz:size>
+        <viz:position x="-168.06967" y="761.07117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="francis bacon scholars">
+        <viz:size value="19.949526"></viz:size>
+        <viz:position x="-226.63571" y="-1456.5349"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="190" label="stanford university postdoctoral scholars">
+        <viz:size value="19.949526"></viz:size>
+        <viz:position x="394.60223" y="1541.0094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="174" label="samanid scholars">
+        <viz:size value="19.949526"></viz:size>
+        <viz:position x="-1565.9706" y="-62.68693"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="12th-century scholars">
+        <viz:size value="19.949526"></viz:size>
+        <viz:position x="292.57407" y="-563.72546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="173" label="11th-century scholars">
+        <viz:size value="17.324919"></viz:size>
+        <viz:position x="-1160.9255" y="136.5166"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="assembly of qom seminary scholars and researchers members">
+        <viz:size value="17.324919"></viz:size>
+        <viz:position x="-612.9927" y="29.71211"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="turkish scholars of islam">
+        <viz:size value="17.324919"></viz:size>
+        <viz:position x="-1374.9154" y="10.166314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="homeric scholars">
+        <viz:size value="17.324919"></viz:size>
+        <viz:position x="-661.18134" y="1192.5963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="scholars of evidence law">
+        <viz:size value="14.094637"></viz:size>
+        <viz:position x="538.56116" y="511.2097"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="giambattista vico scholars">
+        <viz:size value="14.094637"></viz:size>
+        <viz:position x="1568.7329" y="228.55408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="scholars of serer religion">
+        <viz:size value="14.094637"></viz:size>
+        <viz:position x="923.0127" y="351.6208"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="193" label="scholars of islamophobia">
+        <viz:size value="14.094637"></viz:size>
+        <viz:position x="-912.80396" y="749.9214"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="isaiah berlin scholars">
+        <viz:size value="14.094637"></viz:size>
+        <viz:position x="265.58804" y="910.872"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="finance law scholars">
+        <viz:size value="14.094637"></viz:size>
+        <viz:position x="-1128.4172" y="781.6651"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="9th-century scholars">
+        <viz:size value="14.094637"></viz:size>
+        <viz:position x="-638.605" y="-1236.9664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="american scholars of islam">
+        <viz:size value="14.094637"></viz:size>
+        <viz:position x="-705.3227" y="-785.6915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="191" label="ghaznavid scholars">
+        <viz:size value="9.85489"></viz:size>
+        <viz:position x="-1583.1764" y="150.42859"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="algerian scholars">
+        <viz:size value="9.85489"></viz:size>
+        <viz:position x="-396.2544" y="-1560.9387"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="qur an exegesis scholars from nishapur">
+        <viz:size value="9.85489"></viz:size>
+        <viz:position x="-1032.0018" y="-1229.2178"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="quranic readings scholars">
+        <viz:size value="9.85489"></viz:size>
+        <viz:position x="-1498.4719" y="-466.19604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="immigration law scholars">
+        <viz:size value="9.85489"></viz:size>
+        <viz:position x="405.42795" y="-69.56213"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="patent law scholars">
+        <viz:size value="9.85489"></viz:size>
+        <viz:position x="-683.41705" y="405.46396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="17th-century scholars">
+        <viz:size value="9.85489"></viz:size>
+        <viz:position x="1091.5228" y="-619.0706"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="184" label="hegel scholars">
+        <viz:size value="9.85489"></viz:size>
+        <viz:position x="140.75443" y="-1587.6084"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="agricultural law scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="170.36862" y="717.59576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="scholars of roman law">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-10.581416" y="144.72125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="chatwin scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1179.0684" y="-191.15741"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="gadamer scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-215.65483" y="1583.273"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="scholars by subfield">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1116.6222" y="-1068.9723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="188" label="dutch scholars of islam">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-200.68996" y="1.3970549"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="196" label="humboldt scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="823.07465" y="828.60706"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="derrida scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="635.5052" y="-1246.6462"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="spinoza scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="441.78006" y="-1350.6626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="ismaili scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1361.7905" y="217.47955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="6th-century scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1325.0255" y="-348.06912"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="192" label="ottoman scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-468.2346" y="-1363.844"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="habermas scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="8.367123" y="1598.7263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="8th-century scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-990.90216" y="-1042.9941"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="scholars of epic poetry">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-638.4579" y="1429.8567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="rabbinical scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="319.34525" y="-785.4015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="5th-century scholars">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1095.0577" y="-385.38498"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="212.0"></edge>
+      <edge id="1" source="1" target="2" weight="197.0"></edge>
+      <edge id="2" source="3" target="4" weight="111.0"></edge>
+      <edge id="3" source="5" target="6" weight="66.0"></edge>
+      <edge id="4" source="3" target="7" weight="50.0"></edge>
+      <edge id="5" source="8" target="9" weight="45.0"></edge>
+      <edge id="6" source="10" target="7" weight="44.0"></edge>
+      <edge id="7" source="8" target="11" weight="40.0"></edge>
+      <edge id="8" source="0" target="12" weight="38.0"></edge>
+      <edge id="9" source="13" target="6" weight="36.0"></edge>
+      <edge id="10" source="8" target="14" weight="35.0"></edge>
+      <edge id="11" source="15" target="4" weight="33.0"></edge>
+      <edge id="12" source="12" target="2" weight="26.0"></edge>
+      <edge id="13" source="16" target="14" weight="16.0"></edge>
+      <edge id="14" source="17" target="7" weight="16.0"></edge>
+      <edge id="15" source="18" target="7" weight="15.0"></edge>
+      <edge id="16" source="9" target="19" weight="14.0"></edge>
+      <edge id="17" source="16" target="9" weight="12.0"></edge>
+      <edge id="18" source="20" target="1" weight="12.0"></edge>
+      <edge id="19" source="21" target="6" weight="11.0"></edge>
+      <edge id="20" source="6" target="22" weight="11.0"></edge>
+      <edge id="21" source="3" target="23" weight="11.0"></edge>
+      <edge id="22" source="24" target="7" weight="10.0"></edge>
+      <edge id="23" source="16" target="11" weight="9.0"></edge>
+      <edge id="24" source="25" target="6" weight="9.0"></edge>
+      <edge id="25" source="8" target="26" weight="9.0"></edge>
+      <edge id="26" source="27" target="28" weight="9.0"></edge>
+      <edge id="27" source="29" target="30" weight="9.0"></edge>
+      <edge id="28" source="18" target="31" weight="8.0"></edge>
+      <edge id="29" source="1" target="32" weight="8.0"></edge>
+      <edge id="30" source="21" target="33" weight="8.0"></edge>
+      <edge id="31" source="34" target="6" weight="8.0"></edge>
+      <edge id="32" source="11" target="19" weight="8.0"></edge>
+      <edge id="33" source="18" target="35" weight="8.0"></edge>
+      <edge id="34" source="36" target="37" weight="8.0"></edge>
+      <edge id="35" source="27" target="1" weight="7.0"></edge>
+      <edge id="36" source="38" target="39" weight="7.0"></edge>
+      <edge id="37" source="40" target="1" weight="7.0"></edge>
+      <edge id="38" source="4" target="24" weight="7.0"></edge>
+      <edge id="39" source="41" target="10" weight="7.0"></edge>
+      <edge id="40" source="42" target="43" weight="7.0"></edge>
+      <edge id="41" source="41" target="17" weight="6.0"></edge>
+      <edge id="42" source="44" target="45" weight="6.0"></edge>
+      <edge id="43" source="18" target="23" weight="6.0"></edge>
+      <edge id="44" source="3" target="35" weight="6.0"></edge>
+      <edge id="45" source="3" target="46" weight="6.0"></edge>
+      <edge id="46" source="1" target="47" weight="5.0"></edge>
+      <edge id="47" source="48" target="49" weight="5.0"></edge>
+      <edge id="48" source="28" target="42" weight="5.0"></edge>
+      <edge id="49" source="3" target="50" weight="5.0"></edge>
+      <edge id="50" source="6" target="51" weight="5.0"></edge>
+      <edge id="51" source="52" target="17" weight="5.0"></edge>
+      <edge id="52" source="3" target="52" weight="5.0"></edge>
+      <edge id="53" source="18" target="52" weight="5.0"></edge>
+      <edge id="54" source="53" target="7" weight="5.0"></edge>
+      <edge id="55" source="10" target="23" weight="5.0"></edge>
+      <edge id="56" source="41" target="3" weight="5.0"></edge>
+      <edge id="57" source="3" target="54" weight="4.0"></edge>
+      <edge id="58" source="18" target="45" weight="4.0"></edge>
+      <edge id="59" source="55" target="56" weight="4.0"></edge>
+      <edge id="60" source="52" target="10" weight="4.0"></edge>
+      <edge id="61" source="12" target="57" weight="4.0"></edge>
+      <edge id="62" source="58" target="59" weight="4.0"></edge>
+      <edge id="63" source="50" target="17" weight="4.0"></edge>
+      <edge id="64" source="3" target="58" weight="4.0"></edge>
+      <edge id="65" source="60" target="61" weight="4.0"></edge>
+      <edge id="66" source="62" target="8" weight="3.0"></edge>
+      <edge id="67" source="63" target="64" weight="3.0"></edge>
+      <edge id="68" source="65" target="22" weight="3.0"></edge>
+      <edge id="69" source="18" target="46" weight="3.0"></edge>
+      <edge id="70" source="33" target="22" weight="3.0"></edge>
+      <edge id="71" source="66" target="6" weight="3.0"></edge>
+      <edge id="72" source="28" target="67" weight="3.0"></edge>
+      <edge id="73" source="52" target="24" weight="3.0"></edge>
+      <edge id="74" source="68" target="1" weight="3.0"></edge>
+      <edge id="75" source="18" target="69" weight="2.0"></edge>
+      <edge id="76" source="70" target="45" weight="2.0"></edge>
+      <edge id="77" source="5" target="71" weight="2.0"></edge>
+      <edge id="78" source="72" target="73" weight="2.0"></edge>
+      <edge id="79" source="10" target="45" weight="2.0"></edge>
+      <edge id="80" source="41" target="74" weight="2.0"></edge>
+      <edge id="81" source="75" target="8" weight="2.0"></edge>
+      <edge id="82" source="21" target="76" weight="2.0"></edge>
+      <edge id="83" source="19" target="77" weight="2.0"></edge>
+      <edge id="84" source="5" target="65" weight="2.0"></edge>
+      <edge id="85" source="41" target="18" weight="2.0"></edge>
+      <edge id="86" source="19" target="78" weight="2.0"></edge>
+      <edge id="87" source="41" target="24" weight="2.0"></edge>
+      <edge id="88" source="18" target="54" weight="2.0"></edge>
+      <edge id="89" source="79" target="37" weight="2.0"></edge>
+      <edge id="90" source="12" target="80" weight="2.0"></edge>
+      <edge id="91" source="77" target="8" weight="2.0"></edge>
+      <edge id="92" source="81" target="82" weight="2.0"></edge>
+      <edge id="93" source="83" target="58" weight="2.0"></edge>
+      <edge id="94" source="84" target="11" weight="2.0"></edge>
+      <edge id="95" source="18" target="85" weight="2.0"></edge>
+      <edge id="96" source="86" target="6" weight="2.0"></edge>
+      <edge id="97" source="60" target="37" weight="2.0"></edge>
+      <edge id="98" source="87" target="88" weight="2.0"></edge>
+      <edge id="99" source="89" target="6" weight="2.0"></edge>
+      <edge id="100" source="24" target="90" weight="2.0"></edge>
+      <edge id="101" source="3" target="72" weight="2.0"></edge>
+      <edge id="102" source="91" target="8" weight="2.0"></edge>
+      <edge id="103" source="3" target="92" weight="2.0"></edge>
+      <edge id="104" source="93" target="46" weight="2.0"></edge>
+      <edge id="105" source="21" target="94" weight="2.0"></edge>
+      <edge id="106" source="13" target="95" weight="2.0"></edge>
+      <edge id="107" source="10" target="50" weight="2.0"></edge>
+      <edge id="108" source="24" target="50" weight="2.0"></edge>
+      <edge id="109" source="24" target="54" weight="2.0"></edge>
+      <edge id="110" source="96" target="45"></edge>
+      <edge id="111" source="54" target="96"></edge>
+      <edge id="112" source="97" target="98"></edge>
+      <edge id="113" source="75" target="19"></edge>
+      <edge id="114" source="99" target="52"></edge>
+      <edge id="115" source="28" target="100"></edge>
+      <edge id="116" source="35" target="96"></edge>
+      <edge id="117" source="6" target="101"></edge>
+      <edge id="118" source="54" target="102"></edge>
+      <edge id="119" source="18" target="72"></edge>
+      <edge id="120" source="103" target="104"></edge>
+      <edge id="121" source="6" target="105"></edge>
+      <edge id="122" source="106" target="104"></edge>
+      <edge id="123" source="107" target="61"></edge>
+      <edge id="124" source="54" target="10"></edge>
+      <edge id="125" source="108" target="109"></edge>
+      <edge id="126" source="1" target="110"></edge>
+      <edge id="127" source="18" target="50"></edge>
+      <edge id="128" source="111" target="39"></edge>
+      <edge id="129" source="112" target="69"></edge>
+      <edge id="130" source="113" target="73"></edge>
+      <edge id="131" source="114" target="43"></edge>
+      <edge id="132" source="115" target="116"></edge>
+      <edge id="133" source="6" target="117"></edge>
+      <edge id="134" source="118" target="44"></edge>
+      <edge id="135" source="119" target="16"></edge>
+      <edge id="136" source="120" target="12"></edge>
+      <edge id="137" source="121" target="100"></edge>
+      <edge id="138" source="104" target="122"></edge>
+      <edge id="139" source="123" target="28"></edge>
+      <edge id="140" source="69" target="3"></edge>
+      <edge id="141" source="124" target="34"></edge>
+      <edge id="142" source="125" target="126"></edge>
+      <edge id="143" source="127" target="128"></edge>
+      <edge id="144" source="115" target="129"></edge>
+      <edge id="145" source="95" target="21"></edge>
+      <edge id="146" source="130" target="131"></edge>
+      <edge id="147" source="116" target="132"></edge>
+      <edge id="148" source="5" target="133"></edge>
+      <edge id="149" source="134" target="61"></edge>
+      <edge id="150" source="135" target="37"></edge>
+      <edge id="151" source="52" target="136"></edge>
+      <edge id="152" source="17" target="58"></edge>
+      <edge id="153" source="137" target="104"></edge>
+      <edge id="154" source="138" target="13"></edge>
+      <edge id="155" source="28" target="139"></edge>
+      <edge id="156" source="5" target="140"></edge>
+      <edge id="157" source="141" target="7"></edge>
+      <edge id="158" source="142" target="132"></edge>
+      <edge id="159" source="43" target="17"></edge>
+      <edge id="160" source="143" target="29"></edge>
+      <edge id="161" source="144" target="37"></edge>
+      <edge id="162" source="145" target="69"></edge>
+      <edge id="163" source="12" target="146"></edge>
+      <edge id="164" source="95" target="147"></edge>
+      <edge id="165" source="70" target="85"></edge>
+      <edge id="166" source="1" target="139"></edge>
+      <edge id="167" source="134" target="148"></edge>
+      <edge id="168" source="92" target="149"></edge>
+      <edge id="169" source="150" target="19"></edge>
+      <edge id="170" source="104" target="151"></edge>
+      <edge id="171" source="152" target="6"></edge>
+      <edge id="172" source="153" target="32"></edge>
+      <edge id="173" source="6" target="69"></edge>
+      <edge id="174" source="66" target="20"></edge>
+      <edge id="175" source="41" target="154"></edge>
+      <edge id="176" source="10" target="72"></edge>
+      <edge id="177" source="39" target="151"></edge>
+      <edge id="178" source="137" target="5"></edge>
+      <edge id="179" source="23" target="93"></edge>
+      <edge id="180" source="145" target="155"></edge>
+      <edge id="181" source="93" target="69"></edge>
+      <edge id="182" source="22" target="94"></edge>
+      <edge id="183" source="156" target="157"></edge>
+      <edge id="184" source="27" target="116"></edge>
+      <edge id="185" source="18" target="58"></edge>
+      <edge id="186" source="10" target="46"></edge>
+      <edge id="187" source="136" target="54"></edge>
+      <edge id="188" source="158" target="12"></edge>
+      <edge id="189" source="159" target="3"></edge>
+      <edge id="190" source="3" target="85"></edge>
+      <edge id="191" source="13" target="57"></edge>
+      <edge id="192" source="160" target="45"></edge>
+      <edge id="193" source="61" target="79"></edge>
+      <edge id="194" source="161" target="162"></edge>
+      <edge id="195" source="4" target="163"></edge>
+      <edge id="196" source="54" target="17"></edge>
+      <edge id="197" source="137" target="164"></edge>
+      <edge id="198" source="17" target="165"></edge>
+      <edge id="199" source="166" target="72"></edge>
+      <edge id="200" source="157" target="167"></edge>
+      <edge id="201" source="25" target="138"></edge>
+      <edge id="202" source="168" target="116"></edge>
+      <edge id="203" source="8" target="169"></edge>
+      <edge id="204" source="25" target="170"></edge>
+      <edge id="205" source="59" target="46"></edge>
+      <edge id="206" source="23" target="154"></edge>
+      <edge id="207" source="171" target="146"></edge>
+      <edge id="208" source="172" target="130"></edge>
+      <edge id="209" source="120" target="61"></edge>
+      <edge id="210" source="173" target="3"></edge>
+      <edge id="211" source="35" target="160"></edge>
+      <edge id="212" source="174" target="7"></edge>
+      <edge id="213" source="169" target="19"></edge>
+      <edge id="214" source="175" target="176"></edge>
+      <edge id="215" source="16" target="170"></edge>
+      <edge id="216" source="177" target="178"></edge>
+      <edge id="217" source="81" target="39"></edge>
+      <edge id="218" source="43" target="127"></edge>
+      <edge id="219" source="179" target="19"></edge>
+      <edge id="220" source="60" target="180"></edge>
+      <edge id="221" source="27" target="69"></edge>
+      <edge id="222" source="137" target="13"></edge>
+      <edge id="223" source="113" target="100"></edge>
+      <edge id="224" source="8" target="119"></edge>
+      <edge id="225" source="62" target="181"></edge>
+      <edge id="226" source="182" target="39"></edge>
+      <edge id="227" source="3" target="43"></edge>
+      <edge id="228" source="18" target="183"></edge>
+      <edge id="229" source="132" target="184"></edge>
+      <edge id="230" source="185" target="186"></edge>
+      <edge id="231" source="16" target="77"></edge>
+      <edge id="232" source="161" target="187"></edge>
+      <edge id="233" source="188" target="69"></edge>
+      <edge id="234" source="120" target="37"></edge>
+      <edge id="235" source="113" target="189"></edge>
+      <edge id="236" source="190" target="39"></edge>
+      <edge id="237" source="174" target="191"></edge>
+      <edge id="238" source="35" target="192"></edge>
+      <edge id="239" source="15" target="46"></edge>
+      <edge id="240" source="116" target="32"></edge>
+      <edge id="241" source="193" target="119"></edge>
+      <edge id="242" source="18" target="43"></edge>
+      <edge id="243" source="194" target="195"></edge>
+      <edge id="244" source="66" target="100"></edge>
+      <edge id="245" source="104" target="196"></edge>
+      <edge id="246" source="20" target="197"></edge>
+      <edge id="247" source="198" target="3"></edge>
+      <edge id="248" source="24" target="85"></edge>
+      <edge id="249" source="19" target="109"></edge>
+      <edge id="250" source="199" target="18"></edge>
+      <edge id="251" source="200" target="116"></edge>
+      <edge id="252" source="134" target="37"></edge>
+      <edge id="253" source="1" target="201"></edge>
+      <edge id="254" source="25" target="202"></edge>
+      <edge id="255" source="138" target="16"></edge>
+      <edge id="256" source="28" target="73"></edge>
+      <edge id="257" source="173" target="149"></edge>
+      <edge id="258" source="66" target="112"></edge>
+    </edges>
+  </graph>
+</gexf>

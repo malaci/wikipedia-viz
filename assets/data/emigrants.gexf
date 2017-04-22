@@ -1,0 +1,2988 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="12" label="emigrants">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="278.82806" y="150.08727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="289" label="english emigrants">
+        <viz:size value="81.75501"></viz:size>
+        <viz:position x="613.9388" y="1791.6475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="german emigrants">
+        <viz:size value="79.61693"></viz:size>
+        <viz:position x="-1480.1292" y="195.63593"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="imperial russian emigrants">
+        <viz:size value="73.98663"></viz:size>
+        <viz:position x="-529.2742" y="297.06595"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="490" label="scottish emigrants">
+        <viz:size value="73.98663"></viz:size>
+        <viz:position x="-235.8689" y="1516.3564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="american emigrants">
+        <viz:size value="73.77283"></viz:size>
+        <viz:position x="758.25903" y="-1701.1417"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="irish emigrants">
+        <viz:size value="73.34521"></viz:size>
+        <viz:position x="-307.21564" y="-1652.4985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="british emigrants">
+        <viz:size value="69.28285"></viz:size>
+        <viz:position x="1393.453" y="769.05145"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="french emigrants">
+        <viz:size value="66.71715"></viz:size>
+        <viz:position x="974.4586" y="-964.6544"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="iranian emigrants">
+        <viz:size value="65.29176"></viz:size>
+        <viz:position x="-453.53784" y="-773.44995"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="366" label="hungarian emigrants">
+        <viz:size value="62.93987"></viz:size>
+        <viz:position x="-1384.0394" y="663.0208"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="austrian emigrants">
+        <viz:size value="62.8686"></viz:size>
+        <viz:position x="-993.06866" y="-1332.9407"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="white russian emigrants">
+        <viz:size value="61.728287"></viz:size>
+        <viz:position x="-523.9" y="428.77466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="cuban emigrants">
+        <viz:size value="60.58797"></viz:size>
+        <viz:position x="1225.5223" y="-425.91153"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="russian emigrants to france">
+        <viz:size value="59.87528"></viz:size>
+        <viz:position x="-577.3466" y="656.83826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="385" label="hong kong emigrants">
+        <viz:size value="56.311806"></viz:size>
+        <viz:position x="1832.5962" y="410.0219"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="404" label="japanese emigrants">
+        <viz:size value="55.67038"></viz:size>
+        <viz:position x="1396.9078" y="-342.04495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="czechoslovak emigrants">
+        <viz:size value="55.028954"></viz:size>
+        <viz:position x="1620.164" y="-911.6575"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="491" label="new zealand emigrants to australia">
+        <viz:size value="54.815147"></viz:size>
+        <viz:position x="639.8013" y="1182.625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="420" label="greek emigrants">
+        <viz:size value="54.530067"></viz:size>
+        <viz:position x="-416.3191" y="-1802.9235"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="329" label="lebanese emigrants">
+        <viz:size value="53.53229"></viz:size>
+        <viz:position x="908.0844" y="1613.2136"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="492" label="welsh emigrants">
+        <viz:size value="53.461025"></viz:size>
+        <viz:position x="-812.70856" y="1200.435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="493" label="iraqi emigrants">
+        <viz:size value="52.96214"></viz:size>
+        <viz:position x="-968.81006" y="1215.3671"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="turkish emigrants">
+        <viz:size value="52.463253"></viz:size>
+        <viz:position x="1235.3121" y="1604.8392"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="298" label="australian emigrants to new zealand">
+        <viz:size value="52.391983"></viz:size>
+        <viz:position x="-1673.6921" y="-175.97908"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="russian emigrants to germany">
+        <viz:size value="51.25167"></viz:size>
+        <viz:position x="-525.307" y="843.695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="494" label="filipino emigrants">
+        <viz:size value="51.10913"></viz:size>
+        <viz:position x="-778.0959" y="-1882.2837"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="228" label="polish emigrants to israel">
+        <viz:size value="50.752785"></viz:size>
+        <viz:position x="-896.5839" y="-860.8447"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="soviet emigrants to israel">
+        <viz:size value="48.89978"></viz:size>
+        <viz:position x="-1145.8893" y="-431.25528"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="495" label="indian emigrants to canada">
+        <viz:size value="47.973274"></viz:size>
+        <viz:position x="-446.00174" y="1253.7194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="496" label="estonian emigrants">
+        <viz:size value="47.616924"></viz:size>
+        <viz:position x="-640.2229" y="1523.9303"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="497" label="italian emigrants to canada">
+        <viz:size value="47.40312"></viz:size>
+        <viz:position x="-452.7631" y="-961.2114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="russian emigrants to italy">
+        <viz:size value="44.623608"></viz:size>
+        <viz:position x="-687.2272" y="816.14795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="253" label="romanian emigrants to israel">
+        <viz:size value="44.12472"></viz:size>
+        <viz:position x="65.0022" y="1209.3132"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="235" label="polish emigrants to canada">
+        <viz:size value="43.91091"></viz:size>
+        <viz:position x="1155.8357" y="-1680.3916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="spanish emigrants to mexico">
+        <viz:size value="42.91314"></viz:size>
+        <viz:position x="1259.1588" y="-253.32468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="algerian emigrants to france">
+        <viz:size value="42.770603"></viz:size>
+        <viz:position x="2031.9111" y="-19.40104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="478" label="ukrainian emigrants to russia">
+        <viz:size value="42.69933"></viz:size>
+        <viz:position x="-892.94324" y="-190.5795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="russian emigrants to canada">
+        <viz:size value="42.556793"></viz:size>
+        <viz:position x="-334.0975" y="31.411493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="bangladeshi emigrants to england">
+        <viz:size value="41.915367"></viz:size>
+        <viz:position x="-504.79324" y="-1425.1995"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="ukrainian emigrants to israel">
+        <viz:size value="41.27394"></viz:size>
+        <viz:position x="-1196.775" y="-265.05188"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="moroccan emigrants to israel">
+        <viz:size value="41.131405"></viz:size>
+        <viz:position x="-563.8704" y="-1079.7002"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="369" label="dutch emigrants to australia">
+        <viz:size value="40.41871"></viz:size>
+        <viz:position x="-1809.5188" y="-505.98657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="238" label="argentine emigrants to mexico">
+        <viz:size value="40.27617"></viz:size>
+        <viz:position x="-2041.4017" y="99.36365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="398" label="italian emigrants to france">
+        <viz:size value="40.133633"></viz:size>
+        <viz:position x="265.64816" y="-1845.6467"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="240" label="italian emigrants to argentina">
+        <viz:size value="39.492207"></viz:size>
+        <viz:position x="1106.9454" y="-1327.915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="413" label="soviet emigrants to mandatory palestine">
+        <viz:size value="39.278397"></viz:size>
+        <viz:position x="-1999.2733" y="262.7989"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="ukrainian emigrants to canada">
+        <viz:size value="39.135857"></viz:size>
+        <viz:position x="-948.4971" y="118.69237"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="russian emigrants to switzerland">
+        <viz:size value="38.77951"></viz:size>
+        <viz:position x="-725.3453" y="175.01866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="275" label="russian emigrants to ukraine">
+        <viz:size value="38.63697"></viz:size>
+        <viz:position x="1276.8711" y="-1377.7233"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="russian emigrants to czechoslovakia">
+        <viz:size value="38.280624"></viz:size>
+        <viz:position x="-462.32443" y="550.1704"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="polish emigrants to france">
+        <viz:size value="38.06682"></viz:size>
+        <viz:position x="-370.50824" y="1000.5249"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="samoan emigrants to new zealand">
+        <viz:size value="38.06682"></viz:size>
+        <viz:position x="1531.2789" y="236.67238"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="malaysian emigrants to singapore">
+        <viz:size value="37.71047"></viz:size>
+        <viz:position x="-1487.1036" y="-840.4218"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="russian emigrants to bulgaria">
+        <viz:size value="37.71047"></viz:size>
+        <viz:position x="-927.8222" y="542.39014"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="393" label="polish emigrants to mandatory palestine">
+        <viz:size value="37.49666"></viz:size>
+        <viz:position x="1361.0892" y="153.64958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="270" label="pakistani emigrants to canada">
+        <viz:size value="37.49666"></viz:size>
+        <viz:position x="1802.9727" y="-908.5389"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="487" label="chinese emigrants to singapore">
+        <viz:size value="37.49666"></viz:size>
+        <viz:position x="-1355.6224" y="-1289.8884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="402" label="russian emigrants to israel">
+        <viz:size value="37.069042"></viz:size>
+        <viz:position x="-1281.7897" y="-602.3312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="soviet emigrants to france">
+        <viz:size value="36.855236"></viz:size>
+        <viz:position x="-251.99355" y="304.31573"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="226" label="indian emigrants to pakistan">
+        <viz:size value="36.0"></viz:size>
+        <viz:position x="-451.378" y="1521.7274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="russian emigrants to australia">
+        <viz:size value="35.786194"></viz:size>
+        <viz:position x="-61.83337" y="348.82303"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="soviet emigrants to germany">
+        <viz:size value="35.786194"></viz:size>
+        <viz:position x="343.6045" y="-764.31506"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="295" label="polish emigrants to australia">
+        <viz:size value="35.287304"></viz:size>
+        <viz:position x="-662.3055" y="-1453.4099"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="argentine emigrants to israel">
+        <viz:size value="35.073498"></viz:size>
+        <viz:position x="1383.1956" y="1495.4618"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="359" label="soviet emigrants to canada">
+        <viz:size value="34.574608"></viz:size>
+        <viz:position x="-83.620316" y="1141.5358"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="russian emigrants to finland">
+        <viz:size value="34.28953"></viz:size>
+        <viz:position x="-770.8614" y="673.4836"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="220" label="italian emigrants to australia">
+        <viz:size value="34.28953"></viz:size>
+        <viz:position x="-1382.7694" y="1039.1646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="277" label="romanian emigrants to france">
+        <viz:size value="34.28953"></viz:size>
+        <viz:position x="-817.00946" y="1848.9839"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="293" label="moroccan emigrants to france">
+        <viz:size value="33.719376"></viz:size>
+        <viz:position x="-1538.2029" y="1333.018"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="russian emigrants to turkey">
+        <viz:size value="33.719376"></viz:size>
+        <viz:position x="-351.63263" y="207.66568"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="257" label="israeli emigrants to canada">
+        <viz:size value="33.4343"></viz:size>
+        <viz:position x="-372.98703" y="-1294.7975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="431" label="fijian emigrants to new zealand">
+        <viz:size value="33.149223"></viz:size>
+        <viz:position x="1998.9141" y="-404.78284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="spanish emigrants to argentina">
+        <viz:size value="32.792873"></viz:size>
+        <viz:position x="-1002.18396" y="1776.7812"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="268" label="guyanese emigrants to canada">
+        <viz:size value="32.507797"></viz:size>
+        <viz:position x="1349.7787" y="-26.257776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="fijian emigrants to australia">
+        <viz:size value="31.86637"></viz:size>
+        <viz:position x="-1225.0673" y="-1602.9631"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="russian emigrants to sweden">
+        <viz:size value="31.510023"></viz:size>
+        <viz:position x="-393.66785" y="394.8101"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="191" label="canadian emigrants to new zealand">
+        <viz:size value="31.510023"></viz:size>
+        <viz:position x="1545.4594" y="830.4582"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="chinese emigrants to australia">
+        <viz:size value="31.510023"></viz:size>
+        <viz:position x="1410.7169" y="-1232.6685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="318" label="norwegian emigrants to canada">
+        <viz:size value="31.153675"></viz:size>
+        <viz:position x="-1480.32" y="-1390.481"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="yugoslav emigrants to canada">
+        <viz:size value="31.153675"></viz:size>
+        <viz:position x="450.60406" y="1494.0463"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="336" label="south african emigrants to rhodesia">
+        <viz:size value="30.726059"></viz:size>
+        <viz:position x="1747.5577" y="1071.376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="371" label="zimbabwean emigrants to south africa">
+        <viz:size value="29.942093"></viz:size>
+        <viz:position x="1795.8842" y="590.8861"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="egyptian emigrants to france">
+        <viz:size value="29.514477"></viz:size>
+        <viz:position x="-99.05099" y="-896.068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="georgian emigrants to france">
+        <viz:size value="29.08686"></viz:size>
+        <viz:position x="-653.3496" y="1017.6249"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="yugoslav emigrants to australia">
+        <viz:size value="29.08686"></viz:size>
+        <viz:position x="14.924602" y="2008.1012"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="south african emigrants to israel">
+        <viz:size value="29.08686"></viz:size>
+        <viz:position x="-1858.2224" y="-818.4976"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="423" label="malaysian emigrants to australia">
+        <viz:size value="29.08686"></viz:size>
+        <viz:position x="1343.3392" y="-545.4524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="russian emigrants to poland">
+        <viz:size value="28.659243"></viz:size>
+        <viz:position x="-848.0223" y="416.87314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="kosovan emigrants to switzerland">
+        <viz:size value="28.160357"></viz:size>
+        <viz:position x="-992.6302" y="1554.4558"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="354" label="bulgarian emigrants to israel">
+        <viz:size value="27.66147"></viz:size>
+        <viz:position x="1705.1395" y="923.54364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="kazakhstani emigrants to germany">
+        <viz:size value="27.66147"></viz:size>
+        <viz:position x="335.81808" y="-952.7016"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="ukrainian emigrants to germany">
+        <viz:size value="27.66147"></viz:size>
+        <viz:position x="-910.21234" y="254.42334"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="335" label="zimbabwean emigrants to australia">
+        <viz:size value="27.162584"></viz:size>
+        <viz:position x="1851.451" y="849.4831"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="ottoman emigrants to france">
+        <viz:size value="27.162584"></viz:size>
+        <viz:position x="-272.47818" y="-299.93356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="yugoslav emigrants to germany">
+        <viz:size value="27.162584"></viz:size>
+        <viz:position x="118.734955" y="-1361.0127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="307" label="egyptian emigrants to australia">
+        <viz:size value="27.162584"></viz:size>
+        <viz:position x="-294.5371" y="2000.866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="317" label="argentine emigrants to chile">
+        <viz:size value="27.162584"></viz:size>
+        <viz:position x="976.13696" y="465.75092"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="russian emigrants to greece">
+        <viz:size value="27.162584"></viz:size>
+        <viz:position x="-589.7583" y="142.23096"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="368" label="dutch emigrants to new zealand">
+        <viz:size value="27.162584"></viz:size>
+        <viz:position x="-1764.1553" y="-667.412"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="236" label="canadian emigrants to israel">
+        <viz:size value="27.162584"></viz:size>
+        <viz:position x="987.12604" y="-1770.2833"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="latvian emigrants to israel">
+        <viz:size value="27.162584"></viz:size>
+        <viz:position x="-1312.4711" y="-133.03027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="russian emigrants to austria">
+        <viz:size value="27.162584"></viz:size>
+        <viz:position x="-331.6356" y="832.2656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="belgian emigrants to france">
+        <viz:size value="26.592428"></viz:size>
+        <viz:position x="-614.3434" y="-1934.9858"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="russian emigrants to belgium">
+        <viz:size value="26.592428"></viz:size>
+        <viz:position x="-286.36124" y="704.42957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="323" label="azerbaijani emigrants to russia">
+        <viz:size value="26.592428"></viz:size>
+        <viz:position x="-132.01622" y="-2019.7786"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="danish emigrants to new zealand">
+        <viz:size value="26.592428"></viz:size>
+        <viz:position x="1135.5266" y="-115.11127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="211" label="algerian emigrants to canada">
+        <viz:size value="26.022272"></viz:size>
+        <viz:position x="1880.4028" y="77.49395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="latvian emigrants to canada">
+        <viz:size value="26.022272"></viz:size>
+        <viz:position x="-19.197468" y="730.8905"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="363" label="lithuanian emigrants to israel">
+        <viz:size value="26.022272"></viz:size>
+        <viz:position x="-1018.82794" y="-524.5808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="383" label="polish emigrants to sweden">
+        <viz:size value="26.022272"></viz:size>
+        <viz:position x="-746.17194" y="-938.28705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="357" label="nigerian emigrants to canada">
+        <viz:size value="26.022272"></viz:size>
+        <viz:position x="-1744.4082" y="-12.701775"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="polish emigrants to mexico">
+        <viz:size value="26.022272"></viz:size>
+        <viz:position x="-317.94476" y="549.1967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="444" label="romanian emigrants to mandatory palestine">
+        <viz:size value="26.022272"></viz:size>
+        <viz:position x="-373.82523" y="-1119.7463"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="292" label="argentine emigrants to france">
+        <viz:size value="26.022272"></viz:size>
+        <viz:position x="-1656.2538" y="1194.96"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="kosovan emigrants to germany">
+        <viz:size value="25.380846"></viz:size>
+        <viz:position x="841.7709" y="-1845.039"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="serbian emigrants to canada">
+        <viz:size value="25.380846"></viz:size>
+        <viz:position x="346.43597" y="1630.4255"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="282" label="chinese emigrants to france">
+        <viz:size value="25.380846"></viz:size>
+        <viz:position x="-115.75746" y="-392.23206"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="argentine emigrants to england">
+        <viz:size value="25.380846"></viz:size>
+        <viz:position x="171.4995" y="24.866758"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="439" label="portuguese emigrants to canada">
+        <viz:size value="25.380846"></viz:size>
+        <viz:position x="-1528.7626" y="749.16956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="spanish emigrants to cuba">
+        <viz:size value="25.380846"></viz:size>
+        <viz:position x="1040.1442" y="-363.93704"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="russian emigrants to norway">
+        <viz:size value="24.739422"></viz:size>
+        <viz:position x="-671.8632" y="371.04333"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="279" label="taiwanese emigrants to canada">
+        <viz:size value="24.739422"></viz:size>
+        <viz:position x="689.18207" y="95.38956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="409" label="kenyan emigrants to canada">
+        <viz:size value="24.739422"></viz:size>
+        <viz:position x="-1313.2194" y="-1128.1017"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="416" label="azerbaijani emigrants to turkey">
+        <viz:size value="24.739422"></viz:size>
+        <viz:position x="-783.46454" y="-367.2909"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="vietnamese emigrants to canada">
+        <viz:size value="24.739422"></viz:size>
+        <viz:position x="687.81024" y="266.2401"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="argentine emigrants to canada">
+        <viz:size value="24.739422"></viz:size>
+        <viz:position x="-1263.2721" y="479.73892"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="austro-hungarian emigrants to canada">
+        <viz:size value="24.739422"></viz:size>
+        <viz:position x="-833.25385" y="-16.169895"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="177" label="zambian emigrants to south africa">
+        <viz:size value="24.026726"></viz:size>
+        <viz:position x="1116.9602" y="535.5843"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="302" label="icelandic emigrants to canada">
+        <viz:size value="24.026726"></viz:size>
+        <viz:position x="0.13657767" y="-505.6976"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="ukrainian emigrants to france">
+        <viz:size value="24.026726"></viz:size>
+        <viz:position x="-86.91786" y="528.13763"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="polish emigrants to argentina">
+        <viz:size value="24.026726"></viz:size>
+        <viz:position x="1518.9723" y="1365.4513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="russian emigrants to denmark">
+        <viz:size value="24.026726"></viz:size>
+        <viz:position x="-163.74266" y="642.634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="croatian emigrants to canada">
+        <viz:size value="24.026726"></viz:size>
+        <viz:position x="621.2479" y="1514.93"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="325" label="portuguese emigrants to brazil">
+        <viz:size value="24.026726"></viz:size>
+        <viz:position x="1066.5747" y="908.509"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="251" label="italian emigrants to israel">
+        <viz:size value="24.026726"></viz:size>
+        <viz:position x="1365.8326" y="1314.7781"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="moldovan emigrants to israel">
+        <viz:size value="24.026726"></viz:size>
+        <viz:position x="-955.0688" y="-688.72253"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="241" label="italian emigrants to mexico">
+        <viz:size value="24.026726"></viz:size>
+        <viz:position x="1234.071" y="-1204.6199"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="207" label="swedish emigrants to canada">
+        <viz:size value="23.242762"></viz:size>
+        <viz:position x="831.60376" y="554.469"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="182" label="ottoman emigrants to italy">
+        <viz:size value="23.242762"></viz:size>
+        <viz:position x="-361.72513" y="-653.2407"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="ukrainian emigrants to argentina">
+        <viz:size value="23.242762"></viz:size>
+        <viz:position x="-1094.4945" y="506.7709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="egyptian emigrants to israel">
+        <viz:size value="23.242762"></viz:size>
+        <viz:position x="534.3619" y="150.25519"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="407" label="barbadian emigrants to england">
+        <viz:size value="23.242762"></viz:size>
+        <viz:position x="740.4842" y="1675.0948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="croatian emigrants to australia">
+        <viz:size value="23.242762"></viz:size>
+        <viz:position x="-140.12561" y="2024.7825"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="184" label="spanish emigrants to venezuela">
+        <viz:size value="23.242762"></viz:size>
+        <viz:position x="154.2391" y="-580.47235"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="448" label="bulgarian emigrants to germany">
+        <viz:size value="23.242762"></viz:size>
+        <viz:position x="1320.5387" y="1073.3833"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="180" label="israeli emigrants to australia">
+        <viz:size value="23.242762"></viz:size>
+        <viz:position x="-713.4453" y="-1111.8193"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="463" label="mexican emigrants to canada">
+        <viz:size value="22.387527"></viz:size>
+        <viz:position x="843.0675" y="205.87154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="338" label="belarusian emigrants to israel">
+        <viz:size value="22.387527"></viz:size>
+        <viz:position x="1143.7637" y="350.76254"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="470" label="kyrgyzstani emigrants">
+        <viz:size value="22.387527"></viz:size>
+        <viz:position x="446.57346" y="-1072.1987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="soviet emigrants to mexico">
+        <viz:size value="22.387527"></viz:size>
+        <viz:position x="-565.2712" y="-231.6685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="213" label="spanish emigrants to uruguay">
+        <viz:size value="22.387527"></viz:size>
+        <viz:position x="1001.22144" y="-645.4568"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="386" label="vietnamese emigrants to australia">
+        <viz:size value="22.387527"></viz:size>
+        <viz:position x="1994.5464" y="328.07025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="soviet emigrants to australia">
+        <viz:size value="22.387527"></viz:size>
+        <viz:position x="-154.26096" y="828.94885"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="224" label="vietnamese emigrants to france">
+        <viz:size value="22.387527"></viz:size>
+        <viz:position x="-207.78731" y="-519.76117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="bosnia and herzegovina emigrants to germany">
+        <viz:size value="22.387527"></viz:size>
+        <viz:position x="-1697.8612" y="268.29913"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="serbian emigrants to australia">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="169.48587" y="2021.0613"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="362" label="lithuanian emigrants to canada">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="274.62054" y="906.58875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="bosnia and herzegovina emigrants to australia">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="324.02646" y="1998.5654"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="samoan emigrants to australia">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="1674.8892" y="148.36194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="israeli emigrants to france">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="-526.74756" y="-1239.5997"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="yugoslav emigrants to israel">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="-195.39944" y="-1051.0332"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="428" label="dutch emigrants to germany">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="-1097.0596" y="1321.8778"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="bosnia and herzegovina emigrants to turkey">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="-1877.507" y="-336.81076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="445" label="lithuanian emigrants to south africa">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="-1635.5442" y="121.252396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="222" label="kosovan emigrants to sweden">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="-1396.7858" y="1247.672"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="443" label="polish emigrants to brazil">
+        <viz:size value="21.532295"></viz:size>
+        <viz:position x="-779.4547" y="-747.8557"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="173" label="brazilian emigrants to canada">
+        <viz:size value="20.534521"></viz:size>
+        <viz:position x="908.53174" y="-1279.5114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="russian emigrants to ireland">
+        <viz:size value="20.534521"></viz:size>
+        <viz:position x="-430.85715" y="713.36316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="174" label="moroccan emigrants to canada">
+        <viz:size value="20.534521"></viz:size>
+        <viz:position x="1057.5604" y="-1164.0237"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="azerbaijani emigrants to iran">
+        <viz:size value="20.534521"></viz:size>
+        <viz:position x="-606.15784" y="-690.233"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="488" label="chilean emigrants to mexico">
+        <viz:size value="20.534521"></viz:size>
+        <viz:position x="-1551.2863" y="555.0756"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="417" label="latvian emigrants to australia">
+        <viz:size value="20.534521"></viz:size>
+        <viz:position x="-1501.805" y="-178.48029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="uzbekistani emigrants to israel">
+        <viz:size value="20.534521"></viz:size>
+        <viz:position x="-1136.614" y="-644.6041"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="421" label="ottoman emigrants to greece">
+        <viz:size value="20.534521"></viz:size>
+        <viz:position x="-255.90508" y="-1845.0249"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="202" label="latvian emigrants to germany">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="-1383.7299" y="-290.0177"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="soviet emigrants to switzerland">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="-225.93698" y="-102.5443"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="palestinian emigrants to canada">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="918.87946" y="1237.3047"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="252" label="libyan emigrants to israel">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="1616.5358" y="1216.1611"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="482" label="italian emigrants to venezuela">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="1324.277" y="-1070.6884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="205" label="australian emigrants to israel">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="-808.3472" y="-1553.8572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="328" label="brazilian emigrants to france">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="777.5892" y="1497.1062"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="410" label="tanzanian emigrants to canada">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="-1165.5648" y="-1076.7295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="361" label="maltese emigrants to australia">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="660.2407" y="619.14716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="192" label="polish emigrants to new zealand">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="781.5105" y="715.5615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="bulgarian emigrants to canada">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="1220.5863" y="1431.2054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="301" label="bosnia and herzegovina emigrants to canada">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="-1845.8738" y="361.03812"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="249" label="brazilian emigrants to israel">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="521.84125" y="-1630.323"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="australian emigrants to ireland">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="-1356.0415" y="-1506.4381"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="471" label="sri lankan emigrants to italy">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="-1233.5933" y="-923.26294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="russian emigrants to spain">
+        <viz:size value="19.46548"></viz:size>
+        <viz:position x="-654.1077" y="518.88434"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="321" label="syrian emigrants to sweden">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="1072.6057" y="1350.713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="485" label="puerto rican emigrants to mexico">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="1971.5754" y="505.457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="364" label="syrian emigrants to canada">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="484.98972" y="-685.09955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="soviet emigrants to iran">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="-432.09116" y="-283.10315"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="200" label="yugoslav emigrants to france">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="793.54596" y="1123.0242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="175" label="armenian emigrants to germany">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="-603.0217" y="-874.3514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="singaporean emigrants to canada">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="-1400.5367" y="-972.2952"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="spanish emigrants to chile">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="-1135.4248" y="1675.7592"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="418" label="south korean emigrants to australia">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="-1547.6577" y="-357.1146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="460" label="australian emigrants to south africa">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="239.99185" y="513.83453"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="czech emigrants to canada">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="998.30884" y="134.08727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="480" label="mexican emigrants to israel">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="-852.70074" y="-525.3005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="215" label="indian emigrants to kenya">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="410.65445" y="248.81529"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="475" label="rwandan emigrants to canada">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="-1668.2678" y="434.10608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="serbian emigrants to turkey">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="-1983.7476" y="-465.61417"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="283" label="syrian emigrants to france">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="1242.1505" y="-892.5801"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="442" label="romanian emigrants to hungary">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="512.87964" y="703.57947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="287" label="chilean emigrants to france">
+        <viz:size value="18.253899"></viz:size>
+        <viz:position x="636.58185" y="-661.04065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="soviet emigrants to argentina">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-1327.4016" y="316.19208"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="377" label="yugoslav emigrants to argentina">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="1519.8926" y="-627.3866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="396" label="ukrainian emigrants to azerbaijan">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="32.336082" y="-2029.4738"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="353" label="bulgarian emigrants to england">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="1569.0432" y="1031.0065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="387" label="kosovan emigrants to finland">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-1267.9634" y="1369.3966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="256" label="ukrainian emigrants to italy">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-640.8885" y="1196.365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="467" label="russian emigrants to new zealand">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-1943.5844" y="616.58685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="206" label="belgian emigrants to australia">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-638.52075" y="-1618.4598"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="247" label="chilean emigrants to argentina">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-153.10364" y="-1701.8798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="albanian emigrants to germany">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="690.43713" y="-1914.1035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="russian emigrants to mexico">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-230.43822" y="447.81183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="285" label="croatian emigrants to new zealand">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="1728.7316" y="-191.52853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="indian emigrants to china">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-1823.2921" y="920.31573"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="392" label="ottoman emigrants to egypt">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-233.19096" y="-766.74"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="croatian emigrants to switzerland">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-1601.426" y="-686.15173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="albanian emigrants to switzerland">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-929.67163" y="1390.3961"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="272" label="taiwanese emigrants to singapore">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="543.29517" y="-22.67464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="austro-hungarian emigrants to germany">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-1315.7454" y="135.78616"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="355" label="ukrainian emigrants to turkey">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="-1003.7106" y="-32.06798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="199" label="serbian emigrants to france">
+        <viz:size value="16.899776"></viz:size>
+        <viz:position x="763.5214" y="1315.1755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="soviet emigrants to norway">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-382.06955" y="-132.76721"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="373" label="egyptian emigrants to switzerland">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-1093.9209" y="-808.542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="441" label="soviet emigrants to greece">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-452.8092" y="-1967.0188"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="438" label="angolan emigrants to portugal">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-1404.9409" y="860.9798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="266" label="libyan emigrants to italy">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="140.45763" y="-416.72775"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="315" label="salvadoran emigrants to canada">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-874.69745" y="1680.8293"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="algerian emigrants to england">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="2027.115" y="-203.69011"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="447" label="chinese emigrants to malaysia">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-1584.2142" y="-998.3668"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="bosnia and herzegovina emigrants to slovenia">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-1852.3319" y="-166.5696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="208" label="soviet emigrants to czechoslovakia">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="564.65796" y="-194.91898"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="312" label="serbian emigrants to sweden">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-574.9803" y="1369.3131"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="croatian emigrants to germany">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="279.2231" y="-1347.6555"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="483" label="dutch emigrants to sweden">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="297.12686" y="1056.9038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="179" label="israeli emigrants to austria">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-883.28046" y="-1057.2029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="415" label="brazilian emigrants to england">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-108.01778" y="-230.25975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="assyrian emigrants to sweden">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="1069.7615" y="1533.6901"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="225" label="albanian emigrants to england">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="524.094" y="524.53546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="341" label="cypriot emigrants to greece">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-45.748882" y="-75.05374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="171" label="czech emigrants to australia">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-1283.6158" y="1575.3506"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="340" label="belarusian emigrants to canada">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="261.54715" y="1465.1837"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="311" label="yugoslav emigrants to sweden">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-746.97565" y="1358.9525"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="croatian emigrants to israel">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="-209.29427" y="-1209.1317"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="400" label="mozambican emigrants to south africa">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="14.197628" y="-1684.7865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="slovak emigrants to canada">
+        <viz:size value="15.260578"></viz:size>
+        <viz:position x="1647.6776" y="-762.77606"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="macau emigrants">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="1435.5138" y="-1427.0038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="yugoslav emigrants to italy">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-212.86815" y="1331.3828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="331" label="chilean emigrants to israel">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="795.44824" y="-1408.121"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="246" label="ukrainian emigrants to brazil">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="666.5576" y="-1315.5278"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="243" label="indian emigrants to france">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="1568.2257" y="-279.37357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="419" label="south korean emigrants to new zealand">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-1636.9988" y="-508.26746"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="212" label="soviet emigrants to romania">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-188.19554" y="1015.2746"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="soviet emigrants to turkey">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-519.1239" y="-74.99599"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="486" label="dominican republic emigrants to puerto rico">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="1923.0131" y="680.23425"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="276" label="romanian emigrants to australia">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-588.91693" y="1814.6853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="canadian emigrants to france">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="872.5779" y="-780.9953"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="273" label="south african emigrants to france">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="566.71564" y="-360.71976"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="265" label="norwegian emigrants to greenland">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="438.00595" y="-1285.4271"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="374" label="egyptian emigrants to italy">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-1034.5509" y="-960.306"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="422" label="lithuanian emigrants to france">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-799.9711" y="1004.41547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="danish emigrants to germany">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-1527.607" y="339.48068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="georgian emigrants to iran">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-509.36716" y="-555.5584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="croatian emigrants to italy">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-362.51688" y="1391.7565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="185" label="polish emigrants to italy">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-952.22797" y="1026.2146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="russian emigrants to mandatory palestine">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-661.7873" y="-32.59078"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="449" label="croatian emigrants to argentina">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-1092.428" y="916.0914"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="serbian emigrants to bulgaria">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="1224.8536" y="1231.0515"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="414" label="lithuanian emigrants to mandatory palestine">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-1902.0881" y="24.766747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="soviet emigrants to poland">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-106.78494" y="204.80063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="411" label="gibraltarian emigrants to australia">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="810.2877" y="1836.9633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="258" label="bulgarian emigrants to new zealand">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="549.5776" y="348.1088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="yugoslav emigrants to switzerland">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-1671.7792" y="-840.3556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="319" label="canadian emigrants to mexico">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="-1236.1887" y="991.90936"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="swedish emigrants to germany">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="1515.4329" y="55.69205"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="italian emigrants to south africa">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="262.08875" y="-107.57733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="czech emigrants to israel">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="1514.6443" y="-1066.0851"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="245" label="soviet emigrants to brazil">
+        <viz:size value="13.407572"></viz:size>
+        <viz:position x="545.1454" y="-1422.9801"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="tajikistani emigrants to germany">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="88.55977" y="-904.3572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="376" label="slovenian emigrants to argentina">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="1659.8375" y="-532.39105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="378" label="spanish emigrants to costa rica">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="1877.9729" y="-102.733154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="339" label="belarusian emigrants to france">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="244.2792" y="1254.9127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="264" label="danish emigrants to greenland">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="565.1538" y="-1180.9187"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="372" label="serbian emigrants to germany">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="36.667828" y="-1517.6858"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="russian emigrants to india">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="245.7453" y="324.394"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="194" label="dutch emigrants to new netherland">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="409.16324" y="-159.12555"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="austro-hungarian emigrants to argentina">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="-1250.171" y="797.16736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="190" label="zambian emigrants to canada">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="1280.2572" y="653.82855"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="248" label="republic of venice emigrants">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="901.42303" y="-1109.678"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="408" label="zambian emigrants to australia">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="1143.3035" y="751.9976"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="kosovan emigrants to austria">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="-244.88208" y="1831.3827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="278" label="spanish emigrants to germany">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="832.45654" y="376.39755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="381" label="swedish emigrants to finland">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="466.75684" y="1216.5538"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="203" label="austro-hungarian emigrants to australia">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="773.12866" y="902.9229"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="412" label="ukrainian emigrants to bulgaria">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="-1077.3296" y="750.65875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="algerian emigrants to switzerland">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="2027.5815" y="160.25302"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="russian emigrants to estonia">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="-455.22647" y="85.375946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="290" label="nigerian emigrants to australia">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="528.98663" y="1656.1248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="437" label="yemeni emigrants to canada">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="1017.2363" y="-209.9024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="yugoslav emigrants to mandatory palestine">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="299.15283" y="-444.036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="304" label="swedish emigrants to south africa">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="743.7451" y="-421.2816"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="274" label="ukrainian emigrants to belarus">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="1151.0779" y="-1504.0137"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="193" label="saudi arabian emigrants to canada">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="905.717" y="795.25665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="344" label="lithuanian emigrants to italy">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="1507.3958" y="425.87234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="norwegian emigrants to france">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="-1690.1825" y="-1127.9276"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="401" label="swiss emigrants to brazil">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="670.36926" y="1933.3823"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="424" label="malaysian emigrants to canada">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="1500.765" y="-460.15683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="271" label="fijian emigrants to canada">
+        <viz:size value="11.126949"></viz:size>
+        <viz:position x="93.45578" y="590.05383"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="233" label="portuguese emigrants to mozambique">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="212.96782" y="-1522.6571"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="346" label="belarusian emigrants to ukraine">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-145.92839" y="-1534.0481"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="297" label="australian emigrants to japan">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-1713.2178" y="-333.85095"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="172" label="czech emigrants to new zealand">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-1409.7429" y="1460.9606"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="345" label="russian emigrants to belarus">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-220.31096" y="-1386.119"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="189" label="saint helenian emigrants to new zealand">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="392.3424" y="-1487.9006"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="250" label="paraguayan emigrants to brazil">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="430.74118" y="-1797.5691"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="227" label="pakistani emigrants to denmark">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-339.48016" y="1657.2457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="pakistani emigrants to wales">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="407.02988" y="-324.9116"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="chinese emigrants to israel">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-1062.5013" y="-1491.7919"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="390" label="soviet emigrants to china">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-965.2196" y="-1616.2007"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="397" label="italian emigrants to austria">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="201.61755" y="-2013.3556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="204" label="swedish emigrants to israel">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="807.73926" y="-953.23737"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="soviet emigrants to yugoslavia">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-183.37895" y="82.63275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="albanian emigrants to austria">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-403.62646" y="1824.0807"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="403" label="swiss emigrants to austria">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-1166.6431" y="-1264.3933"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="461" label="kosovan emigrants to albania">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-787.2172" y="-1723.8691"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="196" label="soviet emigrants to austria">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="185.74745" y="-743.00745"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="405" label="chinese emigrants to south africa">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="1421.801" y="-169.51468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="456" label="indonesian emigrants to canada">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="368.5958" y="-1993.0795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="231" label="icelandic emigrants to switzerland">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-1172.5889" y="-30.296082"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="452" label="armenian emigrants to france">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-507.94113" y="1089.7886"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="469" label="macedonian emigrants to australia">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-77.09534" y="1852.1143"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="218" label="italian emigrants to india">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="1636.9188" y="-1175.6079"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="176" label="congress poland emigrants to france">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="1170.1686" y="-737.3236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="303" label="south african emigrants to mandatory palestine">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="618.0083" y="975.69946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="237" label="palestinian emigrants to lebanon">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="369.31876" y="609.8556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="230" label="albanian emigrants to belgium">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="273.35663" y="1833.5056"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="219" label="italian emigrants to new zealand">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-1552.1582" y="954.76306"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="324" label="georgian emigrants to bulgaria">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-1204.2662" y="637.9855"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="286" label="romanian emigrants to austria">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-697.556" y="-1295.0947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="latvian emigrants to south africa">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-1932.2062" y="-650.1803"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="305" label="jamaican emigrants to australia">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="433.2378" y="1803.5037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="314" label="honduran emigrants to el salvador">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-812.1598" y="1523.37"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="459" label="honduran emigrants to guatemala">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-525.0405" y="1667.4514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="kenyan emigrants to south africa">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="103.940186" y="221.59685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="spanish emigrants to australia">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="1647.0614" y="512.94867"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="433" label="moroccan emigrants to tunisia">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="5.196715" y="1689.1223"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="209" label="serbian emigrants to israel">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="1680.4441" y="331.37637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="291" label="beninese emigrants to france">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="27.303892" y="-699.5808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="234" label="portuguese emigrants to south africa">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="175.70044" y="-1688.2657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="261" label="soviet emigrants to belgium">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-724.80634" y="-193.00667"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="453" label="peruvian emigrants to france">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="1151.1608" y="196.8495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="239" label="latvian emigrants to argentina">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-2026.4515" y="-91.17625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="316" label="yugoslav emigrants to bulgaria">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="1069.604" y="1168.6356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="262" label="swiss emigrants to israel">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-860.6886" y="-1412.6987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="229" label="kosovan emigrants to belgium">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="193.32347" y="1689.4247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="bangladeshi emigrants to scotland">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-354.0401" y="-1486.807"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="472" label="sri lankan emigrants to germany">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-1296.1156" y="-782.6788"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="427" label="dutch emigrants to italy">
+        <viz:size value="8.133631"></viz:size>
+        <viz:position x="-1.2221377" y="943.47614"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="432" label="wallis and futuna emigrants to new zealand">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1949.6726" y="-590.20996"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="351" label="romanian emigrants to brazil">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-341.79703" y="-443.84073"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="365" label="czech emigrants to mexico">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1878.4414" y="-770.8733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="489" label="belarusian emigrants to scotland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1307.4738" y="466.6966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="356" label="montenegrin emigrants to australia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="99.25915" y="1848.4934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="bulgarian emigrants to russia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="38.490993" y="-301.36047"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="450" label="australian emigrants to fiji">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="652.9195" y="-1018.71954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="223" label="canadian emigrants to austria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1161.4125" y="42.004883"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="183" label="australian emigrants to sri lanka">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="617.95435" y="-514.4249"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="czech emigrants to sweden">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="321.0908" y="-604.58997"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="178" label="soviet emigrants to paraguay">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="136.81622" y="1020.56146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="458" label="honduran emigrants to czechoslovakia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-706.67145" y="1692.2767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="260" label="chadian emigrants to burkina faso">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="106.893105" y="1545.1075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="299" label="soviet emigrants to italy">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-913.2043" y="682.1303"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="284" label="yugoslav emigrants to new zealand">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1873.0874" y="-289.05664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="northern ireland emigrants to new zealand">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-472.15652" y="-1621.9164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="217" label="italian emigrants to italy">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1556.5945" y="-1307.3961"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="462" label="yugoslav emigrants to albania">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-944.2923" y="-1796.3994"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="436" label="cypriot emigrants to canada">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="859.1344" y="-135.57556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="388" label="yugoslav emigrants to finland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1242.661" y="1194.6628"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="391" label="latvian emigrants to norway">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-613.6211" y="-424.1966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="358" label="nigerian emigrants to ukraine">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1837.012" y="171.63039"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="lithuanian emigrants to new zealand">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1556.2211" y="-16.295065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="429" label="aruban emigrants to germany">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1136.1732" y="1484.8263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="244" label="norwegian emigrants to ireland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="235.3602" y="-273.5542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="294" label="icelandic emigrants to denmark">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="703.4204" y="-78.68435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="320" label="canadian emigrants to cuba">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1107.108" y="1109.7074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="479" label="montenegrin emigrants to canada">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="381.5985" y="1346.9434"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="395" label="romanian emigrants to luxembourg">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-475.3347" y="1977.5167"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="327" label="soviet emigrants to iceland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1163.7019" y="276.982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="egyptian emigrants to lebanon">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-13.520005" y="-1045.8213"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="186" label="albanian emigrants to france">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="458.11783" y="-509.30505"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="473" label="norwegian emigrants to italy">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-34.82057" y="-1207.2922"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="343" label="czech emigrants to ireland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1208.8215" y="-1415.0873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="350" label="indian emigrants to belgium">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="688.3646" y="451.74774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="430" label="dutch emigrants to colombia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="22.307976" y="70.914925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="181" label="indian emigrants to rhodesia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1572.2278" y="661.20447"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="201" label="egyptian emigrants to nigeria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1710.973" y="743.8742"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="306" label="czech emigrants to austria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1766.1571" y="-662.12506"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="254" label="ottoman emigrants to mexico">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-70.74567" y="-1858.8934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="382" label="russian emigrants to iceland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1129.713" y="124.506935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="i-kiribati emigrants to fiji">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="605.0362" y="-1771.8438"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="399" label="latvian emigrants to mexico">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-2021.7351" y="-260.906"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="334" label="chilean emigrants to austria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-850.13904" y="-1231.1956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="342" label="syrian emigrants to pakistan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="922.44226" y="1427.1431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="394" label="romanian emigrants to greece">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-663.72833" y="1938.9454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="221" label="albanian emigrants to sweden">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1514.1863" y="1127.6361"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="426" label="russian emigrants to lebanon">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="873.61456" y="-301.84372"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="269" label="burmese emigrants to pakistan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1733.9098" y="-1050.34"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="360" label="uzbekistani emigrants to australia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-278.8009" y="1177.2139"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="swiss emigrants to mandatory palestine">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1058.8207" y="-198.38202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="477" label="saudi arabian emigrants to oman">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="300.37326" y="-1167.976"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="259" label="chadian emigrants to rwanda">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="112.392365" y="1379.5317"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="belgian emigrants to south africa">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-590.7947" y="-1778.5316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="465" label="guyanese emigrants to saint kitts and nevis">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1436.3822" y="580.25006"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="198" label="ethiopian emigrants to belgium">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="957.08374" y="1783.0568"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="474" label="norwegian emigrants to austria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-54.28248" y="-1364.9967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="435" label="new zealand emigrants to fiji">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="494.16995" y="1962.2324"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="348" label="chinese emigrants to mandatory palestine">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-887.44775" y="848.3385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="188" label="saint helenian emigrants to south africa">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="344.36935" y="-1650.6226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="216" label="zambian emigrants to malawi">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="989.0655" y="301.4353"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="281" label="russian emigrants to venezuela">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1030.8992" y="355.41882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="albanian emigrants to montenegro">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="993.5572" y="-1614.6248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="330" label="swedish emigrants to china">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1314.9319" y="-1558.0203"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="kuwaiti emigrants to egypt">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1853.7236" y="756.7053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="349" label="emigrants by nationality">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="752.34534" y="-1160.9774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="uzbekistani emigrants to england">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-57.225693" y="1344.3511"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="451" label="wallis and futuna emigrants to fiji">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1837.7448" y="-478.30283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="288" label="i-kiribati emigrants to new zealand">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="663.3736" y="-1544.9164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="egyptian emigrants to yemen">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1679.9031" y="833.9916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="406" label="romanian emigrants to ukraine">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="386.70557" y="27.274258"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="210" label="bosnia and herzegovina emigrants to israel">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1832.4528" y="236.8275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="296" label="indian emigrants to italy">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="639.1924" y="809.3284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="czech emigrants to croatia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1420.3668" y="-931.34216"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="384" label="kazakh emigrants to israel">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1307.4341" y="-434.78775"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="332" label="romanian emigrants to chile">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="973.8745" y="-1439.1501"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="313" label="fijian emigrants to ireland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1105.1708" y="-1708.3174"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="195" label="ukrainian emigrants to austria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="189.73468" y="-1018.9176"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="afghan emigrants to england">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-64.71665" y="1509.2338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="egyptian emigrants to mandatory palestine">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-962.0156" y="-349.21796"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="canadian emigrants to brazil">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="691.2766" y="-834.49774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="afghan emigrants to russia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="101.93968" y="409.29996"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="440" label="togolese emigrants to greenland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1046.5062" y="-830.8966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="dutch emigrants to mandatory palestine">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1398.8474" y="6.626669"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="481" label="zanzibari emigrants">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="452.6366" y="1020.02545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="375" label="bangladeshi emigrants to saudi arabia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="474.87888" y="872.0334"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="326" label="chinese emigrants to india">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1260.4622" y="879.1183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="soviet emigrants to south africa">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1465.1497" y="-784.71954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="367" label="dominica emigrants to antigua and barbuda">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-104.85673" y="-631.8574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="484" label="ukrainian emigrants to mexico">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-710.9281" y="-567.08246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="457" label="guyanese emigrants to anguilla">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1167.5585" y="1028.2451"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="454" label="bulgarian emigrants to austria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1425.6663" y="952.9071"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="232" label="zambian emigrants to england">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1361.5865" y="317.46826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="379" label="canadian emigrants to costa rica">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1727.9928" y="-8.078826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="187" label="trinidad and tobago emigrants to guyana">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="119.51874" y="839.58276"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="214" label="israeli emigrants to peru">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1144.3776" y="-1019.6704"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="canadian emigrants to argentina">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="797.84106" y="-594.82355"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="280" label="armenian emigrants to israel">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="840.1378" y="-1574.1626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="trinidad and tobago emigrants to australia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="994.58057" y="-29.198294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="466" label="palestinian emigrants to libya">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="904.16925" y="-465.106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="434" label="moroccan emigrants to argentina">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-157.98698" y="1676.098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="464" label="bangladeshi emigrants to pakistan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="843.1164" y="37.449066"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="romanian emigrants to austria-hungary">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1020.60114" y="-1162.3289"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="476" label="saudi arabian emigrants to australia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="136.13873" y="-1185.9232"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="333" label="soviet emigrants to pakistan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="513.593" y="-905.4275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="polish emigrants to paraguay">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1691.2529" y="662.24207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="palestinian emigrants to australia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="942.2989" y="1041.4957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="267" label="canadian emigrants to china">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1134.079" y="-563.0296"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="308" label="bahamian emigrants to haiti">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1463.4259" y="-510.01392"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="309" label="bahamian emigrants to jamaica">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1437.4253" y="-673.04395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="455" label="indonesian emigrants to japan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="521.9246" y="-1954.0186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="468" label="latvian emigrants to new zealand">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1985.9469" y="447.2609"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="ottoman emigrants to india">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1714.2828" y="1037.1218"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="ukrainian emigrants to south africa">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1327.0381" y="-708.6382"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="polish-jewish emigrants to sweden">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1575.0292" y="-90.865715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="310" label="polish emigrants to cuba">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="97.82218" y="-149.4243"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="370" label="swiss emigrants to liechtenstein">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1422.592" y="468.77014"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="337" label="georgian emigrants to poland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="716.38416" y="-254.4446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="polish emigrants to uruguay">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1799.3945" y="543.4545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="300" label="afghan emigrants to israel">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="388.2699" y="425.93262"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="322" label="azerbaijani emigrants to croatia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-293.4109" y="-2009.8362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="bosnia and herzegovina emigrants to bulgaria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1449.924" y="1174.4373"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="347" label="australian emigrants to germany">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="201.56967" y="705.1705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="425" label="nigerian emigrants to india">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="348.2226" y="773.1112"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="255" label="syrian emigrants to mexico">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="92.91374" y="-1857.3488"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="norwegian emigrants to mexico">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1587.8884" y="-1264.5685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="389" label="israeli emigrants to norway">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1781.3368" y="-973.597"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="380" label="norwegian emigrants to finland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="586.02185" y="1349.6339"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="352" label="afghan emigrants to iran">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-300.43344" y="-919.1536"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="263" label="ukrainian emigrants to costa rica">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="971.43414" y="643.71564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="242" label="indian emigrants to switzerland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1703.0698" y="-367.62677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="446" label="chinese emigrants to myanmar">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1481.8253" y="-1141.7603"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="197" label="danish emigrants to belgium">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1095.1376" y="1707.1023"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="26.0"></edge>
+      <edge id="1" source="1" target="2" weight="25.0"></edge>
+      <edge id="2" source="3" target="0" weight="24.0"></edge>
+      <edge id="3" source="2" target="3" weight="22.0"></edge>
+      <edge id="4" source="4" target="1" weight="19.0"></edge>
+      <edge id="5" source="5" target="1" weight="17.0"></edge>
+      <edge id="6" source="6" target="1" weight="15.0"></edge>
+      <edge id="7" source="7" target="1" weight="14.0"></edge>
+      <edge id="8" source="8" target="1" weight="14.0"></edge>
+      <edge id="9" source="9" target="10" weight="13.0"></edge>
+      <edge id="10" source="5" target="3" weight="12.0"></edge>
+      <edge id="11" source="11" target="12" weight="11.0"></edge>
+      <edge id="12" source="6" target="3" weight="11.0"></edge>
+      <edge id="13" source="0" target="13" weight="11.0"></edge>
+      <edge id="14" source="14" target="13" weight="10.0"></edge>
+      <edge id="15" source="15" target="12" weight="10.0"></edge>
+      <edge id="16" source="16" target="7" weight="10.0"></edge>
+      <edge id="17" source="6" target="13" weight="10.0"></edge>
+      <edge id="18" source="14" target="1" weight="10.0"></edge>
+      <edge id="19" source="8" target="12" weight="10.0"></edge>
+      <edge id="20" source="11" target="1" weight="9.0"></edge>
+      <edge id="21" source="1" target="17" weight="9.0"></edge>
+      <edge id="22" source="12" target="4" weight="9.0"></edge>
+      <edge id="23" source="1" target="18" weight="9.0"></edge>
+      <edge id="24" source="19" target="1" weight="9.0"></edge>
+      <edge id="25" source="20" target="1" weight="8.0"></edge>
+      <edge id="26" source="4" target="3" weight="8.0"></edge>
+      <edge id="27" source="8" target="21" weight="7.0"></edge>
+      <edge id="28" source="21" target="0" weight="7.0"></edge>
+      <edge id="29" source="0" target="12" weight="7.0"></edge>
+      <edge id="30" source="5" target="13" weight="7.0"></edge>
+      <edge id="31" source="22" target="1" weight="7.0"></edge>
+      <edge id="32" source="5" target="12" weight="6.0"></edge>
+      <edge id="33" source="12" target="18" weight="6.0"></edge>
+      <edge id="34" source="23" target="24" weight="6.0"></edge>
+      <edge id="35" source="13" target="2" weight="6.0"></edge>
+      <edge id="36" source="25" target="10" weight="6.0"></edge>
+      <edge id="37" source="26" target="1" weight="5.0"></edge>
+      <edge id="38" source="13" target="8" weight="5.0"></edge>
+      <edge id="39" source="3" target="27" weight="5.0"></edge>
+      <edge id="40" source="3" target="8" weight="5.0"></edge>
+      <edge id="41" source="28" target="23" weight="5.0"></edge>
+      <edge id="42" source="29" target="1" weight="5.0"></edge>
+      <edge id="43" source="17" target="12" weight="5.0"></edge>
+      <edge id="44" source="17" target="3" weight="5.0"></edge>
+      <edge id="45" source="3" target="22" weight="5.0"></edge>
+      <edge id="46" source="30" target="31" weight="5.0"></edge>
+      <edge id="47" source="32" target="33" weight="5.0"></edge>
+      <edge id="48" source="0" target="34" weight="5.0"></edge>
+      <edge id="49" source="27" target="1" weight="5.0"></edge>
+      <edge id="50" source="19" target="3" weight="5.0"></edge>
+      <edge id="51" source="26" target="21" weight="4.0"></edge>
+      <edge id="52" source="3" target="20" weight="4.0"></edge>
+      <edge id="53" source="18" target="21" weight="4.0"></edge>
+      <edge id="54" source="10" target="35" weight="4.0"></edge>
+      <edge id="55" source="11" target="13" weight="4.0"></edge>
+      <edge id="56" source="3" target="18" weight="4.0"></edge>
+      <edge id="57" source="12" target="36" weight="4.0"></edge>
+      <edge id="58" source="27" target="21" weight="4.0"></edge>
+      <edge id="59" source="37" target="1" weight="4.0"></edge>
+      <edge id="60" source="21" target="6" weight="4.0"></edge>
+      <edge id="61" source="38" target="39" weight="4.0"></edge>
+      <edge id="62" source="19" target="12" weight="3.0"></edge>
+      <edge id="63" source="12" target="40" weight="3.0"></edge>
+      <edge id="64" source="8" target="41" weight="3.0"></edge>
+      <edge id="65" source="42" target="43" weight="3.0"></edge>
+      <edge id="66" source="44" target="1" weight="3.0"></edge>
+      <edge id="67" source="45" target="46" weight="3.0"></edge>
+      <edge id="68" source="3" target="44" weight="3.0"></edge>
+      <edge id="69" source="47" target="15" weight="3.0"></edge>
+      <edge id="70" source="4" target="16" weight="3.0"></edge>
+      <edge id="71" source="34" target="8" weight="3.0"></edge>
+      <edge id="72" source="1" target="45" weight="3.0"></edge>
+      <edge id="73" source="13" target="18" weight="3.0"></edge>
+      <edge id="74" source="22" target="13" weight="3.0"></edge>
+      <edge id="75" source="48" target="36" weight="3.0"></edge>
+      <edge id="76" source="49" target="12" weight="3.0"></edge>
+      <edge id="77" source="50" target="10" weight="3.0"></edge>
+      <edge id="78" source="51" target="52" weight="2.0"></edge>
+      <edge id="79" source="53" target="54" weight="2.0"></edge>
+      <edge id="80" source="1" target="55" weight="2.0"></edge>
+      <edge id="81" source="56" target="57" weight="2.0"></edge>
+      <edge id="82" source="58" target="59" weight="2.0"></edge>
+      <edge id="83" source="13" target="20" weight="2.0"></edge>
+      <edge id="84" source="60" target="61" weight="2.0"></edge>
+      <edge id="85" source="19" target="13" weight="2.0"></edge>
+      <edge id="86" source="1" target="62" weight="2.0"></edge>
+      <edge id="87" source="1" target="63" weight="2.0"></edge>
+      <edge id="88" source="3" target="29" weight="2.0"></edge>
+      <edge id="89" source="64" target="65" weight="2.0"></edge>
+      <edge id="90" source="26" target="13" weight="2.0"></edge>
+      <edge id="91" source="66" target="67" weight="2.0"></edge>
+      <edge id="92" source="1" target="68" weight="2.0"></edge>
+      <edge id="93" source="1" target="69" weight="2.0"></edge>
+      <edge id="94" source="1" target="70" weight="2.0"></edge>
+      <edge id="95" source="71" target="72" weight="2.0"></edge>
+      <edge id="96" source="12" target="73" weight="2.0"></edge>
+      <edge id="97" source="74" target="75" weight="2.0"></edge>
+      <edge id="98" source="14" target="12" weight="2.0"></edge>
+      <edge id="99" source="76" target="77" weight="2.0"></edge>
+      <edge id="100" source="29" target="21" weight="2.0"></edge>
+      <edge id="101" source="78" target="12" weight="2.0"></edge>
+      <edge id="102" source="79" target="80" weight="2.0"></edge>
+      <edge id="103" source="81" target="82" weight="2.0"></edge>
+      <edge id="104" source="1" target="83" weight="2.0"></edge>
+      <edge id="105" source="84" target="85" weight="2.0"></edge>
+      <edge id="106" source="86" target="12" weight="2.0"></edge>
+      <edge id="107" source="51" target="12" weight="2.0"></edge>
+      <edge id="108" source="44" target="41" weight="2.0"></edge>
+      <edge id="109" source="12" target="87" weight="2.0"></edge>
+      <edge id="110" source="88" target="89" weight="2.0"></edge>
+      <edge id="111" source="29" target="12" weight="2.0"></edge>
+      <edge id="112" source="90" target="59" weight="2.0"></edge>
+      <edge id="113" source="44" target="21" weight="2.0"></edge>
+      <edge id="114" source="91" target="15" weight="2.0"></edge>
+      <edge id="115" source="92" target="12" weight="2.0"></edge>
+      <edge id="116" source="3" target="69" weight="2.0"></edge>
+      <edge id="117" source="93" target="34" weight="2.0"></edge>
+      <edge id="118" source="12" target="94" weight="2.0"></edge>
+      <edge id="119" source="93" target="12" weight="2.0"></edge>
+      <edge id="120" source="51" target="95" weight="2.0"></edge>
+      <edge id="121" source="12" target="20" weight="2.0"></edge>
+      <edge id="122" source="12" target="96" weight="2.0"></edge>
+      <edge id="123" source="1" target="78" weight="2.0"></edge>
+      <edge id="124" source="12" target="70" weight="2.0"></edge>
+      <edge id="125" source="12" target="97" weight="2.0"></edge>
+      <edge id="126" source="12" target="27" weight="2.0"></edge>
+      <edge id="127" source="13" target="98" weight="2.0"></edge>
+      <edge id="128" source="12" target="99"></edge>
+      <edge id="129" source="100" target="101"></edge>
+      <edge id="130" source="102" target="103"></edge>
+      <edge id="131" source="12" target="104"></edge>
+      <edge id="132" source="105" target="12"></edge>
+      <edge id="133" source="106" target="107"></edge>
+      <edge id="134" source="108" target="12"></edge>
+      <edge id="135" source="109" target="110"></edge>
+      <edge id="136" source="111" target="112"></edge>
+      <edge id="137" source="113" target="114"></edge>
+      <edge id="138" source="45" target="115"></edge>
+      <edge id="139" source="116" target="61"></edge>
+      <edge id="140" source="117" target="36"></edge>
+      <edge id="141" source="118" target="37"></edge>
+      <edge id="142" source="12" target="119"></edge>
+      <edge id="143" source="120" target="121"></edge>
+      <edge id="144" source="122" target="123"></edge>
+      <edge id="145" source="124" target="12"></edge>
+      <edge id="146" source="61" target="125"></edge>
+      <edge id="147" source="61" target="126"></edge>
+      <edge id="148" source="13" target="44"></edge>
+      <edge id="149" source="26" target="34"></edge>
+      <edge id="150" source="127" target="128"></edge>
+      <edge id="151" source="67" target="129"></edge>
+      <edge id="152" source="34" target="130"></edge>
+      <edge id="153" source="12" target="131"></edge>
+      <edge id="154" source="132" target="133"></edge>
+      <edge id="155" source="59" target="134"></edge>
+      <edge id="156" source="135" target="61"></edge>
+      <edge id="157" source="136" target="137"></edge>
+      <edge id="158" source="138" target="139"></edge>
+      <edge id="159" source="45" target="140"></edge>
+      <edge id="160" source="141" target="112"></edge>
+      <edge id="161" source="142" target="143"></edge>
+      <edge id="162" source="3" target="63"></edge>
+      <edge id="163" source="144" target="80"></edge>
+      <edge id="164" source="145" target="146"></edge>
+      <edge id="165" source="12" target="55"></edge>
+      <edge id="166" source="110" target="147"></edge>
+      <edge id="167" source="138" target="148"></edge>
+      <edge id="168" source="12" target="149"></edge>
+      <edge id="169" source="150" target="151"></edge>
+      <edge id="170" source="152" target="153"></edge>
+      <edge id="171" source="61" target="46"></edge>
+      <edge id="172" source="12" target="63"></edge>
+      <edge id="173" source="154" target="155"></edge>
+      <edge id="174" source="37" target="156"></edge>
+      <edge id="175" source="157" target="158"></edge>
+      <edge id="176" source="159" target="13"></edge>
+      <edge id="177" source="160" target="161"></edge>
+      <edge id="178" source="86" target="162"></edge>
+      <edge id="179" source="163" target="152"></edge>
+      <edge id="180" source="164" target="165"></edge>
+      <edge id="181" source="51" target="166"></edge>
+      <edge id="182" source="67" target="167"></edge>
+      <edge id="183" source="78" target="168"></edge>
+      <edge id="184" source="169" target="170"></edge>
+      <edge id="185" source="171" target="172"></edge>
+      <edge id="186" source="173" target="174"></edge>
+      <edge id="187" source="52" target="175"></edge>
+      <edge id="188" source="169" target="176"></edge>
+      <edge id="189" source="12" target="177"></edge>
+      <edge id="190" source="12" target="159"></edge>
+      <edge id="191" source="12" target="178"></edge>
+      <edge id="192" source="179" target="180"></edge>
+      <edge id="193" source="133" target="181"></edge>
+      <edge id="194" source="87" target="182"></edge>
+      <edge id="195" source="12" target="183"></edge>
+      <edge id="196" source="184" target="12"></edge>
+      <edge id="197" source="185" target="41"></edge>
+      <edge id="198" source="12" target="186"></edge>
+      <edge id="199" source="12" target="187"></edge>
+      <edge id="200" source="188" target="189"></edge>
+      <edge id="201" source="190" target="191"></edge>
+      <edge id="202" source="192" target="12"></edge>
+      <edge id="203" source="159" target="34"></edge>
+      <edge id="204" source="193" target="12"></edge>
+      <edge id="205" source="12" target="194"></edge>
+      <edge id="206" source="195" target="196"></edge>
+      <edge id="207" source="197" target="198"></edge>
+      <edge id="208" source="199" target="200"></edge>
+      <edge id="209" source="133" target="201"></edge>
+      <edge id="210" source="78" target="3"></edge>
+      <edge id="211" source="50" target="202"></edge>
+      <edge id="212" source="12" target="203"></edge>
+      <edge id="213" source="204" target="169"></edge>
+      <edge id="214" source="205" target="206"></edge>
+      <edge id="215" source="26" target="41"></edge>
+      <edge id="216" source="207" target="12"></edge>
+      <edge id="217" source="12" target="208"></edge>
+      <edge id="218" source="209" target="210"></edge>
+      <edge id="219" source="211" target="152"></edge>
+      <edge id="220" source="11" target="212"></edge>
+      <edge id="221" source="213" target="36"></edge>
+      <edge id="222" source="169" target="214"></edge>
+      <edge id="223" source="133" target="177"></edge>
+      <edge id="224" source="215" target="12"></edge>
+      <edge id="225" source="12" target="216"></edge>
+      <edge id="226" source="217" target="218"></edge>
+      <edge id="227" source="27" target="41"></edge>
+      <edge id="228" source="219" target="220"></edge>
+      <edge id="229" source="221" target="222"></edge>
+      <edge id="230" source="12" target="223"></edge>
+      <edge id="231" source="224" target="12"></edge>
+      <edge id="232" source="1" target="159"></edge>
+      <edge id="233" source="225" target="12"></edge>
+      <edge id="234" source="226" target="227"></edge>
+      <edge id="235" source="179" target="228"></edge>
+      <edge id="236" source="78" target="34"></edge>
+      <edge id="237" source="229" target="230"></edge>
+      <edge id="238" source="34" target="231"></edge>
+      <edge id="239" source="177" target="232"></edge>
+      <edge id="240" source="233" target="234"></edge>
+      <edge id="241" source="1" target="130"></edge>
+      <edge id="242" source="235" target="236"></edge>
+      <edge id="243" source="237" target="12"></edge>
+      <edge id="244" source="34" target="62"></edge>
+      <edge id="245" source="238" target="239"></edge>
+      <edge id="246" source="240" target="241"></edge>
+      <edge id="247" source="242" target="243"></edge>
+      <edge id="248" source="244" target="12"></edge>
+      <edge id="249" source="3" target="83"></edge>
+      <edge id="250" source="245" target="246"></edge>
+      <edge id="251" source="61" target="50"></edge>
+      <edge id="252" source="56" target="247"></edge>
+      <edge id="253" source="51" target="3"></edge>
+      <edge id="254" source="3" target="26"></edge>
+      <edge id="255" source="169" target="248"></edge>
+      <edge id="256" source="249" target="250"></edge>
+      <edge id="257" source="251" target="252"></edge>
+      <edge id="258" source="253" target="212"></edge>
+      <edge id="259" source="254" target="255"></edge>
+      <edge id="260" source="21" target="256"></edge>
+      <edge id="261" source="18" target="41"></edge>
+      <edge id="262" source="257" target="121"></edge>
+      <edge id="263" source="40" target="1"></edge>
+      <edge id="264" source="12" target="258"></edge>
+      <edge id="265" source="259" target="260"></edge>
+      <edge id="266" source="261" target="70"></edge>
+      <edge id="267" source="262" target="110"></edge>
+      <edge id="268" source="21" target="14"></edge>
+      <edge id="269" source="12" target="263"></edge>
+      <edge id="270" source="264" target="265"></edge>
+      <edge id="271" source="12" target="266"></edge>
+      <edge id="272" source="86" target="267"></edge>
+      <edge id="273" source="268" target="223"></edge>
+      <edge id="274" source="12" target="69"></edge>
+      <edge id="275" source="269" target="270"></edge>
+      <edge id="276" source="271" target="12"></edge>
+      <edge id="277" source="272" target="12"></edge>
+      <edge id="278" source="29" target="34"></edge>
+      <edge id="279" source="21" target="19"></edge>
+      <edge id="280" source="12" target="273"></edge>
+      <edge id="281" source="274" target="275"></edge>
+      <edge id="282" source="276" target="277"></edge>
+      <edge id="283" source="12" target="278"></edge>
+      <edge id="284" source="12" target="279"></edge>
+      <edge id="285" source="44" target="12"></edge>
+      <edge id="286" source="280" target="112"></edge>
+      <edge id="287" source="281" target="1"></edge>
+      <edge id="288" source="196" target="12"></edge>
+      <edge id="289" source="282" target="12"></edge>
+      <edge id="290" source="283" target="169"></edge>
+      <edge id="291" source="284" target="285"></edge>
+      <edge id="292" source="130" target="12"></edge>
+      <edge id="293" source="110" target="286"></edge>
+      <edge id="294" source="3" target="159"></edge>
+      <edge id="295" source="12" target="287"></edge>
+      <edge id="296" source="288" target="112"></edge>
+      <edge id="297" source="168" target="159"></edge>
+      <edge id="298" source="289" target="290"></edge>
+      <edge id="299" source="291" target="12"></edge>
+      <edge id="300" source="292" target="293"></edge>
+      <edge id="301" source="294" target="12"></edge>
+      <edge id="302" source="205" target="295"></edge>
+      <edge id="303" source="296" target="12"></edge>
+      <edge id="304" source="297" target="298"></edge>
+      <edge id="305" source="41" target="299"></edge>
+      <edge id="306" source="12" target="300"></edge>
+      <edge id="307" source="60" target="301"></edge>
+      <edge id="308" source="302" target="12"></edge>
+      <edge id="309" source="303" target="12"></edge>
+      <edge id="310" source="12" target="304"></edge>
+      <edge id="311" source="289" target="305"></edge>
+      <edge id="312" source="67" target="306"></edge>
+      <edge id="313" source="307" target="59"></edge>
+      <edge id="314" source="308" target="309"></edge>
+      <edge id="315" source="12" target="310"></edge>
+      <edge id="316" source="311" target="312"></edge>
+      <edge id="317" source="127" target="313"></edge>
+      <edge id="318" source="314" target="315"></edge>
+      <edge id="319" source="158" target="316"></edge>
+      <edge id="320" source="12" target="317"></edge>
+      <edge id="321" source="318" target="154"></edge>
+      <edge id="322" source="37" target="34"></edge>
+      <edge id="323" source="319" target="320"></edge>
+      <edge id="324" source="148" target="321"></edge>
+      <edge id="325" source="322" target="323"></edge>
+      <edge id="326" source="20" target="34"></edge>
+      <edge id="327" source="34" target="70"></edge>
+      <edge id="328" source="37" target="12"></edge>
+      <edge id="329" source="324" target="2"></edge>
+      <edge id="330" source="3" target="40"></edge>
+      <edge id="331" source="133" target="325"></edge>
+      <edge id="332" source="27" target="13"></edge>
+      <edge id="333" source="133" target="326"></edge>
+      <edge id="334" source="34" target="327"></edge>
+      <edge id="335" source="328" target="329"></edge>
+      <edge id="336" source="161" target="330"></edge>
+      <edge id="337" source="331" target="332"></edge>
+      <edge id="338" source="333" target="15"></edge>
+      <edge id="339" source="334" target="110"></edge>
+      <edge id="340" source="335" target="336"></edge>
+      <edge id="341" source="29" target="41"></edge>
+      <edge id="342" source="190" target="177"></edge>
+      <edge id="343" source="12" target="337"></edge>
+      <edge id="344" source="338" target="12"></edge>
+      <edge id="345" source="339" target="340"></edge>
+      <edge id="346" source="12" target="341"></edge>
+      <edge id="347" source="329" target="342"></edge>
+      <edge id="348" source="343" target="110"></edge>
+      <edge id="349" source="78" target="13"></edge>
+      <edge id="350" source="133" target="344"></edge>
+      <edge id="351" source="345" target="346"></edge>
+      <edge id="352" source="12" target="347"></edge>
+      <edge id="353" source="3" target="348"></edge>
+      <edge id="354" source="349" target="169"></edge>
+      <edge id="355" source="350" target="12"></edge>
+      <edge id="356" source="11" target="261"></edge>
+      <edge id="357" source="351" target="12"></edge>
+      <edge id="358" source="352" target="52"></edge>
+      <edge id="359" source="353" target="354"></edge>
+      <edge id="360" source="355" target="9"></edge>
+      <edge id="361" source="356" target="59"></edge>
+      <edge id="362" source="179" target="110"></edge>
+      <edge id="363" source="357" target="358"></edge>
+      <edge id="364" source="359" target="55"></edge>
+      <edge id="365" source="360" target="69"></edge>
+      <edge id="366" source="12" target="361"></edge>
+      <edge id="367" source="362" target="12"></edge>
+      <edge id="368" source="363" target="10"></edge>
+      <edge id="369" source="364" target="12"></edge>
+      <edge id="370" source="3" target="299"></edge>
+      <edge id="371" source="365" target="67"></edge>
+      <edge id="372" source="366" target="115"></edge>
+      <edge id="373" source="12" target="367"></edge>
+      <edge id="374" source="62" target="12"></edge>
+      <edge id="375" source="368" target="369"></edge>
+      <edge id="376" source="12" target="83"></edge>
+      <edge id="377" source="61" target="370"></edge>
+      <edge id="378" source="355" target="1"></edge>
+      <edge id="379" source="335" target="371"></edge>
+      <edge id="380" source="359" target="69"></edge>
+      <edge id="381" source="32" target="372"></edge>
+      <edge id="382" source="373" target="374"></edge>
+      <edge id="383" source="375" target="12"></edge>
+      <edge id="384" source="205" target="110"></edge>
+      <edge id="385" source="376" target="377"></edge>
+      <edge id="386" source="378" target="379"></edge>
+      <edge id="387" source="380" target="381"></edge>
+      <edge id="388" source="34" target="382"></edge>
+      <edge id="389" source="383" target="228"></edge>
+      <edge id="390" source="384" target="10"></edge>
+      <edge id="391" source="385" target="386"></edge>
+      <edge id="392" source="387" target="388"></edge>
+      <edge id="393" source="389" target="77"></edge>
+      <edge id="394" source="109" target="390"></edge>
+      <edge id="395" source="112" target="249"></edge>
+      <edge id="396" source="62" target="391"></edge>
+      <edge id="397" source="87" target="392"></edge>
+      <edge id="398" source="338" target="393"></edge>
+      <edge id="399" source="394" target="395"></edge>
+      <edge id="400" source="323" target="396"></edge>
+      <edge id="401" source="397" target="398"></edge>
+      <edge id="402" source="239" target="399"></edge>
+      <edge id="403" source="26" target="12"></edge>
+      <edge id="404" source="400" target="234"></edge>
+      <edge id="405" source="289" target="401"></edge>
+      <edge id="406" source="51" target="1"></edge>
+      <edge id="407" source="402" target="35"></edge>
+      <edge id="408" source="403" target="110"></edge>
+      <edge id="409" source="404" target="405"></edge>
+      <edge id="410" source="12" target="406"></edge>
+      <edge id="411" source="289" target="407"></edge>
+      <edge id="412" source="29" target="13"></edge>
+      <edge id="413" source="177" target="408"></edge>
+      <edge id="414" source="409" target="410"></edge>
+      <edge id="415" source="411" target="289"></edge>
+      <edge id="416" source="412" target="2"></edge>
+      <edge id="417" source="413" target="414"></edge>
+      <edge id="418" source="12" target="415"></edge>
+      <edge id="419" source="416" target="130"></edge>
+      <edge id="420" source="417" target="202"></edge>
+      <edge id="421" source="418" target="419"></edge>
+      <edge id="422" source="420" target="421"></edge>
+      <edge id="423" source="13" target="422"></edge>
+      <edge id="424" source="423" target="424"></edge>
+      <edge id="425" source="425" target="12"></edge>
+      <edge id="426" source="25" target="228"></edge>
+      <edge id="427" source="12" target="426"></edge>
+      <edge id="428" source="427" target="12"></edge>
+      <edge id="429" source="428" target="429"></edge>
+      <edge id="430" source="12" target="430"></edge>
+      <edge id="431" source="431" target="432"></edge>
+      <edge id="432" source="433" target="434"></edge>
+      <edge id="433" source="435" target="289"></edge>
+      <edge id="434" source="12" target="436"></edge>
+      <edge id="435" source="12" target="437"></edge>
+      <edge id="436" source="438" target="439"></edge>
+      <edge id="437" source="120" target="180"></edge>
+      <edge id="438" source="440" target="169"></edge>
+      <edge id="439" source="441" target="420"></edge>
+      <edge id="440" source="169" target="174"></edge>
+      <edge id="441" source="12" target="442"></edge>
+      <edge id="442" source="228" target="443"></edge>
+      <edge id="443" source="444" target="121"></edge>
+      <edge id="444" source="61" target="445"></edge>
+      <edge id="445" source="446" target="447"></edge>
+      <edge id="446" source="133" target="448"></edge>
+      <edge id="447" source="299" target="1"></edge>
+      <edge id="448" source="449" target="115"></edge>
+      <edge id="449" source="169" target="450"></edge>
+      <edge id="450" source="353" target="133"></edge>
+      <edge id="451" source="451" target="432"></edge>
+      <edge id="452" source="452" target="13"></edge>
+      <edge id="453" source="12" target="453"></edge>
+      <edge id="454" source="236" target="112"></edge>
+      <edge id="455" source="133" target="454"></edge>
+      <edge id="456" source="455" target="456"></edge>
+      <edge id="457" source="457" target="133"></edge>
+      <edge id="458" source="458" target="459"></edge>
+      <edge id="459" source="12" target="460"></edge>
+      <edge id="460" source="461" target="462"></edge>
+      <edge id="461" source="463" target="12"></edge>
+      <edge id="462" source="464" target="12"></edge>
+      <edge id="463" source="465" target="133"></edge>
+      <edge id="464" source="12" target="466"></edge>
+      <edge id="465" source="467" target="468"></edge>
+      <edge id="466" source="469" target="59"></edge>
+      <edge id="467" source="47" target="470"></edge>
+      <edge id="468" source="471" target="472"></edge>
+      <edge id="469" source="473" target="474"></edge>
+      <edge id="470" source="475" target="61"></edge>
+      <edge id="471" source="476" target="477"></edge>
+      <edge id="472" source="20" target="478"></edge>
+      <edge id="473" source="479" target="23"></edge>
+      <edge id="474" source="480" target="70"></edge>
+      <edge id="475" source="87" target="1"></edge>
+      <edge id="476" source="86" target="170"></edge>
+      <edge id="477" source="12" target="481"></edge>
+      <edge id="478" source="241" target="482"></edge>
+      <edge id="479" source="12" target="483"></edge>
+      <edge id="480" source="70" target="484"></edge>
+      <edge id="481" source="485" target="486"></edge>
+      <edge id="482" source="446" target="487"></edge>
+      <edge id="483" source="488" target="61"></edge>
+      <edge id="484" source="489" target="338"></edge>
+    </edges>
+  </graph>
+</gexf>

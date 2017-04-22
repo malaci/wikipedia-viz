@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="male essayists">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-443.46054" y="58.027557"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="20th-century essayists">
+        <viz:size value="97.55414"></viz:size>
+        <viz:position x="-130.87436" y="398.9041"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="american essayists">
+        <viz:size value="92.35669"></viz:size>
+        <viz:position x="144.06783" y="114.22049"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="21st-century essayists">
+        <viz:size value="85.22293"></viz:size>
+        <viz:position x="313.5691" y="-102.090416"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="women essayists">
+        <viz:size value="84.407646"></viz:size>
+        <viz:position x="-199.1269" y="-422.00674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="romanian essayists">
+        <viz:size value="76.56051"></viz:size>
+        <viz:position x="-801.48676" y="395.74567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="french essayists">
+        <viz:size value="76.05095"></viz:size>
+        <viz:position x="81.81727" y="346.94016"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="19th-century essayists">
+        <viz:size value="70.445854"></viz:size>
+        <viz:position x="-632.56915" y="-65.42646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="english essayists">
+        <viz:size value="68.30573"></viz:size>
+        <viz:position x="-808.9581" y="-211.51828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="republic of china essayists">
+        <viz:size value="61.78344"></viz:size>
+        <viz:position x="1025.2732" y="-826.18915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="japanese essayists">
+        <viz:size value="61.78344"></viz:size>
+        <viz:position x="867.36127" y="111.75628"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="italian essayists">
+        <viz:size value="60.4586"></viz:size>
+        <viz:position x="560.0711" y="-281.83612"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="spanish essayists">
+        <viz:size value="59.64331"></viz:size>
+        <viz:position x="-4.617118" y="-304.2046"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="indian essayists">
+        <viz:size value="58.42038"></viz:size>
+        <viz:position x="-1046.7745" y="-246.34587"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="canadian essayists">
+        <viz:size value="57.299362"></viz:size>
+        <viz:position x="99.936554" y="-529.9295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="german essayists">
+        <viz:size value="57.09554"></viz:size>
+        <viz:position x="-11.069192" y="-847.2112"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="russian essayists">
+        <viz:size value="56.6879"></viz:size>
+        <viz:position x="-1230.2657" y="-438.66702"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="norwegian essayists">
+        <viz:size value="54.75159"></viz:size>
+        <viz:position x="-620.8236" y="-1175.2819"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="18th-century essayists">
+        <viz:size value="52.407642"></viz:size>
+        <viz:position x="-694.4624" y="-511.60727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="argentine essayists">
+        <viz:size value="51.898087"></viz:size>
+        <viz:position x="-786.80286" y="-998.8947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="scottish essayists">
+        <viz:size value="51.592354"></viz:size>
+        <viz:position x="-1063.1953" y="0.016366852"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="dutch essayists">
+        <viz:size value="50.675156"></viz:size>
+        <viz:position x="741.412" y="-92.448425"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="slovenian essayists">
+        <viz:size value="47.312103"></viz:size>
+        <viz:position x="-201.8213" y="-1045.1055"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="british essayists">
+        <viz:size value="46.496815"></viz:size>
+        <viz:position x="-834.00037" y="93.2327"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="australian essayists">
+        <viz:size value="43.33758"></viz:size>
+        <viz:position x="-353.4491" y="270.68478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="polish essayists">
+        <viz:size value="41.09554"></viz:size>
+        <viz:position x="-129.51167" y="141.6152"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="mexican essayists">
+        <viz:size value="40.484077"></viz:size>
+        <viz:position x="806.1558" y="-339.2658"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="qing dynasty essayists">
+        <viz:size value="39.261147"></viz:size>
+        <viz:position x="1182.4915" y="-603.082"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="cuban essayists">
+        <viz:size value="39.261147"></viz:size>
+        <viz:position x="-309.1642" y="-816.9724"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="uruguayan essayists">
+        <viz:size value="37.834396"></viz:size>
+        <viz:position x="278.34265" y="457.41312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="brazilian essayists">
+        <viz:size value="37.834396"></viz:size>
+        <viz:position x="-1117.6437" y="-646.9955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="croatian essayists">
+        <viz:size value="37.121017"></viz:size>
+        <viz:position x="454.4684" y="-740.9038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="swedish essayists">
+        <viz:size value="36.305733"></viz:size>
+        <viz:position x="243.8764" y="-305.623"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="ming dynasty essayists">
+        <viz:size value="35.490448"></viz:size>
+        <viz:position x="1282.8734" y="-321.39908"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="greek essayists">
+        <viz:size value="34.573246"></viz:size>
+        <viz:position x="-935.4993" y="-474.02646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="austrian essayists">
+        <viz:size value="34.573246"></viz:size>
+        <viz:position x="-617.1458" y="225.65814"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="chilean essayists">
+        <viz:size value="33.65605"></viz:size>
+        <viz:position x="-1002.3101" y="-857.42084"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="portuguese essayists">
+        <viz:size value="33.65605"></viz:size>
+        <viz:position x="297.52444" y="-1006.6932"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="moroccan essayists">
+        <viz:size value="32.63694"></viz:size>
+        <viz:position x="-567.65125" y="-765.91266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="song dynasty essayists">
+        <viz:size value="31.515923"></viz:size>
+        <viz:position x="530.85394" y="1197.5121"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="hungarian essayists">
+        <viz:size value="31.515923"></viz:size>
+        <viz:position x="-313.48734" y="515.7659"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="irish essayists">
+        <viz:size value="31.515923"></viz:size>
+        <viz:position x="-216.63666" y="-75.35829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="peruvian essayists">
+        <viz:size value="30.292994"></viz:size>
+        <viz:position x="-358.9536" y="-233.3168"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="belgian essayists">
+        <viz:size value="30.292994"></viz:size>
+        <viz:position x="27.129112" y="-81.92724"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="bangladeshi essayists">
+        <viz:size value="29.070065"></viz:size>
+        <viz:position x="637.3803" y="-540.54535"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="iranian essayists">
+        <viz:size value="29.070065"></viz:size>
+        <viz:position x="-127.84941" y="-1293.8977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="ecuadorian essayists">
+        <viz:size value="27.64331"></viz:size>
+        <viz:position x="361.77185" y="224.76251"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="han dynasty essayists">
+        <viz:size value="27.64331"></viz:size>
+        <viz:position x="1304.4847" y="223.3456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="venezuelan essayists">
+        <viz:size value="26.11465"></viz:size>
+        <viz:position x="-453.7705" y="736.29095"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="finnish essayists">
+        <viz:size value="26.11465"></viz:size>
+        <viz:position x="-804.167" y="-735.3203"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="israeli essayists">
+        <viz:size value="26.11465"></viz:size>
+        <viz:position x="-563.0546" y="481.35046"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="guatemalan essayists">
+        <viz:size value="24.382166"></viz:size>
+        <viz:position x="222.87807" y="-757.44916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="lithuanian essayists">
+        <viz:size value="24.382166"></viz:size>
+        <viz:position x="486.08475" y="10.092467"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="turkish essayists">
+        <viz:size value="24.382166"></viz:size>
+        <viz:position x="-561.6528" y="-311.6898"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="danish essayists">
+        <viz:size value="24.382166"></viz:size>
+        <viz:position x="-141.43617" y="-633.5907"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="albanian essayists">
+        <viz:size value="22.445858"></viz:size>
+        <viz:position x="27.62685" y="609.9888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="urdu essayists">
+        <viz:size value="22.445858"></viz:size>
+        <viz:position x="554.1318" y="-961.41144"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="pakistani essayists">
+        <viz:size value="22.445858"></viz:size>
+        <viz:position x="378.30258" y="-491.4055"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="swiss essayists">
+        <viz:size value="22.445858"></viz:size>
+        <viz:position x="-1206.8862" y="513.0"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="eastern wu essayists">
+        <viz:size value="22.445858"></viz:size>
+        <viz:position x="1317.5231" y="-64.59512"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="ukrainian essayists">
+        <viz:size value="20.10191"></viz:size>
+        <viz:position x="360.57553" y="988.53217"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="cao wei essayists">
+        <viz:size value="20.10191"></viz:size>
+        <viz:position x="838.32654" y="-1015.76086"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="algerian essayists">
+        <viz:size value="20.10191"></viz:size>
+        <viz:position x="548.6791" y="459.11426"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="south korean essayists">
+        <viz:size value="20.10191"></viz:size>
+        <viz:position x="-197.81223" y="777.283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="colombian essayists">
+        <viz:size value="20.10191"></viz:size>
+        <viz:position x="902.8056" y="-594.374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="new zealand essayists">
+        <viz:size value="17.452229"></viz:size>
+        <viz:position x="-413.55933" y="-531.99866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="kenyan essayists">
+        <viz:size value="17.452229"></viz:size>
+        <viz:position x="-885.99054" y="913.3257"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="czech essayists">
+        <viz:size value="17.452229"></viz:size>
+        <viz:position x="61.202" y="-1069.4022"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="moldovan essayists">
+        <viz:size value="17.452229"></viz:size>
+        <viz:position x="-976.252" y="565.0211"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="nigerian essayists">
+        <viz:size value="17.452229"></viz:size>
+        <viz:position x="-1070.5193" y="769.3068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="nicaraguan essayists">
+        <viz:size value="17.452229"></viz:size>
+        <viz:position x="120.328735" y="-1295.4937"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="jin dynasty essayists">
+        <viz:size value="17.452229"></viz:size>
+        <viz:position x="613.4702" y="-1180.3479"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="panamanian essayists">
+        <viz:size value="14.191083"></viz:size>
+        <viz:position x="709.9772" y="693.2385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="indonesian essayists">
+        <viz:size value="14.191083"></viz:size>
+        <viz:position x="645.1938" y="208.30956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="bolivian essayists">
+        <viz:size value="14.191083"></viz:size>
+        <viz:position x="791.9841" y="409.1357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="tang dynasty essayists">
+        <viz:size value="14.191083"></viz:size>
+        <viz:position x="-368.97458" y="-1244.7783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="filipino essayists">
+        <viz:size value="14.191083"></viz:size>
+        <viz:position x="1107.9971" y="65.61063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="yugoslav essayists">
+        <viz:size value="14.191083"></viz:size>
+        <viz:position x="-481.49396" y="-992.28937"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="costa rican essayists">
+        <viz:size value="14.191083"></viz:size>
+        <viz:position x="-612.67346" y="905.09064"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="haitian essayists">
+        <viz:size value="14.191083"></viz:size>
+        <viz:position x="-1297.9905" y="-196.97272"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="essayists from northern ireland">
+        <viz:size value="9.910828"></viz:size>
+        <viz:position x="-360.38644" y="990.4526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="shu han essayists">
+        <viz:size value="9.910828"></viz:size>
+        <viz:position x="1223.8911" y="475.86664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="ethiopian essayists">
+        <viz:size value="9.910828"></viz:size>
+        <viz:position x="1026.6747" y="317.24127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="syrian essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="145.6343" y="1094.3853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="slovak essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="241.44292" y="759.41455"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="maltese essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-746.0097" y="681.03516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="later liang essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="918.26196" y="890.86597"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="vietnamese essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-128.96634" y="1068.7454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="igbo essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1266.8475" y="279.47052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="liberian essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-249.79109" y="1282.7709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="yuan dynasty essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="292.46506" y="1295.2732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="equatoguinean essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1050.5143" y="-385.91962"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="dominican republic essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1298.2329" y="48.42067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="beninese essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="457.27072" y="690.22144"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="five dynasties and ten kingdoms essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="768.553" y="1081.7935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="zimbabwean essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-716.41437" y="1108.8948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="former shu essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="949.8808" y="593.58826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="cameroonian essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1014.77386" y="-150.21382"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="belarusian essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="29.197336" y="877.47296"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="salvadoran essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-482.84772" y="1203.5903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="later tang essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1116.9337" y="735.8841"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="malagasy essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="7.8653297" y="1304.217"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="kosovan essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="595.38293" y="915.89716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="armenian essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="736.47174" y="-776.1698"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="paraguayan essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1026.1045" y="272.91287"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="southern and northern dynasties essayists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="368.28314" y="-1257.4235"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="375.0"></edge>
+      <edge id="1" source="1" target="2" weight="284.0"></edge>
+      <edge id="2" source="1" target="3" weight="223.0"></edge>
+      <edge id="3" source="4" target="0" weight="218.0"></edge>
+      <edge id="4" source="1" target="5" weight="198.0"></edge>
+      <edge id="5" source="0" target="6" weight="125.0"></edge>
+      <edge id="6" source="2" target="6" weight="113.0"></edge>
+      <edge id="7" source="2" target="4" weight="100.0"></edge>
+      <edge id="8" source="0" target="7" weight="85.0"></edge>
+      <edge id="9" source="8" target="0" weight="58.0"></edge>
+      <edge id="10" source="9" target="1" weight="45.0"></edge>
+      <edge id="11" source="10" target="2" weight="41.0"></edge>
+      <edge id="12" source="10" target="3" weight="37.0"></edge>
+      <edge id="13" source="2" target="7" weight="33.0"></edge>
+      <edge id="14" source="2" target="8" weight="32.0"></edge>
+      <edge id="15" source="4" target="3" weight="31.0"></edge>
+      <edge id="16" source="11" target="0" weight="31.0"></edge>
+      <edge id="17" source="10" target="0" weight="30.0"></edge>
+      <edge id="18" source="9" target="4" weight="28.0"></edge>
+      <edge id="19" source="5" target="7" weight="24.0"></edge>
+      <edge id="20" source="9" target="7" weight="24.0"></edge>
+      <edge id="21" source="9" target="6" weight="21.0"></edge>
+      <edge id="22" source="10" target="5" weight="19.0"></edge>
+      <edge id="23" source="0" target="12" weight="18.0"></edge>
+      <edge id="24" source="0" target="13" weight="17.0"></edge>
+      <edge id="25" source="14" target="0" weight="17.0"></edge>
+      <edge id="26" source="3" target="15" weight="16.0"></edge>
+      <edge id="27" source="8" target="3" weight="16.0"></edge>
+      <edge id="28" source="3" target="16" weight="15.0"></edge>
+      <edge id="29" source="0" target="17" weight="13.0"></edge>
+      <edge id="30" source="8" target="5" weight="13.0"></edge>
+      <edge id="31" source="2" target="13" weight="13.0"></edge>
+      <edge id="32" source="9" target="11" weight="12.0"></edge>
+      <edge id="33" source="2" target="18" weight="11.0"></edge>
+      <edge id="34" source="11" target="5" weight="11.0"></edge>
+      <edge id="35" source="19" target="9" weight="11.0"></edge>
+      <edge id="36" source="0" target="20" weight="10.0"></edge>
+      <edge id="37" source="21" target="3" weight="10.0"></edge>
+      <edge id="38" source="22" target="0" weight="10.0"></edge>
+      <edge id="39" source="2" target="12" weight="10.0"></edge>
+      <edge id="40" source="2" target="20" weight="10.0"></edge>
+      <edge id="41" source="2" target="23" weight="10.0"></edge>
+      <edge id="42" source="0" target="18" weight="9.0"></edge>
+      <edge id="43" source="5" target="24" weight="9.0"></edge>
+      <edge id="44" source="2" target="25" weight="8.0"></edge>
+      <edge id="45" source="13" target="3" weight="8.0"></edge>
+      <edge id="46" source="26" target="5" weight="8.0"></edge>
+      <edge id="47" source="27" target="9" weight="8.0"></edge>
+      <edge id="48" source="2" target="28" weight="8.0"></edge>
+      <edge id="49" source="29" target="0" weight="8.0"></edge>
+      <edge id="50" source="2" target="17" weight="7.0"></edge>
+      <edge id="51" source="2" target="22" weight="7.0"></edge>
+      <edge id="52" source="5" target="13" weight="6.0"></edge>
+      <edge id="53" source="23" target="0" weight="6.0"></edge>
+      <edge id="54" source="2" target="30" weight="6.0"></edge>
+      <edge id="55" source="31" target="2" weight="6.0"></edge>
+      <edge id="56" source="2" target="32" weight="6.0"></edge>
+      <edge id="57" source="3" target="23" weight="5.0"></edge>
+      <edge id="58" source="32" target="3" weight="5.0"></edge>
+      <edge id="59" source="30" target="0" weight="5.0"></edge>
+      <edge id="60" source="3" target="25" weight="5.0"></edge>
+      <edge id="61" source="3" target="18" weight="5.0"></edge>
+      <edge id="62" source="2" target="33" weight="5.0"></edge>
+      <edge id="63" source="2" target="34" weight="5.0"></edge>
+      <edge id="64" source="28" target="5" weight="4.0"></edge>
+      <edge id="65" source="5" target="25" weight="4.0"></edge>
+      <edge id="66" source="5" target="12" weight="4.0"></edge>
+      <edge id="67" source="22" target="3" weight="4.0"></edge>
+      <edge id="68" source="3" target="28" weight="4.0"></edge>
+      <edge id="69" source="0" target="35" weight="4.0"></edge>
+      <edge id="70" source="2" target="29" weight="4.0"></edge>
+      <edge id="71" source="5" target="31" weight="4.0"></edge>
+      <edge id="72" source="5" target="20" weight="4.0"></edge>
+      <edge id="73" source="36" target="5" weight="3.0"></edge>
+      <edge id="74" source="12" target="9" weight="3.0"></edge>
+      <edge id="75" source="37" target="6" weight="3.0"></edge>
+      <edge id="76" source="30" target="9" weight="3.0"></edge>
+      <edge id="77" source="5" target="17" weight="3.0"></edge>
+      <edge id="78" source="9" target="17" weight="3.0"></edge>
+      <edge id="79" source="30" target="5" weight="3.0"></edge>
+      <edge id="80" source="38" target="39" weight="3.0"></edge>
+      <edge id="81" source="31" target="0" weight="3.0"></edge>
+      <edge id="82" source="2" target="40" weight="3.0"></edge>
+      <edge id="83" source="30" target="3" weight="3.0"></edge>
+      <edge id="84" source="5" target="41" weight="3.0"></edge>
+      <edge id="85" source="38" target="42" weight="3.0"></edge>
+      <edge id="86" source="2" target="43" weight="2.0"></edge>
+      <edge id="87" source="44" target="3" weight="2.0"></edge>
+      <edge id="88" source="34" target="3" weight="2.0"></edge>
+      <edge id="89" source="45" target="3" weight="2.0"></edge>
+      <edge id="90" source="46" target="5" weight="2.0"></edge>
+      <edge id="91" source="12" target="3" weight="2.0"></edge>
+      <edge id="92" source="23" target="5" weight="2.0"></edge>
+      <edge id="93" source="0" target="25" weight="2.0"></edge>
+      <edge id="94" source="22" target="5" weight="2.0"></edge>
+      <edge id="95" source="2" target="47" weight="2.0"></edge>
+      <edge id="96" source="48" target="9" weight="2.0"></edge>
+      <edge id="97" source="29" target="5" weight="2.0"></edge>
+      <edge id="98" source="29" target="9" weight="2.0"></edge>
+      <edge id="99" source="49" target="3" weight="2.0"></edge>
+      <edge id="100" source="50" target="51" weight="2.0"></edge>
+      <edge id="101" source="29" target="3" weight="2.0"></edge>
+      <edge id="102" source="18" target="9" weight="2.0"></edge>
+      <edge id="103" source="52" target="0" weight="2.0"></edge>
+      <edge id="104" source="20" target="3" weight="2.0"></edge>
+      <edge id="105" source="5" target="34" weight="2.0"></edge>
+      <edge id="106" source="53" target="5" weight="2.0"></edge>
+      <edge id="107" source="54" target="5" weight="2.0"></edge>
+      <edge id="108" source="55" target="1"></edge>
+      <edge id="109" source="2" target="56"></edge>
+      <edge id="110" source="57" target="31"></edge>
+      <edge id="111" source="18" target="58"></edge>
+      <edge id="112" source="5" target="59"></edge>
+      <edge id="113" source="60" target="5"></edge>
+      <edge id="114" source="61" target="62"></edge>
+      <edge id="115" source="35" target="3"></edge>
+      <edge id="116" source="2" target="63"></edge>
+      <edge id="117" source="32" target="9"></edge>
+      <edge id="118" source="61" target="64"></edge>
+      <edge id="119" source="31" target="3"></edge>
+      <edge id="120" source="2" target="65"></edge>
+      <edge id="121" source="2" target="66"></edge>
+      <edge id="122" source="9" target="67"></edge>
+      <edge id="123" source="68" target="69"></edge>
+      <edge id="124" source="2" target="70"></edge>
+      <edge id="125" source="71" target="0"></edge>
+      <edge id="126" source="40" target="0"></edge>
+      <edge id="127" source="72" target="3"></edge>
+      <edge id="128" source="5" target="47"></edge>
+      <edge id="129" source="5" target="73"></edge>
+      <edge id="130" source="74" target="0"></edge>
+      <edge id="131" source="2" target="75"></edge>
+      <edge id="132" source="76" target="50"></edge>
+      <edge id="133" source="40" target="5"></edge>
+      <edge id="134" source="77" target="5"></edge>
+      <edge id="135" source="78" target="79"></edge>
+      <edge id="136" source="9" target="47"></edge>
+      <edge id="137" source="2" target="80"></edge>
+      <edge id="138" source="47" target="0"></edge>
+      <edge id="139" source="2" target="60"></edge>
+      <edge id="140" source="0" target="81"></edge>
+      <edge id="141" source="9" target="82"></edge>
+      <edge id="142" source="0" target="83"></edge>
+      <edge id="143" source="22" target="9"></edge>
+      <edge id="144" source="3" target="84"></edge>
+      <edge id="145" source="0" target="85"></edge>
+      <edge id="146" source="86" target="3"></edge>
+      <edge id="147" source="2" target="87"></edge>
+      <edge id="148" source="88" target="5"></edge>
+      <edge id="149" source="89" target="3"></edge>
+      <edge id="150" source="90" target="3"></edge>
+      <edge id="151" source="60" target="3"></edge>
+      <edge id="152" source="91" target="32"></edge>
+      <edge id="153" source="92" target="5"></edge>
+      <edge id="154" source="2" target="93"></edge>
+      <edge id="155" source="35" target="5"></edge>
+      <edge id="156" source="94" target="2"></edge>
+      <edge id="157" source="2" target="95"></edge>
+      <edge id="158" source="0" target="96"></edge>
+      <edge id="159" source="5" target="97"></edge>
+      <edge id="160" source="2" target="35"></edge>
+      <edge id="161" source="98" target="60"></edge>
+      <edge id="162" source="2" target="99"></edge>
+      <edge id="163" source="18" target="5"></edge>
+      <edge id="164" source="47" target="3"></edge>
+      <edge id="165" source="100" target="3"></edge>
+      <edge id="166" source="69" target="101"></edge>
+      <edge id="167" source="28" target="0"></edge>
+      <edge id="168" source="102" target="3"></edge>
+      <edge id="169" source="58" target="17"></edge>
+      <edge id="170" source="0" target="34"></edge>
+      <edge id="171" source="2" target="103"></edge>
+      <edge id="172" source="9" target="28"></edge>
+      <edge id="173" source="3" target="104"></edge>
+      <edge id="174" source="79" target="105"></edge>
+    </edges>
+  </graph>
+</gexf>

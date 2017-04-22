@@ -1,0 +1,769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="television channels and">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="76.746994" y="221.34238"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="24-hour television news channels">
+        <viz:size value="63.696823"></viz:size>
+        <viz:position x="224.87398" y="947.39374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="television channels in the united kingdom">
+        <viz:size value="62.992664"></viz:size>
+        <viz:position x="577.7128" y="434.6471"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="movie channels">
+        <viz:size value="57.437653"></viz:size>
+        <viz:position x="-657.2092" y="594.67126"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="youtube channels">
+        <viz:size value="56.02934"></viz:size>
+        <viz:position x="-1170.6205" y="203.42805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="hindi-language television channels">
+        <viz:size value="55.168705"></viz:size>
+        <viz:position x="632.5968" y="-700.81024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="xm satellite radio channels">
+        <viz:size value="51.96088"></viz:size>
+        <viz:position x="-706.98724" y="-885.6697"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="sirius satellite radio channels">
+        <viz:size value="51.647923"></viz:size>
+        <viz:position x="1284.875" y="-500.8426"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="television channels in the netherlands">
+        <viz:size value="50.474327"></viz:size>
+        <viz:position x="-75.8792" y="-179.52881"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="internet television channels">
+        <viz:size value="49.926647"></viz:size>
+        <viz:position x="-1325.2316" y="-395.61417"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="news channels in india">
+        <viz:size value="48.283615"></viz:size>
+        <viz:position x="162.91751" y="745.2257"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="television channels in italy">
+        <viz:size value="47.89242"></viz:size>
+        <viz:position x="-334.50238" y="1293.1552"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="television channels in belgium">
+        <viz:size value="45.779953"></viz:size>
+        <viz:position x="813.1071" y="431.52072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="music television channels">
+        <viz:size value="45.232273"></viz:size>
+        <viz:position x="734.04065" y="-12.012497"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="children s television channels">
+        <viz:size value="43.823963"></viz:size>
+        <viz:position x="892.05994" y="211.72514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="television channels in flanders">
+        <viz:size value="43.432762"></viz:size>
+        <viz:position x="360.68088" y="345.8013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="television channels in greece">
+        <viz:size value="43.432762"></viz:size>
+        <viz:position x="-1110.7335" y="-321.28683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="television channels in sweden">
+        <viz:size value="41.78973"></viz:size>
+        <viz:position x="-81.68379" y="-673.89685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="pan-nordic television channels">
+        <viz:size value="41.007336"></viz:size>
+        <viz:position x="151.98827" y="-559.6205"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="tamil-language television channels">
+        <viz:size value="39.364304"></viz:size>
+        <viz:position x="-38.947968" y="608.9443"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="television channels in south korea">
+        <viz:size value="38.894867"></viz:size>
+        <viz:position x="-912.3313" y="639.2923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="pornographic television channels">
+        <viz:size value="38.347187"></viz:size>
+        <viz:position x="-928.0258" y="-169.17815"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="business-related television channels">
+        <viz:size value="38.11247"></viz:size>
+        <viz:position x="-56.304623" y="891.59143"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="telugu-language television channels">
+        <viz:size value="37.79951"></viz:size>
+        <viz:position x="344.76324" y="584.67"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="sky plc television channels">
+        <viz:size value="37.564793"></viz:size>
+        <viz:position x="953.5612" y="-26.16518"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="television channels in bangladesh">
+        <viz:size value="37.564793"></viz:size>
+        <viz:position x="943.2881" y="980.2991"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="women s interest channels">
+        <viz:size value="36.625916"></viz:size>
+        <viz:position x="-900.2051" y="-718.4206"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="astro television channels">
+        <viz:size value="36.312958"></viz:size>
+        <viz:position x="488.91132" y="4.5204463"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="malayalam-language television channels">
+        <viz:size value="36.0"></viz:size>
+        <viz:position x="866.375" y="-769.72375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="new zealand television channels">
+        <viz:size value="36.0"></viz:size>
+        <viz:position x="1143.6335" y="-156.39182"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="television channels in israel">
+        <viz:size value="35.608803"></viz:size>
+        <viz:position x="-327.95895" y="521.9019"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="canadian community channels">
+        <viz:size value="34.20049"></viz:size>
+        <viz:position x="-333.78323" y="238.39038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="bengali-language television channels">
+        <viz:size value="33.809288"></viz:size>
+        <viz:position x="443.73056" y="793.48883"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="kannada-language television channels">
+        <viz:size value="33.33985"></viz:size>
+        <viz:position x="428.89368" y="1037.5272"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="television channels based in noida">
+        <viz:size value="33.33985"></viz:size>
+        <viz:position x="-274.95734" y="-1098.187"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="mtv channels in the united kingdom">
+        <viz:size value="32.948654"></viz:size>
+        <viz:position x="621.9056" y="207.68832"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="china central television channels">
+        <viz:size value="32.479218"></viz:size>
+        <viz:position x="1112.4102" y="792.3594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="iheartradio digital channels">
+        <viz:size value="32.479218"></viz:size>
+        <viz:position x="-505.11026" y="-1010.7676"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="channels of the indian ocean">
+        <viz:size value="32.479218"></viz:size>
+        <viz:position x="876.7325" y="-1048.2408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="international bbc television channels">
+        <viz:size value="32.00978"></viz:size>
+        <viz:position x="296.5256" y="132.351"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="urdu-language television channels">
+        <viz:size value="31.540342"></viz:size>
+        <viz:position x="1063.9164" y="-387.22913"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="men s interest channels">
+        <viz:size value="31.540342"></viz:size>
+        <viz:position x="-938.317" y="-482.33435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="rai television channels">
+        <viz:size value="31.540342"></viz:size>
+        <viz:position x="-1093.081" y="801.6384"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="documentary television channels">
+        <viz:size value="31.070904"></viz:size>
+        <viz:position x="-52.78119" y="-925.4043"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="channels of the maldives">
+        <viz:size value="31.070904"></viz:size>
+        <viz:position x="666.98315" y="-1198.6256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="mediaset television channels">
+        <viz:size value="30.523226"></viz:size>
+        <viz:position x="-752.92773" y="828.01526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="television channels in the republic of macedonia">
+        <viz:size value="30.523226"></viz:size>
+        <viz:position x="-133.3684" y="94.50014"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="odia-language television channels">
+        <viz:size value="30.523226"></viz:size>
+        <viz:position x="1008.4088" y="564.8251"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="religious television channels in india">
+        <viz:size value="29.975552"></viz:size>
+        <viz:position x="647.6921" y="-458.91663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="science fiction television channels">
+        <viz:size value="29.975552"></viz:size>
+        <viz:position x="-133.17616" y="372.28998"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="channels of the united states">
+        <viz:size value="29.975552"></viz:size>
+        <viz:position x="-45.277653" y="-1380.9376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="sports divisions of tv channels">
+        <viz:size value="28.801956"></viz:size>
+        <viz:position x="-307.21893" y="-63.859016"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="television channels in nepal">
+        <viz:size value="28.801956"></viz:size>
+        <viz:position x="658.0157" y="-942.79755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="television channels in syria">
+        <viz:size value="28.17604"></viz:size>
+        <viz:position x="-474.20468" y="732.0353"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="roman catholic television channels">
+        <viz:size value="27.471882"></viz:size>
+        <viz:position x="1118.3171" y="-654.57056"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="uktv channels">
+        <viz:size value="27.471882"></viz:size>
+        <viz:position x="1111.679" y="353.45703"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="cnbc global channels">
+        <viz:size value="27.471882"></viz:size>
+        <viz:position x="-233.11171" y="749.6497"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="television channels based in bhubaneswar">
+        <viz:size value="25.985329"></viz:size>
+        <viz:position x="634.86316" y="649.30835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="marathi-language television channels">
+        <viz:size value="25.985329"></viz:size>
+        <viz:position x="132.98827" y="458.98187"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="television channels in cyprus">
+        <viz:size value="25.124695"></viz:size>
+        <viz:position x="-1190.0475" y="-592.75305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="living tv group channels">
+        <viz:size value="25.124695"></viz:size>
+        <viz:position x="1369.7263" y="6.7643747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="itv television channels">
+        <viz:size value="23.246944"></viz:size>
+        <viz:position x="1349.6045" y="285.933"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="cj e m channels">
+        <viz:size value="23.246944"></viz:size>
+        <viz:position x="-701.6762" y="210.63228"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="television channels in moldova">
+        <viz:size value="23.246944"></viz:size>
+        <viz:position x="554.5507" y="1253.4695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="abs-cbn cable channels">
+        <viz:size value="22.151588"></viz:size>
+        <viz:position x="-524.59467" y="-441.7338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="rtE television channels">
+        <viz:size value="22.151588"></viz:size>
+        <viz:position x="120.488174" y="1364.3282"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="lgbt-related television channels">
+        <viz:size value="22.151588"></viz:size>
+        <viz:position x="-741.88214" y="-330.0759"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="maker studios channels">
+        <viz:size value="20.977995"></viz:size>
+        <viz:position x="-1126.8335" y="-43.21181"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="assamese-language television channels">
+        <viz:size value="20.977995"></viz:size>
+        <viz:position x="329.26984" y="1290.9419"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="rsl television channels">
+        <viz:size value="20.977995"></viz:size>
+        <viz:position x="1156.4695" y="119.0444"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="television channels in mauritius">
+        <viz:size value="20.977995"></viz:size>
+        <viz:position x="-305.81805" y="-559.867"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="bauer television channels">
+        <viz:size value="20.977995"></viz:size>
+        <viz:position x="846.40735" y="744.3149"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="punjabi-language television channels">
+        <viz:size value="20.977995"></viz:size>
+        <viz:position x="-112.119934" y="1354.1442"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="television channels in angola">
+        <viz:size value="19.647923"></viz:size>
+        <viz:position x="-761.39905" y="1139.2336"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="channels of australia">
+        <viz:size value="19.647923"></viz:size>
+        <viz:position x="1072.6584" y="-878.98987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="3d television channels">
+        <viz:size value="19.647923"></viz:size>
+        <viz:position x="1345.7053" y="-253.59721"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="television channels in wales">
+        <viz:size value="19.647923"></viz:size>
+        <viz:position x="1254.7153" y="559.8891"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="fullscreen channels">
+        <viz:size value="19.647923"></viz:size>
+        <viz:position x="-1215.387" y="600.5694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="television channels of the times group">
+        <viz:size value="19.647923"></viz:size>
+        <viz:position x="-576.0892" y="984.389"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="time warner cable news channels">
+        <viz:size value="18.16137"></viz:size>
+        <viz:position x="194.95062" y="-1324.3966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="channels of mediaset espana comunicacion">
+        <viz:size value="18.16137"></viz:size>
+        <viz:position x="-698.5468" y="-609.16345"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="aramaic-language television channels">
+        <viz:size value="18.16137"></viz:size>
+        <viz:position x="-284.90005" y="-846.79395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="comedy television channels in india">
+        <viz:size value="18.16137"></viz:size>
+        <viz:position x="393.60455" y="-387.83502"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="quiz channels in the united kingdom">
+        <viz:size value="16.361858"></viz:size>
+        <viz:position x="99.69503" y="-34.39377"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="channel 4 television channels">
+        <viz:size value="16.361858"></viz:size>
+        <viz:position x="-939.79706" y="145.55382"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="television channels in mozambique">
+        <viz:size value="16.361858"></viz:size>
+        <viz:position x="-358.7976" y="978.31104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="gay television channels">
+        <viz:size value="16.361858"></viz:size>
+        <viz:position x="159.75839" y="-799.0231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="rpm channels">
+        <viz:size value="14.327628"></viz:size>
+        <viz:position x="-1375.3456" y="96.90876"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="entertainment television channels">
+        <viz:size value="14.327628"></viz:size>
+        <viz:position x="-1045.7645" y="417.63467"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="channels of canada">
+        <viz:size value="14.327628"></viz:size>
+        <viz:position x="-292.17004" y="-1333.5703"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="bbc news channels">
+        <viz:size value="14.327628"></viz:size>
+        <viz:position x="648.1579" y="907.8685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="television channels based in faizabad">
+        <viz:size value="8.537897"></viz:size>
+        <viz:position x="-29.212807" y="-1157.8247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="channels of england">
+        <viz:size value="8.537897"></viz:size>
+        <viz:position x="-1113.4097" y="-811.4199"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="television channels of space agencies">
+        <viz:size value="8.537897"></viz:size>
+        <viz:position x="-87.28693" y="-429.82315"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="rooster teeth channels">
+        <viz:size value="8.537897"></viz:size>
+        <viz:position x="-1345.0171" y="-148.56229"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="television channels in thailand">
+        <viz:size value="8.537897"></viz:size>
+        <viz:position x="-521.87036" y="387.41263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="gujarati-language television channels in india">
+        <viz:size value="8.537897"></viz:size>
+        <viz:position x="754.83466" y="1129.5878"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="television channels based in new delhi">
+        <viz:size value="8.537897"></viz:size>
+        <viz:position x="405.94083" y="-850.6732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="television channels in the maldives">
+        <viz:size value="8.537897"></viz:size>
+        <viz:position x="582.0566" y="-226.08456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="your news now channels">
+        <viz:size value="8.537897"></viz:size>
+        <viz:position x="422.1543" y="-1308.4199"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="television channels in gibraltar">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="83.30982" y="1122.3262"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="radio channels and stations disestablished in 1994">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="389.9705" y="-607.73566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="polaris channels">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1323.4843" y="381.34567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="channels of the arctic ocean">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-523.0546" y="-1258.863"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="television channels in slovakia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-732.78467" y="-36.61069"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="bangla-language television channels in india">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="878.16156" y="-522.6381"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="television channels in finland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-490.17783" y="-739.1462"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="television channels in cape verde">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-543.5267" y="1244.9758"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="foreign television channels broadcasting in the indonesia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="436.36447" y="-1078.4219"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="television channels in norway">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="193.66595" y="-1054.0182"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="bhojpuri-language television channels in india">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-801.3369" y="403.9131"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="fishing television channels">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="136.08284" y="-321.5003"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="brazilian television channels">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-534.5624" y="-183.2178"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="channels of wales">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-936.4616" y="-992.60876"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="islamic television channels">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="831.86584" y="-257.1216"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="hindi channels in india">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-503.58813" y="76.05047"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="channels of ireland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-742.7757" y="-1145.2217"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="television channels in india by language">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-308.30972" y="-306.99478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="television channels in guinea-bissau">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-938.91034" y="980.2808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="public access channels in the united states">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-165.80188" y="1097.904"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="religious television channels in sri lanka">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="311.30176" y="-157.00975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="165.0"></edge>
+      <edge id="1" source="1" target="2" weight="114.0"></edge>
+      <edge id="2" source="1" target="3" weight="79.0"></edge>
+      <edge id="3" source="1" target="4" weight="63.0"></edge>
+      <edge id="4" source="1" target="5" weight="58.0"></edge>
+      <edge id="5" source="6" target="1" weight="53.0"></edge>
+      <edge id="6" source="7" target="1" weight="48.0"></edge>
+      <edge id="7" source="8" target="1" weight="37.0"></edge>
+      <edge id="8" source="1" target="9" weight="34.0"></edge>
+      <edge id="9" source="10" target="1" weight="33.0"></edge>
+      <edge id="10" source="11" target="1" weight="31.0"></edge>
+      <edge id="11" source="12" target="1" weight="26.0"></edge>
+      <edge id="12" source="1" target="13" weight="25.0"></edge>
+      <edge id="13" source="1" target="14" weight="24.0"></edge>
+      <edge id="14" source="1" target="15" weight="24.0"></edge>
+      <edge id="15" source="16" target="11" weight="23.0"></edge>
+      <edge id="16" source="17" target="2" weight="22.0"></edge>
+      <edge id="17" source="17" target="3" weight="21.0"></edge>
+      <edge id="18" source="18" target="19" weight="21.0"></edge>
+      <edge id="19" source="1" target="20" weight="20.0"></edge>
+      <edge id="20" source="17" target="4" weight="20.0"></edge>
+      <edge id="21" source="1" target="21" weight="19.0"></edge>
+      <edge id="22" source="22" target="1" weight="18.0"></edge>
+      <edge id="23" source="23" target="1" weight="15.0"></edge>
+      <edge id="24" source="24" target="1" weight="15.0"></edge>
+      <edge id="25" source="25" target="26" weight="14.0"></edge>
+      <edge id="26" source="1" target="27" weight="13.0"></edge>
+      <edge id="27" source="1" target="28" weight="13.0"></edge>
+      <edge id="28" source="29" target="1" weight="13.0"></edge>
+      <edge id="29" source="17" target="5" weight="13.0"></edge>
+      <edge id="30" source="16" target="9" weight="12.0"></edge>
+      <edge id="31" source="1" target="26" weight="12.0"></edge>
+      <edge id="32" source="30" target="9" weight="12.0"></edge>
+      <edge id="33" source="1" target="31" weight="11.0"></edge>
+      <edge id="34" source="17" target="8" weight="10.0"></edge>
+      <edge id="35" source="32" target="33" weight="9.0"></edge>
+      <edge id="36" source="24" target="34" weight="8.0"></edge>
+      <edge id="37" source="30" target="11" weight="8.0"></edge>
+      <edge id="38" source="35" target="1" weight="8.0"></edge>
+      <edge id="39" source="28" target="16" weight="8.0"></edge>
+      <edge id="40" source="30" target="15" weight="8.0"></edge>
+      <edge id="41" source="16" target="15" weight="8.0"></edge>
+      <edge id="42" source="28" target="30" weight="8.0"></edge>
+      <edge id="43" source="32" target="1" weight="7.0"></edge>
+      <edge id="44" source="16" target="23" weight="7.0"></edge>
+      <edge id="45" source="1" target="36" weight="7.0"></edge>
+      <edge id="46" source="1" target="37" weight="7.0"></edge>
+      <edge id="47" source="38" target="1" weight="6.0"></edge>
+      <edge id="48" source="17" target="12" weight="6.0"></edge>
+      <edge id="49" source="16" target="4" weight="6.0"></edge>
+      <edge id="50" source="39" target="7" weight="6.0"></edge>
+      <edge id="51" source="16" target="40" weight="6.0"></edge>
+      <edge id="52" source="16" target="31" weight="5.0"></edge>
+      <edge id="53" source="41" target="1" weight="5.0"></edge>
+      <edge id="54" source="42" target="38" weight="5.0"></edge>
+      <edge id="55" source="30" target="31" weight="5.0"></edge>
+      <edge id="56" source="17" target="41" weight="4.0"></edge>
+      <edge id="57" source="43" target="17" weight="4.0"></edge>
+      <edge id="58" source="5" target="44" weight="4.0"></edge>
+      <edge id="59" source="45" target="15" weight="4.0"></edge>
+      <edge id="60" source="1" target="46" weight="4.0"></edge>
+      <edge id="61" source="47" target="48" weight="4.0"></edge>
+      <edge id="62" source="16" target="10" weight="4.0"></edge>
+      <edge id="63" source="10" target="17" weight="4.0"></edge>
+      <edge id="64" source="30" target="10" weight="4.0"></edge>
+      <edge id="65" source="0" target="49" weight="3.0"></edge>
+      <edge id="66" source="50" target="51" weight="3.0"></edge>
+      <edge id="67" source="17" target="15" weight="3.0"></edge>
+      <edge id="68" source="52" target="53" weight="3.0"></edge>
+      <edge id="69" source="16" target="41" weight="3.0"></edge>
+      <edge id="70" source="1" target="54" weight="3.0"></edge>
+      <edge id="71" source="20" target="39" weight="3.0"></edge>
+      <edge id="72" source="55" target="1" weight="3.0"></edge>
+      <edge id="73" source="28" target="17" weight="3.0"></edge>
+      <edge id="74" source="11" target="49" weight="3.0"></edge>
+      <edge id="75" source="17" target="56" weight="3.0"></edge>
+      <edge id="76" source="57" target="0" weight="3.0"></edge>
+      <edge id="77" source="16" target="20" weight="3.0"></edge>
+      <edge id="78" source="58" target="34" weight="3.0"></edge>
+      <edge id="79" source="59" target="1" weight="2.0"></edge>
+      <edge id="80" source="16" target="60" weight="2.0"></edge>
+      <edge id="81" source="61" target="48" weight="2.0"></edge>
+      <edge id="82" source="62" target="63" weight="2.0"></edge>
+      <edge id="83" source="62" target="37" weight="2.0"></edge>
+      <edge id="84" source="64" target="1" weight="2.0"></edge>
+      <edge id="85" source="65" target="48" weight="2.0"></edge>
+      <edge id="86" source="66" target="67" weight="2.0"></edge>
+      <edge id="87" source="68" target="37" weight="2.0"></edge>
+      <edge id="88" source="17" target="69" weight="2.0"></edge>
+      <edge id="89" source="30" target="23" weight="2.0"></edge>
+      <edge id="90" source="7" target="70" weight="2.0"></edge>
+      <edge id="91" source="17" target="20" weight="2.0"></edge>
+      <edge id="92" source="71" target="1" weight="2.0"></edge>
+      <edge id="93" source="1" target="72" weight="2.0"></edge>
+      <edge id="94" source="73" target="34" weight="2.0"></edge>
+      <edge id="95" source="74" target="34" weight="2.0"></edge>
+      <edge id="96" source="75" target="7" weight="2.0"></edge>
+      <edge id="97" source="25" target="6" weight="2.0"></edge>
+      <edge id="98" source="76" target="0" weight="2.0"></edge>
+      <edge id="99" source="17" target="77" weight="2.0"></edge>
+      <edge id="100" source="36" target="34" weight="2.0"></edge>
+      <edge id="101" source="8" target="78" weight="2.0"></edge>
+      <edge id="102" source="79" target="1" weight="2.0"></edge>
+      <edge id="103" source="80" target="81" weight="2.0"></edge>
+      <edge id="104" source="82" target="19"></edge>
+      <edge id="105" source="83" target="84"></edge>
+      <edge id="106" source="17" target="23"></edge>
+      <edge id="107" source="85" target="86"></edge>
+      <edge id="108" source="16" target="26"></edge>
+      <edge id="109" source="1" target="87"></edge>
+      <edge id="110" source="38" target="88"></edge>
+      <edge id="111" source="1" target="89"></edge>
+      <edge id="112" source="48" target="90"></edge>
+      <edge id="113" source="17" target="31"></edge>
+      <edge id="114" source="2" target="91"></edge>
+      <edge id="115" source="38" target="92"></edge>
+      <edge id="116" source="93" target="7"></edge>
+      <edge id="117" source="94" target="16"></edge>
+      <edge id="118" source="95" target="91"></edge>
+      <edge id="119" source="96" target="1"></edge>
+      <edge id="120" source="16" target="97"></edge>
+      <edge id="121" source="98" target="99"></edge>
+      <edge id="122" source="23" target="57"></edge>
+      <edge id="123" source="100" target="48"></edge>
+      <edge id="124" source="83" target="101"></edge>
+      <edge id="125" source="30" target="26"></edge>
+      <edge id="126" source="102" target="24"></edge>
+      <edge id="127" source="103" target="0"></edge>
+      <edge id="128" source="85" target="104"></edge>
+      <edge id="129" source="105" target="32"></edge>
+      <edge id="130" source="106" target="5"></edge>
+      <edge id="131" source="100" target="107"></edge>
+      <edge id="132" source="16" target="38"></edge>
+      <edge id="133" source="1" target="108"></edge>
+      <edge id="134" source="109" target="99"></edge>
+      <edge id="135" source="110" target="1"></edge>
+      <edge id="136" source="8" target="111"></edge>
+      <edge id="137" source="112" target="1"></edge>
+      <edge id="138" source="24" target="83"></edge>
+      <edge id="139" source="6" target="102"></edge>
+      <edge id="140" source="113" target="2"></edge>
+      <edge id="141" source="114" target="7"></edge>
+      <edge id="142" source="115" target="34"></edge>
+      <edge id="143" source="33" target="23"></edge>
+      <edge id="144" source="17" target="26"></edge>
+      <edge id="145" source="16" target="116"></edge>
+      <edge id="146" source="117" target="23"></edge>
+      <edge id="147" source="1" target="118"></edge>
+      <edge id="148" source="30" target="41"></edge>
+      <edge id="149" source="119" target="1"></edge>
+      <edge id="150" source="1" target="120"></edge>
+    </edges>
+  </graph>
+</gexf>

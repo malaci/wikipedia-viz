@@ -1,0 +1,830 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="classical pianists">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="88.0996" y="-139.70982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="american pianists">
+        <viz:size value="94.12066"></viz:size>
+        <viz:position x="-538.1288" y="154.53209"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="20th-century pianists">
+        <viz:size value="91.48812"></viz:size>
+        <viz:position x="-181.183" y="-178.04758"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="jazz pianists">
+        <viz:size value="89.996346"></viz:size>
+        <viz:position x="-547.2537" y="-72.96335"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="english pianists">
+        <viz:size value="72.53382"></viz:size>
+        <viz:position x="-621.1899" y="-1222.9823"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="19th-century pianists">
+        <viz:size value="72.09506"></viz:size>
+        <viz:position x="679.7963" y="147.38351"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="german pianists">
+        <viz:size value="69.28702"></viz:size>
+        <viz:position x="539.041" y="-38.65944"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="canadian pianists">
+        <viz:size value="67.97075"></viz:size>
+        <viz:position x="-1370.096" y="215.71298"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="russian pianists">
+        <viz:size value="67.707504"></viz:size>
+        <viz:position x="-383.3264" y="1291.6519"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="french pianists">
+        <viz:size value="66.39122"></viz:size>
+        <viz:position x="584.47455" y="-637.101"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="norwegian pianists">
+        <viz:size value="65.51372"></viz:size>
+        <viz:position x="-413.66885" y="-1112.4254"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="blues pianists">
+        <viz:size value="64.46069"></viz:size>
+        <viz:position x="-75.34022" y="20.363749"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="italian pianists">
+        <viz:size value="62.881172"></viz:size>
+        <viz:position x="924.54" y="1030.3195"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="21st-century pianists">
+        <viz:size value="62.881172"></viz:size>
+        <viz:position x="-141.0418" y="-678.7687"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="pop pianists">
+        <viz:size value="62.79342"></viz:size>
+        <viz:position x="-534.53485" y="-405.72357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="women pianists">
+        <viz:size value="62.70567"></viz:size>
+        <viz:position x="209.52696" y="349.7052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="rock pianists">
+        <viz:size value="61.915905"></viz:size>
+        <viz:position x="-581.1165" y="-929.9963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="british pianists">
+        <viz:size value="61.740402"></viz:size>
+        <viz:position x="422.1615" y="211.91135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="polish pianists">
+        <viz:size value="59.283367"></viz:size>
+        <viz:position x="814.9494" y="368.82382"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="australian pianists">
+        <viz:size value="58.93236"></viz:size>
+        <viz:position x="-212.75453" y="1046.9823"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="african-american pianists">
+        <viz:size value="58.142597"></viz:size>
+        <viz:position x="-313.39908" y="51.261555"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="hungarian pianists">
+        <viz:size value="56.826324"></viz:size>
+        <viz:position x="674.7808" y="-272.04294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="female pianists">
+        <viz:size value="56.475323"></viz:size>
+        <viz:position x="322.7035" y="820.619"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="austrian pianists">
+        <viz:size value="56.212067"></viz:size>
+        <viz:position x="323.94437" y="556.05725"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="japanese pianists">
+        <viz:size value="55.422306"></viz:size>
+        <viz:position x="94.07041" y="673.74506"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="dutch pianists">
+        <viz:size value="54.45704"></viz:size>
+        <viz:position x="522.1583" y="1266.9729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="spanish pianists">
+        <viz:size value="52.087753"></viz:size>
+        <viz:position x="1149.5957" y="170.23105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="post-bop pianists">
+        <viz:size value="51.034737"></viz:size>
+        <viz:position x="-829.60284" y="0.12062862"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="brazilian pianists">
+        <viz:size value="50.859234"></viz:size>
+        <viz:position x="-812.4284" y="-1076.3715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="soviet pianists">
+        <viz:size value="50.68373"></viz:size>
+        <viz:position x="1374.2755" y="-180.08337"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="israeli pianists">
+        <viz:size value="50.50823"></viz:size>
+        <viz:position x="-589.12646" y="1211.9275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="boogie-woogie pianists">
+        <viz:size value="50.244972"></viz:size>
+        <viz:position x="-747.9673" y="210.99919"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="czech pianists">
+        <viz:size value="50.06947"></viz:size>
+        <viz:position x="795.60266" y="-486.65527"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="cuban pianists">
+        <viz:size value="49.36746"></viz:size>
+        <viz:position x="-1208.9746" y="-681.9446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="swiss pianists">
+        <viz:size value="49.36746"></viz:size>
+        <viz:position x="-966.11206" y="-662.95966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="swedish pianists">
+        <viz:size value="49.016453"></viz:size>
+        <viz:position x="1172.5562" y="-278.77682"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="argentine pianists">
+        <viz:size value="48.05119"></viz:size>
+        <viz:position x="-151.13414" y="-1114.494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="bebop pianists">
+        <viz:size value="46.647167"></viz:size>
+        <viz:position x="-332.56357" y="317.95636"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="ukrainian pianists">
+        <viz:size value="46.38391"></viz:size>
+        <viz:position x="-641.684" y="692.84766"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="danish pianists">
+        <viz:size value="46.20841"></viz:size>
+        <viz:position x="741.576" y="590.6496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="belgian pianists">
+        <viz:size value="46.20841"></viz:size>
+        <viz:position x="943.663" y="-278.94858"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="south korean pianists">
+        <viz:size value="45.945156"></viz:size>
+        <viz:position x="297.04095" y="1321.2444"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="swing pianists">
+        <viz:size value="45.24314"></viz:size>
+        <viz:position x="121.27762" y="153.42009"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="avant-garde pianists">
+        <viz:size value="44.979893"></viz:size>
+        <viz:position x="-1130.6437" y="62.336502"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="hard bop pianists">
+        <viz:size value="44.716637"></viz:size>
+        <viz:position x="-718.2507" y="-217.76747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="chinese pianists">
+        <viz:size value="44.716637"></viz:size>
+        <viz:position x="123.76671" y="-1340.735"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="romanian pianists">
+        <viz:size value="44.19013"></viz:size>
+        <viz:position x="1098.227" y="-55.23139"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="irish pianists">
+        <viz:size value="43.926876"></viz:size>
+        <viz:position x="-1037.8446" y="-918.53644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="armenian pianists">
+        <viz:size value="42.873856"></viz:size>
+        <viz:position x="-1183.218" y="332.22427"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="new-age pianists">
+        <viz:size value="42.873856"></viz:size>
+        <viz:position x="-561.41565" y="409.41776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="greek pianists">
+        <viz:size value="41.908592"></viz:size>
+        <viz:position x="525.66626" y="672.5081"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="scottish pianists">
+        <viz:size value="41.645336"></viz:size>
+        <viz:position x="904.33936" y="129.97325"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="stride pianists">
+        <viz:size value="40.94333"></viz:size>
+        <viz:position x="-306.8067" y="-461.6977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="finnish pianists">
+        <viz:size value="40.592323"></viz:size>
+        <viz:position x="362.7949" y="-1329.106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="mexican pianists">
+        <viz:size value="40.241318"></viz:size>
+        <viz:position x="1327.3452" y="337.60504"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="serbian pianists">
+        <viz:size value="40.241318"></viz:size>
+        <viz:position x="817.2699" y="-1102.3883"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="bulgarian pianists">
+        <viz:size value="40.241318"></viz:size>
+        <viz:position x="550.72034" y="-1008.8101"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="ragtime pianists">
+        <viz:size value="38.310783"></viz:size>
+        <viz:position x="-94.93051" y="-396.28726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="new zealand pianists">
+        <viz:size value="38.310783"></viz:size>
+        <viz:position x="-17.428179" y="1153.6592"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="turkish pianists">
+        <viz:size value="37.87203"></viz:size>
+        <viz:position x="1114.6737" y="815.2408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="south african pianists">
+        <viz:size value="37.43327"></viz:size>
+        <viz:position x="-1113.8457" y="-452.78323"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="pianists from georgia">
+        <viz:size value="35.414993"></viz:size>
+        <viz:position x="1300.8296" y="-480.74158"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="welsh pianists">
+        <viz:size value="34.361977"></viz:size>
+        <viz:position x="-795.6247" y="1110.9629"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="venezuelan pianists">
+        <viz:size value="33.74772"></viz:size>
+        <viz:position x="222.04402" y="1080.8109"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="estonian pianists">
+        <viz:size value="33.13346"></viz:size>
+        <viz:position x="-281.47443" y="-914.55786"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="portuguese pianists">
+        <viz:size value="33.13346"></viz:size>
+        <viz:position x="1066.7457" y="385.21072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="croatian pianists">
+        <viz:size value="33.13346"></viz:size>
+        <viz:position x="1167.455" y="-736.0499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="lithuanian pianists">
+        <viz:size value="33.13346"></viz:size>
+        <viz:position x="628.77856" y="885.1552"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="azerbaijani pianists">
+        <viz:size value="32.519196"></viz:size>
+        <viz:position x="449.78592" y="1026.5331"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="latvian pianists">
+        <viz:size value="31.817186"></viz:size>
+        <viz:position x="987.66266" y="600.1783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="taiwanese pianists">
+        <viz:size value="31.115175"></viz:size>
+        <viz:position x="321.7235" y="-1091.8209"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="iranian pianists">
+        <viz:size value="30.32541"></viz:size>
+        <viz:position x="-109.7763" y="-1352.3376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="chilean pianists">
+        <viz:size value="30.32541"></viz:size>
+        <viz:position x="856.29553" y="820.0954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="hong kong pianists">
+        <viz:size value="29.53565"></viz:size>
+        <viz:position x="83.85745" y="-612.479"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="filipino pianists">
+        <viz:size value="28.658134"></viz:size>
+        <viz:position x="-1015.82275" y="526.694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="bossa nova pianists">
+        <viz:size value="28.658134"></viz:size>
+        <viz:position x="-808.7067" y="-838.75586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="egyptian pianists">
+        <viz:size value="27.692871"></viz:size>
+        <viz:position x="1051.594" y="-525.3934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="big band pianists">
+        <viz:size value="26.639853"></viz:size>
+        <viz:position x="-884.3049" y="-388.3365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="jamaican pianists">
+        <viz:size value="25.586838"></viz:size>
+        <viz:position x="-874.88696" y="732.6501"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="dixieland pianists">
+        <viz:size value="25.586838"></viz:size>
+        <viz:position x="14.069161" y="441.3028"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="soul-jazz pianists">
+        <viz:size value="25.586838"></viz:size>
+        <viz:position x="-986.28827" y="-165.24945"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="pianists from san francisco, california">
+        <viz:size value="24.358318"></viz:size>
+        <viz:position x="70.31171" y="898.3557"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="jazz-blues pianists">
+        <viz:size value="24.358318"></viz:size>
+        <viz:position x="-789.15094" y="457.12476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="puerto rican pianists">
+        <viz:size value="23.042048"></viz:size>
+        <viz:position x="310.80722" y="-560.3934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="slovenian pianists">
+        <viz:size value="21.550274"></viz:size>
+        <viz:position x="499.60693" y="-422.46826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="musica popular brasileira pianists">
+        <viz:size value="21.550274"></viz:size>
+        <viz:position x="-572.91846" y="-692.10736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="jazz-funk pianists">
+        <viz:size value="21.550274"></viz:size>
+        <viz:position x="126.12537" y="-361.49948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="uzbekistani pianists">
+        <viz:size value="21.550274"></viz:size>
+        <viz:position x="213.64487" y="-836.6787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="catalan pianists">
+        <viz:size value="21.550274"></viz:size>
+        <viz:position x="-118.9085" y="249.83191"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="indian pianists">
+        <viz:size value="19.883"></viz:size>
+        <viz:position x="547.37805" y="400.82996"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="jazz-pop pianists">
+        <viz:size value="19.883"></viz:size>
+        <viz:position x="-370.91937" y="-692.22437"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="uruguayan pianists">
+        <viz:size value="19.883"></viz:size>
+        <viz:position x="-1129.3351" y="754.182"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="third stream pianists">
+        <viz:size value="19.883"></viz:size>
+        <viz:position x="-415.83743" y="559.23706"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="luxembourgian pianists">
+        <viz:size value="19.883"></viz:size>
+        <viz:position x="425.2598" y="-797.4301"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="slovak pianists">
+        <viz:size value="17.864716"></viz:size>
+        <viz:position x="-142.36581" y="790.9834"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="singaporean pianists">
+        <viz:size value="17.864716"></viz:size>
+        <viz:position x="-182.32321" y="546.47736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="free improvisation pianists">
+        <viz:size value="17.864716"></viz:size>
+        <viz:position x="-413.05463" y="-225.89685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="peruvian pianists">
+        <viz:size value="17.864716"></viz:size>
+        <viz:position x="361.06863" y="-250.2937"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="bosnia and herzegovina pianists">
+        <viz:size value="17.864716"></viz:size>
+        <viz:position x="1002.9047" y="-936.86896"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="cypriot pianists">
+        <viz:size value="17.864716"></viz:size>
+        <viz:position x="1247.1133" y="584.4674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="folk pianists">
+        <viz:size value="17.864716"></viz:size>
+        <viz:position x="-720.69006" y="-542.5169"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="gospel music pianists">
+        <viz:size value="15.58318"></viz:size>
+        <viz:position x="-968.27155" y="231.17203"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="ecuadorian pianists">
+        <viz:size value="15.58318"></viz:size>
+        <viz:position x="312.03702" y="-13.571929"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="vietnamese pianists">
+        <viz:size value="15.58318"></viz:size>
+        <viz:position x="-1267.9835" y="540.0961"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="sri lankan pianists">
+        <viz:size value="15.58318"></viz:size>
+        <viz:position x="-376.7226" y="787.9916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="lebanese pianists">
+        <viz:size value="12.775137"></viz:size>
+        <viz:position x="727.9253" y="-860.6695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="haitian pianists">
+        <viz:size value="12.775137"></viz:size>
+        <viz:position x="1359.7479" y="69.83128"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="albanian pianists">
+        <viz:size value="9.089581"></viz:size>
+        <viz:position x="799.21643" y="-83.51357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="syrian pianists">
+        <viz:size value="9.089581"></viz:size>
+        <viz:position x="596.7813" y="-1231.0428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="dominican republic pianists">
+        <viz:size value="9.089581"></viz:size>
+        <viz:position x="-1379.9254" y="-43.018772"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="pianists from northern ireland">
+        <viz:size value="9.089581"></viz:size>
+        <viz:position x="89.827576" y="-1097.3262"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="pakistani pianists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-975.08167" y="951.5812"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="belizean pianists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-360.1663" y="-1339.2039"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="pianists from russia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-176.52174" y="1352.4479"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="jazz-rock pianists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="715.528" y="1142.6814"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="folk-bop pianists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-447.09" y="1007.6879"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="kosovan pianists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1329.0387" y="-388.3211"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="algerian pianists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="895.12177" y="-713.1186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="north korean pianists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="72.466934" y="1373.4232"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="montenegrin pianists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-4.7931366" y="-891.4493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="lounge music pianists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1218.318" y="-192.96596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="nicaraguan pianists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-671.0422" y="913.89026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="342.0"></edge>
+      <edge id="1" source="2" target="3" weight="142.0"></edge>
+      <edge id="2" source="4" target="5" weight="126.0"></edge>
+      <edge id="3" source="1" target="5" weight="121.0"></edge>
+      <edge id="4" source="6" target="3" weight="107.0"></edge>
+      <edge id="5" source="7" target="0" weight="99.0"></edge>
+      <edge id="6" source="8" target="9" weight="81.0"></edge>
+      <edge id="7" source="2" target="10" weight="72.0"></edge>
+      <edge id="8" source="0" target="3" weight="71.0"></edge>
+      <edge id="9" source="3" target="11" weight="70.0"></edge>
+      <edge id="10" source="10" target="5" weight="65.0"></edge>
+      <edge id="11" source="12" target="3" weight="65.0"></edge>
+      <edge id="12" source="2" target="8" weight="64.0"></edge>
+      <edge id="13" source="2" target="1" weight="61.0"></edge>
+      <edge id="14" source="13" target="10" weight="61.0"></edge>
+      <edge id="15" source="6" target="10" weight="59.0"></edge>
+      <edge id="16" source="2" target="14" weight="58.0"></edge>
+      <edge id="17" source="3" target="5" weight="56.0"></edge>
+      <edge id="18" source="8" target="15" weight="55.0"></edge>
+      <edge id="19" source="1" target="11" weight="52.0"></edge>
+      <edge id="20" source="8" target="5" weight="50.0"></edge>
+      <edge id="21" source="10" target="16" weight="49.0"></edge>
+      <edge id="22" source="8" target="17" weight="47.0"></edge>
+      <edge id="23" source="18" target="8" weight="47.0"></edge>
+      <edge id="24" source="6" target="8" weight="46.0"></edge>
+      <edge id="25" source="13" target="3" weight="45.0"></edge>
+      <edge id="26" source="15" target="3" weight="45.0"></edge>
+      <edge id="27" source="9" target="10" weight="44.0"></edge>
+      <edge id="28" source="15" target="10" weight="43.0"></edge>
+      <edge id="29" source="18" target="3" weight="41.0"></edge>
+      <edge id="30" source="18" target="10" weight="38.0"></edge>
+      <edge id="31" source="10" target="12" weight="38.0"></edge>
+      <edge id="32" source="17" target="10" weight="37.0"></edge>
+      <edge id="33" source="19" target="16" weight="34.0"></edge>
+      <edge id="34" source="20" target="0" weight="33.0"></edge>
+      <edge id="35" source="0" target="21" weight="33.0"></edge>
+      <edge id="36" source="8" target="22" weight="32.0"></edge>
+      <edge id="37" source="13" target="8" weight="31.0"></edge>
+      <edge id="38" source="5" target="23" weight="31.0"></edge>
+      <edge id="39" source="16" target="3" weight="29.0"></edge>
+      <edge id="40" source="8" target="12" weight="26.0"></edge>
+      <edge id="41" source="2" target="19" weight="26.0"></edge>
+      <edge id="42" source="10" target="22" weight="23.0"></edge>
+      <edge id="43" source="1" target="12" weight="22.0"></edge>
+      <edge id="44" source="16" target="8" weight="22.0"></edge>
+      <edge id="45" source="22" target="3" weight="22.0"></edge>
+      <edge id="46" source="9" target="3" weight="21.0"></edge>
+      <edge id="47" source="17" target="3" weight="20.0"></edge>
+      <edge id="48" source="0" target="24" weight="19.0"></edge>
+      <edge id="49" source="25" target="10" weight="19.0"></edge>
+      <edge id="50" source="9" target="26" weight="15.0"></edge>
+      <edge id="51" source="25" target="8" weight="15.0"></edge>
+      <edge id="52" source="10" target="27" weight="15.0"></edge>
+      <edge id="53" source="27" target="3" weight="14.0"></edge>
+      <edge id="54" source="28" target="0" weight="13.0"></edge>
+      <edge id="55" source="8" target="27" weight="12.0"></edge>
+      <edge id="56" source="0" target="29" weight="12.0"></edge>
+      <edge id="57" source="30" target="0" weight="12.0"></edge>
+      <edge id="58" source="8" target="31" weight="11.0"></edge>
+      <edge id="59" source="32" target="8" weight="11.0"></edge>
+      <edge id="60" source="32" target="3" weight="10.0"></edge>
+      <edge id="61" source="31" target="10" weight="9.0"></edge>
+      <edge id="62" source="32" target="10" weight="9.0"></edge>
+      <edge id="63" source="33" target="0" weight="9.0"></edge>
+      <edge id="64" source="34" target="8" weight="8.0"></edge>
+      <edge id="65" source="34" target="35" weight="8.0"></edge>
+      <edge id="66" source="8" target="36" weight="8.0"></edge>
+      <edge id="67" source="37" target="0" weight="8.0"></edge>
+      <edge id="68" source="38" target="10" weight="8.0"></edge>
+      <edge id="69" source="38" target="8" weight="8.0"></edge>
+      <edge id="70" source="8" target="39" weight="8.0"></edge>
+      <edge id="71" source="40" target="10" weight="7.0"></edge>
+      <edge id="72" source="8" target="41" weight="7.0"></edge>
+      <edge id="73" source="3" target="39" weight="7.0"></edge>
+      <edge id="74" source="38" target="3" weight="7.0"></edge>
+      <edge id="75" source="8" target="42" weight="6.0"></edge>
+      <edge id="76" source="31" target="3" weight="6.0"></edge>
+      <edge id="77" source="10" target="39" weight="5.0"></edge>
+      <edge id="78" source="43" target="3" weight="5.0"></edge>
+      <edge id="79" source="0" target="44" weight="5.0"></edge>
+      <edge id="80" source="10" target="36" weight="5.0"></edge>
+      <edge id="81" source="25" target="1" weight="5.0"></edge>
+      <edge id="82" source="45" target="3" weight="4.0"></edge>
+      <edge id="83" source="10" target="42" weight="4.0"></edge>
+      <edge id="84" source="46" target="5" weight="4.0"></edge>
+      <edge id="85" source="10" target="47" weight="4.0"></edge>
+      <edge id="86" source="23" target="25" weight="4.0"></edge>
+      <edge id="87" source="27" target="1" weight="4.0"></edge>
+      <edge id="88" source="48" target="8" weight="3.0"></edge>
+      <edge id="89" source="41" target="10" weight="3.0"></edge>
+      <edge id="90" source="11" target="49" weight="3.0"></edge>
+      <edge id="91" source="41" target="3" weight="3.0"></edge>
+      <edge id="92" source="10" target="50" weight="3.0"></edge>
+      <edge id="93" source="51" target="3" weight="3.0"></edge>
+      <edge id="94" source="1" target="42" weight="3.0"></edge>
+      <edge id="95" source="1" target="52" weight="3.0"></edge>
+      <edge id="96" source="3" target="36" weight="3.0"></edge>
+      <edge id="97" source="42" target="3" weight="3.0"></edge>
+      <edge id="98" source="53" target="54" weight="3.0"></edge>
+      <edge id="99" source="55" target="56" weight="3.0"></edge>
+      <edge id="100" source="57" target="3" weight="3.0"></edge>
+      <edge id="101" source="58" target="0" weight="3.0"></edge>
+      <edge id="102" source="0" target="59" weight="2.0"></edge>
+      <edge id="103" source="1" target="60" weight="2.0"></edge>
+      <edge id="104" source="41" target="35" weight="2.0"></edge>
+      <edge id="105" source="61" target="5" weight="2.0"></edge>
+      <edge id="106" source="25" target="62" weight="2.0"></edge>
+      <edge id="107" source="60" target="8" weight="2.0"></edge>
+      <edge id="108" source="10" target="60" weight="2.0"></edge>
+      <edge id="109" source="5" target="63" weight="2.0"></edge>
+      <edge id="110" source="53" target="39" weight="2.0"></edge>
+      <edge id="111" source="19" target="60" weight="2.0"></edge>
+      <edge id="112" source="8" target="50" weight="2.0"></edge>
+      <edge id="113" source="34" target="64" weight="2.0"></edge>
+      <edge id="114" source="9" target="62" weight="2.0"></edge>
+      <edge id="115" source="42" target="26" weight="2.0"></edge>
+      <edge id="116" source="60" target="35" weight="2.0"></edge>
+      <edge id="117" source="50" target="3" weight="2.0"></edge>
+      <edge id="118" source="65" target="10" weight="2.0"></edge>
+      <edge id="119" source="66" target="10" weight="2.0"></edge>
+      <edge id="120" source="34" target="3" weight="2.0"></edge>
+      <edge id="121" source="18" target="67"></edge>
+      <edge id="122" source="16" target="68"></edge>
+      <edge id="123" source="62" target="22"></edge>
+      <edge id="124" source="17" target="69"></edge>
+      <edge id="125" source="70" target="60"></edge>
+      <edge id="126" source="71" target="72"></edge>
+      <edge id="127" source="60" target="64"></edge>
+      <edge id="128" source="73" target="8"></edge>
+      <edge id="129" source="74" target="42"></edge>
+      <edge id="130" source="69" target="0"></edge>
+      <edge id="131" source="75" target="76"></edge>
+      <edge id="132" source="77" target="2"></edge>
+      <edge id="133" source="9" target="78"></edge>
+      <edge id="134" source="39" target="79"></edge>
+      <edge id="135" source="80" target="11"></edge>
+      <edge id="136" source="81" target="82"></edge>
+      <edge id="137" source="34" target="62"></edge>
+      <edge id="138" source="83" target="3"></edge>
+      <edge id="139" source="16" target="64"></edge>
+      <edge id="140" source="84" target="85"></edge>
+      <edge id="141" source="42" target="86"></edge>
+      <edge id="142" source="62" target="87"></edge>
+      <edge id="143" source="12" target="62"></edge>
+      <edge id="144" source="88" target="89"></edge>
+      <edge id="145" source="2" target="84"></edge>
+      <edge id="146" source="60" target="3"></edge>
+      <edge id="147" source="34" target="1"></edge>
+      <edge id="148" source="14" target="41"></edge>
+      <edge id="149" source="50" target="90"></edge>
+      <edge id="150" source="26" target="32"></edge>
+      <edge id="151" source="19" target="41"></edge>
+      <edge id="152" source="91" target="2"></edge>
+      <edge id="153" source="92" target="93"></edge>
+      <edge id="154" source="11" target="94"></edge>
+      <edge id="155" source="95" target="3"></edge>
+      <edge id="156" source="96" target="97"></edge>
+      <edge id="157" source="79" target="36"></edge>
+      <edge id="158" source="62" target="17"></edge>
+      <edge id="159" source="13" target="62"></edge>
+      <edge id="160" source="69" target="5"></edge>
+      <edge id="161" source="0" target="98"></edge>
+      <edge id="162" source="62" target="32"></edge>
+      <edge id="163" source="41" target="62"></edge>
+      <edge id="164" source="99" target="32"></edge>
+      <edge id="165" source="21" target="42"></edge>
+      <edge id="166" source="1" target="100"></edge>
+      <edge id="167" source="101" target="3"></edge>
+      <edge id="168" source="62" target="5"></edge>
+      <edge id="169" source="69" target="9"></edge>
+      <edge id="170" source="10" target="102"></edge>
+      <edge id="171" source="7" target="39"></edge>
+      <edge id="172" source="71" target="2"></edge>
+      <edge id="173" source="11" target="91"></edge>
+      <edge id="174" source="103" target="5"></edge>
+      <edge id="175" source="15" target="69"></edge>
+      <edge id="176" source="16" target="71"></edge>
+      <edge id="177" source="5" target="71"></edge>
+      <edge id="178" source="60" target="62"></edge>
+      <edge id="179" source="104" target="11"></edge>
+      <edge id="180" source="68" target="5"></edge>
+      <edge id="181" source="25" target="105"></edge>
+      <edge id="182" source="19" target="34"></edge>
+      <edge id="183" source="41" target="1"></edge>
+      <edge id="184" source="106" target="36"></edge>
+      <edge id="185" source="5" target="67"></edge>
+      <edge id="186" source="80" target="5"></edge>
+      <edge id="187" source="1" target="36"></edge>
+      <edge id="188" source="3" target="107"></edge>
+      <edge id="189" source="108" target="93"></edge>
+      <edge id="190" source="81" target="41"></edge>
+      <edge id="191" source="6" target="62"></edge>
+      <edge id="192" source="16" target="62"></edge>
+      <edge id="193" source="19" target="32"></edge>
+      <edge id="194" source="11" target="109"></edge>
+      <edge id="195" source="110" target="111"></edge>
+      <edge id="196" source="112" target="10"></edge>
+      <edge id="197" source="3" target="113"></edge>
+      <edge id="198" source="3" target="114"></edge>
+      <edge id="199" source="106" target="41"></edge>
+      <edge id="200" source="115" target="0"></edge>
+      <edge id="201" source="116" target="11"></edge>
+      <edge id="202" source="10" target="117"></edge>
+      <edge id="203" source="27" target="62"></edge>
+      <edge id="204" source="118" target="119"></edge>
+      <edge id="205" source="10" target="120"></edge>
+      <edge id="206" source="8" target="121"></edge>
+    </edges>
+  </graph>
+</gexf>

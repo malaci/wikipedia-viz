@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="6" label="kerala">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-291.48184" y="-17.362276"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="maharashtra">
+        <viz:size value="96.78083"></viz:size>
+        <viz:position x="292.8446" y="16.59787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="tamil nadu">
+        <viz:size value="96.20599"></viz:size>
+        <viz:position x="-225.37306" y="-603.5174"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="karnataka">
+        <viz:size value="90.45749"></viz:size>
+        <viz:position x="573.6998" y="293.075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="andhra pradesh">
+        <viz:size value="89.30779"></viz:size>
+        <viz:position x="-602.89813" y="225.21794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="west bengal">
+        <viz:size value="86.89342"></viz:size>
+        <viz:position x="-16.169893" y="291.55603"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="madhya pradesh">
+        <viz:size value="85.05389"></viz:size>
+        <viz:position x="-574.46533" y="-291.52258"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="gujarat">
+        <viz:size value="84.82395"></viz:size>
+        <viz:position x="292.555" y="-573.55786"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="rajasthan">
+        <viz:size value="83.21437"></viz:size>
+        <viz:position x="223.7432" y="604.0996"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="telangana">
+        <viz:size value="75.28144"></viz:size>
+        <viz:position x="-292.85608" y="573.1023"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="daman and diu">
+        <viz:size value="14.462279"></viz:size>
+        <viz:position x="17.085213" y="-292.82266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="dadra and nagar haveli">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="603.3165" y="-224.866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="195.0"></edge>
+      <edge id="1" source="2" target="3" weight="4.0"></edge>
+      <edge id="2" source="4" target="5" weight="2.0"></edge>
+      <edge id="3" source="3" target="5" weight="2.0"></edge>
+    </edges>
+  </graph>
+</gexf>

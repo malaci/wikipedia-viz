@@ -1,0 +1,2915 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="3" label="public libraries">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="64.36615" y="-44.773426"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="national libraries">
+        <viz:size value="98.5"></viz:size>
+        <viz:position x="646.1633" y="-334.0953"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="carnegie libraries">
+        <viz:size value="88.321434"></viz:size>
+        <viz:position x="488.48544" y="319.59528"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="academic libraries">
+        <viz:size value="86.82142"></viz:size>
+        <viz:position x="70.99509" y="950.1202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="digital libraries">
+        <viz:size value="85.96429"></viz:size>
+        <viz:position x="534.71063" y="973.56104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="libraries in california">
+        <viz:size value="80.39285"></viz:size>
+        <viz:position x="247.79916" y="-225.84851"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="libraries in massachusetts">
+        <viz:size value="79.96429"></viz:size>
+        <viz:position x="-179.53235" y="-460.44202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="libraries in the united states">
+        <viz:size value="79.214294"></viz:size>
+        <viz:position x="228.42104" y="468.7444"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="computer libraries">
+        <viz:size value="78.78571"></viz:size>
+        <viz:position x="-217.52979" y="-1781.7219"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="libraries in maine">
+        <viz:size value="75.57143"></viz:size>
+        <viz:position x="64.74609" y="-421.42944"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="libraries in new york">
+        <viz:size value="73.64286"></viz:size>
+        <viz:position x="63.26523" y="-259.73633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="libraries in illinois">
+        <viz:size value="71.92857"></viz:size>
+        <viz:position x="-198.74644" y="-158.77393"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="c libraries">
+        <viz:size value="68.28571"></viz:size>
+        <viz:position x="-5.089911" y="-1792.7152"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="libraries in pennsylvania">
+        <viz:size value="68.07143"></viz:size>
+        <viz:position x="27.428843" y="77.88587"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="research libraries">
+        <viz:size value="67.42857"></viz:size>
+        <viz:position x="-325.1873" y="708.71326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="c libraries">
+        <viz:size value="67.0"></viz:size>
+        <viz:position x="-484.36557" y="-1757.8683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="217" label="libraries in florida">
+        <viz:size value="66.25"></viz:size>
+        <viz:position x="505.5725" y="762.6228"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="deposit libraries">
+        <viz:size value="65.07143"></viz:size>
+        <viz:position x="-461.97916" y="758.7903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="316" label="java libraries">
+        <viz:size value="64.96429"></viz:size>
+        <viz:position x="-1193.2363" y="-1525.2231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="libraries in ohio">
+        <viz:size value="64.10715"></viz:size>
+        <viz:position x="171.89542" y="118.79663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="libraries in minnesota">
+        <viz:size value="64.10715"></viz:size>
+        <viz:position x="225.80147" y="1045.1125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="293" label="libraries in iowa">
+        <viz:size value="63.785713"></viz:size>
+        <viz:position x="818.8891" y="-227.6957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="graphics libraries">
+        <viz:size value="63.357143"></viz:size>
+        <viz:position x="-137.38153" y="-1942.4591"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="libraries in indiana">
+        <viz:size value="63.14286"></viz:size>
+        <viz:position x="1091.3899" y="185.95848"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="libraries in wisconsin">
+        <viz:size value="62.821426"></viz:size>
+        <viz:position x="521.33105" y="-463.47537"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="195" label="libraries in hampshire">
+        <viz:size value="61.214287"></viz:size>
+        <viz:position x="-369.89758" y="1894.2557"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="federal depository libraries">
+        <viz:size value="59.607143"></viz:size>
+        <viz:position x="262.10165" y="285.43402"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="396" label="libraries in michigan">
+        <viz:size value="58.535717"></viz:size>
+        <viz:position x="915.0389" y="1339.0085"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="python libraries">
+        <viz:size value="58.0"></viz:size>
+        <viz:position x="35.663765" y="-1601.3085"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="302" label="libraries in texas">
+        <viz:size value="57.357143"></viz:size>
+        <viz:position x="1570.0266" y="365.66534"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="libraries in kansas">
+        <viz:size value="57.035713"></viz:size>
+        <viz:position x="242.74907" y="-755.3059"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="libraries in oregon">
+        <viz:size value="56.285717"></viz:size>
+        <viz:position x="-3.9555097" y="214.67534"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="219" label="libraries in virginia">
+        <viz:size value="55.75"></viz:size>
+        <viz:position x="1284.7217" y="-1463.9545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="libraries in canada">
+        <viz:size value="55.214287"></viz:size>
+        <viz:position x="-761.39685" y="448.0436"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="406" label="libraries in connecticut">
+        <viz:size value="54.892857"></viz:size>
+        <viz:position x="645.0111" y="-1578.5911"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="libraries in new jersey">
+        <viz:size value="54.678574"></viz:size>
+        <viz:position x="-991.86096" y="-824.1274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="special collections libraries">
+        <viz:size value="54.678574"></viz:size>
+        <viz:position x="-401.60394" y="356.45874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="libraries in ontario">
+        <viz:size value="54.35714"></viz:size>
+        <viz:position x="-444.92712" y="968.1171"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="libraries in india">
+        <viz:size value="53.07143"></viz:size>
+        <viz:position x="-1066.4407" y="139.87143"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="libraries in germany">
+        <viz:size value="53.07143"></viz:size>
+        <viz:position x="-756.7091" y="873.30853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="libraries in australia">
+        <viz:size value="52.75"></viz:size>
+        <viz:position x="-849.1262" y="334.5437"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="213" label="libraries in washington, d c ">
+        <viz:size value="52.42857"></viz:size>
+        <viz:position x="-1048.9019" y="-15.042377"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="libraries established in 1920s">
+        <viz:size value="52.10714"></viz:size>
+        <viz:position x="-499.3427" y="-214.51372"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="libraries in manhattan">
+        <viz:size value="52.10714"></viz:size>
+        <viz:position x="368.6547" y="389.18353"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="audio libraries">
+        <viz:size value="49.535713"></viz:size>
+        <viz:position x="-334.05283" y="-1685.0886"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="libraries in georgia">
+        <viz:size value="49.535713"></viz:size>
+        <viz:position x="372.21353" y="47.372593"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="libraries in england">
+        <viz:size value="49.535713"></viz:size>
+        <viz:position x="-836.08887" y="-777.4269"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="libraries in washington">
+        <viz:size value="48.67857"></viz:size>
+        <viz:position x="393.4236" y="-177.1362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="libraries in london">
+        <viz:size value="48.67857"></viz:size>
+        <viz:position x="1099.5392" y="-86.959755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="numerical libraries">
+        <viz:size value="48.250004"></viz:size>
+        <viz:position x="-299.8695" y="-1927.9163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="libraries established in 1900s">
+        <viz:size value="47.82143"></viz:size>
+        <viz:position x="703.9588" y="451.87653"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="music libraries">
+        <viz:size value="47.82143"></viz:size>
+        <viz:position x="1114.6987" y="716.1574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="175" label="libraries in missouri">
+        <viz:size value="46.857143"></viz:size>
+        <viz:position x="342.30118" y="775.2332"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="libraries established in 1910s">
+        <viz:size value="45.892857"></viz:size>
+        <viz:position x="-71.60984" y="829.1473"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="x-based libraries">
+        <viz:size value="45.892857"></viz:size>
+        <viz:position x="191.06589" y="-1918.5139"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="266" label="libraries in colorado">
+        <viz:size value="45.892857"></viz:size>
+        <viz:position x="-466.97318" y="1545.0743"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="law libraries">
+        <viz:size value="45.357147"></viz:size>
+        <viz:position x="235.95204" y="888.86597"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="libraries in utah">
+        <viz:size value="45.357147"></viz:size>
+        <viz:position x="768.93164" y="729.0693"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="state libraries of the united states">
+        <viz:size value="45.357147"></viz:size>
+        <viz:position x="805.90564" y="545.3273"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="libraries in italy">
+        <viz:size value="45.357147"></viz:size>
+        <viz:position x="-1029.8341" y="-313.169"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="libraries established in 2000s">
+        <viz:size value="44.82143"></viz:size>
+        <viz:position x="-762.2244" y="600.43475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="libraries established in 1950s">
+        <viz:size value="44.82143"></viz:size>
+        <viz:position x="-85.30163" y="654.4029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="libraries established in 1990s">
+        <viz:size value="44.82143"></viz:size>
+        <viz:position x="-249.94669" y="-585.57056"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="libraries in north carolina">
+        <viz:size value="44.178574"></viz:size>
+        <viz:position x="943.0564" y="703.6316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="libraries established in 1940s">
+        <viz:size value="44.178574"></viz:size>
+        <viz:position x="-351.6774" y="-57.829376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="libraries established in 1960s">
+        <viz:size value="43.642857"></viz:size>
+        <viz:position x="406.31445" y="614.5981"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="291" label="libraries in vermont">
+        <viz:size value="43.642857"></viz:size>
+        <viz:position x="-508.58154" y="-783.7283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="libraries established in 1890s">
+        <viz:size value="42.999996"></viz:size>
+        <viz:position x="-304.17838" y="86.194695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="libraries established in 1970s">
+        <viz:size value="42.999996"></viz:size>
+        <viz:position x="326.77216" y="190.73595"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="403" label="libraries in scotland">
+        <viz:size value="42.999996"></viz:size>
+        <viz:position x="-1927.7047" y="-232.1843"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="205" label="libraries established in 1980s">
+        <viz:size value="42.999996"></viz:size>
+        <viz:position x="-203.69966" y="280.15695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="libraries in paris">
+        <viz:size value="42.999996"></viz:size>
+        <viz:position x="1746.277" y="503.4861"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="libraries in china">
+        <viz:size value="42.357143"></viz:size>
+        <viz:position x="906.8529" y="391.17212"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="393" label="libraries in france">
+        <viz:size value="42.357143"></viz:size>
+        <viz:position x="-660.2823" y="-1232.2627"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="presidential libraries">
+        <viz:size value="42.357143"></viz:size>
+        <viz:position x="703.61633" y="-517.63135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="libraries in nebraska">
+        <viz:size value="41.714287"></viz:size>
+        <viz:position x="1160.3917" y="563.43976"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="410" label="libraries in spain">
+        <viz:size value="41.714287"></viz:size>
+        <viz:position x="-1203.5475" y="-75.62884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="libraries established in 1930s">
+        <viz:size value="41.714287"></viz:size>
+        <viz:position x="-505.70294" y="217.04228"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="subscription libraries">
+        <viz:size value="41.714287"></viz:size>
+        <viz:position x="-189.61095" y="-818.1117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="243" label="libraries in mexico">
+        <viz:size value="41.071426"></viz:size>
+        <viz:position x="-928.00586" y="207.43001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="medical libraries">
+        <viz:size value="41.071426"></viz:size>
+        <viz:position x="-241.16396" y="428.00946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="libraries in north dakota">
+        <viz:size value="41.071426"></viz:size>
+        <viz:position x="663.20166" y="862.9973"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="programming libraries">
+        <viz:size value="40.321426"></viz:size>
+        <viz:position x="492.23688" y="-1718.8452"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="libraries in arizona">
+        <viz:size value="40.321426"></viz:size>
+        <viz:position x="864.0448" y="-402.38785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="419" label="libraries in singapore">
+        <viz:size value="40.321426"></viz:size>
+        <viz:position x="-1342.5599" y="835.48535"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="rare book libraries">
+        <viz:size value="40.321426"></viz:size>
+        <viz:position x="-160.13904" y="145.27397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="libraries in oklahoma">
+        <viz:size value="40.321426"></viz:size>
+        <viz:position x="268.4357" y="1564.9833"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="libraries of the university of oxford">
+        <viz:size value="39.57143"></viz:size>
+        <viz:position x="-556.75116" y="95.52517"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="libraries in kentucky">
+        <viz:size value="39.57143"></viz:size>
+        <viz:position x="-109.32024" y="1585.5803"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="private libraries">
+        <viz:size value="39.57143"></viz:size>
+        <viz:position x="40.202667" y="-773.5499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="libraries in south carolina">
+        <viz:size value="38.82143"></viz:size>
+        <viz:position x="372.95303" y="976.44635"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="libraries in rhode island">
+        <viz:size value="38.82143"></viz:size>
+        <viz:position x="-76.75672" y="-369.36316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="libraries in montreal">
+        <viz:size value="37.964287"></viz:size>
+        <viz:position x="89.12455" y="510.0649"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="365" label="libraries by type">
+        <viz:size value="37.964287"></viz:size>
+        <viz:position x="1116.5018" y="1413.7594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="libraries in maryland">
+        <viz:size value="37.964287"></viz:size>
+        <viz:position x="103.29875" y="308.05286"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="libraries in tennessee">
+        <viz:size value="37.964287"></viz:size>
+        <viz:position x="544.59314" y="-250.92802"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="libraries established in 1880s">
+        <viz:size value="37.964287"></viz:size>
+        <viz:position x="-52.96208" y="-150.42702"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="libraries in seattle">
+        <viz:size value="37.107143"></viz:size>
+        <viz:position x="230.12523" y="-431.7025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="385" label="libraries in poland">
+        <viz:size value="37.107143"></viz:size>
+        <viz:position x="1224.3143" y="1076.815"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="gnome libraries">
+        <viz:size value="36.142857"></viz:size>
+        <viz:position x="-613.4862" y="-1633.0525"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="libraries in manchester">
+        <viz:size value="36.142857"></viz:size>
+        <viz:position x="-699.77606" y="115.67012"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="libraries in north america">
+        <viz:size value="36.142857"></viz:size>
+        <viz:position x="319.04553" y="-977.2035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="178" label="libraries in switzerland">
+        <viz:size value="36.142857"></viz:size>
+        <viz:position x="-352.1901" y="-459.44357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="237" label="libraries in japan">
+        <viz:size value="36.142857"></viz:size>
+        <viz:position x="-385.35864" y="-901.8468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="libraries in louisiana">
+        <viz:size value="36.142857"></viz:size>
+        <viz:position x="530.8463" y="463.97372"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="171" label="libraries established in 2010s">
+        <viz:size value="36.142857"></viz:size>
+        <viz:position x="620.7702" y="229.94872"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="libraries in toronto">
+        <viz:size value="35.178574"></viz:size>
+        <viz:position x="81.830765" y="786.13245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="235" label="libraries in new zealand">
+        <viz:size value="35.178574"></viz:size>
+        <viz:position x="843.6264" y="1194.825"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="legislative libraries">
+        <viz:size value="35.178574"></viz:size>
+        <viz:position x="-670.03784" y="308.25693"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="321" label="southeastern libraries cooperating">
+        <viz:size value="35.178574"></viz:size>
+        <viz:position x="1249.9935" y="418.70215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="php libraries">
+        <viz:size value="35.178574"></viz:size>
+        <viz:position x="350.79037" y="-1906.2223"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="362" label="ancient libraries">
+        <viz:size value="35.178574"></viz:size>
+        <viz:position x="-1241.4509" y="657.0785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="fortran libraries">
+        <viz:size value="35.178574"></viz:size>
+        <viz:position x="-917.20844" y="-1697.7578"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="genealogical libraries">
+        <viz:size value="34.107143"></viz:size>
+        <viz:position x="581.95654" y="628.9424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="libraries in ireland">
+        <viz:size value="34.107143"></viz:size>
+        <viz:position x="-1152.1841" y="288.66364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="188" label="libraries in greater st louis">
+        <viz:size value="34.107143"></viz:size>
+        <viz:position x="-1387.6688" y="-321.2476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="397" label="libraries in sweden">
+        <viz:size value="32.928574"></viz:size>
+        <viz:position x="-750.072" y="1808.6597"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="340" label="libraries in denmark">
+        <viz:size value="32.928574"></viz:size>
+        <viz:position x="-853.1501" y="-606.7928"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="186" label="libraries in alabama">
+        <viz:size value="32.928574"></viz:size>
+        <viz:position x="766.54694" y="318.91623"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="libraries in british columbia">
+        <viz:size value="32.928574"></viz:size>
+        <viz:position x="-929.5091" y="544.66565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="works set in libraries">
+        <viz:size value="32.928574"></viz:size>
+        <viz:position x="-1700.0818" y="-955.845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="231" label="libraries in alaska">
+        <viz:size value="32.928574"></viz:size>
+        <viz:position x="1237.9794" y="1255.1676"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="215" label="libraries by subject">
+        <viz:size value="32.928574"></viz:size>
+        <viz:position x="10.845026" y="1125.3734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="206" label="libraries in hong kong">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="-78.99631" y="505.39102"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="libraries for the disabled">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="-483.8928" y="-42.684334"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="libraries in israel">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="-515.23206" y="422.08987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="libraries in kerala">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="-1619.8732" y="-15.774294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="link libraries">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="712.8249" y="-101.51289"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="libraries in pakistan">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="-856.1822" y="745.9017"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="368" label="libraries in daegu">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="-521.1508" y="1127.5034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="421" label="libraries in the united kingdom">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="1862.702" y="641.5861"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="commercial circulating libraries">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="383.14673" y="-404.70996"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="187" label="libraries of the university of cambridge">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="223.06438" y="-71.683464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="295" label="libraries in norway">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="-1399.2161" y="157.7154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="libraries in queensland">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="-1721.5026" y="707.1469"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="libraries in lancashire">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="-851.1396" y="-1175.421"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="304" label="philatelic libraries">
+        <viz:size value="31.642857"></viz:size>
+        <viz:position x="409.6192" y="-828.56525"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="313" label="libraries in turkey">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="381.2603" y="1857.1188"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="tool libraries">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="676.71265" y="1126.9347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="382" label="libraries in the netherlands">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="816.73016" y="-1606.6791"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="303" label="libraries in wales">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="1478.3615" y="688.7291"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="libraries in camden">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="254.97551" y="605.3331"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="218" label="libraries in melbourne">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="-1473.2745" y="1287.8682"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="libraries in sri lanka">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="-164.29889" y="1347.3776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="jewish libraries">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="-40.206306" y="1403.266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="177" label="libraries established in 1870s">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="-522.01904" y="-387.31332"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="california state depository libraries">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="752.00995" y="87.47369"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="stanford university libraries">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="520.9438" y="85.82726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="pascal libraries">
+        <viz:size value="30.357141"></viz:size>
+        <viz:position x="-777.8239" y="-1558.8644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="245" label="gpgpu libraries">
+        <viz:size value="28.857143"></viz:size>
+        <viz:position x="527.7153" y="-1872.2496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="238" label="libraries in russia">
+        <viz:size value="28.857143"></viz:size>
+        <viz:position x="1851.7086" y="-693.4226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="libraries in quebec">
+        <viz:size value="28.857143"></viz:size>
+        <viz:position x="-133.16605" y="1173.5398"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="text rendering libraries">
+        <viz:size value="28.857143"></viz:size>
+        <viz:position x="-647.96844" y="-1845.0247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="science libraries">
+        <viz:size value="28.857143"></viz:size>
+        <viz:position x="103.30022" y="663.23035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="libraries established in 1860s">
+        <viz:size value="28.857143"></viz:size>
+        <viz:position x="-154.64183" y="-17.03972"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="200" label="libraries in arkansas">
+        <viz:size value="28.857143"></viz:size>
+        <viz:position x="1449.5205" y="946.4922"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="326" label="libraries in egypt">
+        <viz:size value="28.857143"></viz:size>
+        <viz:position x="-203.21956" y="1927.2142"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="libraries in mississippi">
+        <viz:size value="28.857143"></viz:size>
+        <viz:position x="493.32776" y="1160.8057"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="351" label="libraries in finland">
+        <viz:size value="28.857143"></viz:size>
+        <viz:position x="59.64487" y="1656.3752"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="libraries in ukraine">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="-1082.1394" y="590.4611"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="libraries in canberra">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="-60.599213" y="359.15155"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="libraries in nevada">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="877.4424" y="-755.0413"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="325" label="libraries in metro manila">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="-645.48175" y="1469.722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="176" label="libraries in edinburgh">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="640.03064" y="1484.3074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="libraries in berlin">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="-1077.4062" y="-1629.3793"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="children s libraries">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="980.6068" y="532.78546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="libraries in oxford">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="231.95972" y="-1185.4708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="364" label="libraries in cape town">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="-712.3985" y="-1073.9388"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="state libraries of australia">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="-1152.5786" y="832.2985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="356" label="libraries in belgium">
+        <viz:size value="27.250002"></viz:size>
+        <viz:position x="1354.1384" y="-1139.4089"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="libraries in florence">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-826.4673" y="-953.89215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="214" label="libraries in montana">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="897.7693" y="863.37305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="332" label="libraries in nova scotia">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-1570.7775" y="582.3753"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="232" label="libraries in sydney">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-1735.9832" y="860.0456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="libraries in hawaii">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="761.15454" y="965.6938"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="libraries in birmingham, west midlands">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-1246.4446" y="-1045.2793"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="libraries in dublin">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-342.11343" y="223.69156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="179" label="libraries in seoul">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-1335.0593" y="312.84488"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="366" label="libraries in the philippines">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-937.18445" y="953.90063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="180" label="libraries in tokyo">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-869.8516" y="36.175156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="358" label="libraries in portugal">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-1099.1737" y="1615.9662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="400" label="libraries in brazil">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-428.98032" y="-1559.8977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="190" label="libraries established in 1830s">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="1575.7404" y="141.42625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="libraries in rome">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-1534.5503" y="-172.00404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="libraries in uttar pradesh">
+        <viz:size value="25.428572"></viz:size>
+        <viz:position x="-832.4706" y="-428.01727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="economics libraries">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="-219.77223" y="620.52563"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="freedesktop org libraries">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="-122.456024" y="-1645.3284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="197" label="libraries in argentina">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="256.11102" y="-598.1924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="414" label="libraries in iran">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="-1169.6667" y="-753.6329"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="181" label="ethnic libraries">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="418.85794" y="-642.44586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="392" label="libraries in south dakota">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="-466.37332" y="-595.81464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="224" label="libraries in milan">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="-1585.0194" y="-327.86777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="372" label="libraries in amsterdam">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="494.99393" y="-1509.9688"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="libraries in the city of westminster">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="-346.32452" y="-312.83768"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="248" label="libraries in cheshire">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="-510.65442" y="-1116.691"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="216" label="libraries in the czech republic">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="1226.932" y="57.368145"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="libraries in merseyside">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="-1343.711" y="-900.6258"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="libraries in ghana">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="399.2926" y="1680.495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="281" label="libraries in colombia">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="-1924.0878" y="406.2366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="196" label="libraries in zurich">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="90.287506" y="1288.796"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="libraries in venice">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="263.8821" y="-1354.1423"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="264" label="libraries in austria">
+        <viz:size value="23.392857"></viz:size>
+        <viz:position x="537.8444" y="1806.8787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="university of toronto libraries">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="-574.0999" y="608.28485"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="367" label="libraries in taiwan">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="-210.1504" y="-958.3169"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="libraries in bristol">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="24.121307" y="-1209.0319"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="311" label="libraries in tamil nadu">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="-1717.4368" y="480.03043"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="video libraries">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="22.395527" y="-1949.6412"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="384" label="libraries in idaho">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="1382.6738" y="1102.8281"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="libraries in somerset">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="128.20108" y="-1068.4607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="273" label="libraries in bangladesh">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="853.4118" y="-1066.5906"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="263" label="libraries established in 1800s">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="-691.31946" y="-333.45398"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="202" label="libraries in romania">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="-980.9781" y="-1052.6301"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="libraries in delhi">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="-1034.1707" y="405.21338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="254" label="text user interface libraries">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="-760.754" y="-1744.5066"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="347" label="libraries in copenhagen">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="-249.45702" y="1720.9413"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="328" label="libraries in moscow">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="242.49965" y="1204.8202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="333" label="libraries in syria">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="-1209.6582" y="-411.30185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="348" label="libraries in athens">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="1739.1509" y="865.0309"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="341" label="libraries in libya">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="78.931854" y="-607.99677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="226" label="art libraries">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="1886.674" y="-315.78607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="267" label="libraries in goa">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="1690.903" y="688.7372"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="fictional libraries">
+        <viz:size value="20.92857"></viz:size>
+        <viz:position x="-1610.9569" y="-1126.4863"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="252" label="libraries in myanmar">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-493.88336" y="1343.3007"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="292" label="libraries in wyoming">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="1088.1934" y="872.14526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="282" label="mobile libraries">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-1868.8688" y="601.4889"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="libraries in glasgow">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="732.14307" y="1638.2141"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="233" label="libraries in christchurch">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-985.24475" y="1131.8638"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="371" label="libraries in warsaw">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-416.3417" y="1705.6395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="libraries in edmonton">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-1441.643" y="28.61798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="320" label="libraries in indonesia">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-804.6115" y="-103.76662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="297" label="libraries in auckland">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="1423.337" y="1291.5255"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="libraries in berkshire">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-571.8702" y="-964.4777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="185" label="libraries in the west midlands">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="1325.7802" y="775.4052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="brown university libraries">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-154.28918" y="978.5586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="223" label="libraries in delaware">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-1026.0143" y="749.09827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="301" label="libraries in barcelona">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="1560.3224" y="548.9184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="270" label="islamic libraries">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-635.6982" y="765.62476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="libraries in jerusalem">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-642.4206" y="-488.81232"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="300" label="libraries in west yorkshire">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-781.3781" y="-1336.8993"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="395" label="libraries in lebanon">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-1035.3019" y="-493.618"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="libraries in liverpool">
+        <viz:size value="18.142857"></viz:size>
+        <viz:position x="-1276.1112" y="-1207.0269"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="337" label="libraries in dunedin">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="804.63354" y="1473.4995"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="329" label="libraries in namibia">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1288.4252" y="1003.75464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="314" label="libraries in kent">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1428.2332" y="-1070.2316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="189" label="libraries established in 1840s">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-629.685" y="-124.301834"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="242" label="libraries in venezuela">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="1949.5348" y="198.30484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="203" label="libraries in algeria">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="1485.9473" y="-1005.17804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="194" label="libraries in croatia">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="569.35657" y="-58.378754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="libraries in nagoya">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-330.23013" y="-724.2355"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="344" label="libraries in south africa">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="1550.9758" y="1160.6224"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="284" label="libraries in puerto rico">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="69.28369" y="1822.7537"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="libraries in chennai">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1633.955" y="339.5381"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="libraries in andalusia">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="554.4342" y="-629.2524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="libraries in southwark">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="1773.4484" y="-197.67804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="libraries in ernakulam">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1599.7576" y="171.42487"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="247" label="libraries in iraq">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1196.9869" y="-587.7403"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="336" label="libraries in cyprus">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1019.9984" y="-654.2454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="191" label="esperanto libraries">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1682.1412" y="-599.52844"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="420" label="libraries in uganda">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-319.30112" y="-1244.1774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="355" label="libraries in hungary">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1344.2158" y="-720.80566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="370" label="libraries in seville">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-344.9237" y="1404.7367"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="299" label="libraries in greece">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-612.801" y="1228.3551"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="319" label="libraries in saskatchewan">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1427.9005" y="685.8744"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="193" label="libraries in estonia">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-600.1409" y="946.6643"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="378" label="libraries in chile">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="1169.6632" y="-914.2966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="258" label="libraries in karachi">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-91.8534" y="1765.4417"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="libraries in manitoba">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1405.1427" y="527.6637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="259" label="libraries in vienna">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="755.24347" y="-1382.5757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="265" label="libraries in nigeria">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="1493.0579" y="-692.4535"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="libraries in lambeth">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="1752.9678" y="155.08455"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="294" label="ship libraries">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1934.5645" y="167.05357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="389" label="libraries in malaysia">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-788.7196" y="1597.984"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="256" label="libraries in albania">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="1490.0494" y="-353.80878"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="412" label="libraries in naples">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="-1730.4408" y="-406.5686"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="libraries in croydon">
+        <viz:size value="14.714286"></viz:size>
+        <viz:position x="1727.0155" y="-20.209312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="275" label="libraries established in 1550s">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="565.41095" y="1646.7708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="libraries established in 1600s">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-1351.4401" y="-143.05142"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="data structures libraries and frameworks">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="306.94232" y="-1738.7185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="390" label="libraries in madrid">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="1181.7834" y="-568.87604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="libraries in west bengal">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-1787.3478" y="288.70444"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="290" label="libraries in vietnam">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="868.01697" y="-584.68353"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="libraries in johannesburg">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-626.0005" y="-661.9571"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="415" label="libraries in mumbai">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-1784.9253" y="-45.242386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="422" label="libraries in serbia">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="227.04797" y="1723.5925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="287" label="libraries in cuba">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="611.87427" y="-1315.0553"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="251" label="libraries in south korea">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="1587.3138" y="-1171.185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="272" label="libraries in honduras">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="436.59186" y="1502.5837"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="libraries in bonn">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-276.71594" y="875.417"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="359" label="libraries in thailand">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="1266.5872" y="915.316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="222" label="libraries in azerbaijan">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-701.4804" y="-827.8388"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="345" label="libraries in nanjing">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="1561.7443" y="820.85876"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="352" label="libraries in lahore">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="221.08235" y="1893.067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="207" label="libraries established in 1810s">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-41.966278" y="-905.4649"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="253" label="libraries in staffordshire">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-1785.7369" y="-781.14496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="323" label="libraries in qatar">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="1321.3566" y="595.22504"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="libraries established in 1790s">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-742.8752" y="1301.9521"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="274" label="libraries in munich">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="747.32965" y="1830.9594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="208" label="libraries established in 1820s">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-393.47586" y="528.3001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="libraries in the east riding of yorkshire">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-1103.3016" y="-1177.5033"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="libraries in mysore">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-1761.8607" y="118.17259"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="239" label="libraries in saint petersburg">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="1743.9774" y="-929.49066"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="libraries in bangalore">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="983.32245" y="1529.9104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="228" label="libraries in the united arab emirates">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="598.9959" y="-843.4858"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="236" label="libraries in malta">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="1010.50757" y="-1631.1747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="201" label="libraries in stuttgart">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-1303.8344" y="1345.0295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="255" label="libraries in wellington">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="926.1642" y="1047.8086"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="libraries in cornwall">
+        <viz:size value="10.214287"></viz:size>
+        <viz:position x="-160.25587" y="-1230.8047"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="libraries in palau">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1473.0286" y="376.10043"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="221" label="libraries in zimbabwe">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1326.0809" y="-297.36517"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="387" label="libraries in cambodia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="732.7102" y="-1188.4966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="280" label="libraries established in 1530s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1310.0444" y="1461.7719"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="383" label="libraries in angola">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="498.64487" y="-990.2107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="298" label="libraries in andhra pradesh">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="83.35752" y="1498.314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="376" label="libraries in ljubljana">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="534.2965" y="1356.8728"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="libraries in uzbekistan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1668.2156" y="-555.4398"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="399" label="libraries in rio de janeiro">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="149.52122" y="-1718.4894"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="346" label="libraries in grahamstown">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1426.1886" y="455.18726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="libraries in hamburg">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-341.57623" y="1098.8578"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="209" label="libraries in bulgaria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1115.6602" y="-926.6141"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="278" label="libraries in bermuda">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1550.4774" y="-864.50464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="354" label="libraries in seychelles">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1324.6688" y="-973.19226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="174" label="libraries in samoa">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-311.8396" y="1251.6117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="234" label="libraries established in 1760s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="329.06723" y="-1531.0226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="312" label="libraries in east timor">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1538.4965" y="805.7727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="374" label="libraries in costa rica">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="567.3028" y="-1151.1113"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="212" label="libraries in the republic of macedonia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1167.1261" y="-396.14633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="230" label="libraries in laos">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1434.0869" y="-166.79173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="369" label="libraries in belarus">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1168.7358" y="-229.68152"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="405" label="libraries established in 1710s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-992.3548" y="1477.209"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="libraries in nicaragua">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1291.9227" y="-93.163414"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="404" label="libraries in ethiopia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1186.7197" y="-245.66037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="173" label="libraries completed in 1904">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1746.1477" y="319.88513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="418" label="libraries in catalonia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-85.34776" y="-653.98254"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="363" label="libraries completed in 1907">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-19.43363" y="1984.63"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="250" label="libraries in north korea">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1437.5271" y="-1333.561"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="391" label="libraries in pretoria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-510.13846" y="-1294.5709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="327" label="libraries in barnet">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="445.15765" y="-1353.1879"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="331" label="libraries in cambridge">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1325.6793" y="-1371.5498"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="227" label="libraries in islington">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1091.4384" y="990.86914"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="426" label="libraries in trinidad and tobago">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="705.45197" y="1296.881"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="306" label="libraries in vatican city">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1351.7927" y="1168.6093"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="353" label="libraries established in 1640s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-831.6738" y="1452.2236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="424" label="libraries in iceland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-346.99515" y="-1094.3607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="225" label="libraries in armenia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1229.2235" y="458.87167"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="317" label="libraries in kosovo">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1166.7166" y="1157.6722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="308" label="libraries in tunisia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1337.845" y="-642.4342"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="211" label="libraries in kenya">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1042.502" y="1233.594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="379" label="libraries in slovakia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-276.39728" y="1549.0309"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="262" label="libraries in south america">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1863.4895" y="-595.8298"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="338" label="libraries in lincolnshire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1145.6556" y="-1348.6296"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="277" label="libraries in tyne and wear">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1445.0183" y="-1242.1205"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="libraries in guinea">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="990.57416" y="54.450607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="257" label="libraries in the hague">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1035.752" y="-1165.5725"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="373" label="libraries in saudi arabia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1019.8351" y="-835.1048"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="339" label="libraries in moldova">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1913.5521" y="391.1276"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="libraries established in 1850s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-974.5667" y="-1487.1034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="361" label="libraries in lviv">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-870.48553" y="-278.33487"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="417" label="libraries established in 1610s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="876.08966" y="-1757.0188"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="271" label="libraries in the dominican republic">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="892.65094" y="-64.37537"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="268" label="libraries in cumbria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-977.8535" y="-1318.7378"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="330" label="libraries in county durham">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1507.4147" y="-918.81805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="mathematical libraries">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-455.5643" y="-1904.2081"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="377" label="libraries in mozambique">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1073.9633" y="-1332.3158"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="296" label="libraries in botswana">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1069.5322" y="1062.9702"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="182" label="libraries in kiev">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-737.7578" y="1024.3036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="413" label="libraries in belgrade">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1263.1119" y="256.20523"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="244" label="libraries in merton">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1839.9229" y="-467.41504"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="315" label="libraries in senegal">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="999.9248" y="-997.07733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="libraries established in 1700s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1235.7349" y="101.090256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="381" label="libraries in derbyshire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-829.14703" y="1164.805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="libraries in exeter">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-111.78674" y="-1379.2828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="172" label="libraries in montenegro">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1340.8807" y="-470.07605"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="305" label="libraries in hackney">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1452.8953" y="969.6495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="335" label="libraries in togo">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="921.95844" y="-1399.9532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="283" label="libraries in thiruvananthapuram">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1726.1877" y="-197.88406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="261" label="history of libraries">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1907.6155" y="-413.12946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="269" label="libraries in stellenbosch">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1638.3213" y="1014.683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="309" label="libraries in tower hamlets">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1920.6097" y="-132.07773"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="260" label="libraries in tuvalu">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1649.2688" y="-722.9132"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="342" label="libraries in aruba">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1532.2959" y="-37.531994"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="288" label="libraries in greenland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1217.4762" y="-1248.2349"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="380" label="libraries in vanuatu">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="676.93445" y="-1005.314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="192" label="libraries in the maldives">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1002.9275" y="-160.84691"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="408" label="libraries in guinea-bissau">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1371.0294" y="-819.9575"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="241" label="libraries in vilnius">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="374.93622" y="1307.992"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="libraries in rwanda">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1595.3518" y="-211.59222"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="375" label="libraries in slovenia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="909.0321" y="1675.9261"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="279" label="libraries in bosnia and herzegovina">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1147.1144" y="1609.8665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="388" label="libraries in tasmania">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1562.4531" y="1132.8643"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="401" label="libraries in turin">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1550.8389" y="-486.37445"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="350" label="libraries in barnstaple">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-227.65297" y="-1518.8424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="407" label="libraries in tubingen">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1215.1089" y="1470.7472"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="286" label="libraries in yemen">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1178.6427" y="-1083.36"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="246" label="libraries in sudan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1108.2943" y="1313.5181"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="184" label="libraries established in 1740s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="58.840656" y="-1369.1621"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="198" label="libraries established in 1720s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1493.5591" y="-642.6671"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="276" label="libraries in worcestershire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1430.2732" y="257.7602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="285" label="libraries in benin">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1081.4733" y="355.16125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="343" label="libraries in jordan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1199.1967" y="-752.1446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="220" label="libraries established in 1770s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1145.7202" y="-1557.6029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="394" label="libraries in cape verde">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-368.58517" y="-1383.218"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="402" label="libraries established in 1450s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1964.3525" y="-45.011322"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="360" label="libraries in dresden">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-947.25" y="1311.8097"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="libraries in brent">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1886.8931" y="28.857866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="416" label="libraries in herefordshire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="702.37335" y="-1791.2521"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="289" label="libraries in mongolia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1344.228" y="-500.89487"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="249" label="libraries in the cook islands">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="889.9842" y="-1241.3188"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="322" label="libraries in burundi">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1395.0781" y="64.16824"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="423" label="libraries in nottinghamshire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-609.69116" y="-1436.657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="240" label="libraries in jamaica">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1037.5225" y="-656.7058"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="386" label="libraries in the northern territory">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1649.0146" y="994.694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="411" label="libraries in monaco">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="408.23587" y="-1152.9385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="334" label="libraries in somalia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="915.7009" y="195.76038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="318" label="libraries in antigua and barbuda">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="713.2798" y="-725.5603"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="357" label="libraries in bogota">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1017.96185" y="-468.1061"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="307" label="libraries in cesena">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1589.7362" y="-764.5235"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="398" label="libraries established in 1660s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-933.8273" y="1726.5033"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="204" label="libraries in morocco">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1506.887" y="-523.19666"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="210" label="libraries in saint kitts and nevis">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1655.7592" y="-383.1663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="183" label="libraries completed in 1911">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-73.0477" y="-1081.1848"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="349" label="libraries completed in 1916">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-564.6615" y="1869.6432"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="324" label="libraries in auvergne-rhone-alpes">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="157.11661" y="-891.6632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="229" label="libraries in peru">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1000.72644" y="-265.20013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="199" label="libraries in turkmenistan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="808.5296" y="-902.3548"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="310" label="libraries in kazakhstan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="233.05394" y="1402.9835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="425" label="libraries in guyana">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-619.14905" y="1643.748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="409" label="libraries in kolkata">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="167.60022" y="-1488.7504"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="57.0"></edge>
+      <edge id="1" source="2" target="3" weight="54.0"></edge>
+      <edge id="2" source="4" target="1" weight="51.0"></edge>
+      <edge id="3" source="1" target="2" weight="46.0"></edge>
+      <edge id="4" source="3" target="0" weight="45.0"></edge>
+      <edge id="5" source="5" target="6" weight="44.0"></edge>
+      <edge id="6" source="7" target="6" weight="44.0"></edge>
+      <edge id="7" source="4" target="8" weight="38.0"></edge>
+      <edge id="8" source="9" target="3" weight="32.0"></edge>
+      <edge id="9" source="4" target="3" weight="31.0"></edge>
+      <edge id="10" source="1" target="10" weight="27.0"></edge>
+      <edge id="11" source="10" target="8" weight="26.0"></edge>
+      <edge id="12" source="9" target="1" weight="25.0"></edge>
+      <edge id="13" source="9" target="8" weight="24.0"></edge>
+      <edge id="14" source="1" target="11" weight="24.0"></edge>
+      <edge id="15" source="12" target="5" weight="21.0"></edge>
+      <edge id="16" source="12" target="7" weight="19.0"></edge>
+      <edge id="17" source="13" target="8" weight="19.0"></edge>
+      <edge id="18" source="3" target="14" weight="19.0"></edge>
+      <edge id="19" source="15" target="14" weight="17.0"></edge>
+      <edge id="20" source="16" target="12" weight="15.0"></edge>
+      <edge id="21" source="13" target="3" weight="14.0"></edge>
+      <edge id="22" source="17" target="18" weight="13.0"></edge>
+      <edge id="23" source="19" target="3" weight="13.0"></edge>
+      <edge id="24" source="3" target="20" weight="13.0"></edge>
+      <edge id="25" source="21" target="22" weight="13.0"></edge>
+      <edge id="26" source="23" target="22" weight="12.0"></edge>
+      <edge id="27" source="1" target="13" weight="12.0"></edge>
+      <edge id="28" source="6" target="3" weight="11.0"></edge>
+      <edge id="29" source="8" target="20" weight="11.0"></edge>
+      <edge id="30" source="24" target="16" weight="10.0"></edge>
+      <edge id="31" source="3" target="25" weight="10.0"></edge>
+      <edge id="32" source="17" target="26" weight="10.0"></edge>
+      <edge id="33" source="4" target="27" weight="10.0"></edge>
+      <edge id="34" source="1" target="20" weight="9.0"></edge>
+      <edge id="35" source="1" target="28" weight="9.0"></edge>
+      <edge id="36" source="20" target="5" weight="9.0"></edge>
+      <edge id="37" source="25" target="1" weight="9.0"></edge>
+      <edge id="38" source="29" target="30" weight="9.0"></edge>
+      <edge id="39" source="20" target="7" weight="9.0"></edge>
+      <edge id="40" source="17" target="22" weight="9.0"></edge>
+      <edge id="41" source="24" target="5" weight="9.0"></edge>
+      <edge id="42" source="24" target="7" weight="8.0"></edge>
+      <edge id="43" source="31" target="1" weight="8.0"></edge>
+      <edge id="44" source="32" target="5" weight="8.0"></edge>
+      <edge id="45" source="7" target="31" weight="8.0"></edge>
+      <edge id="46" source="0" target="33" weight="8.0"></edge>
+      <edge id="47" source="4" target="34" weight="8.0"></edge>
+      <edge id="48" source="25" target="8" weight="8.0"></edge>
+      <edge id="49" source="5" target="31" weight="8.0"></edge>
+      <edge id="50" source="3" target="35" weight="7.0"></edge>
+      <edge id="51" source="36" target="21" weight="7.0"></edge>
+      <edge id="52" source="28" target="8" weight="7.0"></edge>
+      <edge id="53" source="37" target="3" weight="7.0"></edge>
+      <edge id="54" source="38" target="17" weight="7.0"></edge>
+      <edge id="55" source="17" target="36" weight="7.0"></edge>
+      <edge id="56" source="16" target="31" weight="7.0"></edge>
+      <edge id="57" source="39" target="21" weight="6.0"></edge>
+      <edge id="58" source="5" target="40" weight="6.0"></edge>
+      <edge id="59" source="1" target="41" weight="6.0"></edge>
+      <edge id="60" source="17" target="42" weight="6.0"></edge>
+      <edge id="61" source="27" target="6" weight="6.0"></edge>
+      <edge id="62" source="23" target="43" weight="6.0"></edge>
+      <edge id="63" source="30" target="44" weight="5.0"></edge>
+      <edge id="64" source="38" target="21" weight="5.0"></edge>
+      <edge id="65" source="1" target="45" weight="5.0"></edge>
+      <edge id="66" source="39" target="23" weight="5.0"></edge>
+      <edge id="67" source="45" target="7" weight="5.0"></edge>
+      <edge id="68" source="46" target="47" weight="5.0"></edge>
+      <edge id="69" source="28" target="48" weight="35.0"></edge>
+      <edge id="70" source="49" target="50" weight="5.0"></edge>
+      <edge id="71" source="7" target="32" weight="5.0"></edge>
+      <edge id="72" source="4" target="51" weight="5.0"></edge>
+      <edge id="73" source="49" target="30" weight="5.0"></edge>
+      <edge id="74" source="39" target="17" weight="5.0"></edge>
+      <edge id="75" source="45" target="5" weight="5.0"></edge>
+      <edge id="76" source="0" target="52" weight="5.0"></edge>
+      <edge id="77" source="53" target="54" weight="4.0"></edge>
+      <edge id="78" source="38" target="23" weight="4.0"></edge>
+      <edge id="79" source="16" target="55" weight="4.0"></edge>
+      <edge id="80" source="56" target="7" weight="4.0"></edge>
+      <edge id="81" source="57" target="58" weight="4.0"></edge>
+      <edge id="82" source="30" target="41" weight="4.0"></edge>
+      <edge id="83" source="59" target="35" weight="4.0"></edge>
+      <edge id="84" source="5" target="55" weight="4.0"></edge>
+      <edge id="85" source="3" target="60" weight="4.0"></edge>
+      <edge id="86" source="35" target="61" weight="4.0"></edge>
+      <edge id="87" source="62" target="1" weight="40.0"></edge>
+      <edge id="88" source="63" target="40" weight="4.0"></edge>
+      <edge id="89" source="32" target="1" weight="4.0"></edge>
+      <edge id="90" source="49" target="64" weight="4.0"></edge>
+      <edge id="91" source="57" target="3" weight="4.0"></edge>
+      <edge id="92" source="18" target="23" weight="4.0"></edge>
+      <edge id="93" source="65" target="2" weight="4.0"></edge>
+      <edge id="94" source="2" target="66" weight="3.0"></edge>
+      <edge id="95" source="67" target="30" weight="3.0"></edge>
+      <edge id="96" source="68" target="8" weight="3.0"></edge>
+      <edge id="97" source="3" target="40" weight="3.0"></edge>
+      <edge id="98" source="16" target="54" weight="3.0"></edge>
+      <edge id="99" source="69" target="30" weight="3.0"></edge>
+      <edge id="100" source="49" target="70" weight="3.0"></edge>
+      <edge id="101" source="17" target="71" weight="3.0"></edge>
+      <edge id="102" source="1" target="72" weight="3.0"></edge>
+      <edge id="103" source="1" target="48" weight="21.0"></edge>
+      <edge id="104" source="73" target="74" weight="3.0"></edge>
+      <edge id="105" source="69" target="5" weight="3.0"></edge>
+      <edge id="106" source="75" target="30" weight="3.0"></edge>
+      <edge id="107" source="76" target="6" weight="3.0"></edge>
+      <edge id="108" source="24" target="1" weight="3.0"></edge>
+      <edge id="109" source="57" target="1" weight="3.0"></edge>
+      <edge id="110" source="3" target="77" weight="3.0"></edge>
+      <edge id="111" source="68" target="5" weight="3.0"></edge>
+      <edge id="112" source="78" target="3" weight="27.0"></edge>
+      <edge id="113" source="53" target="79" weight="3.0"></edge>
+      <edge id="114" source="32" target="16" weight="3.0"></edge>
+      <edge id="115" source="80" target="2" weight="3.0"></edge>
+      <edge id="116" source="69" target="3" weight="3.0"></edge>
+      <edge id="117" source="67" target="81" weight="3.0"></edge>
+      <edge id="118" source="82" target="7" weight="3.0"></edge>
+      <edge id="119" source="57" target="83" weight="3.0"></edge>
+      <edge id="120" source="49" target="84" weight="3.0"></edge>
+      <edge id="121" source="75" target="85" weight="3.0"></edge>
+      <edge id="122" source="86" target="3" weight="18.0"></edge>
+      <edge id="123" source="87" target="21" weight="2.0"></edge>
+      <edge id="124" source="1" target="88" weight="2.0"></edge>
+      <edge id="125" source="89" target="17" weight="2.0"></edge>
+      <edge id="126" source="90" target="49" weight="2.0"></edge>
+      <edge id="127" source="35" target="91" weight="2.0"></edge>
+      <edge id="128" source="1" target="77" weight="2.0"></edge>
+      <edge id="129" source="3" target="92" weight="2.0"></edge>
+      <edge id="130" source="89" target="23" weight="2.0"></edge>
+      <edge id="131" source="93" target="94" weight="2.0"></edge>
+      <edge id="132" source="12" target="95" weight="2.0"></edge>
+      <edge id="133" source="96" target="68" weight="2.0"></edge>
+      <edge id="134" source="4" target="97" weight="2.0"></edge>
+      <edge id="135" source="98" target="1" weight="2.0"></edge>
+      <edge id="136" source="6" target="99" weight="2.0"></edge>
+      <edge id="137" source="56" target="8" weight="2.0"></edge>
+      <edge id="138" source="30" target="100" weight="2.0"></edge>
+      <edge id="139" source="92" target="8" weight="2.0"></edge>
+      <edge id="140" source="101" target="21" weight="2.0"></edge>
+      <edge id="141" source="82" target="5" weight="2.0"></edge>
+      <edge id="142" source="16" target="100" weight="2.0"></edge>
+      <edge id="143" source="17" target="102" weight="2.0"></edge>
+      <edge id="144" source="103" target="30" weight="18.0"></edge>
+      <edge id="145" source="65" target="31" weight="2.0"></edge>
+      <edge id="146" source="104" target="47" weight="2.0"></edge>
+      <edge id="147" source="2" target="86" weight="18.0"></edge>
+      <edge id="148" source="3" target="105" weight="2.0"></edge>
+      <edge id="149" source="86" target="1" weight="18.0"></edge>
+      <edge id="150" source="106" target="49" weight="2.0"></edge>
+      <edge id="151" source="107" target="14" weight="2.0"></edge>
+      <edge id="152" source="62" target="8" weight="20.0"></edge>
+      <edge id="153" source="75" target="5" weight="2.0"></edge>
+      <edge id="154" source="98" target="95" weight="2.0"></edge>
+      <edge id="155" source="57" target="108" weight="2.0"></edge>
+      <edge id="156" source="101" target="17" weight="2.0"></edge>
+      <edge id="157" source="21" target="109" weight="2.0"></edge>
+      <edge id="158" source="17" target="87" weight="2.0"></edge>
+      <edge id="159" source="28" target="62" weight="20.0"></edge>
+      <edge id="160" source="48" target="46" weight="14.0"></edge>
+      <edge id="161" source="35" target="110" weight="2.0"></edge>
+      <edge id="162" source="30" target="62" weight="20.0"></edge>
+      <edge id="163" source="111" target="49" weight="20.0"></edge>
+      <edge id="164" source="3" target="62" weight="20.0"></edge>
+      <edge id="165" source="30" target="48" weight="14.0"></edge>
+      <edge id="166" source="112" target="14" weight="2.0"></edge>
+      <edge id="167" source="3" target="68" weight="2.0"></edge>
+      <edge id="168" source="35" target="113" weight="2.0"></edge>
+      <edge id="169" source="16" target="41" weight="2.0"></edge>
+      <edge id="170" source="56" target="5" weight="2.0"></edge>
+      <edge id="171" source="114" target="45" weight="2.0"></edge>
+      <edge id="172" source="5" target="115" weight="2.0"></edge>
+      <edge id="173" source="57" target="116" weight="2.0"></edge>
+      <edge id="174" source="98" target="65" weight="2.0"></edge>
+      <edge id="175" source="117" target="1" weight="2.0"></edge>
+      <edge id="176" source="73" target="6" weight="2.0"></edge>
+      <edge id="177" source="118" target="6" weight="2.0"></edge>
+      <edge id="178" source="21" target="71" weight="2.0"></edge>
+      <edge id="179" source="12" target="119" weight="2.0"></edge>
+      <edge id="180" source="7" target="100" weight="2.0"></edge>
+      <edge id="181" source="16" target="79" weight="2.0"></edge>
+      <edge id="182" source="120" target="5" weight="2.0"></edge>
+      <edge id="183" source="121" target="67" weight="2.0"></edge>
+      <edge id="184" source="35" target="122" weight="2.0"></edge>
+      <edge id="185" source="86" target="5" weight="18.0"></edge>
+      <edge id="186" source="123" target="124" weight="2.0"></edge>
+      <edge id="187" source="125" target="14" weight="2.0"></edge>
+      <edge id="188" source="1" target="126" weight="20.0"></edge>
+      <edge id="189" source="127" target="69" weight="2.0"></edge>
+      <edge id="190" source="128" target="5" weight="2.0"></edge>
+      <edge id="191" source="129" target="14" weight="2.0"></edge>
+      <edge id="192" source="86" target="130" weight="18.0"></edge>
+      <edge id="193" source="131" target="7" weight="2.0"></edge>
+      <edge id="194" source="1" target="103" weight="18.0"></edge>
+      <edge id="195" source="132" target="8" weight="2.0"></edge>
+      <edge id="196" source="133" target="1" weight="2.0"></edge>
+      <edge id="197" source="134" target="46" weight="2.0"></edge>
+      <edge id="198" source="111" target="29" weight="10.0"></edge>
+      <edge id="199" source="1" target="135"></edge>
+      <edge id="200" source="136" target="20" weight="9.0"></edge>
+      <edge id="201" source="78" target="30" weight="9.0"></edge>
+      <edge id="202" source="137" target="32"></edge>
+      <edge id="203" source="0" target="111" weight="10.0"></edge>
+      <edge id="204" source="67" target="138" weight="9.0"></edge>
+      <edge id="205" source="139" target="41"></edge>
+      <edge id="206" source="140" target="72"></edge>
+      <edge id="207" source="141" target="100"></edge>
+      <edge id="208" source="142" target="17"></edge>
+      <edge id="209" source="69" target="143"></edge>
+      <edge id="210" source="46" target="144"></edge>
+      <edge id="211" source="117" target="145"></edge>
+      <edge id="212" source="1" target="100"></edge>
+      <edge id="213" source="146" target="16" weight="3.0"></edge>
+      <edge id="214" source="44" target="147" weight="3.0"></edge>
+      <edge id="215" source="148" target="72"></edge>
+      <edge id="216" source="12" target="138" weight="9.0"></edge>
+      <edge id="217" source="86" target="28" weight="9.0"></edge>
+      <edge id="218" source="111" target="9" weight="10.0"></edge>
+      <edge id="219" source="149" target="32"></edge>
+      <edge id="220" source="1" target="150"></edge>
+      <edge id="221" source="20" target="151" weight="9.0"></edge>
+      <edge id="222" source="152" target="1"></edge>
+      <edge id="223" source="72" target="153"></edge>
+      <edge id="224" source="154" target="75" weight="2.0"></edge>
+      <edge id="225" source="82" target="136" weight="9.0"></edge>
+      <edge id="226" source="117" target="155"></edge>
+      <edge id="227" source="156" target="3"></edge>
+      <edge id="228" source="134" target="157"></edge>
+      <edge id="229" source="86" target="4" weight="9.0"></edge>
+      <edge id="230" source="126" target="40" weight="10.0"></edge>
+      <edge id="231" source="158" target="30" weight="10.0"></edge>
+      <edge id="232" source="159" target="103" weight="9.0"></edge>
+      <edge id="233" source="1" target="160"></edge>
+      <edge id="234" source="161" target="6" weight="6.0"></edge>
+      <edge id="235" source="140" target="6"></edge>
+      <edge id="236" source="162" target="41"></edge>
+      <edge id="237" source="23" target="36"></edge>
+      <edge id="238" source="163" target="164" weight="2.0"></edge>
+      <edge id="239" source="20" target="111" weight="10.0"></edge>
+      <edge id="240" source="165" target="79"></edge>
+      <edge id="241" source="46" target="166"></edge>
+      <edge id="242" source="77" target="27"></edge>
+      <edge id="243" source="167" target="49"></edge>
+      <edge id="244" source="86" target="49" weight="9.0"></edge>
+      <edge id="245" source="158" target="28" weight="10.0"></edge>
+      <edge id="246" source="168" target="111" weight="10.0"></edge>
+      <edge id="247" source="95" target="6"></edge>
+      <edge id="248" source="68" target="16"></edge>
+      <edge id="249" source="158" target="13" weight="10.0"></edge>
+      <edge id="250" source="127" target="92"></edge>
+      <edge id="251" source="169" target="124" weight="10.0"></edge>
+      <edge id="252" source="117" target="170"></edge>
+      <edge id="253" source="171" target="28" weight="5.0"></edge>
+      <edge id="254" source="134" target="169" weight="10.0"></edge>
+      <edge id="255" source="40" target="114"></edge>
+      <edge id="256" source="1" target="172"></edge>
+      <edge id="257" source="173" target="10"></edge>
+      <edge id="258" source="158" target="174" weight="10.0"></edge>
+      <edge id="259" source="74" target="175"></edge>
+      <edge id="260" source="176" target="69"></edge>
+      <edge id="261" source="0" target="126" weight="10.0"></edge>
+      <edge id="262" source="126" target="3" weight="10.0"></edge>
+      <edge id="263" source="13" target="177" weight="7.0"></edge>
+      <edge id="264" source="158" target="16" weight="10.0"></edge>
+      <edge id="265" source="4" target="178"></edge>
+      <edge id="266" source="179" target="41"></edge>
+      <edge id="267" source="11" target="86" weight="9.0"></edge>
+      <edge id="268" source="75" target="8"></edge>
+      <edge id="269" source="78" target="180" weight="9.0"></edge>
+      <edge id="270" source="136" target="30" weight="9.0"></edge>
+      <edge id="271" source="111" target="40" weight="10.0"></edge>
+      <edge id="272" source="181" target="138" weight="9.0"></edge>
+      <edge id="273" source="182" target="41"></edge>
+      <edge id="274" source="183" target="0"></edge>
+      <edge id="275" source="74" target="5"></edge>
+      <edge id="276" source="123" target="117"></edge>
+      <edge id="277" source="158" target="14" weight="10.0"></edge>
+      <edge id="278" source="1" target="82"></edge>
+      <edge id="279" source="15" target="68"></edge>
+      <edge id="280" source="32" target="84"></edge>
+      <edge id="281" source="98" target="184"></edge>
+      <edge id="282" source="62" target="185" weight="10.0"></edge>
+      <edge id="283" source="177" target="32" weight="7.0"></edge>
+      <edge id="284" source="186" target="69"></edge>
+      <edge id="285" source="3" target="54"></edge>
+      <edge id="286" source="134" target="187"></edge>
+      <edge id="287" source="181" target="145"></edge>
+      <edge id="288" source="188" target="189" weight="4.0"></edge>
+      <edge id="289" source="1" target="190" weight="4.0"></edge>
+      <edge id="290" source="158" target="100" weight="10.0"></edge>
+      <edge id="291" source="191" target="67"></edge>
+      <edge id="292" source="192" target="78" weight="9.0"></edge>
+      <edge id="293" source="193" target="48" weight="7.0"></edge>
+      <edge id="294" source="4" target="62" weight="10.0"></edge>
+      <edge id="295" source="78" target="194" weight="9.0"></edge>
+      <edge id="296" source="144" target="195"></edge>
+      <edge id="297" source="30" target="79"></edge>
+      <edge id="298" source="100" target="196"></edge>
+      <edge id="299" source="3" target="197"></edge>
+      <edge id="300" source="67" target="198"></edge>
+      <edge id="301" source="1" target="199"></edge>
+      <edge id="302" source="200" target="77"></edge>
+      <edge id="303" source="29" target="201"></edge>
+      <edge id="304" source="2" target="78" weight="9.0"></edge>
+      <edge id="305" source="11" target="177" weight="7.0"></edge>
+      <edge id="306" source="163" target="202" weight="2.0"></edge>
+      <edge id="307" source="1" target="203"></edge>
+      <edge id="308" source="204" target="1"></edge>
+      <edge id="309" source="2" target="136" weight="9.0"></edge>
+      <edge id="310" source="151" target="124" weight="9.0"></edge>
+      <edge id="311" source="35" target="168"></edge>
+      <edge id="312" source="205" target="3" weight="9.0"></edge>
+      <edge id="313" source="151" target="5" weight="9.0"></edge>
+      <edge id="314" source="158" target="12" weight="10.0"></edge>
+      <edge id="315" source="205" target="32" weight="9.0"></edge>
+      <edge id="316" source="24" target="136" weight="9.0"></edge>
+      <edge id="317" source="205" target="206" weight="9.0"></edge>
+      <edge id="318" source="1" target="207" weight="3.0"></edge>
+      <edge id="319" source="65" target="72"></edge>
+      <edge id="320" source="1" target="208" weight="3.0"></edge>
+      <edge id="321" source="127" target="205" weight="9.0"></edge>
+      <edge id="322" source="161" target="82" weight="6.0"></edge>
+      <edge id="323" source="28" target="111" weight="10.0"></edge>
+      <edge id="324" source="209" target="177" weight="7.0"></edge>
+      <edge id="325" source="1" target="210"></edge>
+      <edge id="326" source="126" target="211" weight="10.0"></edge>
+      <edge id="327" source="158" target="77" weight="10.0"></edge>
+      <edge id="328" source="1" target="212"></edge>
+      <edge id="329" source="82" target="8"></edge>
+      <edge id="330" source="171" target="46" weight="5.0"></edge>
+      <edge id="331" source="72" target="95"></edge>
+      <edge id="332" source="138" target="2" weight="9.0"></edge>
+      <edge id="333" source="205" target="20" weight="9.0"></edge>
+      <edge id="334" source="213" target="41"></edge>
+      <edge id="335" source="136" target="32" weight="9.0"></edge>
+      <edge id="336" source="214" target="6"></edge>
+      <edge id="337" source="2" target="207" weight="3.0"></edge>
+      <edge id="338" source="126" target="13" weight="10.0"></edge>
+      <edge id="339" source="45" target="62" weight="10.0"></edge>
+      <edge id="340" source="69" target="215"></edge>
+      <edge id="341" source="1" target="216"></edge>
+      <edge id="342" source="62" target="217" weight="10.0"></edge>
+      <edge id="343" source="218" target="79"></edge>
+      <edge id="344" source="205" target="129" weight="9.0"></edge>
+      <edge id="345" source="219" target="220" weight="2.0"></edge>
+      <edge id="346" source="221" target="1"></edge>
+      <edge id="347" source="24" target="86" weight="9.0"></edge>
+      <edge id="348" source="134" target="5"></edge>
+      <edge id="349" source="86" target="222" weight="9.0"></edge>
+      <edge id="350" source="223" target="12"></edge>
+      <edge id="351" source="186" target="103" weight="9.0"></edge>
+      <edge id="352" source="125" target="24"></edge>
+      <edge id="353" source="168" target="72"></edge>
+      <edge id="354" source="78" target="28" weight="9.0"></edge>
+      <edge id="355" source="138" target="4" weight="9.0"></edge>
+      <edge id="356" source="1" target="92"></edge>
+      <edge id="357" source="67" target="224"></edge>
+      <edge id="358" source="151" target="16" weight="9.0"></edge>
+      <edge id="359" source="125" target="12"></edge>
+      <edge id="360" source="136" target="225" weight="9.0"></edge>
+      <edge id="361" source="57" target="226"></edge>
+      <edge id="362" source="227" target="16"></edge>
+      <edge id="363" source="1" target="228"></edge>
+      <edge id="364" source="1" target="229"></edge>
+      <edge id="365" source="10" target="62" weight="10.0"></edge>
+      <edge id="366" source="126" target="28" weight="10.0"></edge>
+      <edge id="367" source="1" target="230"></edge>
+      <edge id="368" source="77" target="231"></edge>
+      <edge id="369" source="232" target="79"></edge>
+      <edge id="370" source="56" target="16"></edge>
+      <edge id="371" source="30" target="40"></edge>
+      <edge id="372" source="23" target="71"></edge>
+      <edge id="373" source="9" target="169" weight="10.0"></edge>
+      <edge id="374" source="233" target="16"></edge>
+      <edge id="375" source="69" target="126" weight="10.0"></edge>
+      <edge id="376" source="158" target="40" weight="10.0"></edge>
+      <edge id="377" source="126" target="54" weight="10.0"></edge>
+      <edge id="378" source="117" target="234"></edge>
+      <edge id="379" source="126" target="235" weight="10.0"></edge>
+      <edge id="380" source="236" target="220" weight="2.0"></edge>
+      <edge id="381" source="8" target="74"></edge>
+      <edge id="382" source="237" target="151" weight="9.0"></edge>
+      <edge id="383" source="238" target="239"></edge>
+      <edge id="384" source="126" target="124" weight="10.0"></edge>
+      <edge id="385" source="240" target="1"></edge>
+      <edge id="386" source="78" target="100" weight="9.0"></edge>
+      <edge id="387" source="241" target="48" weight="7.0"></edge>
+      <edge id="388" source="190" target="242" weight="4.0"></edge>
+      <edge id="389" source="11" target="171" weight="5.0"></edge>
+      <edge id="390" source="243" target="41"></edge>
+      <edge id="391" source="117" target="153"></edge>
+      <edge id="392" source="244" target="57"></edge>
+      <edge id="393" source="23" target="245"></edge>
+      <edge id="394" source="30" target="246"></edge>
+      <edge id="395" source="5" target="111" weight="10.0"></edge>
+      <edge id="396" source="0" target="86" weight="9.0"></edge>
+      <edge id="397" source="180" target="41"></edge>
+      <edge id="398" source="72" target="151" weight="9.0"></edge>
+      <edge id="399" source="169" target="206" weight="10.0"></edge>
+      <edge id="400" source="86" target="247" weight="9.0"></edge>
+      <edge id="401" source="117" target="248"></edge>
+      <edge id="402" source="1" target="249"></edge>
+      <edge id="403" source="117" target="205" weight="9.0"></edge>
+      <edge id="404" source="207" target="81" weight="3.0"></edge>
+      <edge id="405" source="250" target="251"></edge>
+      <edge id="406" source="48" target="14" weight="7.0"></edge>
+      <edge id="407" source="252" target="158" weight="10.0"></edge>
+      <edge id="408" source="13" target="111" weight="10.0"></edge>
+      <edge id="409" source="138" target="9" weight="9.0"></edge>
+      <edge id="410" source="118" target="77"></edge>
+      <edge id="411" source="193" target="41"></edge>
+      <edge id="412" source="105" target="111" weight="10.0"></edge>
+      <edge id="413" source="224" target="147" weight="3.0"></edge>
+      <edge id="414" source="194" target="47"></edge>
+      <edge id="415" source="30" target="54"></edge>
+      <edge id="416" source="151" target="7" weight="9.0"></edge>
+      <edge id="417" source="151" target="44" weight="9.0"></edge>
+      <edge id="418" source="253" target="191"></edge>
+      <edge id="419" source="21" target="254"></edge>
+      <edge id="420" source="126" target="255" weight="10.0"></edge>
+      <edge id="421" source="136" target="28" weight="9.0"></edge>
+      <edge id="422" source="1" target="256"></edge>
+      <edge id="423" source="3" target="48" weight="7.0"></edge>
+      <edge id="424" source="1" target="257"></edge>
+      <edge id="425" source="3" target="100"></edge>
+      <edge id="426" source="177" target="2" weight="7.0"></edge>
+      <edge id="427" source="5" target="258"></edge>
+      <edge id="428" source="126" target="30" weight="10.0"></edge>
+      <edge id="429" source="111" target="8" weight="10.0"></edge>
+      <edge id="430" source="1" target="259"></edge>
+      <edge id="431" source="1" target="260"></edge>
+      <edge id="432" source="127" target="56"></edge>
+      <edge id="433" source="161" target="67" weight="6.0"></edge>
+      <edge id="434" source="261" target="262"></edge>
+      <edge id="435" source="125" target="68"></edge>
+      <edge id="436" source="5" target="158" weight="10.0"></edge>
+      <edge id="437" source="24" target="263" weight="3.0"></edge>
+      <edge id="438" source="77" target="145"></edge>
+      <edge id="439" source="175" target="100"></edge>
+      <edge id="440" source="5" target="264"></edge>
+      <edge id="441" source="1" target="265"></edge>
+      <edge id="442" source="48" target="266" weight="7.0"></edge>
+      <edge id="443" source="9" target="136" weight="9.0"></edge>
+      <edge id="444" source="267" target="114"></edge>
+      <edge id="445" source="75" target="3"></edge>
+      <edge id="446" source="217" target="56"></edge>
+      <edge id="447" source="35" target="268"></edge>
+      <edge id="448" source="126" target="5" weight="10.0"></edge>
+      <edge id="449" source="0" target="161" weight="6.0"></edge>
+      <edge id="450" source="46" target="103" weight="9.0"></edge>
+      <edge id="451" source="142" target="23"></edge>
+      <edge id="452" source="269" target="47"></edge>
+      <edge id="453" source="103" target="3" weight="9.0"></edge>
+      <edge id="454" source="136" target="12" weight="9.0"></edge>
+      <edge id="455" source="270" target="40"></edge>
+      <edge id="456" source="69" target="61"></edge>
+      <edge id="457" source="11" target="78" weight="9.0"></edge>
+      <edge id="458" source="86" target="6" weight="9.0"></edge>
+      <edge id="459" source="30" target="208" weight="3.0"></edge>
+      <edge id="460" source="206" target="30"></edge>
+      <edge id="461" source="103" target="271" weight="9.0"></edge>
+      <edge id="462" source="101" target="23"></edge>
+      <edge id="463" source="5" target="272"></edge>
+      <edge id="464" source="32" target="51"></edge>
+      <edge id="465" source="171" target="44" weight="5.0"></edge>
+      <edge id="466" source="1" target="273"></edge>
+      <edge id="467" source="274" target="275" weight="3.0"></edge>
+      <edge id="468" source="270" target="14"></edge>
+      <edge id="469" source="78" target="138" weight="9.0"></edge>
+      <edge id="470" source="276" target="171" weight="5.0"></edge>
+      <edge id="471" source="277" target="35"></edge>
+      <edge id="472" source="1" target="278"></edge>
+      <edge id="473" source="279" target="280"></edge>
+      <edge id="474" source="62" target="88" weight="10.0"></edge>
+      <edge id="475" source="254" target="17"></edge>
+      <edge id="476" source="1" target="75"></edge>
+      <edge id="477" source="281" target="282"></edge>
+      <edge id="478" source="49" target="283"></edge>
+      <edge id="479" source="263" target="2" weight="3.0"></edge>
+      <edge id="480" source="5" target="284"></edge>
+      <edge id="481" source="158" target="75" weight="10.0"></edge>
+      <edge id="482" source="149" target="29"></edge>
+      <edge id="483" source="103" target="285" weight="9.0"></edge>
+      <edge id="484" source="243" target="169" weight="10.0"></edge>
+      <edge id="485" source="82" target="16"></edge>
+      <edge id="486" source="111" target="25" weight="10.0"></edge>
+      <edge id="487" source="57" target="62" weight="10.0"></edge>
+      <edge id="488" source="1" target="286"></edge>
+      <edge id="489" source="1" target="287"></edge>
+      <edge id="490" source="1" target="151" weight="9.0"></edge>
+      <edge id="491" source="134" target="30"></edge>
+      <edge id="492" source="14" target="169" weight="10.0"></edge>
+      <edge id="493" source="1" target="288"></edge>
+      <edge id="494" source="0" target="78" weight="9.0"></edge>
+      <edge id="495" source="8" target="48" weight="7.0"></edge>
+      <edge id="496" source="136" target="14" weight="9.0"></edge>
+      <edge id="497" source="206" target="5"></edge>
+      <edge id="498" source="86" target="289" weight="9.0"></edge>
+      <edge id="499" source="1" target="290"></edge>
+      <edge id="500" source="78" target="4" weight="9.0"></edge>
+      <edge id="501" source="151" target="291" weight="9.0"></edge>
+      <edge id="502" source="158" target="139" weight="10.0"></edge>
+      <edge id="503" source="8" target="292"></edge>
+      <edge id="504" source="181" target="293"></edge>
+      <edge id="505" source="3" target="55"></edge>
+      <edge id="506" source="294" target="295"></edge>
+      <edge id="507" source="103" target="20" weight="9.0"></edge>
+      <edge id="508" source="126" target="296" weight="10.0"></edge>
+      <edge id="509" source="1" target="54"></edge>
+      <edge id="510" source="208" target="79" weight="3.0"></edge>
+      <edge id="511" source="297" target="47"></edge>
+      <edge id="512" source="111" target="178" weight="10.0"></edge>
+      <edge id="513" source="48" target="298" weight="7.0"></edge>
+      <edge id="514" source="299" target="158" weight="10.0"></edge>
+      <edge id="515" source="46" target="55"></edge>
+      <edge id="516" source="35" target="300"></edge>
+      <edge id="517" source="62" target="301" weight="10.0"></edge>
+      <edge id="518" source="62" target="302" weight="10.0"></edge>
+      <edge id="519" source="303" target="62" weight="10.0"></edge>
+      <edge id="520" source="134" target="168"></edge>
+      <edge id="521" source="4" target="304"></edge>
+      <edge id="522" source="86" target="75" weight="9.0"></edge>
+      <edge id="523" source="169" target="305" weight="10.0"></edge>
+      <edge id="524" source="306" target="29"></edge>
+      <edge id="525" source="307" target="67"></edge>
+      <edge id="526" source="1" target="308"></edge>
+      <edge id="527" source="182" target="48" weight="7.0"></edge>
+      <edge id="528" source="57" target="309"></edge>
+      <edge id="529" source="310" target="48" weight="7.0"></edge>
+      <edge id="530" source="49" target="311"></edge>
+      <edge id="531" source="11" target="111" weight="10.0"></edge>
+      <edge id="532" source="169" target="312" weight="10.0"></edge>
+      <edge id="533" source="40" target="205" weight="9.0"></edge>
+      <edge id="534" source="5" target="313"></edge>
+      <edge id="535" source="35" target="314"></edge>
+      <edge id="536" source="205" target="4" weight="9.0"></edge>
+      <edge id="537" source="105" target="158" weight="10.0"></edge>
+      <edge id="538" source="255" target="47"></edge>
+      <edge id="539" source="117" target="103" weight="9.0"></edge>
+      <edge id="540" source="1" target="315"></edge>
+      <edge id="541" source="169" target="28" weight="10.0"></edge>
+      <edge id="542" source="316" target="36"></edge>
+      <edge id="543" source="317" target="30"></edge>
+      <edge id="544" source="5" target="144"></edge>
+      <edge id="545" source="1" target="105"></edge>
+      <edge id="546" source="146" target="30" weight="3.0"></edge>
+      <edge id="547" source="1" target="318"></edge>
+      <edge id="548" source="111" target="3" weight="10.0"></edge>
+      <edge id="549" source="205" target="9" weight="9.0"></edge>
+      <edge id="550" source="126" target="6" weight="10.0"></edge>
+      <edge id="551" source="74" target="7"></edge>
+      <edge id="552" source="48" target="5" weight="7.0"></edge>
+      <edge id="553" source="181" target="1"></edge>
+      <edge id="554" source="16" target="62" weight="10.0"></edge>
+      <edge id="555" source="14" target="319"></edge>
+      <edge id="556" source="320" target="205" weight="9.0"></edge>
+      <edge id="557" source="149" target="103" weight="9.0"></edge>
+      <edge id="558" source="74" target="3"></edge>
+      <edge id="559" source="168" target="117"></edge>
+      <edge id="560" source="151" target="57" weight="9.0"></edge>
+      <edge id="561" source="321" target="8"></edge>
+      <edge id="562" source="151" target="11" weight="9.0"></edge>
+      <edge id="563" source="96" target="47"></edge>
+      <edge id="564" source="1" target="322"></edge>
+      <edge id="565" source="171" target="323" weight="5.0"></edge>
+      <edge id="566" source="1" target="40"></edge>
+      <edge id="567" source="324" target="3"></edge>
+      <edge id="568" source="30" target="325"></edge>
+      <edge id="569" source="144" target="326"></edge>
+      <edge id="570" source="103" target="28" weight="9.0"></edge>
+      <edge id="571" source="181" target="327"></edge>
+      <edge id="572" source="293" target="62" weight="10.0"></edge>
+      <edge id="573" source="11" target="103" weight="9.0"></edge>
+      <edge id="574" source="12" target="61"></edge>
+      <edge id="575" source="86" target="12" weight="9.0"></edge>
+      <edge id="576" source="104" target="190" weight="4.0"></edge>
+      <edge id="577" source="105" target="295"></edge>
+      <edge id="578" source="328" target="100"></edge>
+      <edge id="579" source="29" target="205" weight="9.0"></edge>
+      <edge id="580" source="329" target="169" weight="10.0"></edge>
+      <edge id="581" source="330" target="35"></edge>
+      <edge id="582" source="35" target="331"></edge>
+      <edge id="583" source="1" target="55"></edge>
+      <edge id="584" source="35" target="187"></edge>
+      <edge id="585" source="78" target="82" weight="9.0"></edge>
+      <edge id="586" source="14" target="332"></edge>
+      <edge id="587" source="86" target="333" weight="9.0"></edge>
+      <edge id="588" source="175" target="161" weight="6.0"></edge>
+      <edge id="589" source="103" target="57" weight="9.0"></edge>
+      <edge id="590" source="334" target="103" weight="9.0"></edge>
+      <edge id="591" source="6" target="138" weight="9.0"></edge>
+      <edge id="592" source="126" target="7" weight="10.0"></edge>
+      <edge id="593" source="1" target="335"></edge>
+      <edge id="594" source="103" target="217" weight="9.0"></edge>
+      <edge id="595" source="336" target="86" weight="9.0"></edge>
+      <edge id="596" source="69" target="337"></edge>
+      <edge id="597" source="161" target="28" weight="6.0"></edge>
+      <edge id="598" source="35" target="338"></edge>
+      <edge id="599" source="30" target="124"></edge>
+      <edge id="600" source="105" target="180"></edge>
+      <edge id="601" source="339" target="190" weight="4.0"></edge>
+      <edge id="602" source="340" target="86" weight="9.0"></edge>
+      <edge id="603" source="3" target="341"></edge>
+      <edge id="604" source="1" target="342"></edge>
+      <edge id="605" source="142" target="21"></edge>
+      <edge id="606" source="161" target="20" weight="6.0"></edge>
+      <edge id="607" source="13" target="48" weight="7.0"></edge>
+      <edge id="608" source="1" target="343"></edge>
+      <edge id="609" source="121" target="154" weight="2.0"></edge>
+      <edge id="610" source="189" target="2" weight="4.0"></edge>
+      <edge id="611" source="72" target="59"></edge>
+      <edge id="612" source="105" target="61"></edge>
+      <edge id="613" source="344" target="47"></edge>
+      <edge id="614" source="88" target="345"></edge>
+      <edge id="615" source="300" target="72"></edge>
+      <edge id="616" source="62" target="5" weight="10.0"></edge>
+      <edge id="617" source="62" target="346" weight="10.0"></edge>
+      <edge id="618" source="103" target="7" weight="9.0"></edge>
+      <edge id="619" source="5" target="347"></edge>
+      <edge id="620" source="348" target="47"></edge>
+      <edge id="621" source="53" target="78" weight="9.0"></edge>
+      <edge id="622" source="2" target="151" weight="9.0"></edge>
+      <edge id="623" source="1" target="206"></edge>
+      <edge id="624" source="30" target="55"></edge>
+      <edge id="625" source="138" target="45" weight="9.0"></edge>
+      <edge id="626" source="169" target="16" weight="10.0"></edge>
+      <edge id="627" source="195" target="349"></edge>
+      <edge id="628" source="350" target="153"></edge>
+      <edge id="629" source="351" target="5"></edge>
+      <edge id="630" source="5" target="352"></edge>
+      <edge id="631" source="140" target="25"></edge>
+      <edge id="632" source="353" target="30"></edge>
+      <edge id="633" source="1" target="354"></edge>
+      <edge id="634" source="6" target="51"></edge>
+      <edge id="635" source="171" target="10" weight="5.0"></edge>
+      <edge id="636" source="78" target="16" weight="9.0"></edge>
+      <edge id="637" source="355" target="263" weight="3.0"></edge>
+      <edge id="638" source="177" target="67" weight="7.0"></edge>
+      <edge id="639" source="1" target="356"></edge>
+      <edge id="640" source="357" target="1"></edge>
+      <edge id="641" source="103" target="68" weight="9.0"></edge>
+      <edge id="642" source="65" target="57"></edge>
+      <edge id="643" source="358" target="146" weight="3.0"></edge>
+      <edge id="644" source="78" target="49" weight="9.0"></edge>
+      <edge id="645" source="359" target="62" weight="10.0"></edge>
+      <edge id="646" source="30" target="360"></edge>
+      <edge id="647" source="78" target="361" weight="9.0"></edge>
+      <edge id="648" source="13" target="86" weight="9.0"></edge>
+      <edge id="649" source="362" target="124"></edge>
+      <edge id="650" source="111" target="14" weight="10.0"></edge>
+      <edge id="651" source="363" target="195"></edge>
+      <edge id="652" source="157" target="48" weight="7.0"></edge>
+      <edge id="653" source="364" target="138" weight="9.0"></edge>
+      <edge id="654" source="41" target="53"></edge>
+      <edge id="655" source="11" target="138" weight="9.0"></edge>
+      <edge id="656" source="148" target="117"></edge>
+      <edge id="657" source="48" target="328" weight="7.0"></edge>
+      <edge id="658" source="46" target="365"></edge>
+      <edge id="659" source="366" target="16"></edge>
+      <edge id="660" source="367" target="3"></edge>
+      <edge id="661" source="368" target="169" weight="10.0"></edge>
+      <edge id="662" source="1" target="369"></edge>
+      <edge id="663" source="124" target="5"></edge>
+      <edge id="664" source="158" target="370" weight="10.0"></edge>
+      <edge id="665" source="1" target="158" weight="10.0"></edge>
+      <edge id="666" source="371" target="5"></edge>
+      <edge id="667" source="372" target="117"></edge>
+      <edge id="668" source="1" target="373"></edge>
+      <edge id="669" source="78" target="243" weight="9.0"></edge>
+      <edge id="670" source="158" target="88" weight="10.0"></edge>
+      <edge id="671" source="177" target="202" weight="7.0"></edge>
+      <edge id="672" source="1" target="374"></edge>
+      <edge id="673" source="46" target="375"></edge>
+      <edge id="674" source="376" target="5"></edge>
+      <edge id="675" source="111" target="44" weight="10.0"></edge>
+      <edge id="676" source="1" target="377"></edge>
+      <edge id="677" source="1" target="378"></edge>
+      <edge id="678" source="379" target="48" weight="7.0"></edge>
+      <edge id="679" source="215" target="32"></edge>
+      <edge id="680" source="368" target="48" weight="7.0"></edge>
+      <edge id="681" source="72" target="184"></edge>
+      <edge id="682" source="1" target="380"></edge>
+      <edge id="683" source="16" target="381"></edge>
+      <edge id="684" source="49" target="103" weight="9.0"></edge>
+      <edge id="685" source="382" target="372"></edge>
+      <edge id="686" source="1" target="383"></edge>
+      <edge id="687" source="77" target="384"></edge>
+      <edge id="688" source="144" target="16"></edge>
+      <edge id="689" source="151" target="50" weight="9.0"></edge>
+      <edge id="690" source="385" target="62" weight="10.0"></edge>
+      <edge id="691" source="386" target="79"></edge>
+      <edge id="692" source="111" target="67" weight="10.0"></edge>
+      <edge id="693" source="3" target="124"></edge>
+      <edge id="694" source="72" target="207" weight="3.0"></edge>
+      <edge id="695" source="189" target="44" weight="4.0"></edge>
+      <edge id="696" source="263" target="72" weight="3.0"></edge>
+      <edge id="697" source="1" target="387"></edge>
+      <edge id="698" source="1" target="78" weight="9.0"></edge>
+      <edge id="699" source="79" target="388"></edge>
+      <edge id="700" source="30" target="389"></edge>
+      <edge id="701" source="144" target="196"></edge>
+      <edge id="702" source="1" target="390"></edge>
+      <edge id="703" source="126" target="175" weight="10.0"></edge>
+      <edge id="704" source="138" target="391" weight="9.0"></edge>
+      <edge id="705" source="205" target="41" weight="9.0"></edge>
+      <edge id="706" source="158" target="29" weight="10.0"></edge>
+      <edge id="707" source="3" target="392"></edge>
+      <edge id="708" source="100" target="5"></edge>
+      <edge id="709" source="138" target="393" weight="9.0"></edge>
+      <edge id="710" source="394" target="138" weight="9.0"></edge>
+      <edge id="711" source="48" target="16" weight="7.0"></edge>
+      <edge id="712" source="86" target="395" weight="9.0"></edge>
+      <edge id="713" source="177" target="3" weight="7.0"></edge>
+      <edge id="714" source="86" target="14" weight="9.0"></edge>
+      <edge id="715" source="126" target="396" weight="10.0"></edge>
+      <edge id="716" source="397" target="398"></edge>
+      <edge id="717" source="45" target="78" weight="9.0"></edge>
+      <edge id="718" source="399" target="400"></edge>
+      <edge id="719" source="67" target="401"></edge>
+      <edge id="720" source="402" target="403"></edge>
+      <edge id="721" source="404" target="78" weight="9.0"></edge>
+      <edge id="722" source="189" target="28" weight="4.0"></edge>
+      <edge id="723" source="35" target="86" weight="9.0"></edge>
+      <edge id="724" source="405" target="30"></edge>
+      <edge id="725" source="157" target="29"></edge>
+      <edge id="726" source="98" target="406"></edge>
+      <edge id="727" source="29" target="407"></edge>
+      <edge id="728" source="158" target="92" weight="10.0"></edge>
+      <edge id="729" source="181" target="194"></edge>
+      <edge id="730" source="1" target="408"></edge>
+      <edge id="731" source="217" target="92"></edge>
+      <edge id="732" source="117" target="409"></edge>
+      <edge id="733" source="100" target="46"></edge>
+      <edge id="734" source="410" target="78" weight="9.0"></edge>
+      <edge id="735" source="411" target="1"></edge>
+      <edge id="736" source="67" target="412"></edge>
+      <edge id="737" source="0" target="151" weight="9.0"></edge>
+      <edge id="738" source="47" target="187"></edge>
+      <edge id="739" source="413" target="8"></edge>
+      <edge id="740" source="16" target="124"></edge>
+      <edge id="741" source="263" target="41" weight="3.0"></edge>
+      <edge id="742" source="35" target="248"></edge>
+      <edge id="743" source="86" target="414" weight="9.0"></edge>
+      <edge id="744" source="189" target="6" weight="4.0"></edge>
+      <edge id="745" source="6" target="119"></edge>
+      <edge id="746" source="28" target="205" weight="9.0"></edge>
+      <edge id="747" source="415" target="49"></edge>
+      <edge id="748" source="86" target="213" weight="9.0"></edge>
+      <edge id="749" source="416" target="417"></edge>
+      <edge id="750" source="3" target="418"></edge>
+      <edge id="751" source="169" target="419" weight="10.0"></edge>
+      <edge id="752" source="155" target="78" weight="9.0"></edge>
+      <edge id="753" source="46" target="62" weight="10.0"></edge>
+      <edge id="754" source="217" target="205" weight="9.0"></edge>
+      <edge id="755" source="67" target="147" weight="3.0"></edge>
+      <edge id="756" source="169" target="44" weight="10.0"></edge>
+      <edge id="757" source="420" target="138" weight="9.0"></edge>
+      <edge id="758" source="303" target="421"></edge>
+      <edge id="759" source="422" target="5"></edge>
+      <edge id="760" source="158" target="31" weight="10.0"></edge>
+      <edge id="761" source="34" target="6"></edge>
+      <edge id="762" source="423" target="72"></edge>
+      <edge id="763" source="138" target="424" weight="9.0"></edge>
+      <edge id="764" source="425" target="30"></edge>
+      <edge id="765" source="426" target="126" weight="10.0"></edge>
+      <edge id="766" source="275" target="5" weight="3.0"></edge>
+    </edges>
+  </graph>
+</gexf>

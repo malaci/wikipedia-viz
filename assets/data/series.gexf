@@ -1,0 +1,1894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="television series">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="659.15344" y="-168.37296"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="animated series">
+        <viz:size value="71.15242"></viz:size>
+        <viz:position x="582.63995" y="-820.7191"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="korean series">
+        <viz:size value="67.22677"></viz:size>
+        <viz:position x="684.5278" y="-544.9593"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="anime series">
+        <viz:size value="65.91821"></viz:size>
+        <viz:position x="422.2025" y="558.8755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="world series">
+        <viz:size value="65.382904"></viz:size>
+        <viz:position x="1351.6981" y="623.4752"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="web series">
+        <viz:size value="61.219334"></viz:size>
+        <viz:position x="1408.5493" y="7.3706064"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="novel series">
+        <viz:size value="58.95911"></viz:size>
+        <viz:position x="-324.4545" y="-711.5372"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="series of books">
+        <viz:size value="57.88848"></viz:size>
+        <viz:position x="124.26985" y="-1363.6691"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="282" label="nascar series">
+        <viz:size value="55.866173"></viz:size>
+        <viz:position x="-751.99725" y="1209.4419"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="film series">
+        <viz:size value="55.628258"></viz:size>
+        <viz:position x="635.6904" y="-1253.9662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="music series">
+        <viz:size value="54.9145"></viz:size>
+        <viz:position x="-681.9634" y="89.15738"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="american le mans series">
+        <viz:size value="52.832714"></viz:size>
+        <viz:position x="-179.12477" y="1593.1368"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="manga series">
+        <viz:size value="52.23792"></viz:size>
+        <viz:position x="12.644589" y="521.747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="european le mans series">
+        <viz:size value="50.988846"></viz:size>
+        <viz:position x="-611.5948" y="1498.9077"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="arca racing series">
+        <viz:size value="48.193314"></viz:size>
+        <viz:position x="-1221.7615" y="-405.56708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="blancpain endurance series">
+        <viz:size value="47.895912"></viz:size>
+        <viz:position x="-1431.7793" y="759.859"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="children s comedy series">
+        <viz:size value="47.77695"></viz:size>
+        <viz:position x="754.0457" y="-718.74133"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="263" label="album series">
+        <viz:size value="47.717476"></viz:size>
+        <viz:position x="-1791.9457" y="17.922567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="gp2 series">
+        <viz:size value="47.479557"></viz:size>
+        <viz:position x="-1222.0419" y="-1293.6674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="science fiction book series">
+        <viz:size value="47.42008"></viz:size>
+        <viz:position x="-736.90814" y="-1006.10126"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="super series">
+        <viz:size value="47.42008"></viz:size>
+        <viz:position x="124.89779" y="315.6415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="rolex sports car series">
+        <viz:size value="47.18216"></viz:size>
+        <viz:position x="7.83681" y="1601.2651"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="auto racing series">
+        <viz:size value="46.111526"></viz:size>
+        <viz:position x="962.0273" y="1184.6887"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="asia series">
+        <viz:size value="45.100372"></viz:size>
+        <viz:position x="-1517.5833" y="930.2081"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="indycar series drivers">
+        <viz:size value="44.26766"></viz:size>
+        <viz:position x="-227.00398" y="1766.9183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="formula 3 euro series">
+        <viz:size value="44.20818"></viz:size>
+        <viz:position x="-1373.4054" y="-1173.8253"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="trans-am series">
+        <viz:size value="43.01859"></viz:size>
+        <viz:position x="-45.330704" y="1420.1815"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="gp3 series">
+        <viz:size value="42.066917"></viz:size>
+        <viz:position x="-1212.7987" y="-1098.5509"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="daytime emmy award for outstanding drama series winners">
+        <viz:size value="41.829"></viz:size>
+        <viz:position x="381.71448" y="49.650116"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="food network series">
+        <viz:size value="41.71004"></viz:size>
+        <viz:position x="160.46243" y="1413.0851"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="252" label="hum tv series">
+        <viz:size value="41.234203"></viz:size>
+        <viz:position x="-1423.1411" y="5.7388167"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="champions series">
+        <viz:size value="41.17472"></viz:size>
+        <viz:position x="-1429.5178" y="-1002.48474"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="youtube series">
+        <viz:size value="40.04461"></viz:size>
+        <viz:position x="1576.6604" y="329.94818"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="time series analysis">
+        <viz:size value="39.628254"></viz:size>
+        <viz:position x="-1269.3435" y="1270.5865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="fantasy books by series">
+        <viz:size value="39.628254"></viz:size>
+        <viz:position x="-159.30353" y="-1121.6444"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="245" label="teletoon original series">
+        <viz:size value="39.628254"></viz:size>
+        <viz:position x="-348.77643" y="865.4648"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="american league championship series">
+        <viz:size value="38.379185"></viz:size>
+        <viz:position x="1521.54" y="956.6365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="barber pro series drivers">
+        <viz:size value="38.081787"></viz:size>
+        <viz:position x="193.79477" y="1593.617"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="national league championship series">
+        <viz:size value="37.18959"></viz:size>
+        <viz:position x="1683.7826" y="622.08905"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="top model series">
+        <viz:size value="37.011154"></viz:size>
+        <viz:position x="847.4916" y="-204.43884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="toyota racing series">
+        <viz:size value="36.951675"></viz:size>
+        <viz:position x="-1090.8282" y="-1436.4326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="hanna-barbera series and characters">
+        <viz:size value="36.832714"></viz:size>
+        <viz:position x="685.0682" y="-1069.9014"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="asian le mans series">
+        <viz:size value="36.832714"></viz:size>
+        <viz:position x="-1622.6267" y="761.7489"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="superstars series">
+        <viz:size value="36.773235"></viz:size>
+        <viz:position x="-1386.0914" y="404.19427"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="colors series">
+        <viz:size value="36.475838"></viz:size>
+        <viz:position x="-390.6347" y="1154.9319"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="tcr international series drivers">
+        <viz:size value="36.297398"></viz:size>
+        <viz:position x="-1430.9209" y="1089.3926"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="ultra series">
+        <viz:size value="36.17844"></viz:size>
+        <viz:position x="1012.0649" y="-306.0392"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="one-make series">
+        <viz:size value="36.0"></viz:size>
+        <viz:position x="893.9012" y="1349.9565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="geo tv series">
+        <viz:size value="35.524166"></viz:size>
+        <viz:position x="500.65082" y="-453.86267"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="mathematical series">
+        <viz:size value="35.464684"></viz:size>
+        <viz:position x="-1519.2301" y="-576.446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="juvenile series">
+        <viz:size value="35.464684"></viz:size>
+        <viz:position x="-139.06607" y="185.28488"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="animation anthology series">
+        <viz:size value="35.464684"></viz:size>
+        <viz:position x="1118.3287" y="-658.03296"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="horror films by series">
+        <viz:size value="35.345726"></viz:size>
+        <viz:position x="588.62946" y="-1495.42"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="comic book limited series">
+        <viz:size value="35.22677"></viz:size>
+        <viz:position x="1591.3549" y="-217.80188"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="formula racing series">
+        <viz:size value="35.22677"></viz:size>
+        <viz:position x="730.84766" y="1426.7828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="science fiction anthology series">
+        <viz:size value="34.86989"></viz:size>
+        <viz:position x="-563.57556" y="-1692.9785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="japan series">
+        <viz:size value="34.75093"></viz:size>
+        <viz:position x="677.0098" y="1647.5121"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="comedy films by series">
+        <viz:size value="34.631973"></viz:size>
+        <viz:position x="447.34833" y="-1142.7437"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="touring car racing series">
+        <viz:size value="34.631973"></viz:size>
+        <viz:position x="1025.8245" y="1481.6752"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="films based on radio series">
+        <viz:size value="34.631973"></viz:size>
+        <viz:position x="728.18634" y="-1.5845928"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="sports car racing series">
+        <viz:size value="34.394054"></viz:size>
+        <viz:position x="583.9687" y="1275.9906"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="motorcycle racing series">
+        <viz:size value="34.156136"></viz:size>
+        <viz:position x="976.4921" y="796.37665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="action films by series">
+        <viz:size value="33.44238"></viz:size>
+        <viz:position x="996.79016" y="-1417.9434"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="got talent series">
+        <viz:size value="33.323418"></viz:size>
+        <viz:position x="954.3392" y="-758.40765"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="pro cup series drivers">
+        <viz:size value="33.323418"></viz:size>
+        <viz:position x="-1166.4418" y="-238.2903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="225" label="dc comics limited series">
+        <viz:size value="32.907066"></viz:size>
+        <viz:position x="1797.4784" y="53.5986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="cartoon network studios series and characters">
+        <viz:size value="32.609665"></viz:size>
+        <viz:position x="1182.7288" y="-837.7742"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="indycar series teams">
+        <viz:size value="32.25279"></viz:size>
+        <viz:position x="-237.85397" y="1414.9409"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="indycar series team owners">
+        <viz:size value="31.776953"></viz:size>
+        <viz:position x="-43.89213" y="1789.0189"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="comics adapted into radio series">
+        <viz:size value="30.70632"></viz:size>
+        <viz:position x="896.722" y="-597.30524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="dark horse comics limited series">
+        <viz:size value="30.70632"></viz:size>
+        <viz:position x="-643.53357" y="467.9139"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="outstanding performance by a supporting actress in a drama series primetime emmy award winners">
+        <viz:size value="30.527882"></viz:size>
+        <viz:position x="-1574.7192" y="418.9156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="214" label="sequences and series">
+        <viz:size value="30.111525"></viz:size>
+        <viz:position x="-1101.4028" y="980.0923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="sports telecast series">
+        <viz:size value="29.933086"></viz:size>
+        <viz:position x="841.9857" y="-409.73837"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="311" label="upper cretaceous series of north america">
+        <viz:size value="29.69517"></viz:size>
+        <viz:position x="26.154863" y="894.62427"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="primetime emmy award for outstanding drama series winners">
+        <viz:size value="29.69517"></viz:size>
+        <viz:position x="1232.4277" y="-80.804955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="fighting games used at the evolution championship series tournament">
+        <viz:size value="29.69517"></viz:size>
+        <viz:position x="-1409.0496" y="-416.23737"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="indycar series tracks">
+        <viz:size value="29.69517"></viz:size>
+        <viz:position x="-399.81888" y="1729.8365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="science fiction films by series">
+        <viz:size value="29.27881"></viz:size>
+        <viz:position x="818.9156" y="-1221.985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="best drama series golden globe winners">
+        <viz:size value="29.040894"></viz:size>
+        <viz:position x="1405.4747" y="-355.2471"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="outstanding performance by a supporting actress in a comedy series primetime emmy award winners">
+        <viz:size value="29.040894"></viz:size>
+        <viz:position x="909.9395" y="-10.743679"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="historical novels by series">
+        <viz:size value="29.040894"></viz:size>
+        <viz:position x="-624.808" y="-313.81586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="outstanding performance by a lead actor in a drama series primetime emmy award winners">
+        <viz:size value="28.802975"></viz:size>
+        <viz:position x="-1203.0363" y="305.81708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="217" label="the railway series">
+        <viz:size value="28.802975"></viz:size>
+        <viz:position x="-861.7145" y="168.20525"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="302" label="outstanding performance by a lead actress in a comedy series primetime emmy award winners">
+        <viz:size value="28.802975"></viz:size>
+        <viz:position x="-257.44333" y="479.66138"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="stock car racing series">
+        <viz:size value="28.565058"></viz:size>
+        <viz:position x="-911.6006" y="1105.9657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="198" label="wildstorm comics limited series">
+        <viz:size value="28.565058"></viz:size>
+        <viz:position x="1575.8002" y="131.83932"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="outstanding performance by a lead actor in a comedy series primetime emmy award winners">
+        <viz:size value="28.327139"></viz:size>
+        <viz:position x="-1393.8385" y="207.09247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="best musical or comedy series golden globe winners">
+        <viz:size value="28.327139"></viz:size>
+        <viz:position x="-1761.3387" y="-342.6109"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="primetime emmy award for outstanding comedy series winners">
+        <viz:size value="28.029741"></viz:size>
+        <viz:position x="-1564.4049" y="-154.28687"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="outstanding performance by a lead actress in a drama series primetime emmy award winners">
+        <viz:size value="27.791822"></viz:size>
+        <viz:position x="-1752.5394" y="393.80402"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="175" label="xfinity series seasons">
+        <viz:size value="27.791822"></viz:size>
+        <viz:position x="-990.7955" y="-191.53696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="rally racing series">
+        <viz:size value="27.494423"></viz:size>
+        <viz:position x="564.7413" y="1464.8054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="primetime emmy award for outstanding variety series winners">
+        <viz:size value="27.494423"></viz:size>
+        <viz:position x="-666.42914" y="-89.40119"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="outstanding performance by a supporting actor in a comedy series primetime emmy award winners">
+        <viz:size value="27.494423"></viz:size>
+        <viz:position x="-1604.7961" y="38.966133"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="streamy award-winning channels, series or shows">
+        <viz:size value="27.494423"></viz:size>
+        <viz:position x="1381.7603" y="395.72772"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="mystery novels by series">
+        <viz:size value="27.256506"></viz:size>
+        <viz:position x="-190.9158" y="-1307.3623"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="image comics limited series">
+        <viz:size value="26.95911"></viz:size>
+        <viz:position x="-463.21844" y="380.89157"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="speedcar series">
+        <viz:size value="26.66171"></viz:size>
+        <viz:position x="-1458.958" y="581.3667"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="monographic series">
+        <viz:size value="26.66171"></viz:size>
+        <viz:position x="307.05664" y="-1406.1194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="american league division series">
+        <viz:size value="26.66171"></viz:size>
+        <viz:position x="1518.4358" y="545.4581"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="national league division series">
+        <viz:size value="26.66171"></viz:size>
+        <viz:position x="1587.6068" y="771.7537"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="alternate history book series">
+        <viz:size value="26.66171"></viz:size>
+        <viz:position x="-835.1099" y="-863.0637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="172" label="ibm 700 7000 series">
+        <viz:size value="26.304834"></viz:size>
+        <viz:position x="-1072.071" y="-8.485705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="e4 series">
+        <viz:size value="26.304834"></viz:size>
+        <viz:position x="1049.0736" y="-478.48715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="swallows and amazons series">
+        <viz:size value="24.936804"></viz:size>
+        <viz:position x="1165.9882" y="298.5543"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="harvey comics series and characters">
+        <viz:size value="24.936804"></viz:size>
+        <viz:position x="793.861" y="-905.2379"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="formula three series">
+        <viz:size value="24.936804"></viz:size>
+        <viz:position x="511.30878" y="1695.8275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="iscars dash touring series drivers">
+        <viz:size value="24.936804"></viz:size>
+        <viz:position x="-1557.3561" y="-882.9893"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="documentary internet series">
+        <viz:size value="24.579927"></viz:size>
+        <viz:position x="1452.6309" y="-527.5367"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="fantasy films by series">
+        <viz:size value="24.163568"></viz:size>
+        <viz:position x="905.7489" y="-1060.9624"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="moomin series">
+        <viz:size value="23.747213"></viz:size>
+        <viz:position x="885.6108" y="609.25287"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="power rangers series">
+        <viz:size value="23.330856"></viz:size>
+        <viz:position x="337.66223" y="-535.4486"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="antena 3 network series">
+        <viz:size value="23.330856"></viz:size>
+        <viz:position x="514.3877" y="-645.38135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="184" label="lensman series">
+        <viz:size value="23.330856"></viz:size>
+        <viz:position x="53.69506" y="-713.068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="305" label="southern victory series">
+        <viz:size value="23.330856"></viz:size>
+        <viz:position x="-903.45764" y="-550.1729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="312" label="millennium series">
+        <viz:size value="22.85502"></viz:size>
+        <viz:position x="229.71835" y="849.70154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="173" label="eagle series">
+        <viz:size value="22.85502"></viz:size>
+        <viz:position x="104.22339" y="-227.47917"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="coach trip series">
+        <viz:size value="22.85502"></viz:size>
+        <viz:position x="581.547" y="96.49253"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="fantasy anthology series">
+        <viz:size value="22.85502"></viz:size>
+        <viz:position x="-351.27835" y="-1274.0494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="kart racing series">
+        <viz:size value="22.85502"></viz:size>
+        <viz:position x="746.121" y="975.14746"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="278" label="tracy beaker series">
+        <viz:size value="22.85502"></viz:size>
+        <viz:position x="-0.7974798" y="1243.5504"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="harvey award winners for best new series">
+        <viz:size value="22.379183"></viz:size>
+        <viz:position x="1605.2305" y="-415.04947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="time series models">
+        <viz:size value="22.379183"></viz:size>
+        <viz:position x="-1260.0514" y="1083.3055"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="eisner award winners for best limited series">
+        <viz:size value="22.379183"></viz:size>
+        <viz:position x="1771.3152" y="-356.257"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="characters in young adult book series">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="-295.107" y="290.7163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="185" label="enid blyton series">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="-73.13904" y="-1447.5637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="222" label="2011 le mans series season">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="-403.5734" y="1544.7185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="281" label="london prepares series">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="1406.8582" y="803.51404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="197" label="eisner award winners for best new series">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="1242.5298" y="124.65558"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="famous studios series and characters">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="532.85956" y="-973.4469"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="cambrian series 2 first appearances">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="-486.81595" y="184.82683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="297" label="2010 le mans series season">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="-410.73276" y="1352.0134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="249" label="year s best sf anthology series">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="-751.6639" y="-1635.6202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="182" label="atv series">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="-723.4172" y="828.852"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="off-road racing series">
+        <viz:size value="21.843866"></viz:size>
+        <viz:position x="1082.1487" y="639.0385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="210" label="outlander series">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="154.98819" y="-566.7004"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="harvey award winners for best continuing or limited series">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="1782.1907" y="-163.0753"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="255" label="starfist series">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="-1023.59106" y="-893.7068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="275" label="fablehaven series">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="-312.75488" y="-155.04816"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="200" label="strictly come dancing series">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="1072.3694" y="72.227585"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="vampire academy series">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="-615.7589" y="-798.37445"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="cooking channel series">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="212.39207" y="1243.1438"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="191" label="indycar series races">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="140.14462" y="1778.7985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="gemini and canadian screen award for best drama series winners">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="269.83655" y="-358.47375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="truck racing series">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="-734.7007" y="1012.4804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="204" label="dray prescot series">
+        <viz:size value="21.308552"></viz:size>
+        <viz:position x="-1.8248466" y="-1244.736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="cambrian series 2 extinctions">
+        <viz:size value="20.713755"></viz:size>
+        <viz:position x="-486.07834" y="-7.9342117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="188" label="eisner award winners for best continuing series">
+        <viz:size value="20.713755"></viz:size>
+        <viz:position x="1391.9008" y="-182.50494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="divergent series">
+        <viz:size value="20.713755"></viz:size>
+        <viz:position x="-1636.7041" y="-714.73267"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="301" label="outstanding performance by a female actor in a drama series screen actors guild award winners">
+        <viz:size value="20.713755"></viz:size>
+        <viz:position x="-137.236" y="632.1496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="telecinco network series">
+        <viz:size value="20.713755"></viz:size>
+        <viz:position x="454.17258" y="-278.97415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="271" label="bpr global gt series">
+        <viz:size value="20.713755"></viz:size>
+        <viz:position x="384.1512" y="1543.0604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="outstanding performance by an ensemble in a comedy series screen actors guild award winners">
+        <viz:size value="20.713755"></viz:size>
+        <viz:position x="-1581.44" y="-344.8942"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="288" label="outstanding performance by a female actor in a comedy series screen actors guild award winners">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="-1680.3567" y="584.5127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="outstanding performance by an ensemble in a drama series screen actors guild award winners">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="1206.1715" y="-292.9787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="gemini and canadian screen award for best comedy series winners">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="463.5206" y="236.80347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="267" label="miocene series of north america">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="-1101.9475" y="784.1506"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="brave series">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="246.49565" y="659.14935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="292" label="house of night series">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="-136.48834" y="-750.35614"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="nicktoons original series">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="320.65356" y="-730.2637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="231" label="nuala anne mcgrail series">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="-382.01852" y="-1701.0597"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="adventure films by series">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="245.17924" y="-1036.6562"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="299" label="mistborn series">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="-130.8768" y="-392.9782"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="219" label="comics based on radio series">
+        <viz:size value="20.05948"></viz:size>
+        <viz:position x="-162.27109" y="-22.69722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="240" label="worldwar and colonization series">
+        <viz:size value="19.345726"></viz:size>
+        <viz:position x="-974.95807" y="-712.2883"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="aviation radio series">
+        <viz:size value="19.345726"></viz:size>
+        <viz:position x="77.91575" y="-410.58698"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="273" label="codominium series">
+        <viz:size value="19.345726"></viz:size>
+        <viz:position x="-216.4293" y="-1776.4897"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="hillclimbing series">
+        <viz:size value="19.345726"></viz:size>
+        <viz:position x="914.98676" y="1001.8991"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="fleischer studios series and characters">
+        <viz:size value="19.345726"></viz:size>
+        <viz:position x="388.0957" y="-890.87213"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="dual-language series of texts">
+        <viz:size value="19.345726"></viz:size>
+        <viz:position x="-177.55305" y="-1601.4209"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="international emmy award for best comedy series winners">
+        <viz:size value="18.631971"></viz:size>
+        <viz:position x="663.01556" y="-348.91452"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="283" label="western radio series">
+        <viz:size value="18.631971"></viz:size>
+        <viz:position x="-317.27036" y="82.31986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="formula 4 series">
+        <viz:size value="18.631971"></viz:size>
+        <viz:position x="850.0561" y="1573.2793"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="time bokan series">
+        <viz:size value="18.631971"></viz:size>
+        <viz:position x="609.6365" y="662.3131"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="outstanding performance by a male actor in a drama series screen actors guild award winners">
+        <viz:size value="18.631971"></viz:size>
+        <viz:position x="-1219.4092" y="493.9264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="247" label="formula renault 2 0 series">
+        <viz:size value="18.631971"></viz:size>
+        <viz:position x="1215.9335" y="768.52203"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="american civil war tv series">
+        <viz:size value="18.631971"></viz:size>
+        <viz:position x="488.4162" y="-93.67992"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="outstanding performance by a male actor in a comedy series screen actors guild award winners">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="-1573.1813" y="223.86595"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="171" label="ibm 1400 series">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="-1224.3527" y="110.578606"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="spellsinger series">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="-467.58997" y="-447.03326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="264" label="nuggets series albums">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="-1769.1493" y="203.02776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="she series by h rider haggard">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="-204.12096" y="-923.5377"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="181" label="trt series">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="-688.6421" y="648.4936"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="205" label="latam challenge series">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="333.04642" y="1752.8246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="296" label="the deptford mice series">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="152.66045" y="-1774.1448"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="230" label="pusadian series">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="-518.5187" y="-1342.5778"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="234" label="runelords series">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="66.06918" y="-1085.2322"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="178" label="ojamajo doremi series">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="59.941727" y="712.84973"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="276" label="adac procar series">
+        <viz:size value="17.799255"></viz:size>
+        <viz:position x="1388.7592" y="1106.8524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="310" label="lower cretaceous series of north america">
+        <viz:size value="16.907064"></viz:size>
+        <viz:position x="-91.501366" y="1047.2261"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="thriller films by series">
+        <viz:size value="16.907064"></viz:size>
+        <viz:position x="1007.3002" y="-1246.0828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="international emmy award for best drama series winners">
+        <viz:size value="16.907064"></viz:size>
+        <viz:position x="1058.2217" y="-132.2176"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="269" label="lonesome dove series">
+        <viz:size value="16.907064"></viz:size>
+        <viz:position x="260.57727" y="-1220.4657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="279" label="fictional locations by series">
+        <viz:size value="16.907064"></viz:size>
+        <viz:position x="-840.3457" y="-1334.2216"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="207" label="howling series">
+        <viz:size value="16.907064"></viz:size>
+        <viz:position x="539.4851" y="-1713.8988"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="soulcalibur series games">
+        <viz:size value="16.907064"></viz:size>
+        <viz:position x="-1385.9772" y="-229.66675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="235" label="geometric series">
+        <viz:size value="16.907064"></viz:size>
+        <viz:position x="-924.69464" y="914.9227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="268" label="gt4 european series">
+        <viz:size value="15.895911"></viz:size>
+        <viz:position x="412.54456" y="1178.3547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="295" label="inspector barnaby series">
+        <viz:size value="15.895911"></viz:size>
+        <viz:position x="-30.487617" y="-1776.9077"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="206" label="mr men series">
+        <viz:size value="15.895911"></viz:size>
+        <viz:position x="1028.8436" y="-940.8408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="series by tanith lee">
+        <viz:size value="15.895911"></viz:size>
+        <viz:position x="-402.98938" y="-866.6981"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="253" label="the darkness series">
+        <viz:size value="15.895911"></viz:size>
+        <viz:position x="-14.552533" y="-926.7061"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="201" label="kalvan series">
+        <viz:size value="15.895911"></viz:size>
+        <viz:position x="-908.52936" y="-1499.6008"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="300" label="little house series">
+        <viz:size value="15.895911"></viz:size>
+        <viz:position x="32.81873" y="-1594.1234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="177" label="the emberverse series">
+        <viz:size value="15.895911"></viz:size>
+        <viz:position x="-1119.1942" y="-568.2527"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="303" label="the age of mortals series novels">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="-482.7985" y="-218.06334"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="hbo latin america original series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="815.10443" y="170.69159"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="293" label="american novels by series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="434.55273" y="958.9435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="190" label="books in the opposing viewpoints series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="333.99805" y="-1748.0709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="304" label="once upon a time in china series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="900.0692" y="-1563.2972"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="251" label="urdu 1 series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="-1263.7324" y="-80.23573"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="241" label="pliocene series of north america">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="-526.3686" y="939.46643"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="202" label="bills toronto series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="1012.65125" y="430.9513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="284" label="hamish macbeth series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="-640.90955" y="-528.5295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="236" label="period radio series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="1404.3541" y="219.46268"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="old kingdom series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="-497.1751" y="-648.8068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="2009 le mans series season">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="-580.72546" y="1688.7925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="237" label="2007 le mans series season">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="-770.06525" y="1621.7301"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="254" label="fudge series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="840.494" y="375.82574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="294" label="nightrunner series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="271.56702" y="1037.0029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="hindi-tamil dubbed version series">
+        <viz:size value="14.7657995"></viz:size>
+        <viz:position x="-562.8823" y="1117.2764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="189" label="ignatz award winners for outstanding series">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="1695.953" y="-565.5931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="211" label="cambrian series 3 extinctions">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="-1402.1997" y="-771.0558"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="239" label="2006 le mans series season">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="-946.8597" y="1521.5153"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="regression with time series structure">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="-1118.9813" y="1395.3102"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="spy films by series">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="478.08963" y="-1340.2009"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="309" label="ub iwerks studio series and characters">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="1553.3379" y="-695.29694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="227" label="2008 le mans series season">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="-775.3842" y="1414.839"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="243" label="the tales of alvin maker series novels">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="-693.474" y="-1215.6713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="307" label="the domination series">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="-867.2094" y="-1122.6339"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="280" label="v8 ute racing series">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="1281.736" y="1254.4498"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="196" label="demon princes series">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="-1173.6436" y="-752.935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="short story series">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="-1016.4149" y="-1261.2153"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="229" label="2005 le mans endurance series season">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="-934.26324" y="1322.036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="metal hero series">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="341.56305" y="366.8786"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="series expansions">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="-1703.4753" y="-527.81134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="256" label="radio series about the media">
+        <viz:size value="13.397769"></viz:size>
+        <viz:position x="291.7183" y="-166.72151"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="212" label="cambrian series 3 first appearances">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="-1323.8218" y="-603.29596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="drifting series">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="1140.4719" y="1124.0991"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="stephen baxter series">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="-1032.842" y="-1065.0831"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="columbia cartoons series and characters">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="1398.6484" y="-854.0555"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="eldran series">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="191.17883" y="495.34882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="290" label="2004 le mans endurance series season">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="-585.154" y="1313.5865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="176" label="lois lowry giver series">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="-695.01935" y="-1448.6864"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="mobile telephone video series">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="1622.942" y="-35.764645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="226" label="little miss series">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="180.41696" y="-859.90845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="pickin on series">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="-659.6015" y="278.70575"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="238" label="nantucket series">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="-1002.6301" y="-396.80225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="257" label="gladiator series">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="-810.9606" y="-213.263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="chouseishin series">
+        <viz:size value="11.851301"></viz:size>
+        <viz:position x="546.22314" y="423.10712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="rallycross racing series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="1126.0114" y="1335.3248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="232" label="chronicles of faerie series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="-320.4532" y="-1482.6447"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="246" label="upa series and characters">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="-156.01474" y="828.20874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="218" label="railway series illustrators">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="-1036.0422" y="192.68918"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="pleistocene series of africa">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="-269.13684" y="1024.9225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="series by l sprague de camp">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="-517.37036" y="-1149.3242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="crime films by series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="1306.1731" y="-1222.8741"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="pickin on series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="-832.51636" y="355.58032"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="265" label="v8star series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="1091.5928" y="940.3564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="244" label="agatha raisin series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="-284.7751" y="-535.09515"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="213" label="arithmetic series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="-1081.6345" y="1180.264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="224" label="days series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="596.4621" y="845.4716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="time-life series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="207.30656" y="-1574.0187"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="228" label="series by ursula k le guin">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="-85.182594" y="-569.13074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="dunya tv series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="253.54178" y="185.67361"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="216" label="1972 summit series">
+        <viz:size value="9.947956"></viz:size>
+        <viz:position x="-86.76354" y="365.16068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="285" label="radio series about health care">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="52.55054" y="135.3176"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="221" label="batman radio series">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="1329.0657" y="-683.8805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="sports films by series">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="769.78644" y="-1414.3787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="220" label="superman radio series">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="1585.0282" y="-865.2908"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="242" label="pleistocene series of north america">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="-524.9094" y="753.93054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="233" label="katy series">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="-749.59247" y="-678.018"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="203" label="dune series adaptations">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="987.70807" y="234.93988"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="179" label="otokojuku series">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="417.81232" y="761.36835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="league championship series games">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="1722.1372" y="444.06244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="215" label="undead series novels">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="-783.09186" y="-407.26804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="195" label="eocene series of africa">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="-320.68237" y="676.54004"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="298" label="tomorrow series">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="-343.36386" y="-1057.6299"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="248" label="variety radio series">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="-110.85506" y="-211.7384"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="306" label="eocene series of north america">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="-1259.8015" y="675.08136"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="208" label="fia gt series">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="587.49554" y="1079.2358"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="287" label="drama films by series">
+        <viz:size value="7.449815"></viz:size>
+        <viz:position x="1175.9602" y="-1366.8832"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="291" label="young adult novels by series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="405.9503" y="-1568.8003"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="266" label="oligocene series of north america">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1286.103" y="883.0815"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="smithsonian channel series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="665.73267" y="280.7561"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="186" label="teen films by series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1450.1234" y="-1057.1241"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="199" label="televion series by fremantlemedia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-552.3263" y="-970.26587"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="223" label="thundersports series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="375.26672" y="1363.9027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="289" label="formula ford series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="763.1286" y="1185.8745"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="274" label="lord john series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-314.62903" y="-340.25977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="258" label="star redio series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="715.5773" y="501.45853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="261" label="grand champion series drivers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1021.416" y="396.2729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="277" label="the dumping ground series lists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="95.945724" y="1078.8882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="272" label="electronic compilation series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1762.3865" y="-158.21019"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="308" label="formula 3000 series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1276.9703" y="967.88055"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="262" label="long distance series drivers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1051.3158" y="588.3727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="250" label="romance films by series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1270.1399" y="-1009.90826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="270" label="book series based on dune">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1237.1282" y="-915.4651"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="183" label="series by fletcher pratt">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-508.054" y="-1521.1106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="174" label="nationwide series seasons">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-877.46313" y="-20.368364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="259" label="formula renault 3 5 series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1218.1454" y="501.48666"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="192" label="paleocene series of south america">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-854.4272" y="542.0792"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="209" label="lucas oil off road racing series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="790.41864" y="772.47534"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="260" label="children s films by series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="716.7921" y="-1625.7655"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="the suite life series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1233.5387" y="-485.72223"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="286" label="machinima based on the halo series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1757.4344" y="240.94852"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="193" label="eocene series of south america">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-901.08417" y="725.04913"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="194" label="oligocene series of africa">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-465.2984" y="566.0829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="187" label="mystery films by series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1137.2783" y="-1132.7052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="180" label="dutch movie series">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="29.504019" y="-55.58667"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="pliocene series of africa">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-201.3549" y="1225.7914"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="tv series about catherine the great">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="200.81538" y="-7.732273"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="993.0"></edge>
+      <edge id="1" source="1" target="2" weight="985.0"></edge>
+      <edge id="2" source="1" target="3" weight="317.0"></edge>
+      <edge id="3" source="4" target="0" weight="247.0"></edge>
+      <edge id="4" source="1" target="5" weight="186.0"></edge>
+      <edge id="5" source="3" target="6" weight="179.0"></edge>
+      <edge id="6" source="5" target="7" weight="110.0"></edge>
+      <edge id="7" source="1" target="8" weight="86.0"></edge>
+      <edge id="8" source="1" target="9" weight="68.0"></edge>
+      <edge id="9" source="9" target="6" weight="61.0"></edge>
+      <edge id="10" source="1" target="10" weight="61.0"></edge>
+      <edge id="11" source="1" target="11" weight="49.0"></edge>
+      <edge id="12" source="12" target="13" weight="45.0"></edge>
+      <edge id="13" source="14" target="15" weight="44.0"></edge>
+      <edge id="14" source="12" target="16" weight="43.0"></edge>
+      <edge id="15" source="17" target="15" weight="42.0"></edge>
+      <edge id="16" source="1" target="18" weight="41.0"></edge>
+      <edge id="17" source="19" target="1" weight="41.0"></edge>
+      <edge id="18" source="15" target="20" weight="39.0"></edge>
+      <edge id="19" source="21" target="22" weight="38.0"></edge>
+      <edge id="20" source="1" target="23" weight="38.0"></edge>
+      <edge id="21" source="24" target="21" weight="38.0"></edge>
+      <edge id="22" source="25" target="21" weight="37.0"></edge>
+      <edge id="23" source="26" target="27" weight="35.0"></edge>
+      <edge id="24" source="26" target="28" weight="34.0"></edge>
+      <edge id="25" source="29" target="6" weight="32.0"></edge>
+      <edge id="26" source="1" target="30" weight="31.0"></edge>
+      <edge id="27" source="16" target="31" weight="31.0"></edge>
+      <edge id="28" source="32" target="13" weight="27.0"></edge>
+      <edge id="29" source="33" target="1" weight="26.0"></edge>
+      <edge id="30" source="5" target="34" weight="25.0"></edge>
+      <edge id="31" source="35" target="36" weight="24.0"></edge>
+      <edge id="32" source="15" target="37" weight="23.0"></edge>
+      <edge id="33" source="13" target="31" weight="23.0"></edge>
+      <edge id="34" source="38" target="39" weight="22.0"></edge>
+      <edge id="35" source="40" target="35" weight="21.0"></edge>
+      <edge id="36" source="16" target="32" weight="21.0"></edge>
+      <edge id="37" source="41" target="42" weight="20.0"></edge>
+      <edge id="38" source="5" target="43" weight="20.0"></edge>
+      <edge id="39" source="1" target="44" weight="19.0"></edge>
+      <edge id="40" source="1" target="45" weight="18.0"></edge>
+      <edge id="41" source="46" target="27" weight="17.0"></edge>
+      <edge id="42" source="23" target="47" weight="17.0"></edge>
+      <edge id="43" source="48" target="3" weight="17.0"></edge>
+      <edge id="44" source="46" target="28" weight="16.0"></edge>
+      <edge id="45" source="49" target="1" weight="16.0"></edge>
+      <edge id="46" source="1" target="50" weight="16.0"></edge>
+      <edge id="47" source="51" target="40" weight="15.0"></edge>
+      <edge id="48" source="15" target="52" weight="14.0"></edge>
+      <edge id="49" source="40" target="53" weight="14.0"></edge>
+      <edge id="50" source="1" target="54" weight="14.0"></edge>
+      <edge id="51" source="40" target="55" weight="14.0"></edge>
+      <edge id="52" source="56" target="1" weight="13.0"></edge>
+      <edge id="53" source="1" target="57" weight="13.0"></edge>
+      <edge id="54" source="21" target="58" weight="13.0"></edge>
+      <edge id="55" source="59" target="53" weight="13.0"></edge>
+      <edge id="56" source="1" target="60" weight="12.0"></edge>
+      <edge id="57" source="1" target="61" weight="12.0"></edge>
+      <edge id="58" source="27" target="62" weight="12.0"></edge>
+      <edge id="59" source="22" target="63" weight="12.0"></edge>
+      <edge id="60" source="1" target="64" weight="11.0"></edge>
+      <edge id="61" source="1" target="65" weight="11.0"></edge>
+      <edge id="62" source="66" target="1" weight="11.0"></edge>
+      <edge id="63" source="67" target="25" weight="11.0"></edge>
+      <edge id="64" source="6" target="65" weight="11.0"></edge>
+      <edge id="65" source="6" target="56" weight="11.0"></edge>
+      <edge id="66" source="1" target="68" weight="10.0"></edge>
+      <edge id="67" source="69" target="70" weight="10.0"></edge>
+      <edge id="68" source="14" target="6" weight="10.0"></edge>
+      <edge id="69" source="62" target="28" weight="10.0"></edge>
+      <edge id="70" source="71" target="0" weight="10.0"></edge>
+      <edge id="71" source="60" target="47" weight="9.0"></edge>
+      <edge id="72" source="1" target="72" weight="9.0"></edge>
+      <edge id="73" source="0" target="73" weight="9.0"></edge>
+      <edge id="74" source="74" target="41" weight="9.0"></edge>
+      <edge id="75" source="75" target="69" weight="8.0"></edge>
+      <edge id="76" source="16" target="76" weight="8.0"></edge>
+      <edge id="77" source="52" target="6" weight="8.0"></edge>
+      <edge id="78" source="77" target="78" weight="8.0"></edge>
+      <edge id="79" source="78" target="79" weight="7.0"></edge>
+      <edge id="80" source="1" target="80" weight="7.0"></edge>
+      <edge id="81" source="81" target="25" weight="7.0"></edge>
+      <edge id="82" source="82" target="13" weight="7.0"></edge>
+      <edge id="83" source="15" target="83" weight="7.0"></edge>
+      <edge id="84" source="1" target="84" weight="7.0"></edge>
+      <edge id="85" source="1" target="85" weight="7.0"></edge>
+      <edge id="86" source="36" target="51" weight="6.0"></edge>
+      <edge id="87" source="40" target="86" weight="6.0"></edge>
+      <edge id="88" source="87" target="16" weight="6.0"></edge>
+      <edge id="89" source="6" target="66" weight="6.0"></edge>
+      <edge id="90" source="88" target="21" weight="5.0"></edge>
+      <edge id="91" source="15" target="89" weight="5.0"></edge>
+      <edge id="92" source="66" target="90" weight="5.0"></edge>
+      <edge id="93" source="91" target="92" weight="4.0"></edge>
+      <edge id="94" source="93" target="94" weight="4.0"></edge>
+      <edge id="95" source="95" target="96" weight="4.0"></edge>
+      <edge id="96" source="97" target="36" weight="4.0"></edge>
+      <edge id="97" source="98" target="0" weight="4.0"></edge>
+      <edge id="98" source="98" target="8" weight="4.0"></edge>
+      <edge id="99" source="99" target="100" weight="4.0"></edge>
+      <edge id="100" source="15" target="101" weight="4.0"></edge>
+      <edge id="101" source="102" target="21" weight="4.0"></edge>
+      <edge id="102" source="103" target="104" weight="4.0"></edge>
+      <edge id="103" source="105" target="106" weight="4.0"></edge>
+      <edge id="104" source="107" target="108" weight="4.0"></edge>
+      <edge id="105" source="109" target="110" weight="4.0"></edge>
+      <edge id="106" source="37" target="6" weight="4.0"></edge>
+      <edge id="107" source="111" target="112" weight="3.0"></edge>
+      <edge id="108" source="104" target="113" weight="3.0"></edge>
+      <edge id="109" source="1" target="114" weight="3.0"></edge>
+      <edge id="110" source="115" target="1" weight="3.0"></edge>
+      <edge id="111" source="116" target="117" weight="3.0"></edge>
+      <edge id="112" source="71" target="8" weight="3.0"></edge>
+      <edge id="113" source="118" target="119" weight="3.0"></edge>
+      <edge id="114" source="120" target="121" weight="3.0"></edge>
+      <edge id="115" source="122" target="0" weight="3.0"></edge>
+      <edge id="116" source="123" target="21" weight="3.0"></edge>
+      <edge id="117" source="67" target="22" weight="3.0"></edge>
+      <edge id="118" source="124" target="1" weight="3.0"></edge>
+      <edge id="119" source="25" target="125" weight="3.0"></edge>
+      <edge id="120" source="126" target="127" weight="3.0"></edge>
+      <edge id="121" source="118" target="128" weight="3.0"></edge>
+      <edge id="122" source="120" target="119" weight="3.0"></edge>
+      <edge id="123" source="84" target="6" weight="3.0"></edge>
+      <edge id="124" source="83" target="6" weight="3.0"></edge>
+      <edge id="125" source="120" target="128" weight="3.0"></edge>
+      <edge id="126" source="129" target="130" weight="3.0"></edge>
+      <edge id="127" source="15" target="131" weight="3.0"></edge>
+      <edge id="128" source="91" target="132" weight="3.0"></edge>
+      <edge id="129" source="133" target="134" weight="3.0"></edge>
+      <edge id="130" source="84" target="15" weight="3.0"></edge>
+      <edge id="131" source="20" target="135" weight="3.0"></edge>
+      <edge id="132" source="136" target="137" weight="3.0"></edge>
+      <edge id="133" source="66" target="15" weight="3.0"></edge>
+      <edge id="134" source="138" target="139" weight="3.0"></edge>
+      <edge id="135" source="140" target="141" weight="3.0"></edge>
+      <edge id="136" source="142" target="9" weight="2.0"></edge>
+      <edge id="137" source="143" target="1" weight="2.0"></edge>
+      <edge id="138" source="144" target="1" weight="2.0"></edge>
+      <edge id="139" source="117" target="40" weight="2.0"></edge>
+      <edge id="140" source="145" target="59" weight="2.0"></edge>
+      <edge id="141" source="146" target="147" weight="2.0"></edge>
+      <edge id="142" source="1" target="148" weight="2.0"></edge>
+      <edge id="143" source="119" target="122" weight="2.0"></edge>
+      <edge id="144" source="40" target="149" weight="2.0"></edge>
+      <edge id="145" source="150" target="21" weight="2.0"></edge>
+      <edge id="146" source="151" target="1" weight="2.0"></edge>
+      <edge id="147" source="95" target="152" weight="2.0"></edge>
+      <edge id="148" source="117" target="36" weight="2.0"></edge>
+      <edge id="149" source="153" target="128" weight="2.0"></edge>
+      <edge id="150" source="154" target="155" weight="2.0"></edge>
+      <edge id="151" source="156" target="36" weight="2.0"></edge>
+      <edge id="152" source="157" target="158" weight="2.0"></edge>
+      <edge id="153" source="159" target="1" weight="2.0"></edge>
+      <edge id="154" source="160" target="59" weight="2.0"></edge>
+      <edge id="155" source="90" target="56" weight="2.0"></edge>
+      <edge id="156" source="46" target="161" weight="2.0"></edge>
+      <edge id="157" source="40" target="162" weight="2.0"></edge>
+      <edge id="158" source="163" target="40" weight="2.0"></edge>
+      <edge id="159" source="1" target="164" weight="2.0"></edge>
+      <edge id="160" source="40" target="165" weight="2.0"></edge>
+      <edge id="161" source="5" target="166" weight="2.0"></edge>
+      <edge id="162" source="167" target="168" weight="2.0"></edge>
+      <edge id="163" source="169" target="36" weight="2.0"></edge>
+      <edge id="164" source="170" target="40" weight="2.0"></edge>
+      <edge id="165" source="89" target="135" weight="2.0"></edge>
+      <edge id="166" source="171" target="172" weight="2.0"></edge>
+      <edge id="167" source="1" target="173" weight="2.0"></edge>
+      <edge id="168" source="157" target="119" weight="2.0"></edge>
+      <edge id="169" source="174" target="175"></edge>
+      <edge id="170" source="176" target="59"></edge>
+      <edge id="171" source="177" target="53"></edge>
+      <edge id="172" source="0" target="178"></edge>
+      <edge id="173" source="36" target="84"></edge>
+      <edge id="174" source="179" target="0"></edge>
+      <edge id="175" source="1" target="180"></edge>
+      <edge id="176" source="119" target="153"></edge>
+      <edge id="177" source="181" target="182"></edge>
+      <edge id="178" source="170" target="183"></edge>
+      <edge id="179" source="184" target="59"></edge>
+      <edge id="180" source="185" target="51"></edge>
+      <edge id="181" source="186" target="187"></edge>
+      <edge id="182" source="188" target="189"></edge>
+      <edge id="183" source="36" target="190"></edge>
+      <edge id="184" source="139" target="189"></edge>
+      <edge id="185" source="16" target="191"></edge>
+      <edge id="186" source="192" target="193"></edge>
+      <edge id="187" source="194" target="195"></edge>
+      <edge id="188" source="196" target="59"></edge>
+      <edge id="189" source="197" target="198"></edge>
+      <edge id="190" source="199" target="40"></edge>
+      <edge id="191" source="1" target="200"></edge>
+      <edge id="192" source="53" target="201"></edge>
+      <edge id="193" source="40" target="83"></edge>
+      <edge id="194" source="1" target="202"></edge>
+      <edge id="195" source="6" target="184"></edge>
+      <edge id="196" source="203" target="1"></edge>
+      <edge id="197" source="204" target="35"></edge>
+      <edge id="198" source="32" target="205"></edge>
+      <edge id="199" source="206" target="6"></edge>
+      <edge id="200" source="17" target="207"></edge>
+      <edge id="201" source="208" target="24"></edge>
+      <edge id="202" source="157" target="209"></edge>
+      <edge id="203" source="40" target="210"></edge>
+      <edge id="204" source="211" target="212"></edge>
+      <edge id="205" source="213" target="214"></edge>
+      <edge id="206" source="124" target="6"></edge>
+      <edge id="207" source="40" target="215"></edge>
+      <edge id="208" source="8" target="216"></edge>
+      <edge id="209" source="184" target="40"></edge>
+      <edge id="210" source="217" target="218"></edge>
+      <edge id="211" source="124" target="219"></edge>
+      <edge id="212" source="220" target="221"></edge>
+      <edge id="213" source="16" target="222"></edge>
+      <edge id="214" source="24" target="223"></edge>
+      <edge id="215" source="0" target="224"></edge>
+      <edge id="216" source="139" target="225"></edge>
+      <edge id="217" source="226" target="6"></edge>
+      <edge id="218" source="227" target="147"></edge>
+      <edge id="219" source="228" target="40"></edge>
+      <edge id="220" source="229" target="147"></edge>
+      <edge id="221" source="170" target="230"></edge>
+      <edge id="222" source="231" target="51"></edge>
+      <edge id="223" source="232" target="35"></edge>
+      <edge id="224" source="233" target="40"></edge>
+      <edge id="225" source="234" target="35"></edge>
+      <edge id="226" source="213" target="235"></edge>
+      <edge id="227" source="23" target="236"></edge>
+      <edge id="228" source="147" target="237"></edge>
+      <edge id="229" source="53" target="238"></edge>
+      <edge id="230" source="36" target="65"></edge>
+      <edge id="231" source="239" target="147"></edge>
+      <edge id="232" source="138" target="168"></edge>
+      <edge id="233" source="36" target="83"></edge>
+      <edge id="234" source="188" target="1"></edge>
+      <edge id="235" source="53" target="240"></edge>
+      <edge id="236" source="241" target="242"></edge>
+      <edge id="237" source="35" target="230"></edge>
+      <edge id="238" source="243" target="53"></edge>
+      <edge id="239" source="40" target="244"></edge>
+      <edge id="240" source="20" target="187"></edge>
+      <edge id="241" source="245" target="246"></edge>
+      <edge id="242" source="247" target="119"></edge>
+      <edge id="243" source="248" target="124"></edge>
+      <edge id="244" source="116" target="249"></edge>
+      <edge id="245" source="250" target="52"></edge>
+      <edge id="246" source="56" target="221"></edge>
+      <edge id="247" source="167" target="139"></edge>
+      <edge id="248" source="251" target="252"></edge>
+      <edge id="249" source="188" target="198"></edge>
+      <edge id="250" source="35" target="253"></edge>
+      <edge id="251" source="1" target="254"></edge>
+      <edge id="252" source="59" target="255"></edge>
+      <edge id="253" source="66" target="36"></edge>
+      <edge id="254" source="1" target="256"></edge>
+      <edge id="255" source="55" target="257"></edge>
+      <edge id="256" source="1" target="258"></edge>
+      <edge id="257" source="119" target="259"></edge>
+      <edge id="258" source="1" target="184"></edge>
+      <edge id="259" source="260" target="15"></edge>
+      <edge id="260" source="261" target="262"></edge>
+      <edge id="261" source="263" target="264"></edge>
+      <edge id="262" source="265" target="21"></edge>
+      <edge id="263" source="1" target="210"></edge>
+      <edge id="264" source="250" target="186"></edge>
+      <edge id="265" source="266" target="267"></edge>
+      <edge id="266" source="24" target="268"></edge>
+      <edge id="267" source="269" target="36"></edge>
+      <edge id="268" source="270" target="59"></edge>
+      <edge id="269" source="188" target="167"></edge>
+      <edge id="270" source="24" target="271"></edge>
+      <edge id="271" source="263" target="272"></edge>
+      <edge id="272" source="273" target="36"></edge>
+      <edge id="273" source="274" target="40"></edge>
+      <edge id="274" source="40" target="275"></edge>
+      <edge id="275" source="21" target="276"></edge>
+      <edge id="276" source="277" target="278"></edge>
+      <edge id="277" source="279" target="59"></edge>
+      <edge id="278" source="37" target="187"></edge>
+      <edge id="279" source="124" target="40"></edge>
+      <edge id="280" source="21" target="280"></edge>
+      <edge id="281" source="59" target="170"></edge>
+      <edge id="282" source="222" target="147"></edge>
+      <edge id="283" source="281" target="119"></edge>
+      <edge id="284" source="117" target="183"></edge>
+      <edge id="285" source="282" target="112"></edge>
+      <edge id="286" source="283" target="219"></edge>
+      <edge id="287" source="40" target="284"></edge>
+      <edge id="288" source="1" target="285"></edge>
+      <edge id="289" source="286" target="5"></edge>
+      <edge id="290" source="287" target="89"></edge>
+      <edge id="291" source="189" target="168"></edge>
+      <edge id="292" source="288" target="105"></edge>
+      <edge id="293" source="21" target="289"></edge>
+      <edge id="294" source="290" target="147"></edge>
+      <edge id="295" source="291" target="36"></edge>
+      <edge id="296" source="40" target="292"></edge>
+      <edge id="297" source="293" target="294"></edge>
+      <edge id="298" source="295" target="36"></edge>
+      <edge id="299" source="36" target="296"></edge>
+      <edge id="300" source="297" target="147"></edge>
+      <edge id="301" source="40" target="298"></edge>
+      <edge id="302" source="40" target="299"></edge>
+      <edge id="303" source="300" target="36"></edge>
+      <edge id="304" source="301" target="302"></edge>
+      <edge id="305" source="40" target="303"></edge>
+      <edge id="306" source="20" target="304"></edge>
+      <edge id="307" source="305" target="53"></edge>
+      <edge id="308" source="266" target="306"></edge>
+      <edge id="309" source="307" target="53"></edge>
+      <edge id="310" source="308" target="21"></edge>
+      <edge id="311" source="309" target="9"></edge>
+      <edge id="312" source="89" target="187"></edge>
+      <edge id="313" source="1" target="197"></edge>
+      <edge id="314" source="310" target="311"></edge>
+      <edge id="315" source="0" target="312"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,869 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="2" label="male rappers">
+        <viz:size value="100.00001"></viz:size>
+        <viz:position x="96.2624" y="198.11661"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="african-american rappers">
+        <viz:size value="97.46569"></viz:size>
+        <viz:position x="269.79633" y="228.66066"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="american rappers">
+        <viz:size value="89.76135"></viz:size>
+        <viz:position x="33.257305" y="28.969532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="rappers from new york">
+        <viz:size value="84.185844"></viz:size>
+        <viz:position x="334.42926" y="27.093277"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="female rappers">
+        <viz:size value="78.50898"></viz:size>
+        <viz:position x="643.2887" y="-434.30478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="rappers from california">
+        <viz:size value="78.30623"></viz:size>
+        <viz:position x="-198.55028" y="458.2678"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="underground rappers">
+        <viz:size value="77.59662"></viz:size>
+        <viz:position x="-128.91899" y="258.11182"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="gangsta rappers">
+        <viz:size value="77.393875"></viz:size>
+        <viz:position x="381.02274" y="716.548"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="english rappers">
+        <viz:size value="68.371704"></viz:size>
+        <viz:position x="433.02908" y="-1012.6532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="canadian rappers">
+        <viz:size value="67.35797"></viz:size>
+        <viz:position x="-1062.805" y="857.80896"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="rappers from georgia">
+        <viz:size value="67.053856"></viz:size>
+        <viz:position x="576.87195" y="546.1721"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="rappers from texas">
+        <viz:size value="64.21542"></viz:size>
+        <viz:position x="-414.60974" y="522.8582"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="rappers from the san francisco bay area">
+        <viz:size value="63.9113"></viz:size>
+        <viz:position x="74.41683" y="1073.7753"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="french rappers">
+        <viz:size value="63.9113"></viz:size>
+        <viz:position x="-921.6746" y="-323.14606"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="rappers from pennsylvania">
+        <viz:size value="60.870117"></viz:size>
+        <viz:position x="989.8658" y="-591.2682"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="rappers from illinois">
+        <viz:size value="60.870117"></viz:size>
+        <viz:position x="416.07635" y="-300.9484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="rappers from london">
+        <viz:size value="59.34953"></viz:size>
+        <viz:position x="-1376.2031" y="261.41098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="rappers from michigan">
+        <viz:size value="58.133053"></viz:size>
+        <viz:position x="373.58502" y="434.39502"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="rappers from florida">
+        <viz:size value="57.93031"></viz:size>
+        <viz:position x="179.70126" y="-162.9132"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="german rappers">
+        <viz:size value="57.727562"></viz:size>
+        <viz:position x="269.6877" y="1203.9509"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="british rappers">
+        <viz:size value="56.409714"></viz:size>
+        <viz:position x="-1196.8232" y="684.59235"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="jewish rappers">
+        <viz:size value="54.48363"></viz:size>
+        <viz:position x="155.18839" y="-620.724"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="latino rappers">
+        <viz:size value="52.760296"></viz:size>
+        <viz:position x="-66.95621" y="-200.71878"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="rappers from new jersey">
+        <viz:size value="52.45618"></viz:size>
+        <viz:position x="-814.9455" y="-126.71253"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="rappers from louisiana">
+        <viz:size value="51.949314"></viz:size>
+        <viz:position x="288.2953" y="956.4168"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="rappers from tennessee">
+        <viz:size value="50.124607"></viz:size>
+        <viz:position x="749.6678" y="948.7871"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="nigerian rappers">
+        <viz:size value="49.21225"></viz:size>
+        <viz:position x="295.57925" y="-819.931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="australian rappers">
+        <viz:size value="48.90813"></viz:size>
+        <viz:position x="-789.9662" y="-1119.1284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="jamaican rappers">
+        <viz:size value="48.198524"></viz:size>
+        <viz:position x="858.7838" y="-376.31726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="danish rappers">
+        <viz:size value="46.27244"></viz:size>
+        <viz:position x="-514.9436" y="1266.6675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="swedish rappers">
+        <viz:size value="46.27244"></viz:size>
+        <viz:position x="293.67365" y="-1369.2561"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="south african rappers">
+        <viz:size value="45.86695"></viz:size>
+        <viz:position x="-404.05344" y="-1331.8911"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="rappers from ohio">
+        <viz:size value="45.86695"></viz:size>
+        <viz:position x="703.16455" y="1201.1759"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="rappers from missouri">
+        <viz:size value="44.954594"></viz:size>
+        <viz:position x="610.54956" y="77.04071"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="lgbt rappers">
+        <viz:size value="44.549103"></viz:size>
+        <viz:position x="188.1271" y="-384.13443"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="indian rappers">
+        <viz:size value="43.63675"></viz:size>
+        <viz:position x="709.1303" y="-1196.156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="rappers from massachusetts">
+        <viz:size value="43.129883"></viz:size>
+        <viz:position x="-599.95886" y="301.9795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="rappers from seoul">
+        <viz:size value="43.129883"></viz:size>
+        <viz:position x="-993.1335" y="521.9681"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="rappers from virginia">
+        <viz:size value="43.129883"></viz:size>
+        <viz:position x="785.10614" y="704.6499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="murdered rappers">
+        <viz:size value="42.62302"></viz:size>
+        <viz:position x="78.144135" y="798.7268"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="rappers from maryland">
+        <viz:size value="42.62302"></viz:size>
+        <viz:position x="487.0318" y="-105.52831"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="dutch rappers">
+        <viz:size value="42.62302"></viz:size>
+        <viz:position x="234.42303" y="-1136.0258"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="rappers from minnesota">
+        <viz:size value="42.62302"></viz:size>
+        <viz:position x="1112.5245" y="-358.92776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="filipino rappers">
+        <viz:size value="42.014786"></viz:size>
+        <viz:position x="-680.9523" y="524.50366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="pop rappers">
+        <viz:size value="40.89968"></viz:size>
+        <viz:position x="699.95" y="-189.33727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="puerto rican rappers">
+        <viz:size value="40.89968"></viz:size>
+        <viz:position x="-35.45515" y="-476.63705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="rappers from north carolina">
+        <viz:size value="39.074978"></viz:size>
+        <viz:position x="-455.25723" y="-451.44812"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="haitian rappers">
+        <viz:size value="39.074978"></viz:size>
+        <viz:position x="56.180984" y="451.36496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="dominican republic rappers">
+        <viz:size value="35.324184"></viz:size>
+        <viz:position x="-347.53983" y="-157.164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="iranian rappers">
+        <viz:size value="34.411827"></viz:size>
+        <viz:position x="-1287.0972" y="482.71042"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="new zealand rappers">
+        <viz:size value="34.411827"></viz:size>
+        <viz:position x="1348.8748" y="-212.96138"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="rappers from washington">
+        <viz:size value="33.499474"></viz:size>
+        <viz:position x="-123.061005" y="646.024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="tanzanian rappers">
+        <viz:size value="32.485744"></viz:size>
+        <viz:position x="-161.80525" y="-1380.6729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="rappers from washington, d c ">
+        <viz:size value="32.485744"></viz:size>
+        <viz:position x="553.4256" y="282.17923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="indie rappers">
+        <viz:size value="31.370644"></viz:size>
+        <viz:position x="-370.81577" y="254.69427"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="arab rappers">
+        <viz:size value="31.370644"></viz:size>
+        <viz:position x="92.70919" y="-939.1642"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="rappers from oregon">
+        <viz:size value="31.370644"></viz:size>
+        <viz:position x="-335.70114" y="773.2318"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="rappers from alabama">
+        <viz:size value="30.154171"></viz:size>
+        <viz:position x="-225.00154" y="21.702318"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="rappers from bouches-du-rhone">
+        <viz:size value="30.154171"></viz:size>
+        <viz:position x="-843.42926" y="-566.2331"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="israeli rappers">
+        <viz:size value="28.937698"></viz:size>
+        <viz:position x="-186.6829" y="-915.68713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="russian rappers">
+        <viz:size value="28.937698"></viz:size>
+        <viz:position x="-678.5505" y="-411.4542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="fictional rappers">
+        <viz:size value="28.937698"></viz:size>
+        <viz:position x="-932.26984" y="1050.1066"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="kenyan rappers">
+        <viz:size value="27.51848"></viz:size>
+        <viz:position x="916.1151" y="-1061.4757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="rappers from melbourne">
+        <viz:size value="27.51848"></viz:size>
+        <viz:position x="1317.154" y="-444.1883"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="polish rappers">
+        <viz:size value="27.51848"></viz:size>
+        <viz:position x="1038.6556" y="853.0973"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="rappers from mississippi">
+        <viz:size value="25.99789"></viz:size>
+        <viz:position x="192.40875" y="603.61285"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="rappers from val-de-marne">
+        <viz:size value="25.99789"></viz:size>
+        <viz:position x="-1104.3771" y="303.81027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="rappers from seine-saint-denis">
+        <viz:size value="25.99789"></viz:size>
+        <viz:position x="-1155.2865" y="-344.88284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="croatian rappers">
+        <viz:size value="25.99789"></viz:size>
+        <viz:position x="1171.874" y="-53.887802"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="rappers from kansas">
+        <viz:size value="25.99789"></viz:size>
+        <viz:position x="1195.9266" y="693.8565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="zimbabwean rappers">
+        <viz:size value="24.274551"></viz:size>
+        <viz:position x="461.44397" y="1333.0609"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="cuban rappers">
+        <viz:size value="24.274551"></viz:size>
+        <viz:position x="-239.13539" y="-365.6777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="greek rappers">
+        <viz:size value="24.274551"></viz:size>
+        <viz:position x="-306.14923" y="1344.2539"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="rappers from sydney">
+        <viz:size value="24.274551"></viz:size>
+        <viz:position x="524.8572" y="-744.3278"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="igbo rappers">
+        <viz:size value="22.348469"></viz:size>
+        <viz:position x="410.6217" y="-543.75085"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="rappers from indiana">
+        <viz:size value="22.348469"></viz:size>
+        <viz:position x="977.81586" y="587.2914"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="rappers from val-d oise">
+        <viz:size value="22.348469"></viz:size>
+        <viz:position x="-1101.701" y="-120.46842"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="rappers from perth, western australia">
+        <viz:size value="20.016895"></viz:size>
+        <viz:position x="-606.9792" y="-1229.1044"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="rappers from arizona">
+        <viz:size value="20.016895"></viz:size>
+        <viz:position x="-538.2268" y="977.6764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="rappers from lagos">
+        <viz:size value="20.016895"></viz:size>
+        <viz:position x="-332.27136" y="1056.186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="rappers from kentucky">
+        <viz:size value="20.016895"></viz:size>
+        <viz:position x="809.43823" y="256.9071"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="romanian rappers">
+        <viz:size value="20.016895"></viz:size>
+        <viz:position x="934.1968" y="1051.9689"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="pakistani rappers">
+        <viz:size value="20.016895"></viz:size>
+        <viz:position x="-139.58536" y="887.74524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="rappers from south carolina">
+        <viz:size value="20.016895"></viz:size>
+        <viz:position x="788.67737" y="458.76425"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="turkish rappers">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="-128.04553" y="1156.6802"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="rappers from moscow">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="-404.10712" y="-788.9082"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="rappers from colorado">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="-716.1654" y="1171.2065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="rappers from wisconsin">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="1088.2456" y="391.5682"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="azerbaijani rappers">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="-713.65936" y="87.57312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="rappers from paris">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="-608.83307" y="-666.092"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="ugandan rappers">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="1090.2478" y="-853.1062"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="rappers from connecticut">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="-846.1682" y="324.70316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="rappers from rhode island">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="-574.74146" y="730.2761"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="moroccan rappers">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="-265.63797" y="-609.50586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="taiwanese rappers">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="1315.2034" y="476.33615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="rappers from arkansas">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="553.42804" y="834.49646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="rappers from nevada">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="837.18195" y="39.744106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="bulgarian rappers">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="1063.9072" y="165.07072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="rappers from hauts-de-seine">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="-486.92346" y="54.108852"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="rappers from port harcourt">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="858.809" y="-831.0255"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="afghan rappers">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="657.30634" y="-955.3027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="romani rappers">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="-62.393578" y="1369.7444"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="icelandic rappers">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="-854.5081" y="686.7188"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="rappers from maine">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="-581.3793" y="-193.90367"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="rappers from nebraska">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="1400.312" y="38.481026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="hungarian rappers">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="502.6256" y="1083.0201"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="rappers from enugu">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="739.7177" y="-647.24005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="rappers from iowa">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="1313.1354" y="238.59204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="armenian rappers">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="-759.0302" y="896.0913"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="palestinian rappers">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="-260.4801" y="-1139.7349"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="pseudonymous rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-48.414967" y="-737.10583"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="rappers from bas-rhin">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1072.0525" y="-581.71594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="egyptian rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1212.6425" y="-652.3809"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="sri lankan rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-982.7813" y="-992.2582"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="iraqi rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="66.60525" y="-1366.8772"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="republic of the congo rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-669.6268" y="-898.95715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="rappers from seine-maritime">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1300.9785" y="-536.8871"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="chilean rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1205.9346" y="89.62018"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="rappers from loir-et-cher">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1364.6237" y="-261.29852"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="rappers from nord">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-960.7857" y="86.938385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="syrian rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="493.5112" y="-1258.6132"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="colombian rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-878.1412" y="-789.36584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="lebanese rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-460.40588" y="-1024.2098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="albanian rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="160.44952" y="1394.7034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="rappers from yvelines">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1390.749" y="-28.237274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="tamil rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1150.4448" y="-798.5984"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="jordanian rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-24.557892" y="-1141.8292"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="kosovan rappers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="978.09686" y="-156.20114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="282.0"></edge>
+      <edge id="1" source="0" target="2" weight="274.0"></edge>
+      <edge id="2" source="3" target="1" weight="254.0"></edge>
+      <edge id="3" source="3" target="2" weight="224.0"></edge>
+      <edge id="4" source="4" target="1" weight="167.0"></edge>
+      <edge id="5" source="4" target="2" weight="167.0"></edge>
+      <edge id="6" source="0" target="5" weight="130.0"></edge>
+      <edge id="7" source="1" target="6" weight="99.0"></edge>
+      <edge id="8" source="2" target="6" weight="97.0"></edge>
+      <edge id="9" source="5" target="4" weight="77.0"></edge>
+      <edge id="10" source="1" target="7" weight="71.0"></edge>
+      <edge id="11" source="0" target="8" weight="65.0"></edge>
+      <edge id="12" source="2" target="7" weight="65.0"></edge>
+      <edge id="13" source="9" target="1" weight="61.0"></edge>
+      <edge id="14" source="9" target="2" weight="51.0"></edge>
+      <edge id="15" source="4" target="8" weight="44.0"></edge>
+      <edge id="16" source="10" target="3" weight="42.0"></edge>
+      <edge id="17" source="1" target="11" weight="40.0"></edge>
+      <edge id="18" source="1" target="12" weight="40.0"></edge>
+      <edge id="19" source="0" target="13" weight="39.0"></edge>
+      <edge id="20" source="3" target="8" weight="39.0"></edge>
+      <edge id="21" source="2" target="12" weight="38.0"></edge>
+      <edge id="22" source="11" target="2" weight="36.0"></edge>
+      <edge id="23" source="5" target="3" weight="30.0"></edge>
+      <edge id="24" source="14" target="5" weight="28.0"></edge>
+      <edge id="25" source="15" target="1" weight="26.0"></edge>
+      <edge id="26" source="12" target="5" weight="26.0"></edge>
+      <edge id="27" source="3" target="16" weight="26.0"></edge>
+      <edge id="28" source="8" target="11" weight="25.0"></edge>
+      <edge id="29" source="7" target="5" weight="25.0"></edge>
+      <edge id="30" source="17" target="1" weight="23.0"></edge>
+      <edge id="31" source="8" target="7" weight="22.0"></edge>
+      <edge id="32" source="15" target="2" weight="21.0"></edge>
+      <edge id="33" source="5" target="6" weight="19.0"></edge>
+      <edge id="34" source="18" target="5" weight="19.0"></edge>
+      <edge id="35" source="3" target="19" weight="19.0"></edge>
+      <edge id="36" source="17" target="2" weight="19.0"></edge>
+      <edge id="37" source="14" target="2" weight="17.0"></edge>
+      <edge id="38" source="1" target="20" weight="16.0"></edge>
+      <edge id="39" source="14" target="1" weight="16.0"></edge>
+      <edge id="40" source="18" target="2" weight="16.0"></edge>
+      <edge id="41" source="21" target="0" weight="16.0"></edge>
+      <edge id="42" source="5" target="9" weight="15.0"></edge>
+      <edge id="43" source="22" target="2" weight="14.0"></edge>
+      <edge id="44" source="11" target="5" weight="14.0"></edge>
+      <edge id="45" source="22" target="1" weight="14.0"></edge>
+      <edge id="46" source="13" target="9" weight="12.0"></edge>
+      <edge id="47" source="2" target="23" weight="11.0"></edge>
+      <edge id="48" source="1" target="23" weight="11.0"></edge>
+      <edge id="49" source="24" target="25" weight="10.0"></edge>
+      <edge id="50" source="2" target="26" weight="10.0"></edge>
+      <edge id="51" source="22" target="5" weight="9.0"></edge>
+      <edge id="52" source="1" target="26" weight="9.0"></edge>
+      <edge id="53" source="27" target="3" weight="9.0"></edge>
+      <edge id="54" source="8" target="9" weight="9.0"></edge>
+      <edge id="55" source="13" target="28" weight="9.0"></edge>
+      <edge id="56" source="29" target="1" weight="9.0"></edge>
+      <edge id="57" source="25" target="30" weight="9.0"></edge>
+      <edge id="58" source="12" target="13" weight="8.0"></edge>
+      <edge id="59" source="31" target="25" weight="8.0"></edge>
+      <edge id="60" source="14" target="8" weight="8.0"></edge>
+      <edge id="61" source="5" target="32" weight="8.0"></edge>
+      <edge id="62" source="29" target="2" weight="8.0"></edge>
+      <edge id="63" source="5" target="33" weight="8.0"></edge>
+      <edge id="64" source="14" target="13" weight="7.0"></edge>
+      <edge id="65" source="34" target="2" weight="7.0"></edge>
+      <edge id="66" source="35" target="2" weight="7.0"></edge>
+      <edge id="67" source="36" target="3" weight="7.0"></edge>
+      <edge id="68" source="22" target="13" weight="7.0"></edge>
+      <edge id="69" source="35" target="5" weight="7.0"></edge>
+      <edge id="70" source="20" target="13" weight="7.0"></edge>
+      <edge id="71" source="32" target="2" weight="6.0"></edge>
+      <edge id="72" source="17" target="8" weight="6.0"></edge>
+      <edge id="73" source="0" target="37" weight="6.0"></edge>
+      <edge id="74" source="20" target="5" weight="6.0"></edge>
+      <edge id="75" source="2" target="38" weight="6.0"></edge>
+      <edge id="76" source="34" target="1" weight="6.0"></edge>
+      <edge id="77" source="2" target="33" weight="5.0"></edge>
+      <edge id="78" source="18" target="39" weight="5.0"></edge>
+      <edge id="79" source="14" target="37" weight="5.0"></edge>
+      <edge id="80" source="1" target="33" weight="5.0"></edge>
+      <edge id="81" source="20" target="2" weight="5.0"></edge>
+      <edge id="82" source="5" target="38" weight="4.0"></edge>
+      <edge id="83" source="17" target="10" weight="4.0"></edge>
+      <edge id="84" source="5" target="23" weight="4.0"></edge>
+      <edge id="85" source="1" target="38" weight="4.0"></edge>
+      <edge id="86" source="15" target="8" weight="4.0"></edge>
+      <edge id="87" source="25" target="40" weight="4.0"></edge>
+      <edge id="88" source="21" target="12" weight="4.0"></edge>
+      <edge id="89" source="2" target="41" weight="4.0"></edge>
+      <edge id="90" source="42" target="41" weight="4.0"></edge>
+      <edge id="91" source="26" target="8" weight="4.0"></edge>
+      <edge id="92" source="5" target="26" weight="3.0"></edge>
+      <edge id="93" source="43" target="44" weight="3.0"></edge>
+      <edge id="94" source="17" target="16" weight="3.0"></edge>
+      <edge id="95" source="13" target="15" weight="3.0"></edge>
+      <edge id="96" source="45" target="26" weight="3.0"></edge>
+      <edge id="97" source="35" target="1" weight="3.0"></edge>
+      <edge id="98" source="5" target="15" weight="3.0"></edge>
+      <edge id="99" source="25" target="46" weight="3.0"></edge>
+      <edge id="100" source="47" target="4" weight="3.0"></edge>
+      <edge id="101" source="29" target="5" weight="3.0"></edge>
+      <edge id="102" source="48" target="25" weight="3.0"></edge>
+      <edge id="103" source="23" target="8" weight="2.0"></edge>
+      <edge id="104" source="0" target="49" weight="2.0"></edge>
+      <edge id="105" source="5" target="17" weight="2.0"></edge>
+      <edge id="106" source="6" target="50" weight="2.0"></edge>
+      <edge id="107" source="32" target="1" weight="2.0"></edge>
+      <edge id="108" source="33" target="8" weight="2.0"></edge>
+      <edge id="109" source="51" target="52" weight="2.0"></edge>
+      <edge id="110" source="3" target="49" weight="2.0"></edge>
+      <edge id="111" source="29" target="13" weight="2.0"></edge>
+      <edge id="112" source="14" target="45" weight="2.0"></edge>
+      <edge id="113" source="53" target="5" weight="2.0"></edge>
+      <edge id="114" source="54" target="25" weight="2.0"></edge>
+      <edge id="115" source="18" target="51" weight="2.0"></edge>
+      <edge id="116" source="55" target="13" weight="2.0"></edge>
+      <edge id="117" source="8" target="56" weight="2.0"></edge>
+      <edge id="118" source="4" target="45" weight="2.0"></edge>
+      <edge id="119" source="13" target="23" weight="2.0"></edge>
+      <edge id="120" source="57" target="13" weight="2.0"></edge>
+      <edge id="121" source="4" target="58" weight="2.0"></edge>
+      <edge id="122" source="41" target="13" weight="2.0"></edge>
+      <edge id="123" source="59" target="2" weight="2.0"></edge>
+      <edge id="124" source="6" target="60"></edge>
+      <edge id="125" source="61" target="3"></edge>
+      <edge id="126" source="62" target="5"></edge>
+      <edge id="127" source="63" target="33"></edge>
+      <edge id="128" source="64" target="15"></edge>
+      <edge id="129" source="22" target="65"></edge>
+      <edge id="130" source="25" target="66"></edge>
+      <edge id="131" source="67" target="3"></edge>
+      <edge id="132" source="25" target="68"></edge>
+      <edge id="133" source="15" target="69"></edge>
+      <edge id="134" source="70" target="71"></edge>
+      <edge id="135" source="60" target="72"></edge>
+      <edge id="136" source="3" target="46"></edge>
+      <edge id="137" source="73" target="3"></edge>
+      <edge id="138" source="74" target="3"></edge>
+      <edge id="139" source="71" target="54"></edge>
+      <edge id="140" source="75" target="17"></edge>
+      <edge id="141" source="76" target="4"></edge>
+      <edge id="142" source="38" target="8"></edge>
+      <edge id="143" source="77" target="71"></edge>
+      <edge id="144" source="23" target="50"></edge>
+      <edge id="145" source="78" target="79"></edge>
+      <edge id="146" source="80" target="61"></edge>
+      <edge id="147" source="81" target="22"></edge>
+      <edge id="148" source="82" target="14"></edge>
+      <edge id="149" source="41" target="83"></edge>
+      <edge id="150" source="25" target="84"></edge>
+      <edge id="151" source="85" target="3"></edge>
+      <edge id="152" source="86" target="87"></edge>
+      <edge id="153" source="88" target="25"></edge>
+      <edge id="154" source="89" target="13"></edge>
+      <edge id="155" source="29" target="49"></edge>
+      <edge id="156" source="41" target="90"></edge>
+      <edge id="157" source="91" target="13"></edge>
+      <edge id="158" source="92" target="9"></edge>
+      <edge id="159" source="0" target="93"></edge>
+      <edge id="160" source="6" target="94"></edge>
+      <edge id="161" source="71" target="95"></edge>
+      <edge id="162" source="96" target="3"></edge>
+      <edge id="163" source="0" target="54"></edge>
+      <edge id="164" source="85" target="7"></edge>
+      <edge id="165" source="97" target="25"></edge>
+      <edge id="166" source="98" target="2"></edge>
+      <edge id="167" source="99" target="4"></edge>
+      <edge id="168" source="100" target="101"></edge>
+      <edge id="169" source="1" target="41"></edge>
+      <edge id="170" source="65" target="3"></edge>
+      <edge id="171" source="76" target="11"></edge>
+      <edge id="172" source="102" target="3"></edge>
+      <edge id="173" source="0" target="82"></edge>
+      <edge id="174" source="25" target="103"></edge>
+      <edge id="175" source="13" target="71"></edge>
+      <edge id="176" source="104" target="4"></edge>
+      <edge id="177" source="105" target="8"></edge>
+      <edge id="178" source="106" target="79"></edge>
+      <edge id="179" source="107" target="108"></edge>
+      <edge id="180" source="0" target="69"></edge>
+      <edge id="181" source="4" target="69"></edge>
+      <edge id="182" source="3" target="50"></edge>
+      <edge id="183" source="27" target="109"></edge>
+      <edge id="184" source="101" target="110"></edge>
+      <edge id="185" source="29" target="50"></edge>
+      <edge id="186" source="111" target="25"></edge>
+      <edge id="187" source="104" target="7"></edge>
+      <edge id="188" source="112" target="49"></edge>
+      <edge id="189" source="61" target="0"></edge>
+      <edge id="190" source="71" target="113"></edge>
+      <edge id="191" source="114" target="41"></edge>
+      <edge id="192" source="115" target="116"></edge>
+      <edge id="193" source="5" target="34"></edge>
+      <edge id="194" source="35" target="8"></edge>
+      <edge id="195" source="117" target="71"></edge>
+      <edge id="196" source="13" target="118"></edge>
+      <edge id="197" source="90" target="71"></edge>
+      <edge id="198" source="119" target="4"></edge>
+      <edge id="199" source="120" target="71"></edge>
+      <edge id="200" source="121" target="3"></edge>
+      <edge id="201" source="81" target="18"></edge>
+      <edge id="202" source="99" target="12"></edge>
+      <edge id="203" source="8" target="122"></edge>
+      <edge id="204" source="123" target="99"></edge>
+      <edge id="205" source="60" target="3"></edge>
+      <edge id="206" source="124" target="13"></edge>
+      <edge id="207" source="3" target="94"></edge>
+      <edge id="208" source="94" target="0"></edge>
+      <edge id="209" source="125" target="12"></edge>
+      <edge id="210" source="11" target="50"></edge>
+      <edge id="211" source="34" target="8"></edge>
+      <edge id="212" source="71" target="39"></edge>
+      <edge id="213" source="25" target="126"></edge>
+      <edge id="214" source="27" target="127"></edge>
+      <edge id="215" source="35" target="47"></edge>
+    </edges>
+  </graph>
+</gexf>

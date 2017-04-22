@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="figure skating">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="92.806076" y="-226.4059"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="speed skating">
+        <viz:size value="90.51546"></viz:size>
+        <viz:position x="548.6456" y="301.49237"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="roller skating">
+        <viz:size value="53.23711"></viz:size>
+        <viz:position x="141.09627" y="193.08287"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="international skating union">
+        <viz:size value="44.824738"></viz:size>
+        <viz:position x="587.6849" y="-103.18829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="synchronized skating">
+        <viz:size value="41.278347"></viz:size>
+        <viz:position x="-625.37933" y="-115.19347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="ice skating">
+        <viz:size value="40.20618"></viz:size>
+        <viz:position x="-15.127915" y="-632.12244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="skating people">
+        <viz:size value="39.051544"></viz:size>
+        <viz:position x="-387.98578" y="-458.13687"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="inline skating">
+        <viz:size value="35.422676"></viz:size>
+        <viz:position x="-532.7855" y="328.4791"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="aggressive skating">
+        <viz:size value="28.0"></viz:size>
+        <viz:position x="-203.23805" y="565.6481"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="pair skating">
+        <viz:size value="27.175257"></viz:size>
+        <viz:position x="417.59323" y="-481.4325"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="skating in kazakhstan">
+        <viz:size value="17.030926"></viz:size>
+        <viz:position x="-235.42426" y="26.653532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="vert skating">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="212.11482" y="601.12305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="38.0"></edge>
+      <edge id="1" source="1" target="2" weight="28.0"></edge>
+      <edge id="2" source="1" target="3" weight="20.0"></edge>
+      <edge id="3" source="1" target="4" weight="14.0"></edge>
+      <edge id="4" source="1" target="5" weight="11.0"></edge>
+      <edge id="5" source="6" target="7" weight="9.0"></edge>
+      <edge id="6" source="7" target="8" weight="9.0"></edge>
+      <edge id="7" source="9" target="10" weight="4.0"></edge>
+      <edge id="8" source="6" target="10" weight="3.0"></edge>
+      <edge id="9" source="9" target="0"></edge>
+      <edge id="10" source="11" target="7"></edge>
+    </edges>
+  </graph>
+</gexf>

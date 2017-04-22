@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="5" label="association football forwards">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-383.018" y="-207.77745"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="power forwards">
+        <viz:size value="78.63437"></viz:size>
+        <viz:position x="380.6302" y="206.93384"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="small forwards">
+        <viz:size value="77.7623"></viz:size>
+        <viz:position x="-368.8329" y="226.65999"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="gaelic football forwards">
+        <viz:size value="38.15594"></viz:size>
+        <viz:position x="-11.306167" y="-433.96994"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="hurling forwards">
+        <viz:size value="19.76987"></viz:size>
+        <viz:position x="371.17502" y="-227.63474"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="point forwards">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="11.351887" y="435.78833"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="487.0"></edge>
+      <edge id="1" source="2" target="3"></edge>
+      <edge id="2" source="4" target="0"></edge>
+    </edges>
+  </graph>
+</gexf>

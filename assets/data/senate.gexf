@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="2" label="members of the senate">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="73.66258" y="374.15588"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="united states senate">
+        <viz:size value="90.56704"></viz:size>
+        <viz:position x="-25.442064" y="-310.5549"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="senate elections">
+        <viz:size value="78.97236"></viz:size>
+        <viz:position x="695.7309" y="-230.39091"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="presidents of the senate">
+        <viz:size value="76.81064"></viz:size>
+        <viz:position x="-581.007" y="407.17773"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="senate of northern ireland">
+        <viz:size value="62.464684"></viz:size>
+        <viz:position x="498.42252" y="505.77985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="senate of romania">
+        <viz:size value="54.996925"></viz:size>
+        <viz:position x="-238.3334" y="207.18108"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="senate of poland">
+        <viz:size value="47.136127"></viz:size>
+        <viz:position x="274.24963" y="97.04592"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="senate of colombia">
+        <viz:size value="45.36745"></viz:size>
+        <viz:position x="-325.83163" y="-129.98286"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="senate of the philippines">
+        <viz:size value="42.71443"></viz:size>
+        <viz:position x="-638.4734" y="-349.82822"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="australian senate lists">
+        <viz:size value="33.477993"></viz:size>
+        <viz:position x="141.1507" y="727.57513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="florida senate">
+        <viz:size value="32.298874"></viz:size>
+        <viz:position x="418.35684" y="-603.49225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="greek senate">
+        <viz:size value="26.403276"></viz:size>
+        <viz:position x="325.15417" y="-246.77249"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="north carolina senate">
+        <viz:size value="23.651995"></viz:size>
+        <viz:position x="28.931957" y="-713.64465"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="majority leaders of the maine senate">
+        <viz:size value="17.952917"></viz:size>
+        <viz:position x="-346.4517" y="-610.4994"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="vice-presidents of the senate">
+        <viz:size value="13.825997"></viz:size>
+        <viz:position x="-275.0842" y="657.30646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="minority leaders of the maine senate">
+        <viz:size value="12.646879"></viz:size>
+        <viz:position x="-711.0146" y="49.22129"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="president of the senate of ceylon">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="685.9784" y="169.7226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="991.0"></edge>
+      <edge id="1" source="2" target="3" weight="92.0"></edge>
+      <edge id="2" source="2" target="4" weight="23.0"></edge>
+      <edge id="3" source="5" target="2" weight="21.0"></edge>
+      <edge id="4" source="6" target="5" weight="21.0"></edge>
+      <edge id="5" source="7" target="1" weight="19.0"></edge>
+      <edge id="6" source="8" target="1" weight="17.0"></edge>
+      <edge id="7" source="6" target="9" weight="15.0"></edge>
+      <edge id="8" source="10" target="2" weight="13.0"></edge>
+      <edge id="9" source="6" target="10" weight="13.0"></edge>
+      <edge id="10" source="11" target="2" weight="5.0"></edge>
+      <edge id="11" source="2" target="12" weight="3.0"></edge>
+      <edge id="12" source="13" target="6" weight="2.0"></edge>
+      <edge id="13" source="14" target="6" weight="2.0"></edge>
+      <edge id="14" source="13" target="2" weight="2.0"></edge>
+      <edge id="15" source="15" target="6" weight="2.0"></edge>
+      <edge id="16" source="16" target="2"></edge>
+    </edges>
+  </graph>
+</gexf>

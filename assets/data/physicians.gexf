@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="american physicians">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-357.075" y="70.93572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="20th-century physicians">
+        <viz:size value="92.38685"></viz:size>
+        <viz:position x="-680.19495" y="235.99829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="german physicians">
+        <viz:size value="83.473885"></viz:size>
+        <viz:position x="1151.1849" y="1088.294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="royal college of physicians">
+        <viz:size value="81.802704"></viz:size>
+        <viz:position x="855.1729" y="-1341.0826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="canadian physicians">
+        <viz:size value="79.667305"></viz:size>
+        <viz:position x="-620.6064" y="-1182.9958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="women physicians">
+        <viz:size value="79.57447"></viz:size>
+        <viz:position x="109.355896" y="-135.77881"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="french physicians">
+        <viz:size value="79.38878"></viz:size>
+        <viz:position x="147.90071" y="-1081.2323"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="medieval physicians">
+        <viz:size value="74.839455"></viz:size>
+        <viz:position x="1001.3154" y="-536.8039"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="19th-century physicians">
+        <viz:size value="74.65376"></viz:size>
+        <viz:position x="-141.68301" y="-736.99994"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="18th-century physicians">
+        <viz:size value="72.98259"></viz:size>
+        <viz:position x="212.98418" y="-1301.6248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="military physicians">
+        <viz:size value="72.51837"></viz:size>
+        <viz:position x="33.913155" y="-666.2942"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="italian physicians">
+        <viz:size value="72.147"></viz:size>
+        <viz:position x="510.3122" y="-638.06134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="greek physicians">
+        <viz:size value="67.96905"></viz:size>
+        <viz:position x="1194.7506" y="-1022.04285"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="columbia college of physicians and surgeons alumni">
+        <viz:size value="67.59767"></viz:size>
+        <viz:position x="165.88814" y="560.0562"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="ancient physicians">
+        <viz:size value="66.762085"></viz:size>
+        <viz:position x="990.7737" y="-978.45685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="17th-century physicians">
+        <viz:size value="66.39072"></viz:size>
+        <viz:position x="558.92755" y="-1171.3962"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="16th-century physicians">
+        <viz:size value="65.740814"></viz:size>
+        <viz:position x="556.4142" y="-971.187"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="175" label="austrian physicians">
+        <viz:size value="62.491295"></viz:size>
+        <viz:position x="-1314.8215" y="877.0861"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="japanese physicians">
+        <viz:size value="62.39845"></viz:size>
+        <viz:position x="-746.08887" y="621.7232"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="21st-century physicians">
+        <viz:size value="62.212765"></viz:size>
+        <viz:position x="-781.51587" y="-538.70435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="jewish physicians">
+        <viz:size value="62.119923"></viz:size>
+        <viz:position x="914.9271" y="356.7029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="african-american physicians">
+        <viz:size value="62.027077"></viz:size>
+        <viz:position x="-15.4154" y="493.75058"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="dutch physicians">
+        <viz:size value="61.748547"></viz:size>
+        <viz:position x="-70.83282" y="-935.94543"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="polish physicians">
+        <viz:size value="61.098644"></viz:size>
+        <viz:position x="-223.05565" y="1543.4541"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="193" label="swedish physicians">
+        <viz:size value="60.727272"></viz:size>
+        <viz:position x="-1233.9236" y="-585.5086"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="194" label="swiss physicians">
+        <viz:size value="59.705994"></viz:size>
+        <viz:position x="1526.9912" y="347.3999"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="soviet physicians">
+        <viz:size value="59.148933"></viz:size>
+        <viz:position x="-1272.9136" y="-384.2313"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="russian physicians">
+        <viz:size value="58.684715"></viz:size>
+        <viz:position x="-1157.4584" y="-775.3174"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="nazi physicians">
+        <viz:size value="57.66344"></viz:size>
+        <viz:position x="991.6207" y="963.3665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="spanish physicians">
+        <viz:size value="57.292065"></viz:size>
+        <viz:position x="-1031.717" y="-960.40204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="physicians from wisconsin">
+        <viz:size value="56.27079"></viz:size>
+        <viz:position x="-295.67368" y="-863.0931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="physicians from new york">
+        <viz:size value="54.87814"></viz:size>
+        <viz:position x="-210.33464" y="443.75345"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="fellows of the edinburgh college of physicians">
+        <viz:size value="53.949707"></viz:size>
+        <viz:position x="-258.7128" y="1320.9023"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="physicians from pennsylvania">
+        <viz:size value="53.578335"></viz:size>
+        <viz:position x="-660.4624" y="-935.5319"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="romanian physicians">
+        <viz:size value="53.114117"></viz:size>
+        <viz:position x="1340.9918" y="197.95012"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="argentine physicians">
+        <viz:size value="52.928432"></viz:size>
+        <viz:position x="-1032.0044" y="547.38696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="physicians from california">
+        <viz:size value="52.742744"></viz:size>
+        <viz:position x="-1174.0901" y="-63.203487"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="sri lankan physicians">
+        <viz:size value="52.557056"></viz:size>
+        <viz:position x="413.33304" y="1509.713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="portuguese physicians">
+        <viz:size value="52.185684"></viz:size>
+        <viz:position x="1103.8112" y="262.87482"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="hungarian physicians">
+        <viz:size value="52.185684"></viz:size>
+        <viz:position x="286.70306" y="-1530.0234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="danish physicians">
+        <viz:size value="51.071568"></viz:size>
+        <viz:position x="-817.8449" y="58.166924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="chinese physicians">
+        <viz:size value="50.793034"></viz:size>
+        <viz:position x="-1010.9833" y="1196.4623"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="israeli physicians">
+        <viz:size value="50.235973"></viz:size>
+        <viz:position x="1053.9554" y="747.91595"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="iranian physicians">
+        <viz:size value="49.771755"></viz:size>
+        <viz:position x="256.73297" y="1157.1027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="belgian physicians">
+        <viz:size value="49.121857"></viz:size>
+        <viz:position x="-821.1537" y="-1088.8501"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="persian physicians">
+        <viz:size value="49.121857"></viz:size>
+        <viz:position x="1142.6384" y="-184.82347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="physicians from massachusetts">
+        <viz:size value="48.843323"></viz:size>
+        <viz:position x="202.39331" y="-314.11267"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="johns hopkins hospital physicians">
+        <viz:size value="48.65764"></viz:size>
+        <viz:position x="-568.9985" y="696.2956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="croatian physicians">
+        <viz:size value="48.65764"></viz:size>
+        <viz:position x="687.6136" y="671.887"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="physicians from virginia">
+        <viz:size value="48.65764"></viz:size>
+        <viz:position x="-527.65735" y="-580.9522"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="egyptian physicians">
+        <viz:size value="48.37911"></viz:size>
+        <viz:position x="979.0393" y="47.03463"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="osteopathic physicians">
+        <viz:size value="48.10058"></viz:size>
+        <viz:position x="-1084.0911" y="-255.58197"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="yoruba physicians">
+        <viz:size value="47.63636"></viz:size>
+        <viz:position x="-831.5853" y="1319.905"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="czech physicians">
+        <viz:size value="47.0793"></viz:size>
+        <viz:position x="-1082.2292" y="111.49244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="turkish physicians">
+        <viz:size value="45.408123"></viz:size>
+        <viz:position x="1211.2896" y="-622.0719"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="court physicians">
+        <viz:size value="44.758217"></viz:size>
+        <viz:position x="774.6047" y="-1161.5245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="physicians from michigan">
+        <viz:size value="44.10832"></viz:size>
+        <viz:position x="120.65073" y="89.90643"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="physicians from oregon">
+        <viz:size value="43.829784"></viz:size>
+        <viz:position x="-386.71164" y="1128.3743"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="physicians from vienna">
+        <viz:size value="43.458412"></viz:size>
+        <viz:position x="-610.3613" y="436.0611"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="physicians from illinois">
+        <viz:size value="43.08704"></viz:size>
+        <viz:position x="-903.9594" y="236.43486"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="ottoman physicians">
+        <viz:size value="41.97292"></viz:size>
+        <viz:position x="875.19055" y="-746.3095"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="14th-century physicians">
+        <viz:size value="40.30174"></viz:size>
+        <viz:position x="1364.4998" y="-233.47548"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="armenian physicians">
+        <viz:size value="39.837524"></viz:size>
+        <viz:position x="-864.2709" y="-854.0871"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="lgbt physicians">
+        <viz:size value="39.373306"></viz:size>
+        <viz:position x="-1556.3833" y="-157.7354"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="azerbaijani physicians">
+        <viz:size value="39.373306"></viz:size>
+        <viz:position x="-1087.9053" y="343.11594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="physicians from new jersey">
+        <viz:size value="39.373306"></viz:size>
+        <viz:position x="553.00793" y="522.50916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="puerto rican physicians">
+        <viz:size value="39.373306"></viz:size>
+        <viz:position x="312.54355" y="-67.826935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="venezuelan physicians">
+        <viz:size value="39.373306"></viz:size>
+        <viz:position x="-508.30847" y="-1494.4529"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="finnish physicians">
+        <viz:size value="38.816246"></viz:size>
+        <viz:position x="-975.23505" y="-668.17676"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="team physicians">
+        <viz:size value="37.237907"></viz:size>
+        <viz:position x="-865.8854" y="-1288.2642"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="moroccan physicians">
+        <viz:size value="37.237907"></viz:size>
+        <viz:position x="780.4067" y="-958.9599"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="15th-century physicians">
+        <viz:size value="37.237907"></viz:size>
+        <viz:position x="371.73456" y="-811.3376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="physicians from lagos">
+        <viz:size value="37.237907"></viz:size>
+        <viz:position x="-267.82092" y="-1100.5603"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="12th-century physicians">
+        <viz:size value="37.237907"></viz:size>
+        <viz:position x="259.3601" y="-640.60046"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="physicians from alabama">
+        <viz:size value="37.237907"></viz:size>
+        <viz:position x="-93.84767" y="909.0962"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="physicians from georgia">
+        <viz:size value="36.68085"></viz:size>
+        <viz:position x="-96.449356" y="89.64748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="murdered physicians">
+        <viz:size value="36.68085"></viz:size>
+        <viz:position x="786.3021" y="1048.8767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="emergency physicians">
+        <viz:size value="36.68085"></viz:size>
+        <viz:position x="-478.5436" y="-798.8469"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="physicians from minnesota">
+        <viz:size value="36.12379"></viz:size>
+        <viz:position x="-1493.2905" y="439.74622"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="uruguayan physicians">
+        <viz:size value="36.12379"></viz:size>
+        <viz:position x="-1281.7509" y="439.18546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="iraqi physicians">
+        <viz:size value="36.12379"></viz:size>
+        <viz:position x="1353.418" y="-29.473396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="flemish physicians">
+        <viz:size value="35.473885"></viz:size>
+        <viz:position x="347.99747" y="-1054.645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="slovenian physicians">
+        <viz:size value="35.473885"></viz:size>
+        <viz:position x="-1041.0981" y="-468.20917"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="10th-century physicians">
+        <viz:size value="35.473885"></viz:size>
+        <viz:position x="1232.352" y="-397.51254"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="13th-century physicians">
+        <viz:size value="35.473885"></viz:size>
+        <viz:position x="583.11115" y="-421.87573"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="physicians from texas">
+        <viz:size value="35.473885"></viz:size>
+        <viz:position x="84.71335" y="-478.50522"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="byzantine physicians">
+        <viz:size value="34.823982"></viz:size>
+        <viz:position x="1568.33" y="-78.26363"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="physicians from florida">
+        <viz:size value="34.823982"></viz:size>
+        <viz:position x="357.7137" y="568.1242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="sports physicians">
+        <viz:size value="34.17408"></viz:size>
+        <viz:position x="-687.9735" y="-703.4979"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="serbian physicians">
+        <viz:size value="34.17408"></viz:size>
+        <viz:position x="-1282.3306" y="231.31584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="187" label="bulgarian physicians">
+        <viz:size value="34.17408"></viz:size>
+        <viz:position x="1020.9436" y="-1189.9073"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="taiwanese physicians">
+        <viz:size value="33.431335"></viz:size>
+        <viz:position x="792.8273" y="175.04993"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="ghanaian physicians">
+        <viz:size value="33.431335"></viz:size>
+        <viz:position x="-706.5885" y="-140.44785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="physicians from utah">
+        <viz:size value="33.431335"></viz:size>
+        <viz:position x="-842.9616" y="441.5841"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="physicians from connecticut">
+        <viz:size value="33.431335"></viz:size>
+        <viz:position x="-31.03413" y="-294.58603"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="peruvian physicians">
+        <viz:size value="33.431335"></viz:size>
+        <viz:position x="1237.7147" y="901.36395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="baylor college of medicine physicians and researchers">
+        <viz:size value="32.68859"></viz:size>
+        <viz:position x="156.76346" y="-869.50024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="estonian physicians">
+        <viz:size value="32.68859"></viz:size>
+        <viz:position x="-862.08307" y="-332.10233"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="195" label="moldovan physicians">
+        <viz:size value="32.68859"></viz:size>
+        <viz:position x="-1376.6979" y="-779.4022"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="physicians from maryland">
+        <viz:size value="32.68859"></viz:size>
+        <viz:position x="-444.95148" y="-391.50787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="syrian physicians">
+        <viz:size value="31.852997"></viz:size>
+        <viz:position x="1073.4077" y="-775.8513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="physicians from maine">
+        <viz:size value="31.852997"></viz:size>
+        <viz:position x="-161.56714" y="-485.7336"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="11th-century physicians">
+        <viz:size value="31.852997"></viz:size>
+        <viz:position x="1162.0192" y="37.178375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="physicians from north carolina">
+        <viz:size value="31.017408"></viz:size>
+        <viz:position x="-563.95166" y="38.849514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="korean physicians">
+        <viz:size value="31.017408"></viz:size>
+        <viz:position x="491.3996" y="-1493.1548"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="physicians from new hampshire">
+        <viz:size value="31.017408"></viz:size>
+        <viz:position x="-328.12665" y="-117.51007"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="maltese physicians">
+        <viz:size value="31.017408"></viz:size>
+        <viz:position x="398.8416" y="-1294.9126"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="slovak physicians">
+        <viz:size value="31.017408"></viz:size>
+        <viz:position x="647.91406" y="-1387.4064"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="palestinian physicians">
+        <viz:size value="31.017408"></viz:size>
+        <viz:position x="-435.2455" y="1514.6567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="massachusetts general hospital physicians">
+        <viz:size value="31.017408"></viz:size>
+        <viz:position x="-610.1198" y="1133.4921"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="173" label="thai physicians">
+        <viz:size value="30.088974"></viz:size>
+        <viz:position x="111.58442" y="976.51215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="colombian physicians">
+        <viz:size value="30.088974"></viz:size>
+        <viz:position x="-421.36676" y="-1285.6694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="physicians from ohio">
+        <viz:size value="30.088974"></viz:size>
+        <viz:position x="-1362.1261" y="49.678288"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="9th-century physicians">
+        <viz:size value="30.088974"></viz:size>
+        <viz:position x="1022.83575" y="-352.36588"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="physicians from kentucky">
+        <viz:size value="29.067698"></viz:size>
+        <viz:position x="-312.9297" y="-603.9873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="lebanese physicians">
+        <viz:size value="29.067698"></viz:size>
+        <viz:position x="-802.7233" y="1103.7722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="afghan physicians">
+        <viz:size value="29.067698"></viz:size>
+        <viz:position x="661.0597" y="1208.1981"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="haitian physicians">
+        <viz:size value="27.953577"></viz:size>
+        <viz:position x="-201.09924" y="-1308.9869"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="catalan physicians">
+        <viz:size value="27.953577"></viz:size>
+        <viz:position x="87.83618" y="-1566.2408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="180" label="cuban physicians">
+        <viz:size value="26.839458"></viz:size>
+        <viz:position x="-7.787291" y="1571.2566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="indonesian physicians">
+        <viz:size value="26.839458"></viz:size>
+        <viz:position x="-945.6836" y="945.16846"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="176" label="physicians from nevada">
+        <viz:size value="26.839458"></viz:size>
+        <viz:position x="699.9135" y="387.05664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="nuclear medicine physicians">
+        <viz:size value="26.839458"></viz:size>
+        <viz:position x="19.439064" y="730.66425"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="7th-century physicians">
+        <viz:size value="25.53965"></viz:size>
+        <viz:position x="786.5345" y="-369.80927"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="high-altitude medicine physicians">
+        <viz:size value="25.53965"></viz:size>
+        <viz:position x="1465.7488" y="550.22644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="186" label="lithuanian physicians">
+        <viz:size value="25.53965"></viz:size>
+        <viz:position x="-731.8602" y="875.51263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="physicians from vermont">
+        <viz:size value="24.147001"></viz:size>
+        <viz:position x="468.96484" y="757.5372"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="181" label="caribbean physicians">
+        <viz:size value="24.147001"></viz:size>
+        <viz:position x="202.9715" y="1560.8154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="tropical physicians">
+        <viz:size value="24.147001"></viz:size>
+        <viz:position x="970.483" y="1203.8191"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="physicians from ponce">
+        <viz:size value="24.147001"></viz:size>
+        <viz:position x="11.6957445" y="283.70276"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="188" label="physicians from washington">
+        <viz:size value="24.147001"></viz:size>
+        <viz:position x="-1438.0465" y="661.9041"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="185" label="honduran physicians">
+        <viz:size value="24.147001"></viz:size>
+        <viz:position x="-305.33786" y="-1489.6356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="sierra leonean physicians">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="-663.07495" y="1424.1741"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="physicians to the president">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="-1532.0502" y="248.4121"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="bolivian physicians">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="1388.7394" y="761.2301"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="physicians from colorado">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="-131.59573" y="-118.20246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="179" label="vietnamese physicians">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="15.643329" y="-1354.2386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="physicians from tennessee">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="-468.99194" y="-1037.9974"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="physicians from kansas">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="-307.4134" y="921.09076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="177" label="algerian physicians">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="-661.26025" y="-360.13583"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="british physicians">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="1083.9991" y="492.08115"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="physicians from iowa">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="-413.07748" y="500.84686"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="178" label="physicians from mississippi">
+        <viz:size value="22.568665"></viz:size>
+        <viz:position x="229.98729" y="781.8956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="physicians from rhode island">
+        <viz:size value="20.804642"></viz:size>
+        <viz:position x="-47.205914" y="-1135.2212"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="184" label="guinean physicians">
+        <viz:size value="20.804642"></viz:size>
+        <viz:position x="340.20572" y="141.82195"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="bosnia and herzegovina physicians">
+        <viz:size value="20.804642"></viz:size>
+        <viz:position x="33.93134" y="1178.8413"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="nepalese physicians">
+        <viz:size value="20.804642"></viz:size>
+        <viz:position x="430.24216" y="-247.01733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="physicians from south carolina">
+        <viz:size value="20.804642"></viz:size>
+        <viz:position x="-230.6482" y="253.10918"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="physicians from washington, d c ">
+        <viz:size value="20.804642"></viz:size>
+        <viz:position x="608.2394" y="898.33765"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="physicians from missouri">
+        <viz:size value="20.804642"></viz:size>
+        <viz:position x="-512.15216" y="-173.43497"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="republic of the congo physicians">
+        <viz:size value="20.804642"></viz:size>
+        <viz:position x="1235.5836" y="629.6324"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="171" label="transgender and transsexual physicians">
+        <viz:size value="20.804642"></viz:size>
+        <viz:position x="-1576.6124" y="47.552418"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="tunisian physicians">
+        <viz:size value="20.804642"></viz:size>
+        <viz:position x="221.46051" y="328.7362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="190" label="kenyan physicians">
+        <viz:size value="18.669243"></viz:size>
+        <viz:position x="888.0134" y="578.64264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="physicians from louisiana">
+        <viz:size value="18.669243"></viz:size>
+        <viz:position x="-448.73724" y="275.46317"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="physicians from south dakota">
+        <viz:size value="18.669243"></viz:size>
+        <viz:position x="520.6857" y="-16.938082"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="papal physicians">
+        <viz:size value="18.669243"></viz:size>
+        <viz:position x="637.87787" y="-795.29193"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="174" label="physicians who died in the holocaust">
+        <viz:size value="18.669243"></viz:size>
+        <viz:position x="-1165.0469" y="1047.5521"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="183" label="latvian physicians">
+        <viz:size value="18.669243"></viz:size>
+        <viz:position x="-182.68886" y="667.24805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="salvadoran physicians">
+        <viz:size value="18.669243"></viz:size>
+        <viz:position x="743.44855" y="-21.86973"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="jordanian physicians">
+        <viz:size value="16.255318"></viz:size>
+        <viz:position x="-490.82178" y="1317.1396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="physicians of alexander the great">
+        <viz:size value="16.255318"></viz:size>
+        <viz:position x="1302.2845" y="-851.21204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="192" label="physicians from alaska">
+        <viz:size value="16.255318"></viz:size>
+        <viz:position x="-1514.7756" y="-364.34778"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="newyork presbyterian hospital physicians">
+        <viz:size value="13.284332"></viz:size>
+        <viz:position x="345.6023" y="949.936"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="islamic association of physicians of iran politicians">
+        <viz:size value="13.284332"></viz:size>
+        <viz:position x="433.6019" y="1300.7684"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="physicians from nishapur">
+        <viz:size value="13.284332"></viz:size>
+        <viz:position x="1432.784" y="-480.86575"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="carniolan physicians">
+        <viz:size value="13.284332"></viz:size>
+        <viz:position x="-112.362404" y="-1547.1982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="physicians from nebraska">
+        <viz:size value="13.284332"></viz:size>
+        <viz:position x="-1351.5956" y="-188.76524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="cambodian physicians">
+        <viz:size value="13.284332"></viz:size>
+        <viz:position x="1555.5753" y="-313.32092"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="physicians from montana">
+        <viz:size value="9.3849125"></viz:size>
+        <viz:position x="-260.76254" y="-321.22308"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="182" label="physicians from new mexico">
+        <viz:size value="9.3849125"></viz:size>
+        <viz:position x="490.30515" y="1084.6356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="physicians from oklahoma">
+        <viz:size value="9.3849125"></viz:size>
+        <viz:position x="-1108.2605" y="805.0574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="1st-century physicians">
+        <viz:size value="9.3849125"></viz:size>
+        <viz:position x="1424.5859" y="-680.0858"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="belarusian physicians">
+        <viz:size value="9.3849125"></viz:size>
+        <viz:position x="-49.769615" y="1370.4923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="physicians from hawaii">
+        <viz:size value="9.3849125"></viz:size>
+        <viz:position x="-1239.928" y="-993.2889"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="172" label="physicians from arizona">
+        <viz:size value="9.3849125"></viz:size>
+        <viz:position x="-1454.5254" y="-557.09247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="physicians from wyoming">
+        <viz:size value="9.3849125"></viz:size>
+        <viz:position x="435.5724" y="336.1312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="physicians from the united states virgin islands">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-912.50714" y="728.0497"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="gabonese physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1294.0337" y="404.61328"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="primary care physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="367.05978" y="-461.93246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="nicaraguan physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="579.9509" y="184.8952"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="zimbabwean physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="644.96136" y="-204.17195"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="guam physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-935.2679" y="-102.44807"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="8th-century physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="750.509" y="-587.4946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="igbo physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-162.23761" y="1108.73"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="physicians from arkansas">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1225.0624" y="635.831"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="189" label="saint kitts and nevis physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-691.3965" y="-1398.0457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="kurdish physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="906.375" y="-173.61673"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="trinidad and tobago physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="821.48114" y="1343.1295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="austro-hungarian physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1554.6475" y="136.37651"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="arab-israeli physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="840.51556" y="818.37366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="surinamese physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-530.98944" y="918.0082"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="191" label="physicians from indiana">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-369.44897" y="714.66394"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="physicians from north dakota">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1047.6298" y="-1161.0186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="bermudian physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="623.3718" y="1437.9814"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="assassinated physicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="196.39256" y="1362.1508"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="94.0"></edge>
+      <edge id="1" source="1" target="2" weight="73.0"></edge>
+      <edge id="2" source="3" target="2" weight="53.0"></edge>
+      <edge id="3" source="4" target="5" weight="41.0"></edge>
+      <edge id="4" source="6" target="7" weight="33.0"></edge>
+      <edge id="5" source="8" target="9" weight="24.0"></edge>
+      <edge id="6" source="10" target="11" weight="24.0"></edge>
+      <edge id="7" source="1" target="12" weight="23.0"></edge>
+      <edge id="8" source="11" target="13" weight="21.0"></edge>
+      <edge id="9" source="1" target="14" weight="20.0"></edge>
+      <edge id="10" source="15" target="16" weight="18.0"></edge>
+      <edge id="11" source="17" target="1" weight="18.0"></edge>
+      <edge id="12" source="9" target="2" weight="16.0"></edge>
+      <edge id="13" source="18" target="19" weight="15.0"></edge>
+      <edge id="14" source="11" target="20" weight="14.0"></edge>
+      <edge id="15" source="21" target="11" weight="14.0"></edge>
+      <edge id="16" source="22" target="23" weight="12.0"></edge>
+      <edge id="17" source="10" target="24" weight="11.0"></edge>
+      <edge id="18" source="24" target="13" weight="10.0"></edge>
+      <edge id="19" source="9" target="12" weight="10.0"></edge>
+      <edge id="20" source="22" target="25" weight="9.0"></edge>
+      <edge id="21" source="26" target="9" weight="8.0"></edge>
+      <edge id="22" source="0" target="27" weight="8.0"></edge>
+      <edge id="23" source="24" target="20" weight="7.0"></edge>
+      <edge id="24" source="28" target="9" weight="7.0"></edge>
+      <edge id="25" source="29" target="6" weight="7.0"></edge>
+      <edge id="26" source="9" target="30" weight="7.0"></edge>
+      <edge id="27" source="9" target="17" weight="7.0"></edge>
+      <edge id="28" source="1" target="31" weight="7.0"></edge>
+      <edge id="29" source="6" target="32" weight="7.0"></edge>
+      <edge id="30" source="33" target="16" weight="6.0"></edge>
+      <edge id="31" source="1" target="34" weight="6.0"></edge>
+      <edge id="32" source="3" target="14" weight="6.0"></edge>
+      <edge id="33" source="35" target="1" weight="6.0"></edge>
+      <edge id="34" source="5" target="14" weight="5.0"></edge>
+      <edge id="35" source="34" target="9" weight="5.0"></edge>
+      <edge id="36" source="21" target="24" weight="5.0"></edge>
+      <edge id="37" source="7" target="36" weight="5.0"></edge>
+      <edge id="38" source="37" target="38" weight="5.0"></edge>
+      <edge id="39" source="2" target="39" weight="5.0"></edge>
+      <edge id="40" source="1" target="40" weight="5.0"></edge>
+      <edge id="41" source="1" target="41" weight="4.0"></edge>
+      <edge id="42" source="1" target="42" weight="4.0"></edge>
+      <edge id="43" source="43" target="32" weight="4.0"></edge>
+      <edge id="44" source="44" target="7" weight="4.0"></edge>
+      <edge id="45" source="1" target="45" weight="4.0"></edge>
+      <edge id="46" source="46" target="29" weight="4.0"></edge>
+      <edge id="47" source="47" target="2" weight="4.0"></edge>
+      <edge id="48" source="2" target="48" weight="4.0"></edge>
+      <edge id="49" source="29" target="49" weight="4.0"></edge>
+      <edge id="50" source="3" target="50" weight="3.0"></edge>
+      <edge id="51" source="51" target="1" weight="3.0"></edge>
+      <edge id="52" source="32" target="3" weight="3.0"></edge>
+      <edge id="53" source="21" target="52" weight="3.0"></edge>
+      <edge id="54" source="53" target="1" weight="3.0"></edge>
+      <edge id="55" source="3" target="31" weight="3.0"></edge>
+      <edge id="56" source="50" target="9" weight="3.0"></edge>
+      <edge id="57" source="46" target="54" weight="3.0"></edge>
+      <edge id="58" source="55" target="9" weight="3.0"></edge>
+      <edge id="59" source="56" target="1" weight="3.0"></edge>
+      <edge id="60" source="2" target="57" weight="3.0"></edge>
+      <edge id="61" source="58" target="59" weight="3.0"></edge>
+      <edge id="62" source="43" target="60" weight="3.0"></edge>
+      <edge id="63" source="60" target="3" weight="3.0"></edge>
+      <edge id="64" source="32" target="61" weight="3.0"></edge>
+      <edge id="65" source="44" target="62" weight="3.0"></edge>
+      <edge id="66" source="35" target="3" weight="3.0"></edge>
+      <edge id="67" source="37" target="54" weight="3.0"></edge>
+      <edge id="68" source="21" target="63" weight="3.0"></edge>
+      <edge id="69" source="64" target="65" weight="3.0"></edge>
+      <edge id="70" source="66" target="3" weight="2.0"></edge>
+      <edge id="71" source="67" target="10" weight="2.0"></edge>
+      <edge id="72" source="0" target="68" weight="2.0"></edge>
+      <edge id="73" source="11" target="69" weight="2.0"></edge>
+      <edge id="74" source="5" target="45" weight="2.0"></edge>
+      <edge id="75" source="1" target="70" weight="2.0"></edge>
+      <edge id="76" source="24" target="69" weight="2.0"></edge>
+      <edge id="77" source="32" target="65" weight="2.0"></edge>
+      <edge id="78" source="71" target="11" weight="2.0"></edge>
+      <edge id="79" source="16" target="72" weight="2.0"></edge>
+      <edge id="80" source="9" target="73" weight="2.0"></edge>
+      <edge id="81" source="31" target="74" weight="2.0"></edge>
+      <edge id="82" source="3" target="40" weight="2.0"></edge>
+      <edge id="83" source="0" target="75" weight="2.0"></edge>
+      <edge id="84" source="76" target="23" weight="2.0"></edge>
+      <edge id="85" source="77" target="29" weight="2.0"></edge>
+      <edge id="86" source="78" target="12" weight="2.0"></edge>
+      <edge id="87" source="11" target="44" weight="2.0"></edge>
+      <edge id="88" source="5" target="42" weight="2.0"></edge>
+      <edge id="89" source="1" target="79" weight="2.0"></edge>
+      <edge id="90" source="35" target="9" weight="2.0"></edge>
+      <edge id="91" source="79" target="9" weight="2.0"></edge>
+      <edge id="92" source="3" target="41" weight="2.0"></edge>
+      <edge id="93" source="13" target="52" weight="2.0"></edge>
+      <edge id="94" source="79" target="80" weight="2.0"></edge>
+      <edge id="95" source="54" target="20" weight="2.0"></edge>
+      <edge id="96" source="81" target="62" weight="2.0"></edge>
+      <edge id="97" source="1" target="82" weight="2.0"></edge>
+      <edge id="98" source="2" target="68" weight="2.0"></edge>
+      <edge id="99" source="13" target="63" weight="2.0"></edge>
+      <edge id="100" source="22" target="68" weight="2.0"></edge>
+      <edge id="101" source="83" target="12" weight="2.0"></edge>
+      <edge id="102" source="84" target="85" weight="2.0"></edge>
+      <edge id="103" source="86" target="34" weight="2.0"></edge>
+      <edge id="104" source="76" target="9" weight="2.0"></edge>
+      <edge id="105" source="50" target="87" weight="2.0"></edge>
+      <edge id="106" source="88" target="43" weight="2.0"></edge>
+      <edge id="107" source="89" target="3" weight="2.0"></edge>
+      <edge id="108" source="41" target="9" weight="2.0"></edge>
+      <edge id="109" source="88" target="3" weight="2.0"></edge>
+      <edge id="110" source="90" target="2" weight="2.0"></edge>
+      <edge id="111" source="91" target="5" weight="2.0"></edge>
+      <edge id="112" source="92" target="93"></edge>
+      <edge id="113" source="94" target="95"></edge>
+      <edge id="114" source="42" target="39"></edge>
+      <edge id="115" source="96" target="12"></edge>
+      <edge id="116" source="97" target="98"></edge>
+      <edge id="117" source="3" target="45"></edge>
+      <edge id="118" source="15" target="99"></edge>
+      <edge id="119" source="1" target="100"></edge>
+      <edge id="120" source="76" target="1"></edge>
+      <edge id="121" source="101" target="12"></edge>
+      <edge id="122" source="5" target="53"></edge>
+      <edge id="123" source="35" target="33"></edge>
+      <edge id="124" source="102" target="103"></edge>
+      <edge id="125" source="96" target="104"></edge>
+      <edge id="126" source="105" target="9"></edge>
+      <edge id="127" source="31" target="106"></edge>
+      <edge id="128" source="56" target="74"></edge>
+      <edge id="129" source="7" target="107"></edge>
+      <edge id="130" source="15" target="79"></edge>
+      <edge id="131" source="108" target="11"></edge>
+      <edge id="132" source="109" target="110"></edge>
+      <edge id="133" source="111" target="1"></edge>
+      <edge id="134" source="18" target="112"></edge>
+      <edge id="135" source="96" target="34"></edge>
+      <edge id="136" source="56" target="113"></edge>
+      <edge id="137" source="4" target="114"></edge>
+      <edge id="138" source="41" target="57"></edge>
+      <edge id="139" source="15" target="42"></edge>
+      <edge id="140" source="0" target="115"></edge>
+      <edge id="141" source="15" target="100"></edge>
+      <edge id="142" source="1" target="116"></edge>
+      <edge id="143" source="117" target="20"></edge>
+      <edge id="144" source="118" target="45"></edge>
+      <edge id="145" source="86" target="17"></edge>
+      <edge id="146" source="119" target="17"></edge>
+      <edge id="147" source="3" target="82"></edge>
+      <edge id="148" source="3" target="70"></edge>
+      <edge id="149" source="120" target="121"></edge>
+      <edge id="150" source="42" target="9"></edge>
+      <edge id="151" source="122" target="2"></edge>
+      <edge id="152" source="102" target="79"></edge>
+      <edge id="153" source="123" target="50"></edge>
+      <edge id="154" source="71" target="117"></edge>
+      <edge id="155" source="9" target="40"></edge>
+      <edge id="156" source="9" target="124"></edge>
+      <edge id="157" source="11" target="107"></edge>
+      <edge id="158" source="125" target="2"></edge>
+      <edge id="159" source="54" target="44"></edge>
+      <edge id="160" source="76" target="126"></edge>
+      <edge id="161" source="27" target="40"></edge>
+      <edge id="162" source="15" target="40"></edge>
+      <edge id="163" source="17" target="127"></edge>
+      <edge id="164" source="9" target="70"></edge>
+      <edge id="165" source="56" target="9"></edge>
+      <edge id="166" source="128" target="16"></edge>
+      <edge id="167" source="129" target="9"></edge>
+      <edge id="168" source="130" target="82"></edge>
+      <edge id="169" source="82" target="74"></edge>
+      <edge id="170" source="21" target="22"></edge>
+      <edge id="171" source="59" target="76"></edge>
+      <edge id="172" source="100" target="9"></edge>
+      <edge id="173" source="4" target="128"></edge>
+      <edge id="174" source="1" target="131"></edge>
+      <edge id="175" source="132" target="3"></edge>
+      <edge id="176" source="133" target="134"></edge>
+      <edge id="177" source="135" target="45"></edge>
+      <edge id="178" source="136" target="41"></edge>
+      <edge id="179" source="56" target="130"></edge>
+      <edge id="180" source="117" target="3"></edge>
+      <edge id="181" source="130" target="42"></edge>
+      <edge id="182" source="137" target="100"></edge>
+      <edge id="183" source="138" target="79"></edge>
+      <edge id="184" source="139" target="140"></edge>
+      <edge id="185" source="141" target="42"></edge>
+      <edge id="186" source="9" target="142"></edge>
+      <edge id="187" source="54" target="143"></edge>
+      <edge id="188" source="54" target="65"></edge>
+      <edge id="189" source="3" target="144"></edge>
+      <edge id="190" source="3" target="53"></edge>
+      <edge id="191" source="74" target="45"></edge>
+      <edge id="192" source="125" target="145"></edge>
+      <edge id="193" source="35" target="74"></edge>
+      <edge id="194" source="81" target="146"></edge>
+      <edge id="195" source="147" target="148"></edge>
+      <edge id="196" source="149" target="3"></edge>
+      <edge id="197" source="150" target="9"></edge>
+      <edge id="198" source="151" target="3"></edge>
+      <edge id="199" source="3" target="152"></edge>
+      <edge id="200" source="15" target="70"></edge>
+      <edge id="201" source="62" target="114"></edge>
+      <edge id="202" source="56" target="3"></edge>
+      <edge id="203" source="153" target="50"></edge>
+      <edge id="204" source="3" target="154"></edge>
+      <edge id="205" source="155" target="127"></edge>
+      <edge id="206" source="15" target="41"></edge>
+      <edge id="207" source="156" target="62"></edge>
+      <edge id="208" source="118" target="70"></edge>
+      <edge id="209" source="79" target="61"></edge>
+      <edge id="210" source="18" target="157"></edge>
+      <edge id="211" source="63" target="20"></edge>
+      <edge id="212" source="158" target="159"></edge>
+      <edge id="213" source="160" target="7"></edge>
+      <edge id="214" source="22" target="161"></edge>
+      <edge id="215" source="162" target="163"></edge>
+      <edge id="216" source="164" target="70"></edge>
+      <edge id="217" source="3" target="165"></edge>
+      <edge id="218" source="5" target="40"></edge>
+      <edge id="219" source="71" target="24"></edge>
+      <edge id="220" source="50" target="15"></edge>
+      <edge id="221" source="60" target="108"></edge>
+      <edge id="222" source="54" target="13"></edge>
+      <edge id="223" source="166" target="9"></edge>
+      <edge id="224" source="54" target="6"></edge>
+      <edge id="225" source="35" target="39"></edge>
+      <edge id="226" source="3" target="100"></edge>
+      <edge id="227" source="5" target="82"></edge>
+      <edge id="228" source="134" target="16"></edge>
+      <edge id="229" source="77" target="7"></edge>
+      <edge id="230" source="13" target="167"></edge>
+      <edge id="231" source="168" target="169"></edge>
+      <edge id="232" source="3" target="170"></edge>
+      <edge id="233" source="78" target="171"></edge>
+      <edge id="234" source="172" target="12"></edge>
+      <edge id="235" source="4" target="107"></edge>
+      <edge id="236" source="79" target="72"></edge>
+      <edge id="237" source="135" target="79"></edge>
+      <edge id="238" source="0" target="173"></edge>
+      <edge id="239" source="71" target="4"></edge>
+      <edge id="240" source="4" target="106"></edge>
+      <edge id="241" source="174" target="175"></edge>
+      <edge id="242" source="176" target="39"></edge>
+      <edge id="243" source="125" target="17"></edge>
+      <edge id="244" source="113" target="62"></edge>
+      <edge id="245" source="53" target="90"></edge>
+      <edge id="246" source="1" target="177"></edge>
+      <edge id="247" source="2" target="178"></edge>
+      <edge id="248" source="4" target="179"></edge>
+      <edge id="249" source="180" target="181"></edge>
+      <edge id="250" source="76" target="182"></edge>
+      <edge id="251" source="183" target="1"></edge>
+      <edge id="252" source="56" target="118"></edge>
+      <edge id="253" source="184" target="3"></edge>
+      <edge id="254" source="5" target="185"></edge>
+      <edge id="255" source="41" target="90"></edge>
+      <edge id="256" source="186" target="9"></edge>
+      <edge id="257" source="187" target="81"></edge>
+      <edge id="258" source="4" target="134"></edge>
+      <edge id="259" source="83" target="188"></edge>
+      <edge id="260" source="189" target="16"></edge>
+      <edge id="261" source="121" target="2"></edge>
+      <edge id="262" source="25" target="190"></edge>
+      <edge id="263" source="82" target="9"></edge>
+      <edge id="264" source="1" target="191"></edge>
+      <edge id="265" source="192" target="12"></edge>
+      <edge id="266" source="193" target="50"></edge>
+      <edge id="267" source="94" target="194"></edge>
+      <edge id="268" source="164" target="2"></edge>
+      <edge id="269" source="195" target="153"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,786 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="german theologians">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-503.944" y="262.67285"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="american theologians">
+        <viz:size value="96.87636"></viz:size>
+        <viz:position x="399.54822" y="-167.89293"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="christian theologians">
+        <viz:size value="94.79393"></viz:size>
+        <viz:position x="263.69672" y="75.23801"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="roman catholic theologians">
+        <viz:size value="94.585686"></viz:size>
+        <viz:position x="232.32932" y="303.74252"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="protestant theologians">
+        <viz:size value="93.44035"></viz:size>
+        <viz:position x="-220.34787" y="-431.71674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="english theologians">
+        <viz:size value="93.44035"></viz:size>
+        <viz:position x="-617.4929" y="539.28625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="20th-century theologians">
+        <viz:size value="91.77441"></viz:size>
+        <viz:position x="130.06747" y="-114.85926"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="19th-century theologians">
+        <viz:size value="85.63124"></viz:size>
+        <viz:position x="-438.30792" y="-267.9663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="17th-century theologians">
+        <viz:size value="82.819954"></viz:size>
+        <viz:position x="-1008.924" y="208.26901"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="french theologians">
+        <viz:size value="81.04989"></viz:size>
+        <viz:position x="-707.61273" y="1101.3871"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="lutheran theologians">
+        <viz:size value="80.1128"></viz:size>
+        <viz:position x="-326.8496" y="-718.7219"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="16th-century theologians">
+        <viz:size value="79.80043"></viz:size>
+        <viz:position x="-1127.0402" y="30.935844"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="italian theologians">
+        <viz:size value="74.59436"></viz:size>
+        <viz:position x="-224.23369" y="696.4365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="scottish theologians">
+        <viz:size value="73.86551"></viz:size>
+        <viz:position x="460.04132" y="385.1696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="18th-century theologians">
+        <viz:size value="73.44903"></viz:size>
+        <viz:position x="-762.8115" y="-852.38135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="spanish theologians">
+        <viz:size value="72.92841"></viz:size>
+        <viz:position x="485.8489" y="956.8903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="21st-century theologians">
+        <viz:size value="72.61605"></viz:size>
+        <viz:position x="-108.86239" y="-234.84337"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="indian theologians">
+        <viz:size value="72.19957"></viz:size>
+        <viz:position x="686.54553" y="837.17096"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="dutch theologians">
+        <viz:size value="69.9089"></viz:size>
+        <viz:position x="-853.88367" y="654.3717"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="medieval theologians">
+        <viz:size value="69.49241"></viz:size>
+        <viz:position x="-265.6638" y="1098.8064"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="anglican theologians">
+        <viz:size value="69.38829"></viz:size>
+        <viz:position x="-661.16315" y="-186.26677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="british theologians">
+        <viz:size value="68.55531"></viz:size>
+        <viz:position x="-1008.6281" y="458.71567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="jewish theologians">
+        <viz:size value="65.327545"></viz:size>
+        <viz:position x="512.6324" y="-629.78705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="swiss theologians">
+        <viz:size value="65.11931"></viz:size>
+        <viz:position x="-1272.783" y="-417.43884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="muslim theologians">
+        <viz:size value="63.24512"></viz:size>
+        <viz:position x="1247.6829" y="-424.93777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="eastern orthodox theologians">
+        <viz:size value="60.537964"></viz:size>
+        <viz:position x="525.7248" y="1199.0316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="methodist theologians">
+        <viz:size value="60.121475"></viz:size>
+        <viz:position x="880.7214" y="9.771332"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="feminist theologians">
+        <viz:size value="57.830803"></viz:size>
+        <viz:position x="490.041" y="94.60393"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="baptist theologians">
+        <viz:size value="55.331886"></viz:size>
+        <viz:position x="-742.1886" y="147.30684"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="canadian theologians">
+        <viz:size value="55.123642"></viz:size>
+        <viz:position x="-1345.4802" y="117.56461"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="systematic theologians">
+        <viz:size value="54.60304"></viz:size>
+        <viz:position x="123.47584" y="-338.161"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="liberation theologians">
+        <viz:size value="52.62473"></viz:size>
+        <viz:position x="664.2812" y="227.71245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="byzantine theologians">
+        <viz:size value="52.312366"></viz:size>
+        <viz:position x="-182.3905" y="1326.3708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="14th-century theologians">
+        <viz:size value="51.687637"></viz:size>
+        <viz:position x="-156.40112" y="894.3611"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="australian theologians">
+        <viz:size value="51.687637"></viz:size>
+        <viz:position x="845.0076" y="-1010.38007"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="romanian theologians">
+        <viz:size value="50.43818"></viz:size>
+        <viz:position x="519.72107" y="656.3179"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="norwegian theologians">
+        <viz:size value="49.709328"></viz:size>
+        <viz:position x="-881.63635" y="-330.51318"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="anglo-catholic theologians">
+        <viz:size value="48.980476"></viz:size>
+        <viz:position x="-516.1678" y="9.618706"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="lay theologians">
+        <viz:size value="47.835144"></viz:size>
+        <viz:position x="364.83395" y="-423.68777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="4th-century theologians">
+        <viz:size value="47.418655"></viz:size>
+        <viz:position x="-277.89224" y="-1233.2958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="polish theologians">
+        <viz:size value="47.418655"></viz:size>
+        <viz:position x="-873.3264" y="-46.282284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="seventh-day adventist theologians">
+        <viz:size value="46.06508"></viz:size>
+        <viz:position x="374.89758" y="-824.1801"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="russian theologians">
+        <viz:size value="45.64859"></viz:size>
+        <viz:position x="1296.4081" y="310.539"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="13th-century theologians">
+        <viz:size value="45.12798"></viz:size>
+        <viz:position x="-663.295" y="816.2909"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="15th-century theologians">
+        <viz:size value="45.12798"></viz:size>
+        <viz:position x="-394.47885" y="517.35297"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="swedish theologians">
+        <viz:size value="45.12798"></viz:size>
+        <viz:position x="-516.11554" y="-989.5057"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="quaker theologians">
+        <viz:size value="44.7115"></viz:size>
+        <viz:position x="-283.35324" y="-50.406322"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="12th-century theologians">
+        <viz:size value="44.7115"></viz:size>
+        <viz:position x="-484.85822" y="1002.29236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="greek theologians">
+        <viz:size value="44.19089"></viz:size>
+        <viz:position x="930.6904" y="949.0484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="process theologians">
+        <viz:size value="44.19089"></viz:size>
+        <viz:position x="1121.9241" y="151.12898"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="benedictine theologians">
+        <viz:size value="43.045555"></viz:size>
+        <viz:position x="23.484404" y="556.8651"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="danish theologians">
+        <viz:size value="42.524944"></viz:size>
+        <viz:position x="-1052.2845" y="-500.57822"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="croatian theologians">
+        <viz:size value="40.650757"></viz:size>
+        <viz:position x="245.12448" y="1061.1707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="slovenian theologians">
+        <viz:size value="40.02603"></viz:size>
+        <viz:position x="473.84262" y="-1030.6963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="franciscan theologians">
+        <viz:size value="39.29718"></viz:size>
+        <viz:position x="-892.9344" y="952.1998"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="jesuit theologians">
+        <viz:size value="38.56833"></viz:size>
+        <viz:position x="-767.2553" y="380.0849"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="queer theologians">
+        <viz:size value="37.839478"></viz:size>
+        <viz:position x="653.79517" y="-83.86248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="pentecostal theologians">
+        <viz:size value="37.839478"></viz:size>
+        <viz:position x="661.9008" y="-839.3343"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="flemish theologians">
+        <viz:size value="37.00651"></viz:size>
+        <viz:position x="-1197.0315" y="581.5218"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="5th-century theologians">
+        <viz:size value="37.00651"></viz:size>
+        <viz:position x="-41.972454" y="-1053.277"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="canonical theologians">
+        <viz:size value="36.173534"></viz:size>
+        <viz:position x="68.92437" y="778.2037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="czech theologians">
+        <viz:size value="36.173534"></viz:size>
+        <viz:position x="-1.1760142" y="264.77292"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="hungarian theologians">
+        <viz:size value="35.236443"></viz:size>
+        <viz:position x="-275.22577" y="204.19238"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="women theologians">
+        <viz:size value="34.29935"></viz:size>
+        <viz:position x="592.53564" y="-326.3535"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="egyptian theologians">
+        <viz:size value="34.29935"></viz:size>
+        <viz:position x="158.23537" y="-1317.5941"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="death of god theologians">
+        <viz:size value="33.258133"></viz:size>
+        <viz:position x="203.00975" y="-603.5336"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="serbian theologians">
+        <viz:size value="33.258133"></viz:size>
+        <viz:position x="310.91458" y="1305.2537"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="finnish theologians">
+        <viz:size value="32.1128"></viz:size>
+        <viz:position x="-666.65137" y="-450.3475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="new zealand theologians">
+        <viz:size value="32.1128"></viz:size>
+        <viz:position x="-1124.9769" y="-715.06696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="2nd-century theologians">
+        <viz:size value="32.1128"></viz:size>
+        <viz:position x="209.3457" y="-1072.4327"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="nazarene theologians">
+        <viz:size value="32.1128"></viz:size>
+        <viz:position x="1306.5651" y="-202.66075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="portuguese theologians">
+        <viz:size value="30.86334"></viz:size>
+        <viz:position x="63.145733" y="1313.5464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="ghanaian theologians">
+        <viz:size value="30.86334"></viz:size>
+        <viz:position x="723.49945" y="-505.6729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="dominican theologians">
+        <viz:size value="30.86334"></viz:size>
+        <viz:position x="259.7691" y="551.50134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="existentialist theologians">
+        <viz:size value="30.86334"></viz:size>
+        <viz:position x="-10.438177" y="-523.93805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="7th-century theologians">
+        <viz:size value="30.86334"></viz:size>
+        <viz:position x="294.34457" y="808.0059"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="3rd-century theologians">
+        <viz:size value="29.613884"></viz:size>
+        <viz:position x="655.30334" y="-1172.6865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="mennonite theologians">
+        <viz:size value="29.613884"></viz:size>
+        <viz:position x="-1268.6569" y="345.4935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="south african theologians">
+        <viz:size value="28.156183"></viz:size>
+        <viz:position x="-98.15887" y="-768.04584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="brazilian theologians">
+        <viz:size value="28.156183"></viz:size>
+        <viz:position x="-43.159775" y="33.487114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="old catholic theologians">
+        <viz:size value="28.156183"></viz:size>
+        <viz:position x="-449.42142" y="-506.24652"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="6th-century theologians">
+        <viz:size value="28.156183"></viz:size>
+        <viz:position x="12.85672" y="1080.347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="11th-century theologians">
+        <viz:size value="26.594362"></viz:size>
+        <viz:position x="-441.99484" y="776.9542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="pakistani theologians">
+        <viz:size value="24.824295"></viz:size>
+        <viz:position x="867.2901" y="-683.12823"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="turkish theologians">
+        <viz:size value="24.824295"></viz:size>
+        <viz:position x="1336.0518" y="35.30425"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="hispanic theologians">
+        <viz:size value="24.824295"></viz:size>
+        <viz:position x="720.7227" y="481.8467"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="8th-century theologians">
+        <viz:size value="24.824295"></viz:size>
+        <viz:position x="-169.68352" y="430.3493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="uruguayan theologians">
+        <viz:size value="22.845987"></viz:size>
+        <viz:position x="1013.09985" y="446.21313"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="kurdish theologians">
+        <viz:size value="22.845987"></viz:size>
+        <viz:position x="1157.15" y="-640.5608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="chinese theologians">
+        <viz:size value="22.845987"></viz:size>
+        <viz:position x="-561.44666" y="-741.9245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="argentine theologians">
+        <viz:size value="20.451195"></viz:size>
+        <viz:position x="1079.5737" y="-131.30415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="womanist theologians">
+        <viz:size value="20.451195"></viz:size>
+        <viz:position x="860.5121" y="664.81366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="9th-century theologians">
+        <viz:size value="20.451195"></viz:size>
+        <viz:position x="-472.96286" y="1246.986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="female theologians">
+        <viz:size value="20.451195"></viz:size>
+        <viz:position x="859.7935" y="-248.49075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="atheist theologians">
+        <viz:size value="20.451195"></viz:size>
+        <viz:position x="121.46291" y="-845.8184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="10th-century theologians">
+        <viz:size value="17.744034"></viz:size>
+        <viz:position x="744.3142" y="1105.6414"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="japanese theologians">
+        <viz:size value="14.4121475"></viz:size>
+        <viz:position x="-971.08435" y="-924.6915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="irish calvinist and reformed theologians">
+        <viz:size value="10.039046"></viz:size>
+        <viz:position x="-1331.3419" y="-159.88231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="mexican theologians">
+        <viz:size value="10.039046"></viz:size>
+        <viz:position x="-78.47697" y="-1325.7858"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="chilean theologians">
+        <viz:size value="10.039046"></viz:size>
+        <viz:position x="-1068.6788" y="797.04004"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="anabaptist theologians">
+        <viz:size value="10.039046"></viz:size>
+        <viz:position x="-1087.0172" y="-211.41322"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="south korean theologians">
+        <viz:size value="10.039046"></viz:size>
+        <viz:position x="988.82007" y="-428.06732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="calvinist and reformed theologians by century">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-273.00696" y="-975.58344"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="carniolan theologians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="402.18765" y="-1275.292"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="mamluk theologians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1034.3926" y="-850.8069"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="latvian theologians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-742.6353" y="-1112.7148"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="theologians from northern ireland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="886.9324" y="246.8359"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="soviet theologians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1223.7666" y="547.1295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="peruvian theologians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1082.6405" y="748.804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="belgian calvinist and reformed theologians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-832.61414" y="-620.77893"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="palestinian theologians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-505.00177" y="-1241.1755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="285.0"></edge>
+      <edge id="1" source="0" target="2" weight="228.0"></edge>
+      <edge id="2" source="3" target="4" weight="143.0"></edge>
+      <edge id="3" source="4" target="1" weight="126.0"></edge>
+      <edge id="4" source="3" target="5" weight="87.0"></edge>
+      <edge id="5" source="6" target="0" weight="75.0"></edge>
+      <edge id="6" source="4" target="2" weight="72.0"></edge>
+      <edge id="7" source="7" target="8" weight="69.0"></edge>
+      <edge id="8" source="9" target="10" weight="54.0"></edge>
+      <edge id="9" source="4" target="6" weight="51.0"></edge>
+      <edge id="10" source="9" target="3" weight="41.0"></edge>
+      <edge id="11" source="11" target="12" weight="33.0"></edge>
+      <edge id="12" source="13" target="14" weight="32.0"></edge>
+      <edge id="13" source="15" target="16" weight="30.0"></edge>
+      <edge id="14" source="7" target="17" weight="30.0"></edge>
+      <edge id="15" source="3" target="18" weight="24.0"></edge>
+      <edge id="16" source="4" target="19" weight="24.0"></edge>
+      <edge id="17" source="20" target="18" weight="23.0"></edge>
+      <edge id="18" source="0" target="21" weight="23.0"></edge>
+      <edge id="19" source="12" target="22" weight="22.0"></edge>
+      <edge id="20" source="19" target="5" weight="21.0"></edge>
+      <edge id="21" source="23" target="12" weight="21.0"></edge>
+      <edge id="22" source="5" target="24" weight="20.0"></edge>
+      <edge id="23" source="25" target="12" weight="18.0"></edge>
+      <edge id="24" source="7" target="26" weight="18.0"></edge>
+      <edge id="25" source="20" target="5" weight="18.0"></edge>
+      <edge id="26" source="24" target="18" weight="17.0"></edge>
+      <edge id="27" source="14" target="15" weight="17.0"></edge>
+      <edge id="28" source="8" target="6" weight="16.0"></edge>
+      <edge id="29" source="19" target="18" weight="15.0"></edge>
+      <edge id="30" source="27" target="18" weight="15.0"></edge>
+      <edge id="31" source="11" target="10" weight="14.0"></edge>
+      <edge id="32" source="27" target="9" weight="14.0"></edge>
+      <edge id="33" source="13" target="16" weight="13.0"></edge>
+      <edge id="34" source="28" target="22" weight="12.0"></edge>
+      <edge id="35" source="0" target="19" weight="11.0"></edge>
+      <edge id="36" source="20" target="4" weight="11.0"></edge>
+      <edge id="37" source="20" target="9" weight="10.0"></edge>
+      <edge id="38" source="29" target="30" weight="10.0"></edge>
+      <edge id="39" source="30" target="31" weight="10.0"></edge>
+      <edge id="40" source="6" target="17" weight="9.0"></edge>
+      <edge id="41" source="5" target="32" weight="9.0"></edge>
+      <edge id="42" source="33" target="18" weight="9.0"></edge>
+      <edge id="43" source="34" target="7" weight="9.0"></edge>
+      <edge id="44" source="1" target="23" weight="9.0"></edge>
+      <edge id="45" source="35" target="12" weight="8.0"></edge>
+      <edge id="46" source="4" target="27" weight="8.0"></edge>
+      <edge id="47" source="36" target="32" weight="8.0"></edge>
+      <edge id="48" source="5" target="33" weight="7.0"></edge>
+      <edge id="49" source="37" target="6" weight="7.0"></edge>
+      <edge id="50" source="27" target="38" weight="7.0"></edge>
+      <edge id="51" source="6" target="39" weight="7.0"></edge>
+      <edge id="52" source="1" target="11" weight="7.0"></edge>
+      <edge id="53" source="40" target="4" weight="7.0"></edge>
+      <edge id="54" source="41" target="5" weight="6.0"></edge>
+      <edge id="55" source="10" target="42" weight="6.0"></edge>
+      <edge id="56" source="43" target="32" weight="6.0"></edge>
+      <edge id="57" source="28" target="25" weight="6.0"></edge>
+      <edge id="58" source="5" target="27" weight="6.0"></edge>
+      <edge id="59" source="9" target="44" weight="5.0"></edge>
+      <edge id="60" source="18" target="41" weight="5.0"></edge>
+      <edge id="61" source="7" target="45" weight="5.0"></edge>
+      <edge id="62" source="25" target="1" weight="5.0"></edge>
+      <edge id="63" source="4" target="41" weight="5.0"></edge>
+      <edge id="64" source="9" target="46" weight="5.0"></edge>
+      <edge id="65" source="28" target="11" weight="5.0"></edge>
+      <edge id="66" source="25" target="10" weight="5.0"></edge>
+      <edge id="67" source="33" target="4" weight="5.0"></edge>
+      <edge id="68" source="4" target="47" weight="5.0"></edge>
+      <edge id="69" source="18" target="47" weight="5.0"></edge>
+      <edge id="70" source="7" target="11" weight="5.0"></edge>
+      <edge id="71" source="23" target="7" weight="5.0"></edge>
+      <edge id="72" source="48" target="1" weight="5.0"></edge>
+      <edge id="73" source="48" target="6" weight="5.0"></edge>
+      <edge id="74" source="9" target="19" weight="5.0"></edge>
+      <edge id="75" source="49" target="9" weight="4.0"></edge>
+      <edge id="76" source="35" target="28" weight="4.0"></edge>
+      <edge id="77" source="10" target="23" weight="4.0"></edge>
+      <edge id="78" source="28" target="50" weight="4.0"></edge>
+      <edge id="79" source="7" target="22" weight="4.0"></edge>
+      <edge id="80" source="22" target="10" weight="4.0"></edge>
+      <edge id="81" source="33" target="45" weight="4.0"></edge>
+      <edge id="82" source="10" target="35" weight="4.0"></edge>
+      <edge id="83" source="15" target="51" weight="4.0"></edge>
+      <edge id="84" source="25" target="7" weight="4.0"></edge>
+      <edge id="85" source="22" target="1" weight="3.0"></edge>
+      <edge id="86" source="6" target="52" weight="3.0"></edge>
+      <edge id="87" source="41" target="53" weight="3.0"></edge>
+      <edge id="88" source="28" target="23" weight="3.0"></edge>
+      <edge id="89" source="54" target="13" weight="3.0"></edge>
+      <edge id="90" source="55" target="12" weight="3.0"></edge>
+      <edge id="91" source="54" target="1" weight="3.0"></edge>
+      <edge id="92" source="21" target="56" weight="3.0"></edge>
+      <edge id="93" source="27" target="57" weight="3.0"></edge>
+      <edge id="94" source="58" target="33" weight="3.0"></edge>
+      <edge id="95" source="3" target="50" weight="3.0"></edge>
+      <edge id="96" source="56" target="6" weight="3.0"></edge>
+      <edge id="97" source="46" target="4" weight="3.0"></edge>
+      <edge id="98" source="18" target="59" weight="3.0"></edge>
+      <edge id="99" source="46" target="35" weight="3.0"></edge>
+      <edge id="100" source="20" target="43" weight="3.0"></edge>
+      <edge id="101" source="59" target="23" weight="3.0"></edge>
+      <edge id="102" source="60" target="49" weight="2.0"></edge>
+      <edge id="103" source="59" target="0" weight="2.0"></edge>
+      <edge id="104" source="44" target="4" weight="2.0"></edge>
+      <edge id="105" source="0" target="41" weight="2.0"></edge>
+      <edge id="106" source="61" target="62" weight="2.0"></edge>
+      <edge id="107" source="59" target="9" weight="2.0"></edge>
+      <edge id="108" source="13" target="42" weight="2.0"></edge>
+      <edge id="109" source="49" target="63" weight="2.0"></edge>
+      <edge id="110" source="15" target="50" weight="2.0"></edge>
+      <edge id="111" source="18" target="46" weight="2.0"></edge>
+      <edge id="112" source="18" target="61" weight="2.0"></edge>
+      <edge id="113" source="64" target="5" weight="2.0"></edge>
+      <edge id="114" source="7" target="35" weight="2.0"></edge>
+      <edge id="115" source="55" target="7" weight="2.0"></edge>
+      <edge id="116" source="0" target="47" weight="2.0"></edge>
+      <edge id="117" source="5" target="47" weight="2.0"></edge>
+      <edge id="118" source="46" target="65" weight="2.0"></edge>
+      <edge id="119" source="30" target="49" weight="2.0"></edge>
+      <edge id="120" source="36" target="47" weight="2.0"></edge>
+      <edge id="121" source="55" target="61" weight="2.0"></edge>
+      <edge id="122" source="24" target="66" weight="2.0"></edge>
+      <edge id="123" source="37" target="13" weight="2.0"></edge>
+      <edge id="124" source="10" target="67" weight="2.0"></edge>
+      <edge id="125" source="53" target="3" weight="2.0"></edge>
+      <edge id="126" source="21" target="68" weight="2.0"></edge>
+      <edge id="127" source="69" target="70" weight="2.0"></edge>
+      <edge id="128" source="10" target="71" weight="2.0"></edge>
+      <edge id="129" source="37" target="21" weight="2.0"></edge>
+      <edge id="130" source="64" target="36" weight="2.0"></edge>
+      <edge id="131" source="27" target="72" weight="2.0"></edge>
+      <edge id="132" source="12" target="65" weight="2.0"></edge>
+      <edge id="133" source="12" target="71" weight="2.0"></edge>
+      <edge id="134" source="50" target="10" weight="2.0"></edge>
+      <edge id="135" source="73" target="46"></edge>
+      <edge id="136" source="27" target="74"></edge>
+      <edge id="137" source="8" target="41"></edge>
+      <edge id="138" source="75" target="76"></edge>
+      <edge id="139" source="49" target="77"></edge>
+      <edge id="140" source="78" target="1"></edge>
+      <edge id="141" source="79" target="69"></edge>
+      <edge id="142" source="80" target="61"></edge>
+      <edge id="143" source="11" target="44"></edge>
+      <edge id="144" source="6" target="68"></edge>
+      <edge id="145" source="77" target="47"></edge>
+      <edge id="146" source="33" target="53"></edge>
+      <edge id="147" source="71" target="61"></edge>
+      <edge id="148" source="19" target="81"></edge>
+      <edge id="149" source="1" target="35"></edge>
+      <edge id="150" source="3" target="82"></edge>
+      <edge id="151" source="83" target="41"></edge>
+      <edge id="152" source="84" target="13"></edge>
+      <edge id="153" source="51" target="13"></edge>
+      <edge id="154" source="57" target="19"></edge>
+      <edge id="155" source="2" target="85"></edge>
+      <edge id="156" source="30" target="86"></edge>
+      <edge id="157" source="53" target="87"></edge>
+      <edge id="158" source="83" target="88"></edge>
+      <edge id="159" source="89" target="90"></edge>
+      <edge id="160" source="27" target="91"></edge>
+      <edge id="161" source="24" target="92"></edge>
+      <edge id="162" source="68" target="13"></edge>
+      <edge id="163" source="93" target="94"></edge>
+      <edge id="164" source="18" target="32"></edge>
+      <edge id="165" source="2" target="68"></edge>
+      <edge id="166" source="55" target="46"></edge>
+      <edge id="167" source="64" target="9"></edge>
+      <edge id="168" source="44" target="80"></edge>
+      <edge id="169" source="18" target="49"></edge>
+      <edge id="170" source="4" target="64"></edge>
+      <edge id="171" source="49" target="22"></edge>
+      <edge id="172" source="95" target="96"></edge>
+      <edge id="173" source="27" target="97"></edge>
+      <edge id="174" source="32" target="72"></edge>
+      <edge id="175" source="11" target="59"></edge>
+      <edge id="176" source="28" target="65"></edge>
+      <edge id="177" source="5" target="98"></edge>
+      <edge id="178" source="44" target="25"></edge>
+      <edge id="179" source="99" target="2"></edge>
+      <edge id="180" source="32" target="92"></edge>
+      <edge id="181" source="57" target="3"></edge>
+      <edge id="182" source="55" target="10"></edge>
+      <edge id="183" source="100" target="50"></edge>
+      <edge id="184" source="101" target="19"></edge>
+      <edge id="185" source="41" target="36"></edge>
+      <edge id="186" source="3" target="92"></edge>
+      <edge id="187" source="72" target="64"></edge>
+      <edge id="188" source="102" target="47"></edge>
+      <edge id="189" source="19" target="102"></edge>
+      <edge id="190" source="55" target="19"></edge>
+      <edge id="191" source="0" target="32"></edge>
+      <edge id="192" source="2" target="57"></edge>
+      <edge id="193" source="74" target="32"></edge>
+      <edge id="194" source="51" target="7"></edge>
+      <edge id="195" source="49" target="14"></edge>
+      <edge id="196" source="103" target="3"></edge>
+      <edge id="197" source="96" target="19"></edge>
+      <edge id="198" source="101" target="15"></edge>
+      <edge id="199" source="68" target="19"></edge>
+      <edge id="200" source="24" target="72"></edge>
+      <edge id="201" source="8" target="104"></edge>
+      <edge id="202" source="7" target="65"></edge>
+      <edge id="203" source="19" target="105"></edge>
+      <edge id="204" source="17" target="47"></edge>
+      <edge id="205" source="49" target="23"></edge>
+      <edge id="206" source="15" target="76"></edge>
+      <edge id="207" source="27" target="106"></edge>
+      <edge id="208" source="78" target="15"></edge>
+      <edge id="209" source="49" target="52"></edge>
+      <edge id="210" source="38" target="24"></edge>
+      <edge id="211" source="107" target="47"></edge>
+      <edge id="212" source="24" target="108"></edge>
+      <edge id="213" source="57" target="46"></edge>
+      <edge id="214" source="109" target="69"></edge>
+      <edge id="215" source="2" target="110"></edge>
+      <edge id="216" source="74" target="33"></edge>
+      <edge id="217" source="5" target="44"></edge>
+    </edges>
+  </graph>
+</gexf>

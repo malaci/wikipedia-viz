@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="2" label="american drummers">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="234.32967" y="0.77618223"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="rock drummers">
+        <viz:size value="94.27005"></viz:size>
+        <viz:position x="-309.4716" y="129.46657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="male drummers">
+        <viz:size value="87.50685"></viz:size>
+        <viz:position x="49.916355" y="512.49023"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="jazz drummers">
+        <viz:size value="87.225044"></viz:size>
+        <viz:position x="463.3601" y="-109.48806"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="english drummers">
+        <viz:size value="83.185905"></viz:size>
+        <viz:position x="1087.5599" y="363.51752"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="20th-century drummers">
+        <viz:size value="79.8043"></viz:size>
+        <viz:position x="192.22137" y="-304.88187"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="heavy metal drummers">
+        <viz:size value="76.7045"></viz:size>
+        <viz:position x="-602.4192" y="111.30673"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="norwegian drummers">
+        <viz:size value="69.94129"></viz:size>
+        <viz:position x="-131.76651" y="-835.36053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="canadian drummers">
+        <viz:size value="68.62622"></viz:size>
+        <viz:position x="491.20752" y="736.46204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="21st-century drummers">
+        <viz:size value="67.40508"></viz:size>
+        <viz:position x="-65.08364" y="-301.33173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="australian drummers">
+        <viz:size value="65.52641"></viz:size>
+        <viz:position x="576.7815" y="998.2784"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="female drummers">
+        <viz:size value="59.60861"></viz:size>
+        <viz:position x="-237.5493" y="570.73895"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="british drummers">
+        <viz:size value="58.669273"></viz:size>
+        <viz:position x="-21.933989" y="839.93335"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="german drummers">
+        <viz:size value="58.29354"></viz:size>
+        <viz:position x="348.38675" y="496.75003"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="swedish drummers">
+        <viz:size value="55.28767"></viz:size>
+        <viz:position x="-527.5958" y="677.3551"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="scottish drummers">
+        <viz:size value="54.630135"></viz:size>
+        <viz:position x="315.1915" y="1067.0635"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="african-american drummers">
+        <viz:size value="52.375732"></viz:size>
+        <viz:position x="193.77509" y="247.57433"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="blues drummers">
+        <viz:size value="49.839527"></viz:size>
+        <viz:position x="-280.8301" y="-131.89323"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="japanese drummers">
+        <viz:size value="45.89432"></viz:size>
+        <viz:position x="-856.83795" y="222.61366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="welsh drummers">
+        <viz:size value="41.949116"></viz:size>
+        <viz:position x="-293.54056" y="842.24585"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="brazilian drummers">
+        <viz:size value="41.949116"></viz:size>
+        <viz:position x="-1065.871" y="-405.74283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="indian drummers">
+        <viz:size value="41.573383"></viz:size>
+        <viz:position x="151.8912" y="-853.7314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="italian drummers">
+        <viz:size value="41.103714"></viz:size>
+        <viz:position x="-15.7707205" y="-1122.1593"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="hard bop drummers">
+        <viz:size value="41.103714"></viz:size>
+        <viz:position x="424.60104" y="-427.88153"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="french drummers">
+        <viz:size value="39.788647"></viz:size>
+        <viz:position x="-859.81036" y="-67.97228"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="irish drummers">
+        <viz:size value="38.75538"></viz:size>
+        <viz:position x="-279.9442" y="-1079.9974"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="swing drummers">
+        <viz:size value="38.75538"></viz:size>
+        <viz:position x="655.3994" y="-564.7161"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="bebop drummers">
+        <viz:size value="38.191776"></viz:size>
+        <viz:position x="681.2505" y="44.985527"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="polish drummers">
+        <viz:size value="37.628178"></viz:size>
+        <viz:position x="65.31565" y="1122.0924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="swiss drummers">
+        <viz:size value="37.06458"></viz:size>
+        <viz:position x="912.40497" y="-97.77848"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="african drummers">
+        <viz:size value="35.84344"></viz:size>
+        <viz:position x="260.3019" y="-1111.8689"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="new zealand drummers">
+        <viz:size value="33.77691"></viz:size>
+        <viz:position x="226.78838" y="763.2075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="danish drummers">
+        <viz:size value="31.334637"></viz:size>
+        <viz:position x="-163.21825" y="-561.1478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="drummers from san francisco, california">
+        <viz:size value="30.395302"></viz:size>
+        <viz:position x="-105.77785" y="300.77963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="master drummers">
+        <viz:size value="30.395302"></viz:size>
+        <viz:position x="407.35544" y="-731.91284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="drummers from northern ireland">
+        <viz:size value="30.395302"></viz:size>
+        <viz:position x="-730.7515" y="870.9581"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="jamaican drummers">
+        <viz:size value="29.362034"></viz:size>
+        <viz:position x="-405.2878" y="-744.758"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="post-bop drummers">
+        <viz:size value="29.362034"></viz:size>
+        <viz:position x="496.0505" y="239.85794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="nu metal drummers">
+        <viz:size value="29.362034"></viz:size>
+        <viz:position x="-713.50586" y="456.716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="big band drummers">
+        <viz:size value="29.362034"></viz:size>
+        <viz:position x="686.6101" y="-273.6043"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="serbian drummers">
+        <viz:size value="27.107632"></viz:size>
+        <viz:position x="932.24554" y="-671.11475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="soul drummers">
+        <viz:size value="25.792562"></viz:size>
+        <viz:position x="-26.676992" y="2.7383573"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="austrian drummers">
+        <viz:size value="25.792562"></viz:size>
+        <viz:position x="929.0669" y="585.3159"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="nigerian drummers">
+        <viz:size value="24.383562"></viz:size>
+        <viz:position x="131.22044" y="-578.9503"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="mexican drummers">
+        <viz:size value="22.786692"></viz:size>
+        <viz:position x="-450.81448" y="374.209"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="belgian drummers">
+        <viz:size value="22.786692"></viz:size>
+        <viz:position x="-619.9691" y="-565.7149"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="czech drummers">
+        <viz:size value="21.001955"></viz:size>
+        <viz:position x="-787.4008" y="-344.66986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="spanish drummers">
+        <viz:size value="21.001955"></viz:size>
+        <viz:position x="-206.68547" y="1117.092"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="filipino drummers">
+        <viz:size value="21.001955"></viz:size>
+        <viz:position x="654.82306" y="485.66025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="dixieland drummers">
+        <viz:size value="21.001955"></viz:size>
+        <viz:position x="724.4237" y="-854.25854"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="turkish drummers">
+        <viz:size value="21.001955"></viz:size>
+        <viz:position x="-570.29156" y="-168.99539"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="jazz-funk drummers">
+        <viz:size value="16.399216"></viz:size>
+        <viz:position x="1113.6494" y="86.04813"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="soul-jazz drummers">
+        <viz:size value="16.399216"></viz:size>
+        <viz:position x="836.5634" y="263.04486"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="russian drummers">
+        <viz:size value="16.399216"></viz:size>
+        <viz:position x="-919.4054" y="-633.66565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="trinidad and tobago drummers">
+        <viz:size value="13.393346"></viz:size>
+        <viz:position x="507.88434" y="-1007.0963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="pipe band drummers">
+        <viz:size value="13.393346"></viz:size>
+        <viz:position x="-498.2335" y="1031.7603"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="greek drummers">
+        <viz:size value="9.448141"></viz:size>
+        <viz:position x="-907.5531" y="662.77606"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="bangladeshi drummers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1055.4502" y="429.40384"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="snare drummers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-395.6559" y="-405.41586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="uruguayan drummers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="966.3188" y="-423.98975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="easy pop drummers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-749.9896" y="-843.81165"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="peruvian drummers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1127.9559" y="142.9231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="bossa nova drummers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1144.0216" y="-227.39082"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="south korean drummers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="786.67444" y="797.3918"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="choro drummers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1128.4238" y="-139.15634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="latin pop drummers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-536.1179" y="-1003.0778"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="372.0"></edge>
+      <edge id="1" source="0" target="2" weight="317.0"></edge>
+      <edge id="2" source="3" target="4" weight="106.0"></edge>
+      <edge id="3" source="0" target="4" weight="79.0"></edge>
+      <edge id="4" source="5" target="3" weight="78.0"></edge>
+      <edge id="5" source="3" target="6" weight="73.0"></edge>
+      <edge id="6" source="0" target="7" weight="66.0"></edge>
+      <edge id="7" source="8" target="1" weight="62.0"></edge>
+      <edge id="8" source="9" target="1" weight="61.0"></edge>
+      <edge id="9" source="2" target="10" weight="56.0"></edge>
+      <edge id="10" source="11" target="1" weight="54.0"></edge>
+      <edge id="11" source="2" target="9" weight="47.0"></edge>
+      <edge id="12" source="3" target="2" weight="42.0"></edge>
+      <edge id="13" source="12" target="6" weight="31.0"></edge>
+      <edge id="14" source="6" target="10" weight="29.0"></edge>
+      <edge id="15" source="13" target="2" weight="28.0"></edge>
+      <edge id="16" source="12" target="2" weight="27.0"></edge>
+      <edge id="17" source="14" target="1" weight="27.0"></edge>
+      <edge id="18" source="15" target="0" weight="27.0"></edge>
+      <edge id="19" source="16" target="6" weight="25.0"></edge>
+      <edge id="20" source="16" target="2" weight="25.0"></edge>
+      <edge id="21" source="17" target="6" weight="25.0"></edge>
+      <edge id="22" source="17" target="2" weight="23.0"></edge>
+      <edge id="23" source="3" target="1" weight="22.0"></edge>
+      <edge id="24" source="4" target="10" weight="18.0"></edge>
+      <edge id="25" source="16" target="4" weight="17.0"></edge>
+      <edge id="26" source="13" target="1" weight="14.0"></edge>
+      <edge id="27" source="1" target="18" weight="14.0"></edge>
+      <edge id="28" source="1" target="10" weight="14.0"></edge>
+      <edge id="29" source="6" target="19" weight="13.0"></edge>
+      <edge id="30" source="20" target="1" weight="13.0"></edge>
+      <edge id="31" source="1" target="21" weight="13.0"></edge>
+      <edge id="32" source="19" target="2" weight="12.0"></edge>
+      <edge id="33" source="22" target="2" weight="11.0"></edge>
+      <edge id="34" source="2" target="23" weight="11.0"></edge>
+      <edge id="35" source="6" target="22" weight="11.0"></edge>
+      <edge id="36" source="17" target="4" weight="11.0"></edge>
+      <edge id="37" source="12" target="4" weight="10.0"></edge>
+      <edge id="38" source="13" target="6" weight="10.0"></edge>
+      <edge id="39" source="24" target="9" weight="10.0"></edge>
+      <edge id="40" source="25" target="2" weight="10.0"></edge>
+      <edge id="41" source="13" target="4" weight="9.0"></edge>
+      <edge id="42" source="26" target="27" weight="9.0"></edge>
+      <edge id="43" source="22" target="4" weight="7.0"></edge>
+      <edge id="44" source="25" target="1" weight="7.0"></edge>
+      <edge id="45" source="1" target="28" weight="6.0"></edge>
+      <edge id="46" source="29" target="4" weight="5.0"></edge>
+      <edge id="47" source="30" target="6" weight="5.0"></edge>
+      <edge id="48" source="30" target="2" weight="5.0"></edge>
+      <edge id="49" source="31" target="4" weight="5.0"></edge>
+      <edge id="50" source="25" target="4" weight="4.0"></edge>
+      <edge id="51" source="32" target="9" weight="4.0"></edge>
+      <edge id="52" source="0" target="24" weight="4.0"></edge>
+      <edge id="53" source="33" target="6" weight="4.0"></edge>
+      <edge id="54" source="34" target="16" weight="3.0"></edge>
+      <edge id="55" source="35" target="10" weight="2.0"></edge>
+      <edge id="56" source="0" target="36" weight="2.0"></edge>
+      <edge id="57" source="27" target="4" weight="2.0"></edge>
+      <edge id="58" source="35" target="3" weight="2.0"></edge>
+      <edge id="59" source="19" target="4" weight="2.0"></edge>
+      <edge id="60" source="37" target="27" weight="2.0"></edge>
+      <edge id="61" source="34" target="22" weight="2.0"></edge>
+      <edge id="62" source="6" target="28" weight="2.0"></edge>
+      <edge id="63" source="38" target="4" weight="2.0"></edge>
+      <edge id="64" source="30" target="39" weight="2.0"></edge>
+      <edge id="65" source="39" target="12" weight="2.0"></edge>
+      <edge id="66" source="23" target="7" weight="2.0"></edge>
+      <edge id="67" source="18" target="6" weight="2.0"></edge>
+      <edge id="68" source="23" target="6"></edge>
+      <edge id="69" source="40" target="22"></edge>
+      <edge id="70" source="40" target="19"></edge>
+      <edge id="71" source="15" target="18"></edge>
+      <edge id="72" source="2" target="41"></edge>
+      <edge id="73" source="42" target="12"></edge>
+      <edge id="74" source="0" target="43"></edge>
+      <edge id="75" source="25" target="6"></edge>
+      <edge id="76" source="44" target="9"></edge>
+      <edge id="77" source="45" target="18"></edge>
+      <edge id="78" source="1" target="23"></edge>
+      <edge id="79" source="0" target="46"></edge>
+      <edge id="80" source="47" target="18"></edge>
+      <edge id="81" source="35" target="27"></edge>
+      <edge id="82" source="48" target="9"></edge>
+      <edge id="83" source="39" target="19"></edge>
+      <edge id="84" source="49" target="6"></edge>
+      <edge id="85" source="13" target="36"></edge>
+      <edge id="86" source="2" target="18"></edge>
+      <edge id="87" source="6" target="27"></edge>
+      <edge id="88" source="50" target="9"></edge>
+      <edge id="89" source="0" target="42"></edge>
+      <edge id="90" source="6" target="51"></edge>
+      <edge id="91" source="46" target="9"></edge>
+      <edge id="92" source="52" target="6"></edge>
+      <edge id="93" source="53" target="24"></edge>
+      <edge id="94" source="54" target="9"></edge>
+      <edge id="95" source="1" target="19"></edge>
+      <edge id="96" source="55" target="56"></edge>
+      <edge id="97" source="57" target="4"></edge>
+      <edge id="98" source="58" target="2"></edge>
+      <edge id="99" source="59" target="60"></edge>
+      <edge id="100" source="40" target="28"></edge>
+      <edge id="101" source="61" target="1"></edge>
+      <edge id="102" source="62" target="9"></edge>
+      <edge id="103" source="63" target="4"></edge>
+      <edge id="104" source="1" target="22"></edge>
+      <edge id="105" source="64" target="65"></edge>
+    </edges>
+  </graph>
+</gexf>

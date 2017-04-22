@@ -1,0 +1,2543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="269" label="years in literature">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-17.59831" y="1243.0791"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="american literature">
+        <viz:size value="95.80328"></viz:size>
+        <viz:position x="450.01044" y="-630.04736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="english literature">
+        <viz:size value="94.01968"></viz:size>
+        <viz:position x="-722.4932" y="-358.52563"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="medieval literature">
+        <viz:size value="93.180336"></viz:size>
+        <viz:position x="-145.098" y="-57.433956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="royal society of literature">
+        <viz:size value="92.23607"></viz:size>
+        <viz:position x="-1488.2286" y="1077.4547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="young adult literature">
+        <viz:size value="91.1869"></viz:size>
+        <viz:position x="-1031.1779" y="1436.9066"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="children s literature">
+        <viz:size value="89.92787"></viz:size>
+        <viz:position x="-384.42844" y="-812.98627"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="philosophical literature">
+        <viz:size value="84.89181"></viz:size>
+        <viz:position x="-922.605" y="-50.10759"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="242" label="australian literature">
+        <viz:size value="80.485245"></viz:size>
+        <viz:position x="-927.74286" y="1686.483"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="british literature">
+        <viz:size value="80.1705"></viz:size>
+        <viz:position x="303.0052" y="327.0184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="literature featuring anthropomorphic characters">
+        <viz:size value="80.1705"></viz:size>
+        <viz:position x="1594.9618" y="181.25244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="latin literature">
+        <viz:size value="79.64591"></viz:size>
+        <viz:position x="32.48933" y="-428.26678"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="ancient literature">
+        <viz:size value="79.331154"></viz:size>
+        <viz:position x="-1078.4424" y="-694.2944"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="187" label="20th-century literature">
+        <viz:size value="77.12788"></viz:size>
+        <viz:position x="1019.96014" y="-986.012"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="176" label="german literature">
+        <viz:size value="77.02296"></viz:size>
+        <viz:position x="610.0262" y="1249.6406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="french literature">
+        <viz:size value="76.0787"></viz:size>
+        <viz:position x="929.5971" y="367.3722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="contemporary literature">
+        <viz:size value="75.44918"></viz:size>
+        <viz:position x="-1266.8846" y="-78.24828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="irish literature">
+        <viz:size value="74.92459"></viz:size>
+        <viz:position x="-53.432774" y="-231.01472"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="child characters in literature">
+        <viz:size value="74.50492"></viz:size>
+        <viz:position x="59.647224" y="1934.4344"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="indian literature">
+        <viz:size value="74.40001"></viz:size>
+        <viz:position x="-654.0278" y="548.97705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="persian literature">
+        <viz:size value="71.986885"></viz:size>
+        <viz:position x="-334.39142" y="1284.0167"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="19th-century literature">
+        <viz:size value="71.462296"></viz:size>
+        <viz:position x="286.50168" y="1392.4373"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="183" label="japanese literature">
+        <viz:size value="71.462296"></viz:size>
+        <viz:position x="-1011.8273" y="117.12663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="kannada literature">
+        <viz:size value="70.937706"></viz:size>
+        <viz:position x="-312.88318" y="542.7278"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="arthurian literature">
+        <viz:size value="70.203285"></viz:size>
+        <viz:position x="224.89993" y="-92.00865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="251" label="non-fiction literature">
+        <viz:size value="70.203285"></viz:size>
+        <viz:position x="-577.38025" y="-808.89667"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="history of literature">
+        <viz:size value="70.098366"></viz:size>
+        <viz:position x="255.66293" y="488.90277"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="246" label="philatelic literature">
+        <viz:size value="69.99345"></viz:size>
+        <viz:position x="905.7655" y="-1152.991"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="scottish literature">
+        <viz:size value="69.46886"></viz:size>
+        <viz:position x="319.596" y="-267.24323"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="greek literature">
+        <viz:size value="68.73443"></viz:size>
+        <viz:position x="531.5705" y="-1689.9056"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="chinese literature">
+        <viz:size value="68.5246"></viz:size>
+        <viz:position x="-1184.3049" y="926.0331"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="409" label="carnegie medal in literature">
+        <viz:size value="68.314766"></viz:size>
+        <viz:position x="1812.9979" y="-672.93896"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="nordic literature">
+        <viz:size value="66.8459"></viz:size>
+        <viz:position x="642.16064" y="805.2958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="obscenity controversies in literature">
+        <viz:size value="66.74099"></viz:size>
+        <viz:position x="1070.9438" y="-1617.2891"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="modern literature">
+        <viz:size value="66.00656"></viz:size>
+        <viz:position x="-1779.494" y="-134.60712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="welsh literature">
+        <viz:size value="66.00656"></viz:size>
+        <viz:position x="342.9157" y="15.0356865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="nobel laureates in literature">
+        <viz:size value="65.0623"></viz:size>
+        <viz:position x="-1647.7161" y="1053.7935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="230" label="literature first published in serial form">
+        <viz:size value="65.0623"></viz:size>
+        <viz:position x="-1768.0437" y="32.93969"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="414" label="rabbinic literature">
+        <viz:size value="64.74754"></viz:size>
+        <viz:position x="-375.8486" y="1676.4076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="christian literature">
+        <viz:size value="64.537704"></viz:size>
+        <viz:position x="-1788.7576" y="-694.204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="postcolonial literature">
+        <viz:size value="64.32787"></viz:size>
+        <viz:position x="1386.0634" y="-47.74122"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="jewish literature">
+        <viz:size value="64.32787"></viz:size>
+        <viz:position x="1004.159" y="-1457.7544"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="italian literature">
+        <viz:size value="64.32787"></viz:size>
+        <viz:position x="1337.2893" y="-774.1308"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="350" label="bengali literature">
+        <viz:size value="64.22295"></viz:size>
+        <viz:position x="-1494.5962" y="1250.1855"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="186" label="polish literature">
+        <viz:size value="63.908203"></viz:size>
+        <viz:position x="-713.2834" y="718.33594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="irish-language literature">
+        <viz:size value="63.698368"></viz:size>
+        <viz:position x="52.069836" y="544.06464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="pigs in literature">
+        <viz:size value="63.173775"></viz:size>
+        <viz:position x="1534.7744" y="326.04742"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="egyptian literature">
+        <viz:size value="63.06886"></viz:size>
+        <viz:position x="-1241.1061" y="-744.6499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="368" label="tamil literature">
+        <viz:size value="62.7541"></viz:size>
+        <viz:position x="1763.7052" y="-237.03642"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="385" label="political literature">
+        <viz:size value="62.43935"></viz:size>
+        <viz:position x="1942.6158" y="89.3269"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="norwegian literature">
+        <viz:size value="62.229515"></viz:size>
+        <viz:position x="726.5872" y="673.5705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="lgbt literature">
+        <viz:size value="62.124596"></viz:size>
+        <viz:position x="-715.2836" y="-1224.75"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="415" label="literature websites">
+        <viz:size value="61.495087"></viz:size>
+        <viz:position x="673.39716" y="-1588.7168"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="416" label="minor planets named from literature">
+        <viz:size value="61.28525"></viz:size>
+        <viz:position x="915.5851" y="-1314.6509"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="199" label="arabic literature">
+        <viz:size value="59.501644"></viz:size>
+        <viz:position x="833.497" y="985.5551"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="canadian literature">
+        <viz:size value="59.29181"></viz:size>
+        <viz:position x="-1216.5676" y="1500.3619"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="378" label="spanish literature">
+        <viz:size value="59.29181"></viz:size>
+        <viz:position x="1095.1504" y="1418.5698"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="417" label="swedish literature">
+        <viz:size value="59.29181"></viz:size>
+        <viz:position x="111.017" y="1532.9193"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="285" label="literature lists">
+        <viz:size value="59.08197"></viz:size>
+        <viz:position x="750.6014" y="1365.493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="360" label="sunni literature">
+        <viz:size value="58.872135"></viz:size>
+        <viz:position x="1274.5928" y="959.9426"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="cognitive science literature">
+        <viz:size value="58.872135"></viz:size>
+        <viz:position x="-1487.9742" y="-296.88492"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="dogs in literature">
+        <viz:size value="58.6623"></viz:size>
+        <viz:position x="1717.3667" y="495.10593"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="proletarian literature">
+        <viz:size value="58.24263"></viz:size>
+        <viz:position x="1358.8741" y="1376.7131"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="418" label="patrons of literature">
+        <viz:size value="58.24263"></viz:size>
+        <viz:position x="-838.81067" y="1142.2174"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="crusade literature">
+        <viz:size value="58.032795"></viz:size>
+        <viz:position x="-97.884544" y="-602.6057"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="african-american literature">
+        <viz:size value="58.032795"></viz:size>
+        <viz:position x="242.48547" y="-1424.5607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="russian literature">
+        <viz:size value="58.032795"></viz:size>
+        <viz:position x="-550.8505" y="-1708.6216"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="fantasy literature">
+        <viz:size value="57.822956"></viz:size>
+        <viz:position x="-340.7153" y="-1057.8538"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="literature by women">
+        <viz:size value="57.403286"></viz:size>
+        <viz:position x="-204.13588" y="-1450.9716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="pakistani literature">
+        <viz:size value="56.668854"></viz:size>
+        <viz:position x="-368.24716" y="754.2589"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="icelandic literature">
+        <viz:size value="56.668854"></viz:size>
+        <viz:position x="-16.014889" y="157.21068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="renaissance literature">
+        <viz:size value="56.45902"></viz:size>
+        <viz:position x="-119.093636" y="519.1769"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="comparative literature">
+        <viz:size value="56.249187"></viz:size>
+        <viz:position x="-455.6101" y="74.344154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="273" label="bdsm literature">
+        <viz:size value="55.514755"></viz:size>
+        <viz:position x="-1479.3118" y="-1014.1034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="18th-century literature">
+        <viz:size value="55.200005"></viz:size>
+        <viz:position x="223.64223" y="1195.475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="393" label="holocaust literature">
+        <viz:size value="54.99017"></viz:size>
+        <viz:position x="1566.4739" y="820.21533"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="wisdom literature">
+        <viz:size value="54.99017"></viz:size>
+        <viz:position x="-982.1006" y="-831.827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="philosophy of religion literature">
+        <viz:size value="54.67541"></viz:size>
+        <viz:position x="-1186.3494" y="250.48592"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="302" label="dutch literature">
+        <viz:size value="54.67541"></viz:size>
+        <viz:position x="936.3446" y="176.24376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="metaphysics literature">
+        <viz:size value="54.67541"></viz:size>
+        <viz:position x="-1151.2019" y="-378.0561"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="philosophy of science literature">
+        <viz:size value="54.46558"></viz:size>
+        <viz:position x="-1340.4895" y="-378.29608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="205" label="feminist literature">
+        <viz:size value="54.46558"></viz:size>
+        <viz:position x="-244.63933" y="-916.82996"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="sufi literature">
+        <viz:size value="53.626232"></viz:size>
+        <viz:position x="-668.61755" y="1255.9829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="old norse literature">
+        <viz:size value="53.311478"></viz:size>
+        <viz:position x="-112.25162" y="-401.50748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="welsh-language literature">
+        <viz:size value="52.996723"></viz:size>
+        <viz:position x="298.95297" y="168.03523"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="literature by language">
+        <viz:size value="52.996723"></viz:size>
+        <viz:position x="55.134914" y="389.0986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="227" label="electronic literature">
+        <viz:size value="52.68197"></viz:size>
+        <viz:position x="1409.9033" y="-936.4485"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="cats in literature">
+        <viz:size value="52.052464"></viz:size>
+        <viz:position x="1731.3872" y="325.4298"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="316" label="asian-american literature">
+        <viz:size value="51.73771"></viz:size>
+        <viz:position x="-507.46146" y="1318.2834"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="akkadian literature">
+        <viz:size value="51.73771"></viz:size>
+        <viz:position x="-1144.397" y="-907.7571"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="epistemology literature">
+        <viz:size value="51.422955"></viz:size>
+        <viz:position x="-1103.5505" y="-55.183594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="yiddish literature">
+        <viz:size value="51.422955"></viz:size>
+        <viz:position x="1122.6287" y="-1332.3341"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="sanskrit literature">
+        <viz:size value="51.422955"></viz:size>
+        <viz:position x="-203.16068" y="675.0802"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="devotional literature">
+        <viz:size value="51.108196"></viz:size>
+        <viz:position x="-1741.969" y="-851.0153"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="faroese literature">
+        <viz:size value="51.108196"></viz:size>
+        <viz:position x="-488.32504" y="-967.86017"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="aesthetics literature">
+        <viz:size value="50.793446"></viz:size>
+        <viz:position x="-1351.9707" y="407.71457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="173" label="byzantine literature">
+        <viz:size value="50.793446"></viz:size>
+        <viz:position x="-1291.7103" y="-999.46185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="296" label="shia literature">
+        <viz:size value="50.05902"></viz:size>
+        <viz:position x="-1943.0233" y="-3.7672405"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="anglo-norman literature">
+        <viz:size value="50.05902"></viz:size>
+        <viz:position x="471.5034" y="165.61108"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="401" label="hindi literature">
+        <viz:size value="49.324593"></viz:size>
+        <viz:position x="-880.4705" y="-1531.0245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="323" label="hiv aids in literature">
+        <viz:size value="49.324593"></viz:size>
+        <viz:position x="1892.9231" y="-342.29422"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="national book award for young people s literature winners">
+        <viz:size value="49.324593"></viz:size>
+        <viz:position x="674.8688" y="-913.0159"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="355" label="telugu literature">
+        <viz:size value="49.324593"></viz:size>
+        <viz:position x="-1856.5298" y="-543.0077"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="song dynasty literature">
+        <viz:size value="49.00984"></viz:size>
+        <viz:position x="-1186.0906" y="749.96356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="371" label="serbian literature">
+        <viz:size value="48.590168"></viz:size>
+        <viz:position x="627.3035" y="-1836.2184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="analytic philosophy literature">
+        <viz:size value="48.590168"></viz:size>
+        <viz:position x="-1233.3662" y="-239.75084"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="literature educators">
+        <viz:size value="48.590168"></viz:size>
+        <viz:position x="-877.8477" y="-661.87177"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="marathi literature">
+        <viz:size value="48.170498"></viz:size>
+        <viz:position x="-810.369" y="414.9556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="catalan literature">
+        <viz:size value="48.170498"></viz:size>
+        <viz:position x="69.37851" y="-1937.5308"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="292" label="erotic literature">
+        <viz:size value="48.170498"></viz:size>
+        <viz:position x="-1161.3208" y="-1140.1422"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="212" label="hebrew literature">
+        <viz:size value="47.750824"></viz:size>
+        <viz:position x="122.29266" y="1721.8401"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="202" label="legal literature">
+        <viz:size value="47.750824"></viz:size>
+        <viz:position x="1573.0974" y="-1127.2246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="171" label="assamese literature">
+        <viz:size value="47.750824"></viz:size>
+        <viz:position x="-685.38214" y="-971.7509"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="379" label="13th-century literature">
+        <viz:size value="47.750824"></viz:size>
+        <viz:position x="-595.5199" y="-506.24484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="philosophy of mind literature">
+        <viz:size value="47.33115"></viz:size>
+        <viz:position x="-1406.6497" y="-144.78601"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="foxes in literature">
+        <viz:size value="46.911484"></viz:size>
+        <viz:position x="1544.7362" y="493.27896"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="european literature">
+        <viz:size value="46.911484"></viz:size>
+        <viz:position x="530.18353" y="635.37756"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="malay literature">
+        <viz:size value="46.911484"></viz:size>
+        <viz:position x="1271.525" y="70.72101"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="217" label="korean literature">
+        <viz:size value="46.911484"></viz:size>
+        <viz:position x="422.58185" y="1893.8948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="12th-century literature">
+        <viz:size value="46.38689"></viz:size>
+        <viz:position x="-262.99524" y="-556.3829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="397" label="apocalyptic literature">
+        <viz:size value="46.38689"></viz:size>
+        <viz:position x="-380.58282" y="-1737.5757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="occitan literature">
+        <viz:size value="45.967216"></viz:size>
+        <viz:position x="260.65738" y="-1925.4697"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="tang dynasty literature">
+        <viz:size value="45.967216"></viz:size>
+        <viz:position x="-999.5893" y="1048.6652"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="evolutionary biology literature">
+        <viz:size value="45.967216"></viz:size>
+        <viz:position x="-990.94836" y="-524.23615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="cyborgs in literature">
+        <viz:size value="45.442623"></viz:size>
+        <viz:position x="1332.125" y="-1395.3547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="17th-century literature">
+        <viz:size value="45.442623"></viz:size>
+        <viz:position x="198.21272" y="997.27576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="decadent literature">
+        <viz:size value="45.442623"></viz:size>
+        <viz:position x="922.9284" y="-1698.855"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="ethics literature">
+        <viz:size value="45.02295"></viz:size>
+        <viz:position x="-1354.3966" y="-553.83954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="240" label="philippine literature">
+        <viz:size value="45.02295"></viz:size>
+        <viz:position x="938.2289" y="-1.4829193"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="urdu literature">
+        <viz:size value="45.02295"></viz:size>
+        <viz:position x="-153.69876" y="1144.4329"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="indonesian literature">
+        <viz:size value="45.02295"></viz:size>
+        <viz:position x="1104.9146" y="99.75015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="caribbean literature">
+        <viz:size value="44.498367"></viz:size>
+        <viz:position x="187.94559" y="-748.3317"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="malayalam literature">
+        <viz:size value="44.498367"></viz:size>
+        <viz:position x="-5.697741" y="701.1134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="bulgarian literature">
+        <viz:size value="44.498367"></viz:size>
+        <viz:position x="-114.830894" y="322.40567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="classical literature">
+        <viz:size value="44.498367"></viz:size>
+        <viz:position x="-843.5102" y="-246.4665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="mexican-american literature">
+        <viz:size value="44.498367"></viz:size>
+        <viz:position x="497.5531" y="-1238.5458"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="literature of karnataka">
+        <viz:size value="44.498367"></viz:size>
+        <viz:position x="-282.65878" y="374.8236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="21st-century literature">
+        <viz:size value="44.498367"></viz:size>
+        <viz:position x="867.7782" y="-874.2158"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="german-language literature">
+        <viz:size value="43.973774"></viz:size>
+        <viz:position x="457.90466" y="1336.0045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="210" label="parallel literature">
+        <viz:size value="43.973774"></viz:size>
+        <viz:position x="1336.8282" y="-554.4288"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="389" label="estonian literature">
+        <viz:size value="43.973774"></viz:size>
+        <viz:position x="385.77292" y="722.76935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="339" label="invasion literature">
+        <viz:size value="43.344265"></viz:size>
+        <viz:position x="454.8457" y="1703.7852"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="portuguese literature">
+        <viz:size value="43.344265"></viz:size>
+        <viz:position x="916.19116" y="1701.9893"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="qing dynasty literature">
+        <viz:size value="43.344265"></viz:size>
+        <viz:position x="-854.293" y="930.2296"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="288" label="african literature">
+        <viz:size value="43.344265"></viz:size>
+        <viz:position x="1083.6222" y="280.00375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="ming dynasty literature">
+        <viz:size value="42.819675"></viz:size>
+        <viz:position x="-1157.456" y="1119.9109"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="265" label="non-islamic islam studies literature">
+        <viz:size value="42.819675"></viz:size>
+        <viz:position x="-863.9965" y="-955.5968"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="logic literature">
+        <viz:size value="42.819675"></viz:size>
+        <viz:position x="-977.64026" y="-351.69827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="spanish-language literature">
+        <viz:size value="42.819675"></viz:size>
+        <viz:position x="306.54608" y="-952.4072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="221" label="turkish literature">
+        <viz:size value="42.190166"></viz:size>
+        <viz:position x="-181.76433" y="1334.0096"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="robots in literature">
+        <viz:size value="42.190166"></viz:size>
+        <viz:position x="-547.13275" y="1676.6633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="175" label="postmodern literature">
+        <viz:size value="42.190166"></viz:size>
+        <viz:position x="1142.0396" y="-487.56134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="islamic literature">
+        <viz:size value="42.190166"></viz:size>
+        <viz:position x="-699.41754" y="1427.7184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="social philosophy literature">
+        <viz:size value="41.560658"></viz:size>
+        <viz:position x="-1610.3832" y="-177.56845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="pedophilia in literature">
+        <viz:size value="41.560658"></viz:size>
+        <viz:position x="-1038.647" y="-1425.3622"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="208" label="ducks in literature">
+        <viz:size value="41.560658"></viz:size>
+        <viz:position x="1917.4039" y="261.17865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="national book award for young people s literature winning works">
+        <viz:size value="40.931152"></viz:size>
+        <viz:position x="-448.64786" y="-1194.6398"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="sidekicks in literature">
+        <viz:size value="40.931152"></viz:size>
+        <viz:position x="-37.511116" y="1796.5519"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="brazilian literature">
+        <viz:size value="40.931152"></viz:size>
+        <viz:position x="1072.2563" y="1616.5265"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="297" label="finnish literature">
+        <viz:size value="40.931152"></viz:size>
+        <viz:position x="-621.587" y="1838.0829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="austrian literature">
+        <viz:size value="40.301643"></viz:size>
+        <viz:position x="435.11484" y="1521.2772"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="philosophy of language literature">
+        <viz:size value="40.301643"></viz:size>
+        <viz:position x="-1226.5314" y="79.66596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="342" label="czech literature">
+        <viz:size value="39.567215"></viz:size>
+        <viz:position x="1358.1161" y="1127.2488"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="indic literature societies">
+        <viz:size value="39.567215"></viz:size>
+        <viz:position x="-844.8735" y="-1128.5724"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="391" label="buddhist literature">
+        <viz:size value="38.83279"></viz:size>
+        <viz:position x="1651.0533" y="668.2362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="bangladeshi literature">
+        <viz:size value="38.83279"></viz:size>
+        <viz:position x="-845.7052" y="589.3232"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="iranian literature">
+        <viz:size value="38.83279"></viz:size>
+        <viz:position x="-369.3535" y="1472.3469"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="392" label="encyclopedias of literature">
+        <viz:size value="38.83279"></viz:size>
+        <viz:position x="266.33246" y="-1599.9233"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="religious literature">
+        <viz:size value="38.83279"></viz:size>
+        <viz:position x="-858.118" y="248.36458"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="faith-based literature">
+        <viz:size value="38.098362"></viz:size>
+        <viz:position x="-1656.4734" y="-1005.6962"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="psychedelic literature">
+        <viz:size value="38.098362"></viz:size>
+        <viz:position x="-1357.3562" y="242.59125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="306" label="gujarati literature">
+        <viz:size value="38.098362"></viz:size>
+        <viz:position x="-592.78546" y="5.443049"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="410" label="ukrainian literature">
+        <viz:size value="38.098362"></viz:size>
+        <viz:position x="-488.36282" y="251.31569"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="309" label="sumerian literature">
+        <viz:size value="38.098362"></viz:size>
+        <viz:position x="-1373.6736" y="-857.7318"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="albanian literature">
+        <viz:size value="37.25902"></viz:size>
+        <viz:position x="624.9874" y="485.83167"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="185" label="mongolian literature">
+        <viz:size value="37.25902"></viz:size>
+        <viz:position x="-469.5834" y="625.29926"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="192" label="teenage pregnancy in literature">
+        <viz:size value="37.25902"></viz:size>
+        <viz:position x="1714.7358" y="-489.5839"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="341" label="entomological literature">
+        <viz:size value="36.419678"></viz:size>
+        <viz:position x="-1305.2247" y="-1427.5364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="326" label="hungarian literature">
+        <viz:size value="36.419678"></viz:size>
+        <viz:position x="275.9043" y="1580.4703"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="319" label="modernist literature">
+        <viz:size value="36.419678"></viz:size>
+        <viz:position x="1552.1532" y="16.015907"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="punjabi literature">
+        <viz:size value="36.419678"></viz:size>
+        <viz:position x="-554.374" y="784.10315"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="214" label="ornithological literature">
+        <viz:size value="36.419678"></viz:size>
+        <viz:position x="-218.4545" y="1738.6002"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="lesbian literature">
+        <viz:size value="36.419678"></viz:size>
+        <viz:position x="-353.00256" y="-1340.5117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="380" label="singapore literature prize">
+        <viz:size value="35.475414"></viz:size>
+        <viz:position x="1639.8086" y="-670.4907"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="chilean literature">
+        <viz:size value="35.475414"></viz:size>
+        <viz:position x="353.12164" y="-788.2594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="222" label="texas literature">
+        <viz:size value="35.475414"></viz:size>
+        <viz:position x="73.64013" y="-1432.88"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="child sexual abuse in literature">
+        <viz:size value="35.475414"></viz:size>
+        <viz:position x="-1179.4645" y="-1314.3103"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="hispanic and latino-american literature">
+        <viz:size value="35.475414"></viz:size>
+        <viz:position x="748.9618" y="-1385.8303"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="287" label="nepenthes literature">
+        <viz:size value="34.53115"></viz:size>
+        <viz:position x="1041.8176" y="1249.356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="labor literature">
+        <viz:size value="34.53115"></viz:size>
+        <viz:position x="1232.7102" y="1268.9917"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="wolves in literature">
+        <viz:size value="34.53115"></viz:size>
+        <viz:position x="1456.6227" y="630.776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="204" label="ethnographic literature">
+        <viz:size value="34.53115"></viz:size>
+        <viz:position x="-457.09396" y="-664.9497"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="320" label="odia literature">
+        <viz:size value="34.53115"></viz:size>
+        <viz:position x="-719.2604" y="-1625.8903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="androids in literature">
+        <viz:size value="34.53115"></viz:size>
+        <viz:position x="1458.1522" y="-1279.9602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="362" label="nepalese literature">
+        <viz:size value="34.53115"></viz:size>
+        <viz:position x="1015.76715" y="799.91705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="403" label="mexican literature">
+        <viz:size value="34.53115"></viz:size>
+        <viz:position x="784.71967" y="-1043.146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="264" label="literature critical of work and the work ethic">
+        <viz:size value="34.53115"></viz:size>
+        <viz:position x="-1562.4977" y="-19.00644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="phenomenology literature">
+        <viz:size value="34.53115"></viz:size>
+        <viz:position x="-1408.4951" y="62.373116"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="180" label="gender studies literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="-760.97406" y="-804.29755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="346" label="thai literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="1208.9951" y="788.33777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="ugandan literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="1439.705" y="-329.68018"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="romanian literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="1264.0597" y="-1222.8013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="304" label="kurdish literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="-171.27287" y="987.51636"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="armenian literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="-429.76157" y="-102.66032"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="201" label="copyright law literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="1654.9935" y="-988.8671"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="chicano literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="586.01074" y="-1424.2384"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="395" label="sikh literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="-531.5674" y="1498.7003"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="369" label="dalit literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="1940.3894" y="-160.27939"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="literature about literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="1192.5996" y="-679.945"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="visionary literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="-289.57922" y="9.97302"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="256" label="anglo-welsh literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="623.35583" y="216.92435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="english-language literature">
+        <viz:size value="33.48197"></viz:size>
+        <viz:position x="825.5836" y="-135.02516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="328" label="hindu literature">
+        <viz:size value="32.327873"></viz:size>
+        <viz:position x="-336.18295" y="919.54095"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="181" label="puerto rican literature">
+        <viz:size value="32.327873"></viz:size>
+        <viz:position x="577.3449" y="-521.299"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="literature related to the sexual revolution">
+        <viz:size value="32.327873"></viz:size>
+        <viz:position x="1205.3457" y="-1507.3638"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="193" label="literature about cancer">
+        <viz:size value="32.327873"></viz:size>
+        <viz:position x="1875.3212" y="-506.88336"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="272" label="working class literature">
+        <viz:size value="32.327873"></viz:size>
+        <viz:position x="-1342.9794" y="-1168.8677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="332" label="biological literature">
+        <viz:size value="31.068855"></viz:size>
+        <viz:position x="-1548.2936" y="-1173.1708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="361" label="oral literature">
+        <viz:size value="31.068855"></viz:size>
+        <viz:position x="440.57648" y="-1543.7842"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="soviet literature">
+        <viz:size value="31.068855"></viz:size>
+        <viz:position x="-697.73016" y="-1813.2678"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="241" label="sardinian literature">
+        <viz:size value="31.068855"></viz:size>
+        <viz:position x="1047.8221" y="-798.7468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="194" label="books about literature">
+        <viz:size value="31.068855"></viz:size>
+        <viz:position x="282.0769" y="-571.2959"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="301" label="lithuanian literature">
+        <viz:size value="31.068855"></viz:size>
+        <viz:position x="-855.1314" y="1331.476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="sindhi literature">
+        <viz:size value="31.068855"></viz:size>
+        <viz:position x="-508.82336" y="957.0372"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="291" label="singaporean literature">
+        <viz:size value="31.068855"></viz:size>
+        <viz:position x="-857.42084" y="-1344.521"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="245" label="peruvian literature">
+        <viz:size value="31.068855"></viz:size>
+        <viz:position x="701.35706" y="-1221.377"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="390" label="tibetan literature">
+        <viz:size value="31.068855"></viz:size>
+        <viz:position x="1835.7692" y="636.69586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="swiss literature">
+        <viz:size value="29.80984"></viz:size>
+        <viz:position x="397.38177" y="1020.48615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="357" label="space colonization literature">
+        <viz:size value="29.80984"></viz:size>
+        <viz:position x="165.94902" y="-1778.251"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="252" label="new thought literature">
+        <viz:size value="29.80984"></viz:size>
+        <viz:position x="-1453.1456" y="552.6657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="315" label="islam-related literature">
+        <viz:size value="29.80984"></viz:size>
+        <viz:position x="1271.5654" y="587.87787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="literature timelines">
+        <viz:size value="29.80984"></viz:size>
+        <viz:position x="223.46638" y="653.07904"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="228" label="science fiction literature">
+        <viz:size value="29.80984"></viz:size>
+        <viz:position x="1548.7651" y="-846.0657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="289" label="cross-dressing in literature">
+        <viz:size value="29.80984"></viz:size>
+        <viz:position x="1679.1815" y="-79.48681"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="317" label="prostitution in literature">
+        <viz:size value="29.80984"></viz:size>
+        <viz:position x="1106.3286" y="647.6685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="chinese-american literature">
+        <viz:size value="28.340984"></viz:size>
+        <viz:position x="-245.89041" y="-1623.6134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="cornish literature">
+        <viz:size value="28.340984"></viz:size>
+        <viz:position x="130.3264" y="252.82501"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="bisexuality-related literature">
+        <viz:size value="28.340984"></viz:size>
+        <viz:position x="-993.814" y="-1239.9849"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="cattle in literature">
+        <viz:size value="28.340984"></viz:size>
+        <viz:position x="1762.2375" y="156.32718"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="318" label="italian-language literature">
+        <viz:size value="28.340984"></viz:size>
+        <viz:position x="1194.675" y="-885.38257"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="352" label="literature on heraldry">
+        <viz:size value="28.340984"></viz:size>
+        <viz:position x="-1757.1044" y="249.9499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="sutra literature">
+        <viz:size value="28.340984"></viz:size>
+        <viz:position x="-802.42" y="98.44972"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="363" label="manx literature">
+        <viz:size value="28.340984"></viz:size>
+        <viz:position x="494.42197" y="876.9724"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="314" label="baroque literature">
+        <viz:size value="28.340984"></viz:size>
+        <viz:position x="384.82068" y="1188.9362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="literature of england">
+        <viz:size value="28.340984"></viz:size>
+        <viz:position x="17.969166" y="-51.648357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="327" label="professorships in literature">
+        <viz:size value="26.767216"></viz:size>
+        <viz:position x="442.83957" y="-152.47734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="382" label="yuan dynasty literature">
+        <viz:size value="26.767216"></viz:size>
+        <viz:position x="-1322.0203" y="1029.9238"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="413" label="montenegrin literature">
+        <viz:size value="26.767216"></viz:size>
+        <viz:position x="454.41928" y="-1889.5889"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="east slavic literature">
+        <viz:size value="26.767216"></viz:size>
+        <viz:position x="-233.71295" y="-201.14003"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="345" label="topics in literature">
+        <viz:size value="26.767216"></viz:size>
+        <viz:position x="-1864.1313" y="542.09357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="396" label="old church slavonic literature">
+        <viz:size value="26.767216"></viz:size>
+        <viz:position x="-315.407" y="-1913.967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="402" label="new zealand literature">
+        <viz:size value="26.767216"></viz:size>
+        <viz:position x="1136.6819" y="-270.4045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="cuban-american literature">
+        <viz:size value="26.767216"></viz:size>
+        <viz:position x="-74.54682" y="-1566.3035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="persian-language literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="-224.66151" y="1535.87"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="250" label="syrian literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="-418.64447" y="-513.62396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="172" label="demonological literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="-1159.8081" y="433.34106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="279" label="hundred years war literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="757.0844" y="329.87677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="236" label="lost literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="-681.06335" y="-651.3117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="182" label="colombian literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="-68.93557" y="-911.685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="238" label="croatian literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="-205.56747" y="-736.2253"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="178" label="swedish-language literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="-456.9669" y="1862.2247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="387" label="cuban literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="723.09265" y="-592.9608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="203" label="ottoman literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="112.633995" y="1340.1714"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="407" label="literature by medium">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="-1313.7095" y="1212.0726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="afghan literature">
+        <viz:size value="24.983608"></viz:size>
+        <viz:position x="-338.28317" y="1108.0745"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="232" label="carnivorous plant literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-1184.4875" y="-554.6208"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="211" label="judeo-arabic literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="285.01035" y="1761.9515"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="hasidic literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-1021.20123" y="290.59973"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="331" label="zoological literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-1427.893" y="-1310.2852"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="229" label="time travel literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-1727.1072" y="-304.68704"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="310" label="continental philosophy literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-1621.969" y="136.94516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="293" label="pederastic literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-1018.8229" y="-1043.2317"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="298" label="asian literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="899.37994" y="626.3421"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="275" label="kyrgyz-language literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-99.67215" y="-1322.0967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="364" label="jehovah s witnesses literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="902.6372" y="1328.9927"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="325" label="visayan literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="1576.3066" y="1109.2084"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="184" label="argentine literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="597.51074" y="-1093.5071"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="381" label="recipients of the cultural medallion for literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="1741.4587" y="-835.7185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="280" label="literature of the boy scouts of america">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-134.11328" y="1939.9104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="267" label="javanese literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-1935.1183" y="-202.10675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="manchu literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-1029.1069" y="864.6058"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="taiwanese literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-1389.3181" y="872.07874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="386" label="humanist literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="1834.1974" y="-29.636354"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="334" label="kashmiri literature">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-690.44617" y="903.0625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="literature of uttarakhand">
+        <viz:size value="22.990166"></viz:size>
+        <viz:position x="-1005.9036" y="1240.436"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="239" label="dutch-language literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="687.20483" y="3.7875383"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="monastic literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="-531.89575" y="-340.74722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="first nations literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="-1567.4962" y="892.2645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="177" label="gay literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="-557.5498" y="-1346.5054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="200" label="education literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="-1530.4984" y="-475.61484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="412" label="maltese literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="-172.70938" y="145.39087"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="406" label="italian-american literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="1522.4215" y="-494.52045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="cretan literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="359.8819" y="-1747.8135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="283" label="disability literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="-592.92944" y="-1115.3353"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="312" label="palestinian literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="960.6489" y="1095.9991"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="349" label="nobel prize in literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="-1359.511" y="1385.7893"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="190" label="biochemistry literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="1457.8923" y="965.70404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="220" label="turkic literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="-495.15552" y="1130.9015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="329" label="engineering literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="402.34082" y="-441.199"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="188" label="slovene literature">
+        <viz:size value="20.57705"></viz:size>
+        <viz:position x="1080.4287" y="-1153.5898"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="373" label="jamaican literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="191.65201" y="-1078.527"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="248" label="swahili literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="-1024.6823" y="-1639.7532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="388" label="yoruba-language literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="1199.7938" y="429.43573"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="235" label="fictional depictions of bao zheng in literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="-1357.5079" y="713.0122"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="literature of kumaon">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="-1166.08" y="1319.6063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="377" label="basque literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="1231.4293" y="1504.0597"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="258" label="16th-century literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="295.06018" y="867.52026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="384" label="mycological literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="-1531.6636" y="267.0481"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="330" label="antisemitism in literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="1469.5422" y="-671.48553"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="271" label="dominican literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="-269.79294" y="-381.8162"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="literature by nationality">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="116.663734" y="-227.23738"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="womanist literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="27.363295" y="-1092.6862"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="literature featuring anthropomorphic foxes">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="1372.4637" y="421.21634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="308" label="slovak literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="-745.1465" y="-79.890564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="261" label="guatemalan literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="247.71361" y="-1249.619"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="209" label="cornish-language literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="132.08714" y="59.905827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="295" label="ismaili literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="-1922.5663" y="169.60123"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="literature about spirituality">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="-1561.5048" y="423.49646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="284" label="literature records">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="606.22424" y="1464.3243"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="340" label="hong kong literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="614.57733" y="1655.3726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="218" label="sexology literature">
+        <viz:size value="17.84918"></viz:size>
+        <viz:position x="-146.84114" y="827.9212"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="moldovan literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="1229.4377" y="-1047.5665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="343" label="bohemian literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="1477.2697" y="1248.8877"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="263" label="uruguayan literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="530.0953" y="-789.15063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="305" label="ethiopian literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="-1246.072" y="567.5051"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="354" label="lingayat literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="-1697.8792" y="-478.02634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="359" label="angolan literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="763.6298" y="1775.3185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="174" label="late antique literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="-1427.0941" y="-701.5607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="lebanese literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="-1610.5005" y="-646.4478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="247" label="literature of al-andalus">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="1069.1359" y="951.8648"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="257" label="kenyan literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="-872.5488" y="-1731.1041"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="prakrit literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="-1793.0709" y="707.4115"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="347" label="belgian literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="785.0741" y="139.8872"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="372" label="bosnia and herzegovina literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="767.81195" y="-1753.1053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="268" label="14th-century literature">
+        <viz:size value="14.491804"></viz:size>
+        <viz:position x="3.0842593" y="930.5669"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="286" label="angika literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-1042.6744" y="640.52466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="281" label="guyanese literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="514.8301" y="-306.56833"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="244" label="abbasid literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="786.332" y="1169.436"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="358" label="environmental literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-15.46829" y="-1762.0857"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="indigenous literature of the americas">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-1732.1915" y="863.42804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="356" label="chechen literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-506.05487" y="-1878.9634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="196" label="luxembourgian literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="672.5411" y="973.16064"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="231" label="literature by topic">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-983.6309" y="476.82654"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="arab-american literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-1570.3693" y="-823.73456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="266" label="balinese literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-1896.1597" y="-373.38788"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="300" label="latvian literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-869.86816" y="1513.855"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="383" label="literature stubs">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="94.34389" y="-1608.2836"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="337" label="haitian literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="701.4013" y="-750.1515"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="224" label="senegalese literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="1524.0602" y="-182.14221"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="313" label="japanese-american literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-188.14748" y="-1781.494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="benedictine literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-803.8699" y="-496.42737"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="262" label="edinburgh literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="647.77" y="-186.51202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="216" label="chinese-language literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="594.2203" y="1845.4985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="233" label="tunisian literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="1158.0514" y="1097.4885"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="270" label="guinean literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="1011.1939" y="-584.0795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="278" label="law and literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="1408.7563" y="-1101.0195"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="398" label="salvadoran literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="879.24786" y="-700.94714"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="195" label="language and literature in anglo-saxon england">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-590.2766" y="-182.36497"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="215" label="nicaraguan literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="65.70139" y="-1257.8757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="trinidad and tobago literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-1.4034221" y="-756.135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="335" label="venezuelan literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-129.75407" y="-1079.2738"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="394" label="israeli literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="1759.4136" y="815.2024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="207" label="scots-language literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="673.3138" y="-379.19376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="276" label="russian-language literature">
+        <viz:size value="10.085247"></viz:size>
+        <viz:position x="-239.57365" y="-1207.7832"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="299" label="panamanian literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="107.57531" y="-595.77295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="375" label="valencian literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-112.79549" y="-1940.8805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="254" label="samoan literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="834.25336" y="-303.6791"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="405" label="italian-canadian literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1627.7556" y="-341.6024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="366" label="eritrean literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1272.8174" y="264.6192"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="376" label="literature databases">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-784.72845" y="1769.5618"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="225" label="costa rican literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="381.04065" y="-1124.1179"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="206" label="middle breton literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="793.2718" y="503.26422"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="370" label="vanuatuan literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1272.1263" y="-378.1299"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="399" label="9th-century literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-326.73087" y="214.40887"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="321" label="oriya literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-554.888" y="-1531.2958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="303" label="pashto literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-671.4587" y="1070.6763"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="189" label="dominican-american literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="841.00586" y="-1535.9735"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="robotics in literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-708.904" y="1611.1923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="237" label="gaelic-language literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="532.16565" y="-12.576734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="408" label="breton-language literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="844.0035" y="817.7071"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="243" label="tasmanian literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1076.2722" y="1611.752"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="234" label="turkish-language literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-50.666107" y="1451.6287"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="259" label="kodava literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-894.23914" y="753.8728"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="274" label="cook islands literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="857.91644" y="-482.38913"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="260" label="literature by continent">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="570.99524" y="1091.645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="322" label="1st-century literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1024.5596" y="-200.83093"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="290" label="5th-century literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-657.37366" y="207.8327"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="213" label="literature relating to endemism in birds">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-65.30497" y="1628.8387"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="255" label="equatoguinean literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="117.75856" y="-913.2005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="179" label="norwegian-language literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-305.3466" y="1902.5198"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="374" label="15th-century literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-465.75302" y="446.33917"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="344" label="christmas literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1734.9373" y="426.84"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="219" label="exile literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1413.1234" y="167.72159"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="411" label="antigua and barbuda literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1895.0125" y="435.4724"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="294" label="fijian literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1143.8531" y="-73.80757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="324" label="cebuano literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1671.2727" y="973.7202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="223" label="11th-century literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="132.42104" y="798.51764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="365" label="6th-century literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-393.90536" y="-268.15933"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="249" label="tanzanian literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1169.0012" y="-1543.83"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="282" label="hokkien literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1548.5969" y="724.4715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="351" label="literature on vexillology">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1908.613" y="353.0248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="348" label="solomon islands literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1290.4867" y="-188.44533"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="333" label="7th-century literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-632.41364" y="379.80942"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="353" label="works based on literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="765.2943" y="1566.9082"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="311" label="kosovan literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="507.07794" y="363.81302"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="307" label="niuean literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="999.90204" y="-377.68906"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="226" label="filipino-american literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-391.12216" y="-1519.1533"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="336" label="literature by genre">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="923.36017" y="1506.6647"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="338" label="teenage characters in literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="229.79263" y="1925.3954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="191" label="parasitology literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1385.1683" y="792.5912"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="367" label="10th-century literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="413.83884" y="514.36426"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="400" label="historical literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-714.0262" y="-1439.1752"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="paisachi literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1661.1152" y="598.76135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="middle scots literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="207.016" y="-403.79004"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="277" label="honduran literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="486.32028" y="-964.4836"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="198" label="uyghur literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="69.56304" y="1098.748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="404" label="reunionnais literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1038.9283" y="498.0723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="253" label="tongan literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="995.4302" y="-174.87569"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="197" label="bolivian literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="403.54413" y="-1363.5277"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="43.0"></edge>
+      <edge id="1" source="2" target="3" weight="41.0"></edge>
+      <edge id="2" source="4" target="5" weight="27.0"></edge>
+      <edge id="3" source="6" target="7" weight="24.0"></edge>
+      <edge id="4" source="8" target="9" weight="24.0"></edge>
+      <edge id="5" source="10" target="11" weight="21.0"></edge>
+      <edge id="6" source="1" target="2" weight="20.0"></edge>
+      <edge id="7" source="11" target="12" weight="19.0"></edge>
+      <edge id="8" source="1" target="13" weight="19.0"></edge>
+      <edge id="9" source="11" target="14" weight="17.0"></edge>
+      <edge id="10" source="1" target="15" weight="15.0"></edge>
+      <edge id="11" source="16" target="17" weight="14.0"></edge>
+      <edge id="12" source="18" target="19" weight="14.0"></edge>
+      <edge id="13" source="20" target="16" weight="14.0"></edge>
+      <edge id="14" source="21" target="22" weight="12.0"></edge>
+      <edge id="15" source="23" target="14" weight="12.0"></edge>
+      <edge id="16" source="24" target="18" weight="11.0"></edge>
+      <edge id="17" source="1" target="25" weight="11.0"></edge>
+      <edge id="18" source="18" target="26" weight="11.0"></edge>
+      <edge id="19" source="11" target="27" weight="10.0"></edge>
+      <edge id="20" source="23" target="27" weight="10.0"></edge>
+      <edge id="21" source="28" target="29" weight="10.0"></edge>
+      <edge id="22" source="30" target="31" weight="10.0"></edge>
+      <edge id="23" source="30" target="7" weight="10.0"></edge>
+      <edge id="24" source="32" target="11" weight="10.0"></edge>
+      <edge id="25" source="33" target="34" weight="9.0"></edge>
+      <edge id="26" source="32" target="23" weight="9.0"></edge>
+      <edge id="27" source="35" target="27" weight="9.0"></edge>
+      <edge id="28" source="36" target="9" weight="9.0"></edge>
+      <edge id="29" source="0" target="37" weight="9.0"></edge>
+      <edge id="30" source="3" target="0" weight="9.0"></edge>
+      <edge id="31" source="38" target="39" weight="8.0"></edge>
+      <edge id="32" source="40" target="37" weight="8.0"></edge>
+      <edge id="33" source="32" target="35" weight="7.0"></edge>
+      <edge id="34" source="41" target="7" weight="7.0"></edge>
+      <edge id="35" source="42" target="43" weight="7.0"></edge>
+      <edge id="36" source="23" target="12" weight="7.0"></edge>
+      <edge id="37" source="1" target="44" weight="7.0"></edge>
+      <edge id="38" source="10" target="23" weight="7.0"></edge>
+      <edge id="39" source="45" target="46" weight="7.0"></edge>
+      <edge id="40" source="47" target="43" weight="7.0"></edge>
+      <edge id="41" source="48" target="1" weight="7.0"></edge>
+      <edge id="42" source="41" target="49" weight="7.0"></edge>
+      <edge id="43" source="50" target="49" weight="7.0"></edge>
+      <edge id="44" source="28" target="51" weight="7.0"></edge>
+      <edge id="45" source="11" target="52" weight="6.0"></edge>
+      <edge id="46" source="53" target="54" weight="6.0"></edge>
+      <edge id="47" source="17" target="55" weight="6.0"></edge>
+      <edge id="48" source="30" target="56" weight="6.0"></edge>
+      <edge id="49" source="48" target="41" weight="6.0"></edge>
+      <edge id="50" source="31" target="50" weight="6.0"></edge>
+      <edge id="51" source="38" target="57" weight="6.0"></edge>
+      <edge id="52" source="58" target="59" weight="6.0"></edge>
+      <edge id="53" source="60" target="53" weight="6.0"></edge>
+      <edge id="54" source="1" target="55" weight="6.0"></edge>
+      <edge id="55" source="61" target="9" weight="6.0"></edge>
+      <edge id="56" source="58" target="20" weight="6.0"></edge>
+      <edge id="57" source="31" target="62" weight="5.0"></edge>
+      <edge id="58" source="56" target="41" weight="5.0"></edge>
+      <edge id="59" source="14" target="63" weight="5.0"></edge>
+      <edge id="60" source="27" target="63" weight="5.0"></edge>
+      <edge id="61" source="64" target="65" weight="5.0"></edge>
+      <edge id="62" source="66" target="67" weight="5.0"></edge>
+      <edge id="63" source="58" target="68" weight="5.0"></edge>
+      <edge id="64" source="69" target="70" weight="5.0"></edge>
+      <edge id="65" source="71" target="72" weight="5.0"></edge>
+      <edge id="66" source="73" target="18" weight="5.0"></edge>
+      <edge id="67" source="74" target="75" weight="5.0"></edge>
+      <edge id="68" source="31" target="76" weight="5.0"></edge>
+      <edge id="69" source="77" target="78" weight="5.0"></edge>
+      <edge id="70" source="79" target="20" weight="5.0"></edge>
+      <edge id="71" source="80" target="41" weight="4.0"></edge>
+      <edge id="72" source="17" target="44" weight="4.0"></edge>
+      <edge id="73" source="10" target="73" weight="4.0"></edge>
+      <edge id="74" source="11" target="81" weight="4.0"></edge>
+      <edge id="75" source="23" target="82" weight="4.0"></edge>
+      <edge id="76" source="83" target="12" weight="4.0"></edge>
+      <edge id="77" source="53" target="84" weight="4.0"></edge>
+      <edge id="78" source="85" target="86" weight="4.0"></edge>
+      <edge id="79" source="11" target="82" weight="4.0"></edge>
+      <edge id="80" source="87" target="88" weight="4.0"></edge>
+      <edge id="81" source="89" target="90" weight="4.0"></edge>
+      <edge id="82" source="69" target="89" weight="4.0"></edge>
+      <edge id="83" source="91" target="92" weight="4.0"></edge>
+      <edge id="84" source="93" target="30" weight="4.0"></edge>
+      <edge id="85" source="94" target="95" weight="4.0"></edge>
+      <edge id="86" source="23" target="52" weight="3.0"></edge>
+      <edge id="87" source="96" target="20" weight="3.0"></edge>
+      <edge id="88" source="50" target="7" weight="3.0"></edge>
+      <edge id="89" source="97" target="98" weight="3.0"></edge>
+      <edge id="90" source="99" target="100" weight="3.0"></edge>
+      <edge id="91" source="101" target="1" weight="3.0"></edge>
+      <edge id="92" source="102" target="1" weight="3.0"></edge>
+      <edge id="93" source="103" target="49" weight="3.0"></edge>
+      <edge id="94" source="34" target="49" weight="3.0"></edge>
+      <edge id="95" source="104" target="1" weight="3.0"></edge>
+      <edge id="96" source="81" target="23" weight="3.0"></edge>
+      <edge id="97" source="105" target="106" weight="3.0"></edge>
+      <edge id="98" source="107" target="44" weight="3.0"></edge>
+      <edge id="99" source="108" target="38" weight="3.0"></edge>
+      <edge id="100" source="109" target="110" weight="3.0"></edge>
+      <edge id="101" source="111" target="112" weight="3.0"></edge>
+      <edge id="102" source="72" target="113" weight="3.0"></edge>
+      <edge id="103" source="11" target="114" weight="3.0"></edge>
+      <edge id="104" source="115" target="116" weight="3.0"></edge>
+      <edge id="105" source="35" target="82" weight="3.0"></edge>
+      <edge id="106" source="105" target="70" weight="3.0"></edge>
+      <edge id="107" source="117" target="16" weight="3.0"></edge>
+      <edge id="108" source="118" target="9" weight="3.0"></edge>
+      <edge id="109" source="119" target="87" weight="3.0"></edge>
+      <edge id="110" source="45" target="120" weight="3.0"></edge>
+      <edge id="111" source="121" target="30" weight="3.0"></edge>
+      <edge id="112" source="20" target="122" weight="3.0"></edge>
+      <edge id="113" source="123" target="30" weight="3.0"></edge>
+      <edge id="114" source="124" target="101" weight="3.0"></edge>
+      <edge id="115" source="125" target="31" weight="3.0"></edge>
+      <edge id="116" source="126" target="49" weight="2.0"></edge>
+      <edge id="117" source="1" target="7" weight="2.0"></edge>
+      <edge id="118" source="13" target="127" weight="2.0"></edge>
+      <edge id="119" source="128" target="1" weight="2.0"></edge>
+      <edge id="120" source="129" target="130" weight="2.0"></edge>
+      <edge id="121" source="131" target="132" weight="2.0"></edge>
+      <edge id="122" source="36" target="133" weight="2.0"></edge>
+      <edge id="123" source="134" target="45" weight="2.0"></edge>
+      <edge id="124" source="135" target="136" weight="2.0"></edge>
+      <edge id="125" source="137" target="138" weight="2.0"></edge>
+      <edge id="126" source="139" target="140" weight="2.0"></edge>
+      <edge id="127" source="141" target="142" weight="2.0"></edge>
+      <edge id="128" source="143" target="144" weight="2.0"></edge>
+      <edge id="129" source="58" target="85" weight="2.0"></edge>
+      <edge id="130" source="55" target="145" weight="2.0"></edge>
+      <edge id="131" source="20" target="86" weight="2.0"></edge>
+      <edge id="132" source="20" target="146" weight="2.0"></edge>
+      <edge id="133" source="147" target="43" weight="2.0"></edge>
+      <edge id="134" source="148" target="149" weight="2.0"></edge>
+      <edge id="135" source="150" target="70" weight="2.0"></edge>
+      <edge id="136" source="151" target="18" weight="2.0"></edge>
+      <edge id="137" source="152" target="153" weight="2.0"></edge>
+      <edge id="138" source="11" target="154" weight="2.0"></edge>
+      <edge id="139" source="20" target="155" weight="2.0"></edge>
+      <edge id="140" source="91" target="45" weight="2.0"></edge>
+      <edge id="141" source="156" target="157" weight="2.0"></edge>
+      <edge id="142" source="103" target="158" weight="2.0"></edge>
+      <edge id="143" source="17" target="122" weight="2.0"></edge>
+      <edge id="144" source="159" target="122" weight="2.0"></edge>
+      <edge id="145" source="160" target="161" weight="2.0"></edge>
+      <edge id="146" source="31" target="162" weight="2.0"></edge>
+      <edge id="147" source="148" target="163" weight="2.0"></edge>
+      <edge id="148" source="50" target="164" weight="2.0"></edge>
+      <edge id="149" source="165" target="39" weight="2.0"></edge>
+      <edge id="150" source="162" target="38" weight="2.0"></edge>
+      <edge id="151" source="1" target="166" weight="2.0"></edge>
+      <edge id="152" source="167" target="45" weight="2.0"></edge>
+      <edge id="153" source="168" target="169" weight="2.0"></edge>
+      <edge id="154" source="101" target="17" weight="2.0"></edge>
+      <edge id="155" source="170" target="171" weight="2.0"></edge>
+      <edge id="156" source="172" target="12" weight="2.0"></edge>
+      <edge id="157" source="173" target="174" weight="2.0"></edge>
+      <edge id="158" source="61" target="99" weight="2.0"></edge>
+      <edge id="159" source="175" target="77" weight="2.0"></edge>
+      <edge id="160" source="176" target="106" weight="2.0"></edge>
+      <edge id="161" source="177" target="87" weight="2.0"></edge>
+      <edge id="162" source="178" target="179"></edge>
+      <edge id="163" source="180" target="87"></edge>
+      <edge id="164" source="17" target="181"></edge>
+      <edge id="165" source="182" target="16"></edge>
+      <edge id="166" source="183" target="93"></edge>
+      <edge id="167" source="184" target="16"></edge>
+      <edge id="168" source="185" target="186"></edge>
+      <edge id="169" source="187" target="188"></edge>
+      <edge id="170" source="68" target="189"></edge>
+      <edge id="171" source="190" target="191"></edge>
+      <edge id="172" source="192" target="193"></edge>
+      <edge id="173" source="194" target="13"></edge>
+      <edge id="174" source="195" target="53"></edge>
+      <edge id="175" source="196" target="49"></edge>
+      <edge id="176" source="16" target="197"></edge>
+      <edge id="177" source="18" target="174"></edge>
+      <edge id="178" source="198" target="199"></edge>
+      <edge id="179" source="35" target="200"></edge>
+      <edge id="180" source="201" target="202"></edge>
+      <edge id="181" source="203" target="76"></edge>
+      <edge id="182" source="204" target="205"></edge>
+      <edge id="183" source="206" target="49"></edge>
+      <edge id="184" source="207" target="13"></edge>
+      <edge id="185" source="208" target="99"></edge>
+      <edge id="186" source="185" target="60"></edge>
+      <edge id="187" source="209" target="1"></edge>
+      <edge id="188" source="137" target="210"></edge>
+      <edge id="189" source="211" target="212"></edge>
+      <edge id="190" source="213" target="214"></edge>
+      <edge id="191" source="215" target="16"></edge>
+      <edge id="192" source="204" target="180"></edge>
+      <edge id="193" source="185" target="91"></edge>
+      <edge id="194" source="41" target="146"></edge>
+      <edge id="195" source="216" target="217"></edge>
+      <edge id="196" source="218" target="56"></edge>
+      <edge id="197" source="53" target="180"></edge>
+      <edge id="198" source="11" target="93"></edge>
+      <edge id="199" source="98" target="219"></edge>
+      <edge id="200" source="220" target="221"></edge>
+      <edge id="201" source="58" target="222"></edge>
+      <edge id="202" source="220" target="38"></edge>
+      <edge id="203" source="160" target="11"></edge>
+      <edge id="204" source="223" target="41"></edge>
+      <edge id="205" source="224" target="77"></edge>
+      <edge id="206" source="225" target="16"></edge>
+      <edge id="207" source="148" target="226"></edge>
+      <edge id="208" source="227" target="228"></edge>
+      <edge id="209" source="229" target="230"></edge>
+      <edge id="210" source="231" target="30"></edge>
+      <edge id="211" source="232" target="84"></edge>
+      <edge id="212" source="233" target="199"></edge>
+      <edge id="213" source="221" target="234"></edge>
+      <edge id="214" source="45" target="235"></edge>
+      <edge id="215" source="221" target="198"></edge>
+      <edge id="216" source="236" target="18"></edge>
+      <edge id="217" source="237" target="13"></edge>
+      <edge id="218" source="17" target="238"></edge>
+      <edge id="219" source="41" target="239"></edge>
+      <edge id="220" source="146" target="240"></edge>
+      <edge id="221" source="155" target="241"></edge>
+      <edge id="222" source="242" target="243"></edge>
+      <edge id="223" source="244" target="199"></edge>
+      <edge id="224" source="245" target="246"></edge>
+      <edge id="225" source="137" target="175"></edge>
+      <edge id="226" source="90" target="55"></edge>
+      <edge id="227" source="199" target="247"></edge>
+      <edge id="228" source="185" target="220"></edge>
+      <edge id="229" source="248" target="249"></edge>
+      <edge id="230" source="107" target="250"></edge>
+      <edge id="231" source="99" target="8"></edge>
+      <edge id="232" source="195" target="128"></edge>
+      <edge id="233" source="251" target="204"></edge>
+      <edge id="234" source="160" target="252"></edge>
+      <edge id="235" source="253" target="146"></edge>
+      <edge id="236" source="98" target="239"></edge>
+      <edge id="237" source="146" target="254"></edge>
+      <edge id="238" source="16" target="255"></edge>
+      <edge id="239" source="256" target="49"></edge>
+      <edge id="240" source="257" target="248"></edge>
+      <edge id="241" source="258" target="69"></edge>
+      <edge id="242" source="259" target="30"></edge>
+      <edge id="243" source="260" target="49"></edge>
+      <edge id="244" source="261" target="16"></edge>
+      <edge id="245" source="262" target="13"></edge>
+      <edge id="246" source="263" target="16"></edge>
+      <edge id="247" source="41" target="106"></edge>
+      <edge id="248" source="23" target="264"></edge>
+      <edge id="249" source="265" target="180"></edge>
+      <edge id="250" source="266" target="267"></edge>
+      <edge id="251" source="268" target="269"></edge>
+      <edge id="252" source="204" target="171"></edge>
+      <edge id="253" source="270" target="146"></edge>
+      <edge id="254" source="1" target="271"></edge>
+      <edge id="255" source="272" target="273"></edge>
+      <edge id="256" source="69" target="203"></edge>
+      <edge id="257" source="241" target="187"></edge>
+      <edge id="258" source="274" target="146"></edge>
+      <edge id="259" source="275" target="276"></edge>
+      <edge id="260" source="277" target="16"></edge>
+      <edge id="261" source="96" target="17"></edge>
+      <edge id="262" source="96" target="60"></edge>
+      <edge id="263" source="86" target="205"></edge>
+      <edge id="264" source="202" target="278"></edge>
+      <edge id="265" source="279" target="40"></edge>
+      <edge id="266" source="115" target="280"></edge>
+      <edge id="267" source="281" target="146"></edge>
+      <edge id="268" source="167" target="282"></edge>
+      <edge id="269" source="43" target="283"></edge>
+      <edge id="270" source="284" target="285"></edge>
+      <edge id="271" source="286" target="30"></edge>
+      <edge id="272" source="287" target="285"></edge>
+      <edge id="273" source="146" target="288"></edge>
+      <edge id="274" source="289" target="9"></edge>
+      <edge id="275" source="290" target="7"></edge>
+      <edge id="276" source="87" target="291"></edge>
+      <edge id="277" source="292" target="293"></edge>
+      <edge id="278" source="146" target="294"></edge>
+      <edge id="279" source="31" target="198"></edge>
+      <edge id="280" source="295" target="296"></edge>
+      <edge id="281" source="276" target="43"></edge>
+      <edge id="282" source="86" target="119"></edge>
+      <edge id="283" source="297" target="178"></edge>
+      <edge id="284" source="41" target="298"></edge>
+      <edge id="285" source="299" target="96"></edge>
+      <edge id="286" source="300" target="301"></edge>
+      <edge id="287" source="302" target="239"></edge>
+      <edge id="288" source="303" target="31"></edge>
+      <edge id="289" source="304" target="48"></edge>
+      <edge id="290" source="305" target="12"></edge>
+      <edge id="291" source="43" target="306"></edge>
+      <edge id="292" source="307" target="146"></edge>
+      <edge id="293" source="60" target="308"></edge>
+      <edge id="294" source="309" target="18"></edge>
+      <edge id="295" source="17" target="128"></edge>
+      <edge id="296" source="310" target="81"></edge>
+      <edge id="297" source="311" target="49"></edge>
+      <edge id="298" source="256" target="2"></edge>
+      <edge id="299" source="199" target="312"></edge>
+      <edge id="300" source="229" target="111"></edge>
+      <edge id="301" source="149" target="313"></edge>
+      <edge id="302" source="298" target="288"></edge>
+      <edge id="303" source="89" target="314"></edge>
+      <edge id="304" source="199" target="315"></edge>
+      <edge id="305" source="316" target="162"></edge>
+      <edge id="306" source="258" target="41"></edge>
+      <edge id="307" source="40" target="317"></edge>
+      <edge id="308" source="198" target="203"></edge>
+      <edge id="309" source="137" target="318"></edge>
+      <edge id="310" source="319" target="77"></edge>
+      <edge id="311" source="320" target="321"></edge>
+      <edge id="312" source="103" target="128"></edge>
+      <edge id="313" source="151" target="322"></edge>
+      <edge id="314" source="48" target="268"></edge>
+      <edge id="315" source="318" target="187"></edge>
+      <edge id="316" source="192" target="323"></edge>
+      <edge id="317" source="324" target="325"></edge>
+      <edge id="318" source="150" target="326"></edge>
+      <edge id="319" source="13" target="327"></edge>
+      <edge id="320" source="56" target="328"></edge>
+      <edge id="321" source="17" target="271"></edge>
+      <edge id="322" source="146" target="256"></edge>
+      <edge id="323" source="13" target="329"></edge>
+      <edge id="324" source="330" target="138"></edge>
+      <edge id="325" source="331" target="332"></edge>
+      <edge id="326" source="333" target="7"></edge>
+      <edge id="327" source="334" target="31"></edge>
+      <edge id="328" source="18" target="293"></edge>
+      <edge id="329" source="182" target="43"></edge>
+      <edge id="330" source="30" target="185"></edge>
+      <edge id="331" source="16" target="335"></edge>
+      <edge id="332" source="77" target="315"></edge>
+      <edge id="333" source="285" target="336"></edge>
+      <edge id="334" source="11" target="271"></edge>
+      <edge id="335" source="20" target="337"></edge>
+      <edge id="336" source="115" target="338"></edge>
+      <edge id="337" source="339" target="340"></edge>
+      <edge id="338" source="331" target="341"></edge>
+      <edge id="339" source="335" target="43"></edge>
+      <edge id="340" source="342" target="343"></edge>
+      <edge id="341" source="344" target="345"></edge>
+      <edge id="342" source="346" target="298"></edge>
+      <edge id="343" source="181" target="175"></edge>
+      <edge id="344" source="100" target="133"></edge>
+      <edge id="345" source="347" target="239"></edge>
+      <edge id="346" source="50" target="96"></edge>
+      <edge id="347" source="146" target="348"></edge>
+      <edge id="348" source="40" target="347"></edge>
+      <edge id="349" source="349" target="350"></edge>
+      <edge id="350" source="20" target="239"></edge>
+      <edge id="351" source="351" target="352"></edge>
+      <edge id="352" source="281" target="96"></edge>
+      <edge id="353" source="283" target="87"></edge>
+      <edge id="354" source="299" target="16"></edge>
+      <edge id="355" source="353" target="285"></edge>
+      <edge id="356" source="354" target="355"></edge>
+      <edge id="357" source="245" target="16"></edge>
+      <edge id="358" source="38" target="198"></edge>
+      <edge id="359" source="143" target="356"></edge>
+      <edge id="360" source="41" target="185"></edge>
+      <edge id="361" source="204" target="1"></edge>
+      <edge id="362" source="357" target="358"></edge>
+      <edge id="363" source="37" target="128"></edge>
+      <edge id="364" source="137" target="241"></edge>
+      <edge id="365" source="359" target="131"></edge>
+      <edge id="366" source="233" target="360"></edge>
+      <edge id="367" source="306" target="31"></edge>
+      <edge id="368" source="361" target="85"></edge>
+      <edge id="369" source="298" target="362"></edge>
+      <edge id="370" source="363" target="49"></edge>
+      <edge id="371" source="364" target="285"></edge>
+      <edge id="372" source="365" target="1"></edge>
+      <edge id="373" source="288" target="366"></edge>
+      <edge id="374" source="367" target="41"></edge>
+      <edge id="375" source="368" target="369"></edge>
+      <edge id="376" source="370" target="146"></edge>
+      <edge id="377" source="371" target="372"></edge>
+      <edge id="378" source="122" target="373"></edge>
+      <edge id="379" source="151" target="93"></edge>
+      <edge id="380" source="48" target="374"></edge>
+      <edge id="381" source="375" target="94"></edge>
+      <edge id="382" source="20" target="181"></edge>
+      <edge id="383" source="160" target="83"></edge>
+      <edge id="384" source="376" target="242"></edge>
+      <edge id="385" source="20" target="271"></edge>
+      <edge id="386" source="11" target="55"></edge>
+      <edge id="387" source="377" target="378"></edge>
+      <edge id="388" source="379" target="271"></edge>
+      <edge id="389" source="209" target="50"></edge>
+      <edge id="390" source="380" target="381"></edge>
+      <edge id="391" source="45" target="382"></edge>
+      <edge id="392" source="118" target="133"></edge>
+      <edge id="393" source="383" target="85"></edge>
+      <edge id="394" source="384" target="160"></edge>
+      <edge id="395" source="385" target="386"></edge>
+      <edge id="396" source="293" target="87"></edge>
+      <edge id="397" source="20" target="387"></edge>
+      <edge id="398" source="288" target="388"></edge>
+      <edge id="399" source="118" target="40"></edge>
+      <edge id="400" source="260" target="285"></edge>
+      <edge id="401" source="80" target="389"></edge>
+      <edge id="402" source="390" target="391"></edge>
+      <edge id="403" source="304" target="38"></edge>
+      <edge id="404" source="222" target="392"></edge>
+      <edge id="405" source="393" target="394"></edge>
+      <edge id="406" source="395" target="38"></edge>
+      <edge id="407" source="396" target="397"></edge>
+      <edge id="408" source="148" target="222"></edge>
+      <edge id="409" source="398" target="20"></edge>
+      <edge id="410" source="1" target="399"></edge>
+      <edge id="411" source="209" target="103"></edge>
+      <edge id="412" source="400" target="401"></edge>
+      <edge id="413" source="112" target="81"></edge>
+      <edge id="414" source="99" target="385"></edge>
+      <edge id="415" source="146" target="402"></edge>
+      <edge id="416" source="403" target="16"></edge>
+      <edge id="417" source="158" target="50"></edge>
+      <edge id="418" source="40" target="404"></edge>
+      <edge id="419" source="148" target="119"></edge>
+      <edge id="420" source="158" target="1"></edge>
+      <edge id="421" source="405" target="406"></edge>
+      <edge id="422" source="407" target="134"></edge>
+      <edge id="423" source="319" target="9"></edge>
+      <edge id="424" source="403" target="187"></edge>
+      <edge id="425" source="408" target="49"></edge>
+      <edge id="426" source="409" target="192"></edge>
+      <edge id="427" source="101" target="11"></edge>
+      <edge id="428" source="1" target="410"></edge>
+      <edge id="429" source="411" target="385"></edge>
+      <edge id="430" source="412" target="1"></edge>
+      <edge id="431" source="371" target="413"></edge>
+      <edge id="432" source="101" target="379"></edge>
+      <edge id="433" source="17" target="209"></edge>
+      <edge id="434" source="44" target="236"></edge>
+    </edges>
+  </graph>
+</gexf>

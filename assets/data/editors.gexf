@@ -1,0 +1,620 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="4" label="american editors">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="67.122955" y="-248.25645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="newspaper editors">
+        <viz:size value="96.932335"></viz:size>
+        <viz:position x="159.25584" y="373.50284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="magazine editors">
+        <viz:size value="94.586464"></viz:size>
+        <viz:position x="418.80896" y="391.28674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="film editors">
+        <viz:size value="89.08271"></viz:size>
+        <viz:position x="-517.39844" y="439.5233"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="book editors">
+        <viz:size value="80.2406"></viz:size>
+        <viz:position x="289.0034" y="-741.2797"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="british editors">
+        <viz:size value="78.07519"></viz:size>
+        <viz:position x="-1253.1665" y="273.2885"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="norwegian editors">
+        <viz:size value="77.44361"></viz:size>
+        <viz:position x="274.95013" y="1266.11"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="english editors">
+        <viz:size value="76.090225"></viz:size>
+        <viz:position x="1266.4521" y="-53.12659"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="romanian editors">
+        <viz:size value="74.01504"></viz:size>
+        <viz:position x="607.46515" y="865.2478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="text editors">
+        <viz:size value="72.8421"></viz:size>
+        <viz:position x="-528.3519" y="-899.8003"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="academic journal editors">
+        <viz:size value="71.93985"></viz:size>
+        <viz:position x="-20.049528" y="540.14734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="canadian editors">
+        <viz:size value="70.04511"></viz:size>
+        <viz:position x="-1027.7781" y="-299.76862"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="science fiction editors">
+        <viz:size value="63.18797"></viz:size>
+        <viz:position x="131.09946" y="21.128723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="women editors">
+        <viz:size value="61.924812"></viz:size>
+        <viz:position x="768.4036" y="-497.31726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="french editors">
+        <viz:size value="61.203007"></viz:size>
+        <viz:position x="386.7757" y="-985.2656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="raster graphics editors">
+        <viz:size value="59.849625"></viz:size>
+        <viz:position x="583.3719" y="-1151.5938"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="german editors">
+        <viz:size value="58.76692"></viz:size>
+        <viz:position x="-391.53418" y="952.2592"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="editors of wisconsin newspapers">
+        <viz:size value="57.954887"></viz:size>
+        <viz:position x="-351.22534" y="-44.73186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="editors of christian publications">
+        <viz:size value="56.06015"></viz:size>
+        <viz:position x="-62.71942" y="237.42596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="print editors">
+        <viz:size value="55.8797"></viz:size>
+        <viz:position x="-238.34447" y="-769.65454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="the new york times editors">
+        <viz:size value="55.8797"></viz:size>
+        <viz:position x="-573.81726" y="-142.3869"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="html editors">
+        <viz:size value="54.616543"></viz:size>
+        <viz:position x="-314.92212" y="-1024.9712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="literary editors">
+        <viz:size value="53.263157"></viz:size>
+        <viz:position x="977.8139" y="445.92114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="russian editors">
+        <viz:size value="52.360905"></viz:size>
+        <viz:position x="-734.25934" y="627.27356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="italian editors">
+        <viz:size value="52.18045"></viz:size>
+        <viz:position x="786.08655" y="666.939"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="editors of latter day saint publications">
+        <viz:size value="50.646618"></viz:size>
+        <viz:position x="-205.95001" y="-525.1263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="vector graphics editors">
+        <viz:size value="49.473682"></viz:size>
+        <viz:position x="320.3349" y="-1251.2909"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="television editors">
+        <viz:size value="46.857143"></viz:size>
+        <viz:position x="-307.83163" y="223.63"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="new zealand editors">
+        <viz:size value="46.135338"></viz:size>
+        <viz:position x="-1035.0618" y="739.22473"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="fashion editors">
+        <viz:size value="43.96992"></viz:size>
+        <viz:position x="530.887" y="-48.82609"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="tex editors">
+        <viz:size value="42.706768"></viz:size>
+        <viz:position x="-456.9033" y="1196.7584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="israeli editors">
+        <viz:size value="41.62406"></viz:size>
+        <viz:position x="1062.563" y="695.75134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="maclean s writers and editors">
+        <viz:size value="40.902256"></viz:size>
+        <viz:position x="-902.05457" y="-529.7957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="editors of new york newspapers">
+        <viz:size value="40.451126"></viz:size>
+        <viz:position x="-104.98634" y="-20.35403"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="iranian editors">
+        <viz:size value="37.834587"></viz:size>
+        <viz:position x="-1018.4555" y="-28.300941"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="welsh editors">
+        <viz:size value="37.834587"></viz:size>
+        <viz:position x="1143.845" y="-581.1031"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="editors of virginia newspapers">
+        <viz:size value="37.383457"></viz:size>
+        <viz:position x="-458.43832" y="-629.8683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="austrian editors">
+        <viz:size value="37.383457"></viz:size>
+        <viz:position x="478.8791" y="1150.1572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="the spectator editors">
+        <viz:size value="36.30075"></viz:size>
+        <viz:position x="831.5321" y="250.44078"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="adevarul editors">
+        <viz:size value="35.218044"></viz:size>
+        <viz:position x="496.33105" y="652.9646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="hugo award-winning editors">
+        <viz:size value="35.218044"></viz:size>
+        <viz:position x="39.013813" y="-504.95523"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="collaborative real-time editors">
+        <viz:size value="34.586464"></viz:size>
+        <viz:position x="-199.66763" y="-1261.6112"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="xml editors">
+        <viz:size value="33.954887"></viz:size>
+        <viz:position x="-708.52246" y="-1071.2599"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="ukrainian editors">
+        <viz:size value="33.954887"></viz:size>
+        <viz:position x="-629.6098" y="842.5306"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="brazilian editors">
+        <viz:size value="33.323307"></viz:size>
+        <viz:position x="-245.74635" y="474.05328"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="danish editors">
+        <viz:size value="33.323307"></viz:size>
+        <viz:position x="-1191.627" y="-496.50165"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="the new yorker editors">
+        <viz:size value="33.323307"></viz:size>
+        <viz:position x="737.7215" y="-241.46904"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="spanish editors">
+        <viz:size value="33.323307"></viz:size>
+        <viz:position x="806.8571" y="-998.93945"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="editors of illinois newspapers">
+        <viz:size value="32.6015"></viz:size>
+        <viz:position x="-191.17357" y="-263.52518"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="polish editors">
+        <viz:size value="31.8797"></viz:size>
+        <viz:position x="-537.3329" y="154.54265"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="news editors">
+        <viz:size value="31.067669"></viz:size>
+        <viz:position x="799.36163" y="-14.023383"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="moroccan editors">
+        <viz:size value="30.25564"></viz:size>
+        <viz:position x="-130.04945" y="1005.6094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="filipino editors">
+        <viz:size value="30.25564"></viz:size>
+        <viz:position x="146.20886" y="1029.5641"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="egyptian editors">
+        <viz:size value="30.25564"></viz:size>
+        <viz:position x="679.1762" y="454.15506"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="hex editors">
+        <viz:size value="29.353382"></viz:size>
+        <viz:position x="-888.9728" y="-904.1386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="types of editors">
+        <viz:size value="29.353382"></viz:size>
+        <viz:position x="1039.2058" y="124.48861"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="editors of california newspapers">
+        <viz:size value="28.360903"></viz:size>
+        <viz:position x="503.4939" y="-341.73367"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="soviet editors">
+        <viz:size value="27.278194"></viz:size>
+        <viz:position x="-428.29315" y="669.87225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="swiss editors">
+        <viz:size value="27.278194"></viz:size>
+        <viz:position x="-766.8951" y="63.287037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="chilean editors">
+        <viz:size value="27.278194"></viz:size>
+        <viz:position x="801.89886" y="-724.51154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="formula editors">
+        <viz:size value="27.278194"></viz:size>
+        <viz:position x="-685.213" y="1090.4432"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="belgian editors">
+        <viz:size value="27.278194"></viz:size>
+        <viz:position x="511.3939" y="-601.2014"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="managing editors">
+        <viz:size value="24.93233"></viz:size>
+        <viz:position x="586.55225" y="185.01053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="editors of minnesota newspapers">
+        <viz:size value="23.578947"></viz:size>
+        <viz:position x="-802.0789" y="-214.86229"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="editors of ohio newspapers">
+        <viz:size value="23.578947"></viz:size>
+        <viz:position x="-663.3977" y="-443.85324"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="editors of alaska newspapers">
+        <viz:size value="23.578947"></viz:size>
+        <viz:position x="313.4932" y="-175.02655"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="turkish editors">
+        <viz:size value="23.578947"></viz:size>
+        <viz:position x="-218.768" y="1255.02"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="font editors">
+        <viz:size value="22.045113"></viz:size>
+        <viz:position x="52.072735" y="-1279.9761"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="malaysian editors">
+        <viz:size value="22.045113"></viz:size>
+        <viz:position x="149.11012" y="-1032.5972"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="assassinated editors">
+        <viz:size value="22.045113"></viz:size>
+        <viz:position x="-754.65784" y="327.96326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="radio editors">
+        <viz:size value="22.045113"></viz:size>
+        <viz:position x="712.1398" y="1085.9587"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="editors of texas newspapers">
+        <viz:size value="22.045113"></viz:size>
+        <viz:position x="1249.6185" y="-322.6747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="editors of kentucky newspapers">
+        <viz:size value="22.045113"></viz:size>
+        <viz:position x="-711.72815" y="-719.0691"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="editors of pennsylvania newspapers">
+        <viz:size value="20.330826"></viz:size>
+        <viz:position x="43.03704" y="-750.65326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="colombian editors">
+        <viz:size value="20.330826"></viz:size>
+        <viz:position x="-940.02167" y="491.23547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="politiken editors">
+        <viz:size value="20.330826"></viz:size>
+        <viz:position x="250.62863" y="628.40283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="automated wysiwyg editors">
+        <viz:size value="18.255638"></viz:size>
+        <viz:position x="-476.70035" y="-1206.7754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="czech editors">
+        <viz:size value="18.255638"></viz:size>
+        <viz:position x="1213.6255" y="459.95996"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="editors of religious publications">
+        <viz:size value="18.255638"></viz:size>
+        <viz:position x="316.7982" y="147.89017"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="editors of indiana newspapers">
+        <viz:size value="18.255638"></viz:size>
+        <viz:position x="272.95587" y="-460.4084"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="editors of the round table journal">
+        <viz:size value="18.255638"></viz:size>
+        <viz:position x="-1183.1158" y="516.71185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="editors of alabama newspapers">
+        <viz:size value="15.909774"></viz:size>
+        <viz:position x="-193.38832" y="757.7294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="serbian editors">
+        <viz:size value="15.909774"></viz:size>
+        <viz:position x="67.569756" y="794.03424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="editors of louisiana newspapers">
+        <viz:size value="15.909774"></viz:size>
+        <viz:position x="1261.5037" y="208.05983"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="editors of maryland newspapers">
+        <viz:size value="13.022556"></viz:size>
+        <viz:position x="-73.693275" y="-981.7969"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="editors of michigan newspapers">
+        <viz:size value="13.022556"></viz:size>
+        <viz:position x="350.91803" y="900.431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="editors of washington, d c , newspapers">
+        <viz:size value="9.233084"></viz:size>
+        <viz:position x="1017.4423" y="-800.9224"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="disk editors">
+        <viz:size value="9.233084"></viz:size>
+        <viz:position x="-1057.123" y="-727.56006"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="berlingske editors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1267.8203" y="-227.61496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="cook island editors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1271.3497" y="25.335783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="solomon islands editors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1032.6151" y="-151.75941"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="peruvian editors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="988.68414" y="-401.65955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="editors of maine newspapers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-425.75882" y="-359.1395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="editors of roman catholic publications">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-883.8328" y="917.4134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="editors of new hampshire newspapers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="20.743277" y="1251.9395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="editors of nebraska newspapers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="582.5679" y="-845.9484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="fijian editors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1009.3171" y="224.42436"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="tatar editors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="911.7135" y="903.93665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="89.0"></edge>
+      <edge id="1" source="2" target="1" weight="86.0"></edge>
+      <edge id="2" source="3" target="4" weight="47.0"></edge>
+      <edge id="3" source="5" target="6" weight="30.0"></edge>
+      <edge id="4" source="7" target="8" weight="29.0"></edge>
+      <edge id="5" source="9" target="4" weight="22.0"></edge>
+      <edge id="6" source="1" target="10" weight="21.0"></edge>
+      <edge id="7" source="4" target="11" weight="20.0"></edge>
+      <edge id="8" source="5" target="4" weight="20.0"></edge>
+      <edge id="9" source="12" target="0" weight="19.0"></edge>
+      <edge id="10" source="2" target="13" weight="18.0"></edge>
+      <edge id="11" source="3" target="0" weight="18.0"></edge>
+      <edge id="12" source="4" target="13" weight="17.0"></edge>
+      <edge id="13" source="3" target="14" weight="17.0"></edge>
+      <edge id="14" source="2" target="9" weight="14.0"></edge>
+      <edge id="15" source="15" target="9" weight="11.0"></edge>
+      <edge id="16" source="0" target="16" weight="10.0"></edge>
+      <edge id="17" source="17" target="16" weight="10.0"></edge>
+      <edge id="18" source="18" target="19" weight="9.0"></edge>
+      <edge id="19" source="20" target="0" weight="9.0"></edge>
+      <edge id="20" source="21" target="22" weight="9.0"></edge>
+      <edge id="21" source="23" target="0" weight="9.0"></edge>
+      <edge id="22" source="24" target="7" weight="8.0"></edge>
+      <edge id="23" source="25" target="26" weight="7.0"></edge>
+      <edge id="24" source="27" target="0" weight="7.0"></edge>
+      <edge id="25" source="28" target="4" weight="7.0"></edge>
+      <edge id="26" source="25" target="2" weight="7.0"></edge>
+      <edge id="27" source="4" target="25" weight="6.0"></edge>
+      <edge id="28" source="23" target="29" weight="6.0"></edge>
+      <edge id="29" source="12" target="4" weight="6.0"></edge>
+      <edge id="30" source="14" target="30" weight="5.0"></edge>
+      <edge id="31" source="23" target="4" weight="5.0"></edge>
+      <edge id="32" source="31" target="4" weight="4.0"></edge>
+      <edge id="33" source="2" target="16" weight="4.0"></edge>
+      <edge id="34" source="32" target="2" weight="4.0"></edge>
+      <edge id="35" source="33" target="7" weight="4.0"></edge>
+      <edge id="36" source="12" target="34" weight="4.0"></edge>
+      <edge id="37" source="4" target="35" weight="3.0"></edge>
+      <edge id="38" source="0" target="36" weight="3.0"></edge>
+      <edge id="39" source="37" target="1" weight="3.0"></edge>
+      <edge id="40" source="7" target="38" weight="3.0"></edge>
+      <edge id="41" source="39" target="4" weight="3.0"></edge>
+      <edge id="42" source="32" target="4" weight="3.0"></edge>
+      <edge id="43" source="40" target="19" weight="3.0"></edge>
+      <edge id="44" source="39" target="0" weight="3.0"></edge>
+      <edge id="45" source="4" target="41" weight="3.0"></edge>
+      <edge id="46" source="2" target="42" weight="2.0"></edge>
+      <edge id="47" source="43" target="6" weight="2.0"></edge>
+      <edge id="48" source="44" target="29" weight="2.0"></edge>
+      <edge id="49" source="7" target="45" weight="2.0"></edge>
+      <edge id="50" source="46" target="4" weight="2.0"></edge>
+      <edge id="51" source="2" target="35" weight="2.0"></edge>
+      <edge id="52" source="29" target="47" weight="2.0"></edge>
+      <edge id="53" source="2" target="48" weight="2.0"></edge>
+      <edge id="54" source="49" target="29" weight="2.0"></edge>
+      <edge id="55" source="4" target="42" weight="2.0"></edge>
+      <edge id="56" source="31" target="0" weight="2.0"></edge>
+      <edge id="57" source="46" target="2" weight="2.0"></edge>
+      <edge id="58" source="50" target="4" weight="2.0"></edge>
+      <edge id="59" source="13" target="51"></edge>
+      <edge id="60" source="33" target="52"></edge>
+      <edge id="61" source="53" target="0"></edge>
+      <edge id="62" source="12" target="54"></edge>
+      <edge id="63" source="54" target="55"></edge>
+      <edge id="64" source="56" target="57"></edge>
+      <edge id="65" source="58" target="11"></edge>
+      <edge id="66" source="59" target="29"></edge>
+      <edge id="67" source="25" target="60"></edge>
+      <edge id="68" source="20" target="61"></edge>
+      <edge id="69" source="62" target="11"></edge>
+      <edge id="70" source="43" target="63"></edge>
+      <edge id="71" source="42" target="60"></edge>
+      <edge id="72" source="29" target="64"></edge>
+      <edge id="73" source="2" target="65"></edge>
+      <edge id="74" source="66" target="67"></edge>
+      <edge id="75" source="68" target="29"></edge>
+      <edge id="76" source="32" target="69"></edge>
+      <edge id="77" source="53" target="70"></edge>
+      <edge id="78" source="0" target="71"></edge>
+      <edge id="79" source="71" target="72"></edge>
+      <edge id="80" source="2" target="73"></edge>
+      <edge id="81" source="74" target="75"></edge>
+      <edge id="82" source="4" target="76"></edge>
+      <edge id="83" source="77" target="1"></edge>
+      <edge id="84" source="78" target="4"></edge>
+      <edge id="85" source="4" target="79"></edge>
+      <edge id="86" source="0" target="35"></edge>
+      <edge id="87" source="80" target="6"></edge>
+      <edge id="88" source="2" target="81"></edge>
+      <edge id="89" source="82" target="83"></edge>
+      <edge id="90" source="43" target="2"></edge>
+      <edge id="91" source="53" target="84"></edge>
+      <edge id="92" source="85" target="35"></edge>
+      <edge id="93" source="86" target="9"></edge>
+      <edge id="94" source="39" target="17"></edge>
+      <edge id="95" source="87" target="88"></edge>
+      <edge id="96" source="43" target="0"></edge>
+      <edge id="97" source="89" target="35"></edge>
+      <edge id="98" source="34" target="71"></edge>
+      <edge id="99" source="90" target="91"></edge>
+      <edge id="100" source="2" target="31"></edge>
+      <edge id="101" source="92" target="80"></edge>
+      <edge id="102" source="32" target="29"></edge>
+      <edge id="103" source="17" target="23"></edge>
+      <edge id="104" source="46" target="93"></edge>
+      <edge id="105" source="54" target="30"></edge>
+      <edge id="106" source="53" target="6"></edge>
+      <edge id="107" source="42" target="29"></edge>
+      <edge id="108" source="85" target="20"></edge>
+      <edge id="109" source="94" target="2"></edge>
+      <edge id="110" source="95" target="80"></edge>
+      <edge id="111" source="90" target="1"></edge>
+      <edge id="112" source="85" target="12"></edge>
+      <edge id="113" source="96" target="39"></edge>
+      <edge id="114" source="6" target="79"></edge>
+      <edge id="115" source="71" target="6"></edge>
+      <edge id="116" source="2" target="97"></edge>
+    </edges>
+  </graph>
+</gexf>

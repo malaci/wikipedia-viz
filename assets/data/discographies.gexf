@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="discographies of american artists">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="175.39156" y="90.52169"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="pop discographies">
+        <viz:size value="90.97355"></viz:size>
+        <viz:position x="-124.09651" y="-220.97322"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="rock music discographies">
+        <viz:size value="89.46915"></viz:size>
+        <viz:position x="-197.10428" y="-466.7279"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="discographies of british artists">
+        <viz:size value="84.20371"></viz:size>
+        <viz:position x="-88.78991" y="-672.4883"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="hip hop discographies">
+        <viz:size value="82.22918"></viz:size>
+        <viz:position x="904.3771" y="228.2239"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="blues discographies">
+        <viz:size value="76.211555"></viz:size>
+        <viz:position x="418.59296" y="-196.3567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="country music discographies">
+        <viz:size value="73.01469"></viz:size>
+        <viz:position x="-502.1881" y="639.2333"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="heavy metal discographies">
+        <viz:size value="69.06562"></viz:size>
+        <viz:position x="-871.518" y="-131.65001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="discographies of japanese artists">
+        <viz:size value="67.46719"></viz:size>
+        <viz:position x="484.77652" y="1280.343"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="electronic music discographies">
+        <viz:size value="66.43291"></viz:size>
+        <viz:position x="-371.90283" y="-600.4419"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="production discographies">
+        <viz:size value="66.15083"></viz:size>
+        <viz:position x="612.31335" y="74.136536"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="jazz discographies">
+        <viz:size value="65.02252"></viz:size>
+        <viz:position x="213.3884" y="407.12585"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="discographies of canadian artists">
+        <viz:size value="62.859943"></viz:size>
+        <viz:position x="-1161.3646" y="693.0182"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="record label discographies">
+        <viz:size value="62.295784"></viz:size>
+        <viz:position x="1202.3435" y="-583.5225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="discographies of australian artists">
+        <viz:size value="60.97943"></viz:size>
+        <viz:position x="-396.25604" y="-315.92413"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="folk discographies">
+        <viz:size value="60.509304"></viz:size>
+        <viz:position x="-226.12227" y="196.48355"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="discographies of south korean artists">
+        <viz:size value="59.7571"></viz:size>
+        <viz:position x="-55.424763" y="6.2551026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="punk rock discographies">
+        <viz:size value="58.62879"></viz:size>
+        <viz:position x="-661.25116" y="-947.02026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="alternative rock discographies">
+        <viz:size value="57.21841"></viz:size>
+        <viz:position x="293.85162" y="-429.3992"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="discographies of german artists">
+        <viz:size value="56.372185"></viz:size>
+        <viz:position x="-812.6811" y="-380.62845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="christian music discographies">
+        <viz:size value="54.021545"></viz:size>
+        <viz:position x="-1104.5568" y="228.66594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="discographies of swedish artists">
+        <viz:size value="53.55142"></viz:size>
+        <viz:position x="-652.12994" y="-237.84633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="opera discographies">
+        <viz:size value="52.799213"></viz:size>
+        <viz:position x="-1030.1705" y="906.8007"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="film and television discographies">
+        <viz:size value="51.388832"></viz:size>
+        <viz:position x="-1273.9606" y="477.14795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="latin music discographies">
+        <viz:size value="51.01273"></viz:size>
+        <viz:position x="-105.99369" y="829.2694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="video game music discographies">
+        <viz:size value="47.62781"></viz:size>
+        <viz:position x="253.58397" y="1345.1537"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="discographies of french artists">
+        <viz:size value="46.21743"></viz:size>
+        <viz:position x="-244.7001" y="-861.22864"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="discographies of irish artists">
+        <viz:size value="46.21743"></viz:size>
+        <viz:position x="22.871923" y="255.51314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="discographies of dutch artists">
+        <viz:size value="44.619"></viz:size>
+        <viz:position x="-1334.7451" y="249.1195"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="discographies of italian artists">
+        <viz:size value="44.619"></viz:size>
+        <viz:position x="-834.96735" y="1027.2091"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="classical music discographies">
+        <viz:size value="41.986286"></viz:size>
+        <viz:position x="313.0796" y="614.704"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="discographies of norwegian artists">
+        <viz:size value="41.986286"></viz:size>
+        <viz:position x="686.74286" y="315.0275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="discographies of mexican artists">
+        <viz:size value="41.140053"></viz:size>
+        <viz:position x="-541.4666" y="1005.89484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="discographies of chinese artists">
+        <viz:size value="40.293827"></viz:size>
+        <viz:position x="-1022.5525" y="491.16702"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="discographies of finnish artists">
+        <viz:size value="40.293827"></viz:size>
+        <viz:position x="1325.6592" y="-391.133"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="discographies of filipino artists">
+        <viz:size value="39.8237"></viz:size>
+        <viz:position x="814.2148" y="495.90146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="reggae discographies">
+        <viz:size value="38.225266"></viz:size>
+        <viz:position x="504.0099" y="-449.91266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="discographies of serbian artists">
+        <viz:size value="38.225266"></viz:size>
+        <viz:position x="139.72566" y="-626.4475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="discographies of brazilian artists">
+        <viz:size value="37.661114"></viz:size>
+        <viz:position x="407.30594" y="1056.2642"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="discographies of puerto rican artists">
+        <viz:size value="37.096962"></viz:size>
+        <viz:position x="366.76782" y="839.778"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="reggaeton discographies">
+        <viz:size value="36.53281"></viz:size>
+        <viz:position x="129.0166" y="877.67633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="discographies of greek artists">
+        <viz:size value="35.874634"></viz:size>
+        <viz:position x="8.769902" y="-890.6911"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="discographies of new zealand artists">
+        <viz:size value="35.874634"></viz:size>
+        <viz:position x="-311.22763" y="-79.098206"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="tropical music discographies">
+        <viz:size value="35.216454"></viz:size>
+        <viz:position x="67.753235" y="632.52747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="american idol discographies">
+        <viz:size value="34.558273"></viz:size>
+        <viz:position x="410.45602" y="244.54967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="discographies of danish artists">
+        <viz:size value="33.806076"></viz:size>
+        <viz:position x="1070.58" y="407.6594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="discographies of russian artists">
+        <viz:size value="33.806076"></viz:size>
+        <viz:position x="-565.6483" y="-481.14096"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="discographies of spanish artists">
+        <viz:size value="33.05387"></viz:size>
+        <viz:position x="-591.9236" y="384.3805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="discographies of jamaican artists">
+        <viz:size value="32.20764"></viz:size>
+        <viz:position x="52.915424" y="-387.0715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="discographies of taiwanese artists">
+        <viz:size value="32.20764"></viz:size>
+        <viz:position x="-244.17607" y="638.41254"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="mandopop discographies">
+        <viz:size value="31.36141"></viz:size>
+        <viz:position x="-434.6684" y="175.1623"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="discographies of belgian artists">
+        <viz:size value="31.36141"></viz:size>
+        <viz:position x="-480.46835" y="-795.3288"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="regional mexican music discographies">
+        <viz:size value="30.421154"></viz:size>
+        <viz:position x="-668.20123" y="1198.2406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="rap rock discographies">
+        <viz:size value="29.386875"></viz:size>
+        <viz:position x="616.283" y="-705.8559"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="post-hardcore group discographies">
+        <viz:size value="29.386875"></viz:size>
+        <viz:position x="-669.76843" y="131.44781"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="comedian discographies">
+        <viz:size value="28.258568"></viz:size>
+        <viz:position x="-911.0977" y="80.98365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="discographies of african artists">
+        <viz:size value="28.258568"></viz:size>
+        <viz:position x="-538.43207" y="-57.453293"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="discographies of south korean record labels">
+        <viz:size value="28.258568"></viz:size>
+        <viz:position x="-345.52243" y="417.99716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="discographies of colombian artists">
+        <viz:size value="27.130264"></viz:size>
+        <viz:position x="-60.76994" y="1090.5709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="discographies of classical pianists">
+        <viz:size value="27.130264"></viz:size>
+        <viz:position x="-1190.5953" y="-633.22894"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="discographies of turkish artists">
+        <viz:size value="25.813906"></viz:size>
+        <viz:position x="-663.5146" y="808.79456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="discographies of swiss artists">
+        <viz:size value="24.403526"></viz:size>
+        <viz:position x="61.376682" y="-1125.7397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="discographies of pakistani artists">
+        <viz:size value="24.403526"></viz:size>
+        <viz:position x="873.48694" y="-261.8543"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="discographies of nigerian artists">
+        <viz:size value="22.805092"></viz:size>
+        <viz:position x="1023.24475" y="651.3192"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="discographies of chilean artists">
+        <viz:size value="22.805092"></viz:size>
+        <viz:position x="1045.5674" y="-37.331635"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="discographies of polish artists">
+        <viz:size value="22.805092"></viz:size>
+        <viz:position x="484.35196" y="457.7661"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="discographies of argentine artists">
+        <viz:size value="21.018608"></viz:size>
+        <viz:position x="172.10556" y="1108.4385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="discographies of classical composers">
+        <viz:size value="21.018608"></viz:size>
+        <viz:position x="-1138.2034" y="-48.003506"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="discographies of ukrainian artists">
+        <viz:size value="18.856022"></viz:size>
+        <viz:position x="-962.8522" y="-539.84094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="discographies of lebanese artists">
+        <viz:size value="16.411362"></viz:size>
+        <viz:position x="151.3682" y="-171.69084"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="discographies of indonesian artists">
+        <viz:size value="16.411362"></viz:size>
+        <viz:position x="987.1079" y="-490.0"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="symphony discographies">
+        <viz:size value="16.411362"></viz:size>
+        <viz:position x="1114.1744" y="-800.658"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="discographies of cuban artists">
+        <viz:size value="16.411362"></viz:size>
+        <viz:position x="-286.04315" y="1087.2762"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="discographies of malaysian artists">
+        <viz:size value="16.411362"></viz:size>
+        <viz:position x="-180.1551" y="-1094.949"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="discographies of austrian artists">
+        <viz:size value="13.402546"></viz:size>
+        <viz:position x="313.97522" y="-1094.5692"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="discographies of romanian artists">
+        <viz:size value="13.402546"></viz:size>
+        <viz:position x="-863.69415" y="312.11865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="orchestra discographies">
+        <viz:size value="13.402546"></viz:size>
+        <viz:position x="811.68787" y="765.55865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="discographies of singaporean artists">
+        <viz:size value="13.402546"></viz:size>
+        <viz:position x="237.81828" y="-867.6181"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="discographies of macedonian artists">
+        <viz:size value="9.453478"></viz:size>
+        <viz:position x="387.62665" y="16.248808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="discographies of dominican republic artists">
+        <viz:size value="9.453478"></viz:size>
+        <viz:position x="590.0367" y="658.3807"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="discographies of portuguese artists">
+        <viz:size value="9.453478"></viz:size>
+        <viz:position x="1370.4987" y="90.75029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="discographies of bangladeshi artists">
+        <viz:size value="9.453478"></viz:size>
+        <viz:position x="-651.14435" y="-1192.0344"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="discographies of sri lankan artists">
+        <viz:size value="9.453478"></viz:size>
+        <viz:position x="733.1992" y="-475.59515"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="discographies of cypriot artists">
+        <viz:size value="9.453478"></viz:size>
+        <viz:position x="512.68475" y="-1260.0785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="discographies of slovak artists">
+        <viz:size value="9.453478"></viz:size>
+        <viz:position x="270.50552" y="-1320.6521"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="discographies of estonian artists">
+        <viz:size value="9.453478"></viz:size>
+        <viz:position x="-1058.7753" y="-300.05853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="discographies of croatian artists">
+        <viz:size value="9.453478"></viz:size>
+        <viz:position x="865.77057" y="1020.4744"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="new wave discographies">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-884.1681" y="-1052.1476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="discographies of somalian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1322.5265" y="353.44144"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="discographies of mongolian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1284.1862" y="-430.84665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="discographies of zambian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1243.4169" y="603.74695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="flamenco discographies">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-87.34151" y="462.71484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="rockabilly music discographies">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-356.05255" y="855.03656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="discographies of artists from georgia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="38.208416" y="-1361.6923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="discographies of egyptian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-195.25699" y="-1345.8152"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="discographies of barbadian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="883.04144" y="-705.52124"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="discographies of moroccan artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1121.864" y="-264.675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="alternative music discographies">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-420.75943" y="-1291.9862"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="discographies of israeli artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1366.2861" y="20.21798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="ivorian discographies">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="944.43915" y="-991.1646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="world music discographies">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="697.3579" y="1168.7269"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="gospel music discographies">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="819.9442" y="-13.636359"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="discographies of belarusian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="386.25467" y="-683.5459"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="discographies of thai artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-874.75116" y="-797.1835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="discographies of icelandic artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="731.1634" y="-913.9708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="discographies of tunisian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-751.6697" y="545.1324"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="discographies of venezuelan artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="18.413881" y="1348.552"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="discographies of maltese artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="490.2957" y="-943.2419"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="discographies of latvian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1091.4648" y="-850.2866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="discographies of haitian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="646.58936" y="-207.16238"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="discographies of czech artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="713.843" y="-1144.6128"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="discographies of ghanaian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="626.41565" y="912.3858"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="discographies of iranian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1326.9403" y="-214.88036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="discographies of philippine artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-706.4696" y="-658.3615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="discographies of bosnia and herzegovina artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1155.6278" y="163.84167"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="discographies of kenyan artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1065.129" y="885.17053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="discographies of iraqi artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-885.8861" y="725.2386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="discographies of fijian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-428.4003" y="-1051.6707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="discographies of panamanian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-207.53868" y="1340.3826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="discographies of uruguayan artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-440.4031" y="1283.0972"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="discographies of namibian artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1332.509" y="-132.72595"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="518.0"></edge>
+      <edge id="1" source="2" target="3" weight="294.0"></edge>
+      <edge id="2" source="1" target="4" weight="275.0"></edge>
+      <edge id="3" source="3" target="5" weight="210.0"></edge>
+      <edge id="4" source="4" target="5" weight="163.0"></edge>
+      <edge id="5" source="1" target="6" weight="125.0"></edge>
+      <edge id="6" source="1" target="7" weight="124.0"></edge>
+      <edge id="7" source="8" target="3" weight="69.0"></edge>
+      <edge id="8" source="5" target="9" weight="61.0"></edge>
+      <edge id="9" source="5" target="10" weight="54.0"></edge>
+      <edge id="10" source="2" target="9" weight="52.0"></edge>
+      <edge id="11" source="2" target="11" weight="52.0"></edge>
+      <edge id="12" source="12" target="1" weight="51.0"></edge>
+      <edge id="13" source="1" target="11" weight="50.0"></edge>
+      <edge id="14" source="2" target="4" weight="46.0"></edge>
+      <edge id="15" source="13" target="5" weight="33.0"></edge>
+      <edge id="16" source="5" target="7" weight="33.0"></edge>
+      <edge id="17" source="3" target="14" weight="30.0"></edge>
+      <edge id="18" source="12" target="2" weight="29.0"></edge>
+      <edge id="19" source="12" target="5" weight="28.0"></edge>
+      <edge id="20" source="15" target="16" weight="23.0"></edge>
+      <edge id="21" source="5" target="6" weight="22.0"></edge>
+      <edge id="22" source="5" target="17" weight="22.0"></edge>
+      <edge id="23" source="5" target="18" weight="21.0"></edge>
+      <edge id="24" source="12" target="19" weight="17.0"></edge>
+      <edge id="25" source="14" target="13" weight="16.0"></edge>
+      <edge id="26" source="20" target="5" weight="15.0"></edge>
+      <edge id="27" source="3" target="21" weight="15.0"></edge>
+      <edge id="28" source="22" target="23" weight="14.0"></edge>
+      <edge id="29" source="1" target="15" weight="12.0"></edge>
+      <edge id="30" source="18" target="14" weight="12.0"></edge>
+      <edge id="31" source="8" target="18" weight="11.0"></edge>
+      <edge id="32" source="5" target="24" weight="11.0"></edge>
+      <edge id="33" source="2" target="13" weight="11.0"></edge>
+      <edge id="34" source="25" target="26" weight="11.0"></edge>
+      <edge id="35" source="2" target="18" weight="10.0"></edge>
+      <edge id="36" source="8" target="17" weight="10.0"></edge>
+      <edge id="37" source="27" target="5" weight="10.0"></edge>
+      <edge id="38" source="12" target="28" weight="10.0"></edge>
+      <edge id="39" source="29" target="5" weight="9.0"></edge>
+      <edge id="40" source="29" target="1" weight="9.0"></edge>
+      <edge id="41" source="2" target="27" weight="9.0"></edge>
+      <edge id="42" source="8" target="13" weight="9.0"></edge>
+      <edge id="43" source="30" target="1" weight="8.0"></edge>
+      <edge id="44" source="26" target="15" weight="8.0"></edge>
+      <edge id="45" source="31" target="32" weight="8.0"></edge>
+      <edge id="46" source="33" target="15" weight="7.0"></edge>
+      <edge id="47" source="34" target="5" weight="7.0"></edge>
+      <edge id="48" source="5" target="15" weight="7.0"></edge>
+      <edge id="49" source="5" target="35" weight="6.0"></edge>
+      <edge id="50" source="15" target="36" weight="6.0"></edge>
+      <edge id="51" source="37" target="4" weight="6.0"></edge>
+      <edge id="52" source="38" target="1" weight="6.0"></edge>
+      <edge id="53" source="4" target="39" weight="6.0"></edge>
+      <edge id="54" source="29" target="36" weight="5.0"></edge>
+      <edge id="55" source="40" target="15" weight="5.0"></edge>
+      <edge id="56" source="41" target="5" weight="5.0"></edge>
+      <edge id="57" source="11" target="28" weight="5.0"></edge>
+      <edge id="58" source="25" target="1" weight="4.0"></edge>
+      <edge id="59" source="5" target="42" weight="4.0"></edge>
+      <edge id="60" source="38" target="43" weight="4.0"></edge>
+      <edge id="61" source="14" target="44" weight="4.0"></edge>
+      <edge id="62" source="2" target="17" weight="4.0"></edge>
+      <edge id="63" source="20" target="8" weight="4.0"></edge>
+      <edge id="64" source="4" target="28" weight="4.0"></edge>
+      <edge id="65" source="45" target="6" weight="4.0"></edge>
+      <edge id="66" source="5" target="23" weight="4.0"></edge>
+      <edge id="67" source="46" target="1" weight="4.0"></edge>
+      <edge id="68" source="35" target="2" weight="3.0"></edge>
+      <edge id="69" source="5" target="38" weight="3.0"></edge>
+      <edge id="70" source="35" target="8" weight="3.0"></edge>
+      <edge id="71" source="33" target="6" weight="3.0"></edge>
+      <edge id="72" source="2" target="20" weight="3.0"></edge>
+      <edge id="73" source="47" target="29" weight="3.0"></edge>
+      <edge id="74" source="8" target="27" weight="3.0"></edge>
+      <edge id="75" source="48" target="18" weight="3.0"></edge>
+      <edge id="76" source="49" target="4" weight="2.0"></edge>
+      <edge id="77" source="4" target="50" weight="2.0"></edge>
+      <edge id="78" source="34" target="2" weight="2.0"></edge>
+      <edge id="79" source="46" target="2" weight="2.0"></edge>
+      <edge id="80" source="30" target="5" weight="2.0"></edge>
+      <edge id="81" source="51" target="30" weight="2.0"></edge>
+      <edge id="82" source="0" target="52" weight="2.0"></edge>
+      <edge id="83" source="20" target="53" weight="2.0"></edge>
+      <edge id="84" source="25" target="36" weight="2.0"></edge>
+      <edge id="85" source="5" target="54" weight="2.0"></edge>
+      <edge id="86" source="17" target="55" weight="2.0"></edge>
+      <edge id="87" source="5" target="46" weight="2.0"></edge>
+      <edge id="88" source="2" target="56" weight="2.0"></edge>
+      <edge id="89" source="41" target="1" weight="2.0"></edge>
+      <edge id="90" source="29" target="57" weight="2.0"></edge>
+      <edge id="91" source="58" target="1" weight="2.0"></edge>
+      <edge id="92" source="5" target="59" weight="2.0"></edge>
+      <edge id="93" source="47" target="15" weight="2.0"></edge>
+      <edge id="94" source="29" target="26" weight="2.0"></edge>
+      <edge id="95" source="60" target="2" weight="2.0"></edge>
+      <edge id="96" source="4" target="61" weight="2.0"></edge>
+      <edge id="97" source="12" target="62" weight="2.0"></edge>
+      <edge id="98" source="63" target="9"></edge>
+      <edge id="99" source="64" target="65"></edge>
+      <edge id="100" source="66" target="34"></edge>
+      <edge id="101" source="67" target="68"></edge>
+      <edge id="102" source="5" target="69"></edge>
+      <edge id="103" source="12" target="70"></edge>
+      <edge id="104" source="57" target="25"></edge>
+      <edge id="105" source="71" target="11"></edge>
+      <edge id="106" source="72" target="73"></edge>
+      <edge id="107" source="30" target="14"></edge>
+      <edge id="108" source="74" target="41"></edge>
+      <edge id="109" source="12" target="75"></edge>
+      <edge id="110" source="64" target="30"></edge>
+      <edge id="111" source="1" target="65"></edge>
+      <edge id="112" source="5" target="76"></edge>
+      <edge id="113" source="77" target="0"></edge>
+      <edge id="114" source="34" target="78"></edge>
+      <edge id="115" source="79" target="6"></edge>
+      <edge id="116" source="34" target="14"></edge>
+      <edge id="117" source="41" target="8"></edge>
+      <edge id="118" source="5" target="60"></edge>
+      <edge id="119" source="80" target="34"></edge>
+      <edge id="120" source="3" target="62"></edge>
+      <edge id="121" source="21" target="41"></edge>
+      <edge id="122" source="41" target="14"></edge>
+      <edge id="123" source="78" target="6"></edge>
+      <edge id="124" source="0" target="81"></edge>
+      <edge id="125" source="82" target="7"></edge>
+      <edge id="126" source="34" target="16"></edge>
+      <edge id="127" source="83" target="28"></edge>
+      <edge id="128" source="84" target="11"></edge>
+      <edge id="129" source="15" target="85"></edge>
+      <edge id="130" source="3" target="86"></edge>
+      <edge id="131" source="38" target="87"></edge>
+      <edge id="132" source="49" target="7"></edge>
+      <edge id="133" source="2" target="88"></edge>
+      <edge id="134" source="60" target="1"></edge>
+      <edge id="135" source="0" target="89"></edge>
+      <edge id="136" source="90" target="63"></edge>
+      <edge id="137" source="25" target="91"></edge>
+      <edge id="138" source="5" target="92"></edge>
+      <edge id="139" source="57" target="7"></edge>
+      <edge id="140" source="2" target="23"></edge>
+      <edge id="141" source="12" target="93"></edge>
+      <edge id="142" source="94" target="6"></edge>
+      <edge id="143" source="95" target="2"></edge>
+      <edge id="144" source="0" target="49"></edge>
+      <edge id="145" source="96" target="0"></edge>
+      <edge id="146" source="3" target="97"></edge>
+      <edge id="147" source="2" target="98"></edge>
+      <edge id="148" source="99" target="100"></edge>
+      <edge id="149" source="94" target="15"></edge>
+      <edge id="150" source="45" target="101"></edge>
+      <edge id="151" source="68" target="6"></edge>
+      <edge id="152" source="102" target="103"></edge>
+      <edge id="153" source="104" target="14"></edge>
+      <edge id="154" source="12" target="49"></edge>
+      <edge id="155" source="2" target="105"></edge>
+      <edge id="156" source="1" target="23"></edge>
+      <edge id="157" source="12" target="79"></edge>
+      <edge id="158" source="93" target="34"></edge>
+      <edge id="159" source="46" target="106"></edge>
+      <edge id="160" source="107" target="1"></edge>
+      <edge id="161" source="8" target="65"></edge>
+      <edge id="162" source="0" target="108"></edge>
+      <edge id="163" source="77" target="3"></edge>
+      <edge id="164" source="5" target="109"></edge>
+      <edge id="165" source="38" target="78"></edge>
+      <edge id="166" source="41" target="2"></edge>
+      <edge id="167" source="110" target="1"></edge>
+      <edge id="168" source="2" target="30"></edge>
+      <edge id="169" source="111" target="11"></edge>
+      <edge id="170" source="14" target="65"></edge>
+      <edge id="171" source="112" target="14"></edge>
+      <edge id="172" source="113" target="13"></edge>
+      <edge id="173" source="2" target="65"></edge>
+      <edge id="174" source="99" target="12"></edge>
+      <edge id="175" source="0" target="57"></edge>
+      <edge id="176" source="4" target="68"></edge>
+      <edge id="177" source="114" target="23"></edge>
+      <edge id="178" source="0" target="115"></edge>
+      <edge id="179" source="116" target="18"></edge>
+      <edge id="180" source="41" target="99"></edge>
+      <edge id="181" source="117" target="25"></edge>
+      <edge id="182" source="66" target="18"></edge>
+      <edge id="183" source="34" target="118"></edge>
+      <edge id="184" source="6" target="22"></edge>
+      <edge id="185" source="84" target="3"></edge>
+      <edge id="186" source="0" target="119"></edge>
+      <edge id="187" source="63" target="27"></edge>
+      <edge id="188" source="120" target="9"></edge>
+    </edges>
+  </graph>
+</gexf>

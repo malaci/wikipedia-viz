@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="13" label="townships in minnesota">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-120.82966" y="-716.5036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="townships in illinois">
+        <viz:size value="96.98336"></viz:size>
+        <viz:position x="-382.24365" y="35.529453"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="townships in pennsylvania">
+        <viz:size value="95.2976"></viz:size>
+        <viz:position x="-161.16533" y="-348.60822"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="townships in michigan">
+        <viz:size value="95.20887"></viz:size>
+        <viz:position x="-436.80627" y="560.8729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="townships in iowa">
+        <viz:size value="93.34566"></viz:size>
+        <viz:position x="-2.2844832" y="-3.7075467"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="townships in ohio">
+        <viz:size value="87.48983"></viz:size>
+        <viz:position x="264.7101" y="-657.67035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="townships of ontario">
+        <viz:size value="50.04806"></viz:size>
+        <viz:position x="-502.88824" y="-515.17755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="townships of shan state">
+        <viz:size value="45.434383"></viz:size>
+        <viz:position x="608.30676" y="-412.15173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="townships in gauteng">
+        <viz:size value="44.902035"></viz:size>
+        <viz:position x="322.8952" y="618.33185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="townships in the western cape">
+        <viz:size value="34.698708"></viz:size>
+        <viz:position x="638.2622" y="367.808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="townships in south africa">
+        <viz:size value="33.456566"></viz:size>
+        <viz:position x="-47.239" y="728.9767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="townships in kwazulu-natal">
+        <viz:size value="32.835487"></viz:size>
+        <viz:position x="-90.91073" y="366.46548"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="former townships in ontario">
+        <viz:size value="30.617374"></viz:size>
+        <viz:position x="-697.80383" y="-176.2554"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="urban townships">
+        <viz:size value="30.617374"></viz:size>
+        <viz:position x="274.8416" y="-260.93323"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="townships of the united states">
+        <viz:size value="24.584103"></viz:size>
+        <viz:position x="-681.0923" y="255.2713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="soweto townships">
+        <viz:size value="20.059149"></viz:size>
+        <viz:position x="320.0191" y="189.29604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="townships of mu se district">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="694.2286" y="-31.543808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="12.0"></edge>
+      <edge id="1" source="2" target="3" weight="11.0"></edge>
+      <edge id="2" source="4" target="5" weight="6.0"></edge>
+      <edge id="3" source="6" target="5" weight="4.0"></edge>
+      <edge id="4" source="5" target="7" weight="4.0"></edge>
+      <edge id="5" source="8" target="9"></edge>
+      <edge id="6" source="10" target="5"></edge>
+      <edge id="7" source="11" target="12"></edge>
+      <edge id="8" source="13" target="0"></edge>
+    </edges>
+  </graph>
+</gexf>

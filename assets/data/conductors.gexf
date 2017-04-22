@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="20th-century conductors">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="268.0645" y="-202.23817"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="american conductors">
+        <viz:size value="98.617935"></viz:size>
+        <viz:position x="-47.413193" y="142.312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="german conductors">
+        <viz:size value="87.455154"></viz:size>
+        <viz:position x="-17.552704" y="-997.5779"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="english conductors">
+        <viz:size value="85.966774"></viz:size>
+        <viz:position x="-151.68736" y="-776.36053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="choral conductors">
+        <viz:size value="80.33224"></viz:size>
+        <viz:position x="525.616" y="528.5538"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="italian conductors">
+        <viz:size value="79.588036"></viz:size>
+        <viz:position x="268.72452" y="-544.58167"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="19th-century conductors">
+        <viz:size value="78.20598"></viz:size>
+        <viz:position x="-388.18503" y="-670.23175"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="french conductors">
+        <viz:size value="75.97343"></viz:size>
+        <viz:position x="-846.2289" y="-486.57712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="canadian conductors">
+        <viz:size value="74.69768"></viz:size>
+        <viz:position x="834.7254" y="26.112577"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="21st-century conductors">
+        <viz:size value="72.25249"></viz:size>
+        <viz:position x="-153.68562" y="534.9783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="russian conductors">
+        <viz:size value="72.14617"></viz:size>
+        <viz:position x="731.1677" y="-403.43234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="british conductors">
+        <viz:size value="70.87043"></viz:size>
+        <viz:position x="-605.7237" y="788.6646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="austrian conductors">
+        <viz:size value="70.87043"></viz:size>
+        <viz:position x="-1.4643264" y="-571.27075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="women conductors">
+        <viz:size value="65.34219"></viz:size>
+        <viz:position x="271.2988" y="492.24493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="hungarian conductors">
+        <viz:size value="63.53488"></viz:size>
+        <viz:position x="-228.13284" y="-470.12204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="czech conductors">
+        <viz:size value="63.53488"></viz:size>
+        <viz:position x="-284.6414" y="-985.15985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="australian conductors">
+        <viz:size value="62.89701"></viz:size>
+        <viz:position x="743.0432" y="360.8929"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="dutch conductors">
+        <viz:size value="61.83389"></viz:size>
+        <viz:position x="-618.2987" y="517.0561"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="polish conductors">
+        <viz:size value="60.98339"></viz:size>
+        <viz:position x="391.51678" y="-784.0379"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="eurovision song contest conductors">
+        <viz:size value="59.60133"></viz:size>
+        <viz:position x="-1089.8472" y="690.56696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="conductors awarded knighthoods">
+        <viz:size value="58.96346"></viz:size>
+        <viz:position x="-157.87868" y="-233.37366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="female conductors">
+        <viz:size value="58.112957"></viz:size>
+        <viz:position x="287.64233" y="721.2674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="swiss conductors">
+        <viz:size value="57.156147"></viz:size>
+        <viz:position x="551.96844" y="-589.17065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="spanish conductors">
+        <viz:size value="56.624584"></viz:size>
+        <viz:position x="-1000.90137" y="-292.1414"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="japanese conductors">
+        <viz:size value="55.348835"></viz:size>
+        <viz:position x="-1010.2823" y="198.78845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="swedish conductors">
+        <viz:size value="54.498337"></viz:size>
+        <viz:position x="1057.6028" y="733.3925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="belgian conductors">
+        <viz:size value="53.966774"></viz:size>
+        <viz:position x="-914.4073" y="432.57303"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="norwegian conductors">
+        <viz:size value="52.053158"></viz:size>
+        <viz:position x="629.8453" y="137.49896"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="irish conductors">
+        <viz:size value="51.734215"></viz:size>
+        <viz:position x="129.74377" y="-784.1739"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="finnish conductors">
+        <viz:size value="51.734215"></viz:size>
+        <viz:position x="-1182.2565" y="447.9273"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="israeli conductors">
+        <viz:size value="51.415283"></viz:size>
+        <viz:position x="-990.16943" y="-48.85109"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="danish conductors">
+        <viz:size value="51.415283"></viz:size>
+        <viz:position x="-726.9401" y="-736.56744"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="soviet conductors">
+        <viz:size value="51.096344"></viz:size>
+        <viz:position x="680.196" y="-164.56067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="bach conductors">
+        <viz:size value="49.607975"></viz:size>
+        <viz:position x="-240.18648" y="256.79755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="brazilian conductors">
+        <viz:size value="47.90698"></viz:size>
+        <viz:position x="-1260.822" y="-278.77783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="romanian conductors">
+        <viz:size value="47.90698"></viz:size>
+        <viz:position x="-744.3656" y="-246.88615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="armenian conductors">
+        <viz:size value="45.993355"></viz:size>
+        <viz:position x="1229.9288" y="-306.0761"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="estonian conductors">
+        <viz:size value="45.993355"></viz:size>
+        <viz:position x="956.9309" y="510.92566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="ukrainian conductors">
+        <viz:size value="45.568104"></viz:size>
+        <viz:position x="1168.3497" y="-558.88025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="welsh conductors">
+        <viz:size value="45.036545"></viz:size>
+        <viz:position x="-691.0275" y="1033.852"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="argentine conductors">
+        <viz:size value="43.86711"></viz:size>
+        <viz:position x="-109.828094" y="1052.111"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="greek conductors">
+        <viz:size value="43.33555"></viz:size>
+        <viz:position x="-1021.2776" y="-705.9496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="african-american conductors">
+        <viz:size value="42.697674"></viz:size>
+        <viz:position x="983.34576" y="237.7066"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="mexican conductors">
+        <viz:size value="42.697674"></viz:size>
+        <viz:position x="-896.1028" y="-919.9239"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="conductors of the metropolitan opera">
+        <viz:size value="41.421925"></viz:size>
+        <viz:position x="-272.77582" y="-41.322437"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="scottish conductors">
+        <viz:size value="40.784054"></viz:size>
+        <viz:position x="-833.5128" y="668.7466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="venezuelan conductors">
+        <viz:size value="40.039864"></viz:size>
+        <viz:position x="-353.27365" y="673.3989"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="black conductors">
+        <viz:size value="39.295685"></viz:size>
+        <viz:position x="747.23016" y="-736.5873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="new zealand conductors">
+        <viz:size value="38.5515"></viz:size>
+        <viz:position x="-705.50793" y="275.6389"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="18th-century conductors">
+        <viz:size value="37.701"></viz:size>
+        <viz:position x="-595.18646" y="-504.70932"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="bulgarian conductors">
+        <viz:size value="37.701"></viz:size>
+        <viz:position x="244.50716" y="146.31668"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="croatian conductors">
+        <viz:size value="36.850502"></viz:size>
+        <viz:position x="-218.0413" y="-1258.564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="chinese conductors">
+        <viz:size value="36.850502"></viz:size>
+        <viz:position x="437.27954" y="282.93637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="prize-winners of the international besancon competition for young conductors">
+        <viz:size value="35.893692"></viz:size>
+        <viz:position x="-745.6284" y="49.739716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="ballet conductors">
+        <viz:size value="34.93688"></viz:size>
+        <viz:position x="-462.87665" y="134.36563"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="slovak conductors">
+        <viz:size value="34.93688"></viz:size>
+        <viz:position x="-522.60583" y="-886.86255"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="london symphony orchestra principal conductors">
+        <viz:size value="34.93688"></viz:size>
+        <viz:position x="74.289345" y="-329.81863"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="filipino conductors">
+        <viz:size value="33.873756"></viz:size>
+        <viz:position x="1196.954" y="469.56628"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="latvian conductors">
+        <viz:size value="33.873756"></viz:size>
+        <viz:position x="-413.2361" y="406.85248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="iranian conductors">
+        <viz:size value="32.70432"></viz:size>
+        <viz:position x="-1158.9536" y="-516.1831"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="serbian conductors">
+        <viz:size value="32.70432"></viz:size>
+        <viz:position x="57.01858" y="-59.46736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="conductors who died while conducting">
+        <viz:size value="32.70432"></viz:size>
+        <viz:position x="-546.6656" y="-108.47366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="indian conductors">
+        <viz:size value="31.428572"></viz:size>
+        <viz:position x="-389.728" y="953.6349"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="conductors who committed suicide">
+        <viz:size value="31.428572"></viz:size>
+        <viz:position x="-427.2574" y="-325.44247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="cuban conductors">
+        <viz:size value="31.428572"></viz:size>
+        <viz:position x="-690.84766" y="-1072.8572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="slovenian conductors">
+        <viz:size value="30.152824"></viz:size>
+        <viz:position x="442.48816" y="-40.79452"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="azerbaijani conductors">
+        <viz:size value="30.152824"></viz:size>
+        <viz:position x="1236.3065" y="210.03009"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="korean conductors">
+        <viz:size value="28.664452"></viz:size>
+        <viz:position x="376.9446" y="968.04517"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="turkish conductors">
+        <viz:size value="27.069769"></viz:size>
+        <viz:position x="1301.2092" y="-39.566055"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="catalan conductors">
+        <viz:size value="25.262459"></viz:size>
+        <viz:position x="1061.4094" y="-45.410862"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="taiwanese conductors">
+        <viz:size value="23.242525"></viz:size>
+        <viz:position x="-149.15802" y="814.00653"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="south african conductors">
+        <viz:size value="23.242525"></viz:size>
+        <viz:position x="995.3739" y="-798.50836"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="lithuanian conductors">
+        <viz:size value="23.242525"></viz:size>
+        <viz:position x="458.59448" y="-345.24118"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="prize-winners of the leeds conductors competition">
+        <viz:size value="23.242525"></viz:size>
+        <viz:position x="271.57037" y="-1257.088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="portuguese conductors">
+        <viz:size value="20.797342"></viz:size>
+        <viz:position x="695.95135" y="1057.3798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="macedonian conductors">
+        <viz:size value="20.797342"></viz:size>
+        <viz:position x="879.1641" y="902.1092"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="luxembourgian conductors">
+        <viz:size value="20.797342"></viz:size>
+        <viz:position x="-263.9007" y="1245.6366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="royal concertgebouw orchestra chief conductors">
+        <viz:size value="20.797342"></viz:size>
+        <viz:position x="58.57327" y="356.09518"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="portland youth philharmonic conductors">
+        <viz:size value="18.033222"></viz:size>
+        <viz:position x="48.37705" y="659.7017"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="uruguayan conductors">
+        <viz:size value="18.033222"></viz:size>
+        <viz:position x="-1255.5144" y="-33.596035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="chilean conductors">
+        <viz:size value="14.631229"></viz:size>
+        <viz:position x="-460.68097" y="-1189.2242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="albanian conductors">
+        <viz:size value="14.631229"></viz:size>
+        <viz:position x="1.5841001" y="1277.8054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="tunisian conductors">
+        <viz:size value="14.631229"></viz:size>
+        <viz:position x="128.09225" y="961.3298"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="conductors from san francisco, california">
+        <viz:size value="10.166113"></viz:size>
+        <viz:position x="564.0024" y="-940.6713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="hong kong conductors">
+        <viz:size value="10.166113"></viz:size>
+        <viz:position x="480.15485" y="1186.4222"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="peruvian conductors">
+        <viz:size value="10.166113"></viz:size>
+        <viz:position x="572.1511" y="821.41986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="conductors from northern ireland">
+        <viz:size value="10.166113"></viz:size>
+        <viz:position x="254.28062" y="-1015.13745"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="indonesian conductors">
+        <viz:size value="10.166113"></viz:size>
+        <viz:position x="742.67596" y="652.46674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="icelandic conductors">
+        <viz:size value="10.166113"></viz:size>
+        <viz:position x="-501.29404" y="1175.4127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="kosovar conductors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="965.7684" y="-274.09235"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="czechoslovak conductors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="931.3411" y="-538.86774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="idf orchestra conductors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-912.22125" y="914.34766"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="paraguayan conductors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="26.463995" y="-1254.0454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="lebanese conductors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1263.9902" y="209.98947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="panamanian conductors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="801.9565" y="-1001.048"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="costa rican conductors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="230.70529" y="1225.4415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="belcanto conductors">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="530.03455" y="-1172.5602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="82.0"></edge>
+      <edge id="1" source="2" target="1" weight="82.0"></edge>
+      <edge id="2" source="3" target="1" weight="58.0"></edge>
+      <edge id="3" source="1" target="4" weight="58.0"></edge>
+      <edge id="4" source="5" target="1" weight="52.0"></edge>
+      <edge id="5" source="6" target="2" weight="49.0"></edge>
+      <edge id="6" source="7" target="3" weight="47.0"></edge>
+      <edge id="7" source="8" target="1" weight="46.0"></edge>
+      <edge id="8" source="1" target="9" weight="42.0"></edge>
+      <edge id="9" source="10" target="7" weight="34.0"></edge>
+      <edge id="10" source="11" target="1" weight="34.0"></edge>
+      <edge id="11" source="1" target="12" weight="33.0"></edge>
+      <edge id="12" source="6" target="4" weight="30.0"></edge>
+      <edge id="13" source="13" target="1" weight="28.0"></edge>
+      <edge id="14" source="10" target="1" weight="25.0"></edge>
+      <edge id="15" source="14" target="1" weight="25.0"></edge>
+      <edge id="16" source="1" target="15" weight="22.0"></edge>
+      <edge id="17" source="7" target="16" weight="21.0"></edge>
+      <edge id="18" source="17" target="1" weight="19.0"></edge>
+      <edge id="19" source="6" target="5" weight="18.0"></edge>
+      <edge id="20" source="1" target="16" weight="14.0"></edge>
+      <edge id="21" source="10" target="18" weight="14.0"></edge>
+      <edge id="22" source="12" target="18" weight="12.0"></edge>
+      <edge id="23" source="19" target="1" weight="12.0"></edge>
+      <edge id="24" source="1" target="20" weight="11.0"></edge>
+      <edge id="25" source="21" target="1" weight="11.0"></edge>
+      <edge id="26" source="22" target="1" weight="11.0"></edge>
+      <edge id="27" source="23" target="1" weight="9.0"></edge>
+      <edge id="28" source="18" target="16" weight="9.0"></edge>
+      <edge id="29" source="6" target="13" weight="9.0"></edge>
+      <edge id="30" source="7" target="11" weight="9.0"></edge>
+      <edge id="31" source="24" target="1" weight="9.0"></edge>
+      <edge id="32" source="7" target="21" weight="8.0"></edge>
+      <edge id="33" source="1" target="25" weight="8.0"></edge>
+      <edge id="34" source="26" target="1" weight="7.0"></edge>
+      <edge id="35" source="1" target="27" weight="7.0"></edge>
+      <edge id="36" source="28" target="6" weight="6.0"></edge>
+      <edge id="37" source="6" target="22" weight="6.0"></edge>
+      <edge id="38" source="6" target="29" weight="6.0"></edge>
+      <edge id="39" source="3" target="30" weight="5.0"></edge>
+      <edge id="40" source="31" target="1" weight="5.0"></edge>
+      <edge id="41" source="7" target="19" weight="4.0"></edge>
+      <edge id="42" source="7" target="27" weight="4.0"></edge>
+      <edge id="43" source="32" target="19" weight="4.0"></edge>
+      <edge id="44" source="33" target="34" weight="4.0"></edge>
+      <edge id="45" source="10" target="35" weight="4.0"></edge>
+      <edge id="46" source="1" target="34" weight="4.0"></edge>
+      <edge id="47" source="36" target="1" weight="4.0"></edge>
+      <edge id="48" source="37" target="1" weight="4.0"></edge>
+      <edge id="49" source="18" target="36" weight="4.0"></edge>
+      <edge id="50" source="38" target="39" weight="3.0"></edge>
+      <edge id="51" source="7" target="36" weight="3.0"></edge>
+      <edge id="52" source="0" target="40" weight="3.0"></edge>
+      <edge id="53" source="10" target="41" weight="3.0"></edge>
+      <edge id="54" source="42" target="9" weight="3.0"></edge>
+      <edge id="55" source="38" target="11" weight="3.0"></edge>
+      <edge id="56" source="18" target="19" weight="3.0"></edge>
+      <edge id="57" source="31" target="6" weight="3.0"></edge>
+      <edge id="58" source="34" target="18" weight="3.0"></edge>
+      <edge id="59" source="12" target="40" weight="3.0"></edge>
+      <edge id="60" source="19" target="33" weight="3.0"></edge>
+      <edge id="61" source="40" target="11" weight="3.0"></edge>
+      <edge id="62" source="9" target="43" weight="3.0"></edge>
+      <edge id="63" source="6" target="21" weight="3.0"></edge>
+      <edge id="64" source="3" target="44" weight="3.0"></edge>
+      <edge id="65" source="45" target="3" weight="3.0"></edge>
+      <edge id="66" source="28" target="46" weight="3.0"></edge>
+      <edge id="67" source="39" target="1" weight="2.0"></edge>
+      <edge id="68" source="1" target="47" weight="2.0"></edge>
+      <edge id="69" source="10" target="48" weight="2.0"></edge>
+      <edge id="70" source="28" target="7" weight="2.0"></edge>
+      <edge id="71" source="18" target="49" weight="2.0"></edge>
+      <edge id="72" source="50" target="0" weight="2.0"></edge>
+      <edge id="73" source="13" target="51" weight="2.0"></edge>
+      <edge id="74" source="52" target="39" weight="2.0"></edge>
+      <edge id="75" source="48" target="16" weight="2.0"></edge>
+      <edge id="76" source="21" target="18" weight="2.0"></edge>
+      <edge id="77" source="3" target="35" weight="2.0"></edge>
+      <edge id="78" source="53" target="1" weight="2.0"></edge>
+      <edge id="79" source="46" target="27" weight="2.0"></edge>
+      <edge id="80" source="35" target="16" weight="2.0"></edge>
+      <edge id="81" source="15" target="54" weight="2.0"></edge>
+      <edge id="82" source="55" target="6" weight="2.0"></edge>
+      <edge id="83" source="3" target="56" weight="2.0"></edge>
+      <edge id="84" source="11" target="51" weight="2.0"></edge>
+      <edge id="85" source="40" target="5" weight="2.0"></edge>
+      <edge id="86" source="7" target="39"></edge>
+      <edge id="87" source="57" target="18"></edge>
+      <edge id="88" source="36" target="58"></edge>
+      <edge id="89" source="56" target="47"></edge>
+      <edge id="90" source="41" target="16"></edge>
+      <edge id="91" source="59" target="1"></edge>
+      <edge id="92" source="39" target="46"></edge>
+      <edge id="93" source="3" target="60"></edge>
+      <edge id="94" source="31" target="7"></edge>
+      <edge id="95" source="15" target="40"></edge>
+      <edge id="96" source="61" target="39"></edge>
+      <edge id="97" source="27" target="62"></edge>
+      <edge id="98" source="15" target="63"></edge>
+      <edge id="99" source="39" target="64"></edge>
+      <edge id="100" source="65" target="1"></edge>
+      <edge id="101" source="66" target="4"></edge>
+      <edge id="102" source="67" target="18"></edge>
+      <edge id="103" source="68" target="16"></edge>
+      <edge id="104" source="10" target="63"></edge>
+      <edge id="105" source="69" target="1"></edge>
+      <edge id="106" source="27" target="56"></edge>
+      <edge id="107" source="70" target="10"></edge>
+      <edge id="108" source="8" target="54"></edge>
+      <edge id="109" source="47" target="6"></edge>
+      <edge id="110" source="63" target="2"></edge>
+      <edge id="111" source="1" target="71"></edge>
+      <edge id="112" source="70" target="16"></edge>
+      <edge id="113" source="40" target="27"></edge>
+      <edge id="114" source="72" target="39"></edge>
+      <edge id="115" source="28" target="52"></edge>
+      <edge id="116" source="39" target="35"></edge>
+      <edge id="117" source="39" target="73"></edge>
+      <edge id="118" source="10" target="68"></edge>
+      <edge id="119" source="23" target="18"></edge>
+      <edge id="120" source="74" target="27"></edge>
+      <edge id="121" source="10" target="75"></edge>
+      <edge id="122" source="76" target="39"></edge>
+      <edge id="123" source="77" target="18"></edge>
+      <edge id="124" source="78" target="1"></edge>
+      <edge id="125" source="18" target="47"></edge>
+      <edge id="126" source="18" target="27"></edge>
+      <edge id="127" source="54" target="79"></edge>
+      <edge id="128" source="23" target="52"></edge>
+      <edge id="129" source="80" target="18"></edge>
+      <edge id="130" source="56" target="8"></edge>
+      <edge id="131" source="73" target="23"></edge>
+      <edge id="132" source="23" target="46"></edge>
+      <edge id="133" source="12" target="62"></edge>
+      <edge id="134" source="40" target="19"></edge>
+      <edge id="135" source="22" target="81"></edge>
+      <edge id="136" source="76" target="16"></edge>
+      <edge id="137" source="21" target="40"></edge>
+      <edge id="138" source="7" target="82"></edge>
+      <edge id="139" source="18" target="83"></edge>
+      <edge id="140" source="84" target="4"></edge>
+      <edge id="141" source="41" target="4"></edge>
+      <edge id="142" source="10" target="85"></edge>
+      <edge id="143" source="9" target="40"></edge>
+      <edge id="144" source="40" target="34"></edge>
+      <edge id="145" source="4" target="40"></edge>
+      <edge id="146" source="6" target="86"></edge>
+      <edge id="147" source="75" target="16"></edge>
+      <edge id="148" source="72" target="87"></edge>
+      <edge id="149" source="33" target="23"></edge>
+      <edge id="150" source="7" target="47"></edge>
+      <edge id="151" source="37" target="18"></edge>
+      <edge id="152" source="88" target="27"></edge>
+      <edge id="153" source="40" target="22"></edge>
+      <edge id="154" source="10" target="76"></edge>
+      <edge id="155" source="89" target="11"></edge>
+      <edge id="156" source="90" target="39"></edge>
+      <edge id="157" source="91" target="2"></edge>
+      <edge id="158" source="92" target="23"></edge>
+      <edge id="159" source="12" target="81"></edge>
+      <edge id="160" source="93" target="13"></edge>
+      <edge id="161" source="89" target="8"></edge>
+      <edge id="162" source="94" target="39"></edge>
+      <edge id="163" source="38" target="27"></edge>
+      <edge id="164" source="7" target="23"></edge>
+      <edge id="165" source="95" target="96"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="2" label="military equipment">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="934.27264" y="-567.92926"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="medical equipment">
+        <viz:size value="89.49671"></viz:size>
+        <viz:position x="-1092.1095" y="-742.1875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="telecommunications equipment">
+        <viz:size value="81.304146"></viz:size>
+        <viz:position x="-67.67086" y="382.62027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="audio equipment manufacturers">
+        <viz:size value="80.67396"></viz:size>
+        <viz:position x="-443.2688" y="694.7272"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="laboratory equipment">
+        <viz:size value="77.20786"></viz:size>
+        <viz:position x="-1005.14154" y="150.17781"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="test equipment">
+        <viz:size value="72.376366"></viz:size>
+        <viz:position x="-1332.2554" y="5.862412"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="photography equipment">
+        <viz:size value="70.17068"></viz:size>
+        <viz:position x="11.39888" y="134.24979"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="construction equipment">
+        <viz:size value="70.06564"></viz:size>
+        <viz:position x="-541.8668" y="936.27795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="safety equipment">
+        <viz:size value="68.805244"></viz:size>
+        <viz:position x="-888.04364" y="614.62244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="navigational equipment">
+        <viz:size value="67.22975"></viz:size>
+        <viz:position x="-1039.1476" y="-317.03333"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="fishing equipment">
+        <viz:size value="66.389496"></viz:size>
+        <viz:position x="372.12854" y="-1065.8834"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="mining equipment">
+        <viz:size value="65.65427"></viz:size>
+        <viz:position x="-275.04196" y="1305.2157"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="camping equipment">
+        <viz:size value="65.549225"></viz:size>
+        <viz:position x="465.21826" y="-707.65"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="sports equipment">
+        <viz:size value="65.549225"></viz:size>
+        <viz:position x="976.97815" y="129.93977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="united states air force equipment">
+        <viz:size value="65.4442"></viz:size>
+        <viz:position x="710.83875" y="141.46281"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="firefighting equipment">
+        <viz:size value="64.60393"></viz:size>
+        <viz:position x="-964.1381" y="895.66174"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="diving equipment">
+        <viz:size value="64.60393"></viz:size>
+        <viz:position x="-1026.0854" y="399.92844"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="telephony equipment">
+        <viz:size value="64.60393"></viz:size>
+        <viz:position x="-173.48338" y="-35.275135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="meteorological instrumentation and equipment">
+        <viz:size value="64.18381"></viz:size>
+        <viz:position x="275.52228" y="66.777245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="office equipment">
+        <viz:size value="63.238506"></viz:size>
+        <viz:position x="-676.8542" y="-554.68243"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="united states marine corps equipment">
+        <viz:size value="61.97811"></viz:size>
+        <viz:position x="70.364716" y="-118.97642"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="exercise equipment">
+        <viz:size value="59.667393"></viz:size>
+        <viz:position x="609.47894" y="914.21136"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="industrial equipment">
+        <viz:size value="58.51203"></viz:size>
+        <viz:position x="-16.105171" y="1318.8263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="new york city subway passenger equipment">
+        <viz:size value="58.51203"></viz:size>
+        <viz:position x="-113.57384" y="-319.21335"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="law enforcement equipment">
+        <viz:size value="58.301964"></viz:size>
+        <viz:position x="-343.2704" y="-209.25755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="british army equipment">
+        <viz:size value="58.0919"></viz:size>
+        <viz:position x="973.7748" y="-879.3964"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="music equipment manufacturers">
+        <viz:size value="56.516407"></viz:size>
+        <viz:position x="-344.4786" y="466.9484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="golf equipment">
+        <viz:size value="56.516407"></viz:size>
+        <viz:position x="209.61504" y="-611.63947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="emergency services equipment makers">
+        <viz:size value="56.516407"></viz:size>
+        <viz:position x="315.57352" y="-191.48077"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="dental equipment">
+        <viz:size value="55.991238"></viz:size>
+        <viz:position x="1070.2693" y="785.3129"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="digital equipment corporation">
+        <viz:size value="55.57111"></viz:size>
+        <viz:position x="124.57825" y="-376.01242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="climbing equipment">
+        <viz:size value="54.520782"></viz:size>
+        <viz:position x="-524.11786" y="290.00455"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="rescue equipment">
+        <viz:size value="53.890587"></viz:size>
+        <viz:position x="579.4814" y="-1202.9984"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="mountaineering equipment">
+        <viz:size value="53.36542"></viz:size>
+        <viz:position x="194.20161" y="306.69943"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="samurai weapons and equipment">
+        <viz:size value="52.42013"></viz:size>
+        <viz:position x="-463.81174" y="-692.2241"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="cricket equipment">
+        <viz:size value="52.42013"></viz:size>
+        <viz:position x="274.1574" y="777.34607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="electrical equipment">
+        <viz:size value="49.05908"></viz:size>
+        <viz:position x="-1114.9132" y="-72.287766"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="tennis equipment">
+        <viz:size value="48.218815"></viz:size>
+        <viz:position x="1307.8444" y="33.78063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="microbiology equipment">
+        <viz:size value="48.218815"></viz:size>
+        <viz:position x="-793.78125" y="328.24704"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="armoured fighting vehicle equipment">
+        <viz:size value="48.218815"></viz:size>
+        <viz:position x="1036.8079" y="-314.87436"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="bdsm equipment">
+        <viz:size value="47.798683"></viz:size>
+        <viz:position x="-731.8538" y="-1102.7948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="hiking equipment">
+        <viz:size value="47.378555"></viz:size>
+        <viz:position x="752.31067" y="-757.58795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="united states army equipment">
+        <viz:size value="47.378555"></viz:size>
+        <viz:position x="-492.49234" y="-398.69052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="dog equipment">
+        <viz:size value="47.378555"></viz:size>
+        <viz:position x="-264.81088" y="-1302.0428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="animal equipment">
+        <viz:size value="46.433258"></viz:size>
+        <viz:position x="-130.604" y="-1094.9811"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="weight training equipment">
+        <viz:size value="45.06783"></viz:size>
+        <viz:position x="708.809" y="1128.1613"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="ancient roman legionary equipment">
+        <viz:size value="45.06783"></viz:size>
+        <viz:position x="1131.7267" y="-692.84784"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="ophthalmic equipment">
+        <viz:size value="44.542667"></viz:size>
+        <viz:position x="-940.63116" y="-553.9359"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="skiing equipment">
+        <viz:size value="44.542667"></viz:size>
+        <viz:position x="-94.84276" y="1075.7197"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="swimming equipment">
+        <viz:size value="44.0175"></viz:size>
+        <viz:position x="147.68393" y="1063.5098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="pet equipment">
+        <viz:size value="43.387306"></viz:size>
+        <viz:position x="-572.07806" y="-917.3264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="cycling equipment">
+        <viz:size value="43.387306"></viz:size>
+        <viz:position x="644.7961" y="-529.665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="association football equipment">
+        <viz:size value="42.86214"></viz:size>
+        <viz:position x="615.717" y="467.20728"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="sewing equipment">
+        <viz:size value="42.86214"></viz:size>
+        <viz:position x="242.29134" y="-847.9141"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="surfing equipment">
+        <viz:size value="42.86214"></viz:size>
+        <viz:position x="124.77364" y="-1102.4977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="ice hockey equipment">
+        <viz:size value="42.86214"></viz:size>
+        <viz:position x="1206.514" y="552.73206"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="lifting equipment">
+        <viz:size value="40.97155"></viz:size>
+        <viz:position x="-934.898" y="-942.1028"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="scientific equipment">
+        <viz:size value="40.97155"></viz:size>
+        <viz:position x="-1296.6857" y="-271.01773"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="baseball equipment">
+        <viz:size value="39.60612"></viz:size>
+        <viz:position x="499.01593" y="685.3739"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="dj equipment">
+        <viz:size value="39.60612"></viz:size>
+        <viz:position x="-247.53293" y="849.6857"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="skateboarding equipment">
+        <viz:size value="38.870895"></viz:size>
+        <viz:position x="-604.6442" y="-147.8262"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="caving equipment">
+        <viz:size value="38.870895"></viz:size>
+        <viz:position x="345.05255" y="485.91922"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="anesthetic equipment">
+        <viz:size value="38.135666"></viz:size>
+        <viz:position x="-719.4553" y="778.99835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="forensic equipment">
+        <viz:size value="38.135666"></viz:size>
+        <viz:position x="-867.9797" y="-82.174545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="canoeing and kayaking equipment">
+        <viz:size value="37.295403"></viz:size>
+        <viz:position x="570.0792" y="-931.20294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="telecommunication equipment companies">
+        <viz:size value="37.295403"></viz:size>
+        <viz:position x="-255.6632" y="220.74037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="martial arts equipment">
+        <viz:size value="37.295403"></viz:size>
+        <viz:position x="892.6721" y="951.15674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="x-ray equipment manufacturers">
+        <viz:size value="36.45514"></viz:size>
+        <viz:position x="-1215.9105" y="-515.9329"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="rowing equipment manufacturers">
+        <viz:size value="36.45514"></viz:size>
+        <viz:position x="380.94153" y="1001.7745"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="american football equipment">
+        <viz:size value="35.509842"></viz:size>
+        <viz:position x="820.5309" y="364.94577"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="rugby union equipment">
+        <viz:size value="34.564552"></viz:size>
+        <viz:position x="940.78986" y="580.03546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="horse protective equipment">
+        <viz:size value="34.564552"></viz:size>
+        <viz:position x="24.43129" y="835.9175"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="sailing equipment">
+        <viz:size value="33.51422"></viz:size>
+        <viz:position x="-630.81335" y="523.7091"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="cat equipment">
+        <viz:size value="33.51422"></viz:size>
+        <viz:position x="7.5847044" y="-1324.2443"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="rugby league equipment">
+        <viz:size value="33.51422"></viz:size>
+        <viz:position x="758.4214" y="714.231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="athletics equipment">
+        <viz:size value="33.51422"></viz:size>
+        <viz:position x="573.2313" y="-251.7765"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="horse tack and equipment">
+        <viz:size value="32.35886"></viz:size>
+        <viz:position x="-506.99567" y="-1212.7634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="excavating equipment">
+        <viz:size value="32.35886"></viz:size>
+        <viz:position x="-350.46274" y="1081.4404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="heavy equipment">
+        <viz:size value="32.35886"></viz:size>
+        <viz:position x="-564.07556" y="1209.61"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="lacrosse equipment">
+        <viz:size value="29.838072"></viz:size>
+        <viz:position x="395.44046" y="-442.088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="aviation ground support equipment">
+        <viz:size value="29.838072"></viz:size>
+        <viz:position x="1231.1934" y="-466.5709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="aerial warfare ground equipment">
+        <viz:size value="28.367613"></viz:size>
+        <viz:position x="-146.67241" y="625.99756"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="badminton equipment">
+        <viz:size value="28.367613"></viz:size>
+        <viz:position x="814.54443" y="-89.514145"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="windsurfing equipment">
+        <viz:size value="28.367613"></viz:size>
+        <viz:position x="292.1933" y="-1303.4336"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="survival equipment">
+        <viz:size value="28.367613"></viz:size>
+        <viz:position x="796.68085" y="-1045.4331"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="livestock herding equipment">
+        <viz:size value="26.792122"></viz:size>
+        <viz:position x="-352.1818" y="-1012.45685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="engineering equipment">
+        <viz:size value="26.792122"></viz:size>
+        <viz:position x="-1265.7361" y="233.88974"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="decompression equipment">
+        <viz:size value="26.792122"></viz:size>
+        <viz:position x="-1244.403" y="478.37576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="bowling equipment manufacturers">
+        <viz:size value="25.006563"></viz:size>
+        <viz:position x="1086.4474" y="-72.46879"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="roller skating equipment">
+        <viz:size value="25.006563"></viz:size>
+        <viz:position x="-704.01605" y="98.70249"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="diver propulsion equipment">
+        <viz:size value="25.006563"></viz:size>
+        <viz:position x="234.5805" y="1297.4268"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="dance equipment">
+        <viz:size value="25.006563"></viz:size>
+        <viz:position x="474.20682" y="1228.4966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="embroidery equipment">
+        <viz:size value="23.010939"></viz:size>
+        <viz:position x="-35.34299" y="-607.0842"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="riot control equipment">
+        <viz:size value="23.010939"></viz:size>
+        <viz:position x="-436.13824" y="42.464912"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="library equipment">
+        <viz:size value="23.010939"></viz:size>
+        <viz:position x="-780.44745" y="-327.97165"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="equipment of the united states coast guard">
+        <viz:size value="20.595184"></viz:size>
+        <viz:position x="522.60425" y="-14.321126"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="archery equipment of japan">
+        <viz:size value="17.86433"></viz:size>
+        <viz:position x="-238.73816" y="-785.5019"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="radar equipment of the cold war">
+        <viz:size value="17.86433"></viz:size>
+        <viz:position x="-270.37784" y="-512.6133"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="british commando equipment">
+        <viz:size value="14.503282"></viz:size>
+        <viz:position x="1301.9052" y="-225.46162"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="helicopter equipment">
+        <viz:size value="14.503282"></viz:size>
+        <viz:position x="-780.78577" y="1056.4875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="figure skating equipment">
+        <viz:size value="10.091904"></viz:size>
+        <viz:position x="1084.3931" y="339.22958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="bandy equipment">
+        <viz:size value="10.091904"></viz:size>
+        <viz:position x="1299.6062" y="270.3109"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="diver buoyancy control equipment">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1117.7969" y="698.6767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="speed skating equipment">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="799.0129" y="-339.68753"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="snooker equipment">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="478.90332" y="247.9461"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="strategic air command equipment">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="105.213905" y="578.7074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="veterinary equipment">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-6.1979356" y="-869.9368"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="underwater work equipment">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-776.37445" y="-773.6079"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="21.0"></edge>
+      <edge id="1" source="2" target="3" weight="20.0"></edge>
+      <edge id="2" source="4" target="5" weight="19.0"></edge>
+      <edge id="3" source="1" target="6" weight="14.0"></edge>
+      <edge id="4" source="7" target="8" weight="13.0"></edge>
+      <edge id="5" source="0" target="9" weight="12.0"></edge>
+      <edge id="6" source="10" target="11" weight="11.0"></edge>
+      <edge id="7" source="12" target="13" weight="7.0"></edge>
+      <edge id="8" source="14" target="15" weight="7.0"></edge>
+      <edge id="9" source="16" target="17" weight="6.0"></edge>
+      <edge id="10" source="18" target="19" weight="6.0"></edge>
+      <edge id="11" source="20" target="21" weight="5.0"></edge>
+      <edge id="12" source="22" target="23" weight="4.0"></edge>
+      <edge id="13" source="24" target="25" weight="4.0"></edge>
+      <edge id="14" source="26" target="27" weight="4.0"></edge>
+      <edge id="15" source="28" target="29" weight="4.0"></edge>
+      <edge id="16" source="30" target="31" weight="3.0"></edge>
+      <edge id="17" source="32" target="33" weight="3.0"></edge>
+      <edge id="18" source="27" target="34" weight="3.0"></edge>
+      <edge id="19" source="35" target="5" weight="3.0"></edge>
+      <edge id="20" source="36" target="2" weight="3.0"></edge>
+      <edge id="21" source="37" target="38" weight="3.0"></edge>
+      <edge id="22" source="39" target="40" weight="3.0"></edge>
+      <edge id="23" source="32" target="41" weight="3.0"></edge>
+      <edge id="24" source="42" target="40" weight="3.0"></edge>
+      <edge id="25" source="2" target="43" weight="3.0"></edge>
+      <edge id="26" source="44" target="30" weight="3.0"></edge>
+      <edge id="27" source="45" target="16" weight="2.0"></edge>
+      <edge id="28" source="46" target="41" weight="2.0"></edge>
+      <edge id="29" source="47" target="48" weight="2.0"></edge>
+      <edge id="30" source="49" target="50" weight="2.0"></edge>
+      <edge id="31" source="49" target="51" weight="2.0"></edge>
+      <edge id="32" source="52" target="53" weight="2.0"></edge>
+      <edge id="33" source="7" target="54" weight="2.0"></edge>
+      <edge id="34" source="46" target="55" weight="2.0"></edge>
+      <edge id="35" source="26" target="56" weight="2.0"></edge>
+      <edge id="36" source="56" target="34" weight="2.0"></edge>
+      <edge id="37" source="57" target="46"></edge>
+      <edge id="38" source="58" target="34"></edge>
+      <edge id="39" source="21" target="34"></edge>
+      <edge id="40" source="59" target="10"></edge>
+      <edge id="41" source="32" target="60"></edge>
+      <edge id="42" source="61" target="62"></edge>
+      <edge id="43" source="60" target="63"></edge>
+      <edge id="44" source="64" target="65"></edge>
+      <edge id="45" source="66" target="21"></edge>
+      <edge id="46" source="67" target="24"></edge>
+      <edge id="47" source="45" target="68"></edge>
+      <edge id="48" source="69" target="20"></edge>
+      <edge id="49" source="1" target="70"></edge>
+      <edge id="50" source="24" target="71"></edge>
+      <edge id="51" source="2" target="72"></edge>
+      <edge id="52" source="26" target="69"></edge>
+      <edge id="53" source="34" target="69"></edge>
+      <edge id="54" source="73" target="74"></edge>
+      <edge id="55" source="24" target="75"></edge>
+      <edge id="56" source="49" target="76"></edge>
+      <edge id="57" source="77" target="78"></edge>
+      <edge id="58" source="24" target="56"></edge>
+      <edge id="59" source="1" target="79"></edge>
+      <edge id="60" source="80" target="37"></edge>
+      <edge id="61" source="2" target="54"></edge>
+      <edge id="62" source="54" target="81"></edge>
+      <edge id="63" source="24" target="82"></edge>
+      <edge id="64" source="42" target="16"></edge>
+      <edge id="65" source="14" target="30"></edge>
+      <edge id="66" source="73" target="83"></edge>
+      <edge id="67" source="84" target="85"></edge>
+      <edge id="68" source="79" target="37"></edge>
+      <edge id="69" source="21" target="26"></edge>
+      <edge id="70" source="86" target="87"></edge>
+      <edge id="71" source="81" target="52"></edge>
+      <edge id="72" source="53" target="62"></edge>
+      <edge id="73" source="21" target="88"></edge>
+      <edge id="74" source="56" target="89"></edge>
+      <edge id="75" source="80" target="10"></edge>
+      <edge id="76" source="10" target="38"></edge>
+      <edge id="77" source="90" target="2"></edge>
+      <edge id="78" source="91" target="10"></edge>
+      <edge id="79" source="92" target="93"></edge>
+      <edge id="80" source="94" target="95"></edge>
+      <edge id="81" source="96" target="97"></edge>
+      <edge id="82" source="98" target="99"></edge>
+      <edge id="83" source="78" target="82"></edge>
+      <edge id="84" source="100" target="34"></edge>
+      <edge id="85" source="100" target="26"></edge>
+      <edge id="86" source="77" target="26"></edge>
+      <edge id="87" source="77" target="34"></edge>
+    </edges>
+  </graph>
+</gexf>

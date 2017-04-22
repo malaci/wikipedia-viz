@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="4" label="army generals">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-203.23572" y="87.501854"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="british generals">
+        <viz:size value="86.3196"></viz:size>
+        <viz:position x="244.77127" y="1185.3328"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="air force generals">
+        <viz:size value="76.514"></viz:size>
+        <viz:position x="193.68405" y="-156.88318"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="german generals">
+        <viz:size value="72.00659"></viz:size>
+        <viz:position x="-759.45966" y="-342.01804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="211" label="french generals">
+        <viz:size value="71.769356"></viz:size>
+        <viz:position x="1619.8269" y="237.08969"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="russian generals">
+        <viz:size value="67.578255"></viz:size>
+        <viz:position x="851.3102" y="-41.25981"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="roman generals">
+        <viz:size value="64.17792"></viz:size>
+        <viz:position x="1259.1162" y="677.41644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="soviet generals">
+        <viz:size value="64.019775"></viz:size>
+        <viz:position x="417.93433" y="-140.44794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="spanish generals">
+        <viz:size value="63.86161"></viz:size>
+        <viz:position x="-1305.0448" y="-958.9036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="american generals">
+        <viz:size value="63.70346"></viz:size>
+        <viz:position x="-127.69061" y="-104.80417"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="tang dynasty generals">
+        <viz:size value="62.991764"></viz:size>
+        <viz:position x="-953.932" y="487.1005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="218" label="united states marine corps generals">
+        <viz:size value="62.991764"></viz:size>
+        <viz:position x="784.66705" y="713.01105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="198" label="generals of world war ii">
+        <viz:size value="62.438225"></viz:size>
+        <viz:position x="-517.16766" y="1075.6038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="indian generals">
+        <viz:size value="62.280064"></viz:size>
+        <viz:position x="1231.6389" y="-730.80237"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="polish generals">
+        <viz:size value="61.410217"></viz:size>
+        <viz:position x="578.75055" y="317.61148"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="generals of infantry">
+        <viz:size value="60.0659"></viz:size>
+        <viz:position x="-745.5049" y="-151.15593"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="byzantine generals">
+        <viz:size value="59.98682"></viz:size>
+        <viz:position x="948.804" y="-420.53247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="luftwaffe generals">
+        <viz:size value="59.03789"></viz:size>
+        <viz:position x="-121.069305" y="1620.9071"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="219" label="japanese generals">
+        <viz:size value="58.48435"></viz:size>
+        <viz:position x="628.60895" y="855.5632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="189" label="oshawa generals">
+        <viz:size value="58.405273"></viz:size>
+        <viz:position x="1112.6617" y="-912.89514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="220" label="australian generals">
+        <viz:size value="57.456345"></viz:size>
+        <viz:position x="537.68134" y="669.2468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="221" label="canadian generals">
+        <viz:size value="56.9028"></viz:size>
+        <viz:position x="894.99445" y="536.8206"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="han dynasty generals">
+        <viz:size value="55.163094"></viz:size>
+        <viz:position x="-1384.2612" y="-356.0935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="185" label="brigadier generals">
+        <viz:size value="54.4514"></viz:size>
+        <viz:position x="-787.28455" y="-1156.4915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="177" label="generals of cavalry">
+        <viz:size value="53.502472"></viz:size>
+        <viz:position x="-566.44275" y="-760.7783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="pakistani generals">
+        <viz:size value="52.94893"></viz:size>
+        <viz:position x="1368.9777" y="-880.04376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="austrian generals">
+        <viz:size value="52.790775"></viz:size>
+        <viz:position x="-963.31177" y="-701.3047"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="romanian generals">
+        <viz:size value="52.711697"></viz:size>
+        <viz:position x="1431.1279" y="-134.62415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="swedish generals">
+        <viz:size value="52.395386"></viz:size>
+        <viz:position x="51.451065" y="-3.854149"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="turkish generals">
+        <viz:size value="52.31631"></viz:size>
+        <viz:position x="1641.7317" y="-64.75467"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="generals from henan">
+        <viz:size value="52.237232"></viz:size>
+        <viz:position x="-1254.3137" y="122.57996"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="adjutant generals">
+        <viz:size value="51.92092"></viz:size>
+        <viz:position x="557.82855" y="-875.46674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="flint generals players">
+        <viz:size value="50.81384"></viz:size>
+        <viz:position x="694.5175" y="-1035.5107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="213" label="korean generals">
+        <viz:size value="50.576607"></viz:size>
+        <viz:position x="-128.58777" y="1018.02374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="greek generals">
+        <viz:size value="50.102142"></viz:size>
+        <viz:position x="-421.39795" y="-1324.4017"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="norwegian generals">
+        <viz:size value="49.943985"></viz:size>
+        <viz:position x="-667.06586" y="-974.7495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="mexican generals">
+        <viz:size value="49.78583"></viz:size>
+        <viz:position x="611.0715" y="-1278.1892"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="bundeswehr generals">
+        <viz:size value="49.311367"></viz:size>
+        <viz:position x="-621.9496" y="15.143076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="ancient macedonian generals">
+        <viz:size value="49.074135"></viz:size>
+        <viz:position x="64.31496" y="-1241.833"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="generals from hebei">
+        <viz:size value="48.836903"></viz:size>
+        <viz:position x="-1438.7489" y="40.127113"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="generals from shandong">
+        <viz:size value="48.836903"></viz:size>
+        <viz:position x="-1190.5596" y="-303.63385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="195" label="fictional generals">
+        <viz:size value="48.59967"></viz:size>
+        <viz:position x="-802.51416" y="1233.9047"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="south african generals">
+        <viz:size value="47.65074"></viz:size>
+        <viz:position x="525.1371" y="1546.249"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="generals from jiangsu">
+        <viz:size value="46.22735"></viz:size>
+        <viz:position x="-763.71924" y="425.23834"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="iranian generals">
+        <viz:size value="45.673805"></viz:size>
+        <viz:position x="1175.558" y="867.1274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="generals from shaanxi">
+        <viz:size value="45.51565"></viz:size>
+        <viz:position x="-1163.186" y="340.03012"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="qing dynasty generals">
+        <viz:size value="45.357494"></viz:size>
+        <viz:position x="-414.71967" y="650.4621"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="lieutenant generals of prussia">
+        <viz:size value="45.19934"></viz:size>
+        <viz:position x="-484.5643" y="-575.8516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="generals of alexander the great">
+        <viz:size value="45.041187"></viz:size>
+        <viz:position x="-25.850946" y="-1435.6123"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="191" label="abbasid generals">
+        <viz:size value="44.566723"></viz:size>
+        <viz:position x="1019.54474" y="1007.0455"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="cao wei generals">
+        <viz:size value="44.566723"></viz:size>
+        <viz:position x="-1312.0001" y="-545.19806"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="reichswehr generals">
+        <viz:size value="44.40857"></viz:size>
+        <viz:position x="-341.72775" y="-118.506386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="generals of artillery">
+        <viz:size value="43.855022"></viz:size>
+        <viz:position x="92.693474" y="1622.9865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="206" label="generals from shanxi">
+        <viz:size value="43.855022"></viz:size>
+        <viz:position x="-208.15053" y="-912.0449"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="ottoman generals">
+        <viz:size value="43.69687"></viz:size>
+        <viz:position x="1600.1038" y="-282.75723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="generals from anhui">
+        <viz:size value="43.38056"></viz:size>
+        <viz:position x="-590.44836" y="1290.4426"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="arab generals">
+        <viz:size value="43.38056"></viz:size>
+        <viz:position x="162.3712" y="790.38696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="wu generals">
+        <viz:size value="43.143326"></viz:size>
+        <viz:position x="-742.8118" y="212.36426"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="jin generals">
+        <viz:size value="43.143326"></viz:size>
+        <viz:position x="1096.4181" y="559.65393"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="muslim generals">
+        <viz:size value="42.985172"></viz:size>
+        <viz:position x="32.65566" y="425.64297"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="generals from georgia">
+        <viz:size value="42.589787"></viz:size>
+        <viz:position x="638.081" y="-78.08607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="generals of the polish lithuanian commonwealth">
+        <viz:size value="42.431633"></viz:size>
+        <viz:position x="232.16386" y="381.385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="generals under cao cao">
+        <viz:size value="42.194397"></viz:size>
+        <viz:position x="-1573.9261" y="-415.5026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="ming dynasty generals">
+        <viz:size value="42.036243"></viz:size>
+        <viz:position x="-712.9965" y="1059.6881"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="scottish generals">
+        <viz:size value="41.79901"></viz:size>
+        <viz:position x="212.9587" y="1402.5472"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="greensboro generals players">
+        <viz:size value="40.92916"></viz:size>
+        <viz:position x="910.7345" y="-1007.7649"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="chinese generals">
+        <viz:size value="40.92916"></viz:size>
+        <viz:position x="-153.00027" y="387.2514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="hakka generals">
+        <viz:size value="40.691925"></viz:size>
+        <viz:position x="-371.4974" y="451.47897"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="generals from zhejiang">
+        <viz:size value="40.21746"></viz:size>
+        <viz:position x="-48.10279" y="192.73431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="generals from fujian">
+        <viz:size value="40.21746"></viz:size>
+        <viz:position x="-678.08105" y="859.3044"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="203" label="belgian generals">
+        <viz:size value="40.21746"></viz:size>
+        <viz:position x="718.26166" y="139.94461"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="generals from gansu">
+        <viz:size value="39.980232"></viz:size>
+        <viz:position x="-184.96309" y="591.35034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="shu han generals">
+        <viz:size value="39.742996"></viz:size>
+        <viz:position x="811.3278" y="-1202.7134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="irish generals">
+        <viz:size value="39.742996"></viz:size>
+        <viz:position x="473.01593" y="990.49396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="generals under sun quan">
+        <viz:size value="39.742996"></viz:size>
+        <viz:position x="-583.68494" y="1522.6796"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="generals from hubei">
+        <viz:size value="39.742996"></viz:size>
+        <viz:position x="775.82495" y="-1425.3186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="umayyad generals">
+        <viz:size value="39.268536"></viz:size>
+        <viz:position x="273.56287" y="979.56476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="196" label="safavid generals">
+        <viz:size value="39.268536"></viz:size>
+        <viz:position x="-1100.7942" y="-897.5166"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="sasanian generals">
+        <viz:size value="38.47776"></viz:size>
+        <viz:position x="649.1614" y="1275.9878"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="generals from liaoning">
+        <viz:size value="38.47776"></viz:size>
+        <viz:position x="-358.60974" y="1209.1973"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="generals from sichuan">
+        <viz:size value="37.607906"></viz:size>
+        <viz:position x="-1335.8542" y="498.77844"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="hungarian generals">
+        <viz:size value="37.607906"></viz:size>
+        <viz:position x="-773.8818" y="-777.5392"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="major generals of prussia">
+        <viz:size value="37.607906"></viz:size>
+        <viz:position x="-531.1127" y="-186.60924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="yugoslav generals">
+        <viz:size value="37.2916"></viz:size>
+        <viz:position x="1074.3684" y="1221.3986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="generals from guangdong">
+        <viz:size value="36.97529"></viz:size>
+        <viz:position x="-958.9812" y="1087.1923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="danish generals">
+        <viz:size value="36.658978"></viz:size>
+        <viz:position x="-441.71854" y="-932.2317"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="ancient athenian generals">
+        <viz:size value="36.34267"></viz:size>
+        <viz:position x="418.5976" y="-1353.5345"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="armenian generals">
+        <viz:size value="36.34267"></viz:size>
+        <viz:position x="1004.593" y="-214.17902"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="new zealand generals">
+        <viz:size value="36.34267"></viz:size>
+        <viz:position x="-145.47311" y="1227.6449"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="generals from jiangxi">
+        <viz:size value="35.94728"></viz:size>
+        <viz:position x="-424.65027" y="75.80067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="generals from beijing">
+        <viz:size value="35.630974"></viz:size>
+        <viz:position x="-255.17265" y="794.8875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="generals of justinian i">
+        <viz:size value="35.23558"></viz:size>
+        <viz:position x="1160.7709" y="-394.73682"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="austro-hungarian generals">
+        <viz:size value="35.23558"></viz:size>
+        <viz:position x="673.42993" y="517.2003"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="generals of aviators">
+        <viz:size value="35.23558"></viz:size>
+        <viz:position x="-202.68536" y="1427.9285"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="generals under yuan shao">
+        <viz:size value="34.919273"></viz:size>
+        <viz:position x="-1381.8119" y="-153.21635"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="generals under liu bei">
+        <viz:size value="34.919273"></viz:size>
+        <viz:position x="589.5421" y="-1510.6423"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="colonel generals of prussia">
+        <viz:size value="34.919273"></viz:size>
+        <viz:position x="-911.51874" y="-501.66626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="azerbaijani generals">
+        <viz:size value="34.523888"></viz:size>
+        <viz:position x="792.83417" y="-238.97055"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="serbian generals">
+        <viz:size value="34.1285"></viz:size>
+        <viz:position x="864.0073" y="1160.7366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="ukrainian generals">
+        <viz:size value="34.1285"></viz:size>
+        <viz:position x="941.55566" y="141.49571"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="generals of yazdegerd iii">
+        <viz:size value="33.654037"></viz:size>
+        <viz:position x="1380.0485" y="872.53314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="dutch generals">
+        <viz:size value="33.654037"></viz:size>
+        <viz:position x="11.551676" y="1424.1177"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="generals of the november uprising">
+        <viz:size value="33.258648"></viz:size>
+        <viz:position x="383.53787" y="245.63211"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="jordanian generals">
+        <viz:size value="33.258648"></viz:size>
+        <viz:position x="51.764313" y="1214.0789"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="183" label="czech generals">
+        <viz:size value="33.258648"></viz:size>
+        <viz:position x="1171.995" y="187.52155"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="song dynasty generals">
+        <viz:size value="32.784184"></viz:size>
+        <viz:position x="-1378.88" y="283.31482"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="sui dynasty generals">
+        <viz:size value="32.30972"></viz:size>
+        <viz:position x="-1136.3643" y="557.7023"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="199" label="generals of the yang family">
+        <viz:size value="31.835255"></viz:size>
+        <viz:position x="-131.98257" y="-697.9554"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="prussian generals">
+        <viz:size value="31.835255"></viz:size>
+        <viz:position x="-846.3176" y="47.553154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="generals of khosrow i">
+        <viz:size value="31.36079"></viz:size>
+        <viz:position x="676.03613" y="1073.3865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="generals of the indo-pakistani war of 1971">
+        <viz:size value="31.36079"></viz:size>
+        <viz:position x="419.17938" y="1387.3268"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="generals of the mongol empire">
+        <viz:size value="31.36079"></viz:size>
+        <viz:position x="973.3592" y="-1319.0752"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="bangladeshi generals">
+        <viz:size value="31.36079"></viz:size>
+        <viz:position x="305.8493" y="1595.3704"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="hellenistic generals">
+        <viz:size value="30.807247"></viz:size>
+        <viz:position x="209.34799" y="-1394.1051"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="generals of alexios i komnenos">
+        <viz:size value="29.700165"></viz:size>
+        <viz:position x="645.4423" y="-635.3072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="186" label="estonian generals">
+        <viz:size value="29.700165"></viz:size>
+        <viz:position x="297.00034" y="31.35121"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="generals of basil ii">
+        <viz:size value="29.700165"></viz:size>
+        <viz:position x="1217.5676" y="-191.596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="generals of manuel i komnenos">
+        <viz:size value="29.700165"></viz:size>
+        <viz:position x="852.3861" y="-609.47797"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="180" label="lithuanian generals">
+        <viz:size value="29.067545"></viz:size>
+        <viz:position x="373.60083" y="780.3126"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="209" label="ancient spartan generals">
+        <viz:size value="29.067545"></viz:size>
+        <viz:position x="-523.6852" y="-1128.4597"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="generals of the bangladesh liberation war">
+        <viz:size value="29.067545"></viz:size>
+        <viz:position x="1467.5208" y="-693.7337"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="bolivian generals">
+        <viz:size value="29.067545"></viz:size>
+        <viz:position x="-274.72693" y="-518.3654"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="zhou dynasty generals">
+        <viz:size value="29.067545"></viz:size>
+        <viz:position x="-1499.1935" y="-609.65265"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="swiss generals">
+        <viz:size value="28.434927"></viz:size>
+        <viz:position x="-1184.645" y="-1129.505"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="193" label="buyid generals">
+        <viz:size value="28.434927"></viz:size>
+        <viz:position x="293.39462" y="-581.3523"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="generals from guangxi">
+        <viz:size value="27.723228"></viz:size>
+        <viz:position x="-322.8299" y="268.27615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="generals of mountain troops">
+        <viz:size value="27.723228"></viz:size>
+        <viz:position x="-893.9799" y="-933.4967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="bosnia and herzegovina generals">
+        <viz:size value="27.723228"></viz:size>
+        <viz:position x="1551.3485" y="-491.49847"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="seleucid generals">
+        <viz:size value="27.723228"></viz:size>
+        <viz:position x="-309.27304" y="-1112.5375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="201" label="former qin generals">
+        <viz:size value="27.011532"></viz:size>
+        <viz:position x="1392.9264" y="262.3917"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="generals of khosrow ii">
+        <viz:size value="27.011532"></viz:size>
+        <viz:position x="1486.0981" y="678.9556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="179" label="generals of stefan dusan">
+        <viz:size value="26.220757"></viz:size>
+        <viz:position x="1079.579" y="-595.4614"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="188" label="saginaw generals players">
+        <viz:size value="26.220757"></viz:size>
+        <viz:position x="967.57764" y="-785.6911"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="female generals">
+        <viz:size value="26.220757"></viz:size>
+        <viz:position x="-888.95844" y="895.39374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="171" label="albanian generals">
+        <viz:size value="26.220757"></viz:size>
+        <viz:position x="228.10922" y="-806.2601"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="208" label="libyan generals">
+        <viz:size value="26.220757"></viz:size>
+        <viz:position x="27.15127" y="-263.82428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="northern wei generals">
+        <viz:size value="26.220757"></viz:size>
+        <viz:position x="-1165.9431" y="1127.9072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="captain generals of galicia">
+        <viz:size value="25.350906"></viz:size>
+        <viz:position x="-1408.426" y="-791.7386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="ptolemaic generals">
+        <viz:size value="25.350906"></viz:size>
+        <viz:position x="287.78976" y="-1184.6299"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="generals of antigonus i monophthalmus">
+        <viz:size value="24.401976"></viz:size>
+        <viz:position x="193.63127" y="-1591.2445"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="194" label="samanid generals">
+        <viz:size value="24.401976"></viz:size>
+        <viz:position x="439.39706" y="-715.6159"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="176" label="generals from jilin">
+        <viz:size value="24.401976"></viz:size>
+        <viz:position x="-58.01961" y="793.67017"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="generals from inner mongolia">
+        <viz:size value="24.401976"></viz:size>
+        <viz:position x="-1324.1874" y="956.8482"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="national guard of the united states generals">
+        <viz:size value="24.401976"></viz:size>
+        <viz:position x="758.7351" y="-824.74036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="187" label="generals from yunnan">
+        <viz:size value="24.401976"></viz:size>
+        <viz:position x="262.2633" y="589.54083"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="fatimid generals">
+        <viz:size value="23.453049"></viz:size>
+        <viz:position x="68.21255" y="994.66406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="generals of the january uprising">
+        <viz:size value="23.453049"></viz:size>
+        <viz:position x="792.3521" y="335.8048"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="boer generals">
+        <viz:size value="23.453049"></viz:size>
+        <viz:position x="711.75275" y="1459.5347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="217" label="tran dynasty generals">
+        <viz:size value="23.453049"></viz:size>
+        <viz:position x="1385.7504" y="-343.24902"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="later liang generals">
+        <viz:size value="22.345963"></viz:size>
+        <viz:position x="-1055.6222" y="105.69687"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="generals from heilongjiang">
+        <viz:size value="22.345963"></viz:size>
+        <viz:position x="-325.17358" y="992.09143"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="governor generals of algeria">
+        <viz:size value="22.345963"></viz:size>
+        <viz:position x="1568.6937" y="442.16745"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="liang dynasty generals">
+        <viz:size value="22.345963"></viz:size>
+        <viz:position x="-850.3022" y="686.40686"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="saxon generals">
+        <viz:size value="21.159803"></viz:size>
+        <viz:position x="-577.939" y="-398.21356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="generals from shanghai">
+        <viz:size value="21.159803"></viz:size>
+        <viz:position x="-484.68878" y="843.11365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="generals of the kosciuszko uprising">
+        <viz:size value="21.159803"></viz:size>
+        <viz:position x="439.6271" y="478.98093"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="later yan generals">
+        <viz:size value="21.159803"></viz:size>
+        <viz:position x="1213.8088" y="394.51355"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="women generals">
+        <viz:size value="21.159803"></viz:size>
+        <viz:position x="-1038.0939" y="741.64966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="lieutenant generals of ukraine">
+        <viz:size value="21.159803"></viz:size>
+        <viz:position x="335.41095" y="-335.8879"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="qin dynasty generals">
+        <viz:size value="21.159803"></viz:size>
+        <viz:position x="-1635.1355" y="-16.050596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="later qin generals">
+        <viz:size value="21.159803"></viz:size>
+        <viz:position x="-1442.5024" y="762.805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="ancient thessalian generals">
+        <viz:size value="19.815487"></viz:size>
+        <viz:position x="-160.29425" y="-1248.3596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="178" label="qi generals">
+        <viz:size value="19.815487"></viz:size>
+        <viz:position x="-653.7745" y="645.8596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="197" label="afsharid generals">
+        <viz:size value="19.815487"></viz:size>
+        <viz:position x="-1195.0176" y="-725.3235"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="northern zhou generals">
+        <viz:size value="19.815487"></viz:size>
+        <viz:position x="-1257.2954" y="730.4722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="generals of philip ii of macedon">
+        <viz:size value="19.815487"></viz:size>
+        <viz:position x="-70.7504" y="-1074.7473"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="belarusian generals">
+        <viz:size value="19.815487"></viz:size>
+        <viz:position x="510.64352" y="86.17604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="lieutenant generals of wurttemberg">
+        <viz:size value="19.815487"></viz:size>
+        <viz:position x="-381.65814" y="-338.67987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="liu song generals">
+        <viz:size value="19.815487"></viz:size>
+        <viz:position x="-539.08484" y="252.94412"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="later tang generals">
+        <viz:size value="19.815487"></viz:size>
+        <viz:position x="-1591.971" y="187.1089"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="former zhao generals">
+        <viz:size value="18.313015"></viz:size>
+        <viz:position x="-991.4454" y="-1109.7483"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="181" label="slovenian generals">
+        <viz:size value="18.313015"></viz:size>
+        <viz:position x="1235.3341" y="1071.0238"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="207" label="liao dynasty generals">
+        <viz:size value="18.313015"></viz:size>
+        <viz:position x="9.2598715" y="-862.8723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="antipatrid generals">
+        <viz:size value="18.313015"></viz:size>
+        <viz:position x="-242.03108" y="-1417.2208"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="min generals">
+        <viz:size value="18.313015"></viz:size>
+        <viz:position x="-1185.1575" y="-85.22454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="173" label="seljuq generals">
+        <viz:size value="18.313015"></viz:size>
+        <viz:position x="85.652374" y="-650.3662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="later zhao generals">
+        <viz:size value="16.494232"></viz:size>
+        <viz:position x="-984.68774" y="-1303.9491"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="ancient theban generals">
+        <viz:size value="16.494232"></viz:size>
+        <viz:position x="-605.9581" y="-1504.576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="securitate generals">
+        <viz:size value="16.494232"></viz:size>
+        <viz:position x="1509.876" y="78.1035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="202" label="former yan generals">
+        <viz:size value="16.494232"></viz:size>
+        <viz:position x="1304.5625" y="36.07662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="ancient cretan generals">
+        <viz:size value="16.494232"></viz:size>
+        <viz:position x="-213.93309" y="-1614.7542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="yuan dynasty generals">
+        <viz:size value="16.494232"></viz:size>
+        <viz:position x="1077.2549" y="-1157.5729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="generals of parachute troops">
+        <viz:size value="16.494232"></viz:size>
+        <viz:position x="-345.47128" y="1601.0854"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="admirals and generals from worcestershire">
+        <viz:size value="16.494232"></viz:size>
+        <viz:position x="454.60388" y="1192.7083"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="182" label="montenegrin generals">
+        <viz:size value="16.494232"></viz:size>
+        <viz:position x="722.03394" y="-427.47525"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="chen dynasty generals">
+        <viz:size value="16.494232"></viz:size>
+        <viz:position x="-1119.8854" y="928.0421"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="generals of the azerbaijan democratic republic">
+        <viz:size value="14.43822"></viz:size>
+        <viz:position x="1002.4923" y="334.43707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="216" label="ly dynasty generals">
+        <viz:size value="14.43822"></viz:size>
+        <viz:position x="1322.3744" y="-538.2707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="192" label="ziyarid generals">
+        <viz:size value="14.43822"></viz:size>
+        <viz:position x="841.8959" y="920.7027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="colonel generals of saxony">
+        <viz:size value="14.43822"></viz:size>
+        <viz:position x="-718.55963" y="-577.22955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="generals from chongqing">
+        <viz:size value="14.43822"></viz:size>
+        <viz:position x="-776.96594" y="1429.8069"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="184" label="royal netherlands marine corps generals">
+        <viz:size value="11.907743"></viz:size>
+        <viz:position x="-638.95154" y="-1293.4957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="parthian generals">
+        <viz:size value="11.907743"></viz:size>
+        <viz:position x="1002.90955" y="754.284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="174" label="saffarid generals">
+        <viz:size value="11.907743"></viz:size>
+        <viz:position x="-52.97761" y="-493.33218"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="ancient rhodian generals">
+        <viz:size value="11.907743"></viz:size>
+        <viz:position x="1.365768" y="-1633.501"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="generals from guizhou">
+        <viz:size value="11.907743"></viz:size>
+        <viz:position x="-572.908" y="465.33035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="southern tang generals">
+        <viz:size value="8.586491"></viz:size>
+        <viz:position x="-974.46875" y="-106.01314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="five dynasties and ten kingdoms generals">
+        <viz:size value="8.586491"></viz:size>
+        <viz:position x="38.92555" y="619.197"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="resident generals of morocco">
+        <viz:size value="8.586491"></viz:size>
+        <viz:position x="1384.783" y="497.06027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="210" label="generals of south vietnam">
+        <viz:size value="8.586491"></viz:size>
+        <viz:position x="153.67897" y="-423.17343"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="generals of engineers">
+        <viz:size value="8.586491"></viz:size>
+        <viz:position x="-177.6837" y="-310.88263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="southern han generals">
+        <viz:size value="8.586491"></viz:size>
+        <viz:position x="-999.9773" y="1302.5035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="orange free state generals">
+        <viz:size value="8.586491"></viz:size>
+        <viz:position x="894.44904" y="1359.9092"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="ss generals">
+        <viz:size value="8.586491"></viz:size>
+        <viz:position x="-981.73505" y="-303.23843"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="190" label="generals of lysimachus">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="392.50754" y="-1572.743"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="215" label="kazakhstani generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="489.71158" y="-483.9754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="generals of polyperchon">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="148.56116" y="-1027.4387"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="214" label="hellenic gendarmerie generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-801.22906" y="-1410.9736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="175" label="sichuan clique generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1519.1356" y="571.50037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="northern yuan generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1246.9374" y="-1061.2258"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="chu generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-960.04486" y="279.15594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="guatemalan generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="492.63272" y="-1113.9064"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="204" label="kyrgyzstani generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="563.28973" y="-285.45853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="172" label="military generals from kavaje">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="358.0025" y="-955.6863"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="later zhou generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-414.8174" y="1404.8645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="205" label="wuyue generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="155.21223" y="189.1866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="212" label="former shu generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1571.7714" y="381.1441"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="guominjun generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1114.4691" y="-511.97427"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="later han generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1594.646" y="-210.40248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="generals of eumenes">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-414.99576" y="-1556.9529"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="200" label="northern han generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-335.27493" y="-740.242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="czechoslovak generals">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1087.6301" y="-15.240794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="106.0"></edge>
+      <edge id="1" source="2" target="3" weight="70.0"></edge>
+      <edge id="2" source="4" target="5" weight="66.0"></edge>
+      <edge id="3" source="6" target="7" weight="39.0"></edge>
+      <edge id="4" source="1" target="8" weight="35.0"></edge>
+      <edge id="5" source="9" target="10" weight="27.0"></edge>
+      <edge id="6" source="11" target="4" weight="26.0"></edge>
+      <edge id="7" source="4" target="12" weight="25.0"></edge>
+      <edge id="8" source="13" target="14" weight="23.0"></edge>
+      <edge id="9" source="4" target="15" weight="21.0"></edge>
+      <edge id="10" source="4" target="16" weight="19.0"></edge>
+      <edge id="11" source="17" target="4" weight="18.0"></edge>
+      <edge id="12" source="18" target="19" weight="18.0"></edge>
+      <edge id="13" source="8" target="15" weight="18.0"></edge>
+      <edge id="14" source="20" target="12" weight="17.0"></edge>
+      <edge id="15" source="20" target="16" weight="17.0"></edge>
+      <edge id="16" source="21" target="13" weight="15.0"></edge>
+      <edge id="17" source="22" target="23" weight="15.0"></edge>
+      <edge id="18" source="24" target="25" weight="14.0"></edge>
+      <edge id="19" source="26" target="23" weight="14.0"></edge>
+      <edge id="20" source="6" target="16" weight="13.0"></edge>
+      <edge id="21" source="27" target="28" weight="12.0"></edge>
+      <edge id="22" source="29" target="1" weight="12.0"></edge>
+      <edge id="23" source="30" target="31" weight="11.0"></edge>
+      <edge id="24" source="32" target="33" weight="11.0"></edge>
+      <edge id="25" source="34" target="35" weight="11.0"></edge>
+      <edge id="26" source="23" target="36" weight="10.0"></edge>
+      <edge id="27" source="37" target="23" weight="10.0"></edge>
+      <edge id="28" source="38" target="39" weight="10.0"></edge>
+      <edge id="29" source="40" target="41" weight="9.0"></edge>
+      <edge id="30" source="1" target="42" weight="9.0"></edge>
+      <edge id="31" source="43" target="1" weight="9.0"></edge>
+      <edge id="32" source="44" target="45" weight="9.0"></edge>
+      <edge id="33" source="46" target="47" weight="9.0"></edge>
+      <edge id="34" source="48" target="20" weight="9.0"></edge>
+      <edge id="35" source="21" target="49" weight="9.0"></edge>
+      <edge id="36" source="14" target="49" weight="8.0"></edge>
+      <edge id="37" source="50" target="13" weight="8.0"></edge>
+      <edge id="38" source="51" target="52" weight="8.0"></edge>
+      <edge id="39" source="53" target="54" weight="7.0"></edge>
+      <edge id="40" source="55" target="10" weight="7.0"></edge>
+      <edge id="41" source="56" target="25" weight="7.0"></edge>
+      <edge id="42" source="57" target="58" weight="6.0"></edge>
+      <edge id="43" source="8" target="59" weight="6.0"></edge>
+      <edge id="44" source="53" target="60" weight="6.0"></edge>
+      <edge id="45" source="61" target="54" weight="6.0"></edge>
+      <edge id="46" source="43" target="15" weight="6.0"></edge>
+      <edge id="47" source="62" target="63" weight="6.0"></edge>
+      <edge id="48" source="64" target="25" weight="6.0"></edge>
+      <edge id="49" source="38" target="46" weight="6.0"></edge>
+      <edge id="50" source="65" target="38" weight="5.0"></edge>
+      <edge id="51" source="66" target="67" weight="5.0"></edge>
+      <edge id="52" source="68" target="11" weight="5.0"></edge>
+      <edge id="53" source="4" target="47" weight="5.0"></edge>
+      <edge id="54" source="69" target="62" weight="4.0"></edge>
+      <edge id="55" source="70" target="71" weight="4.0"></edge>
+      <edge id="56" source="72" target="10" weight="4.0"></edge>
+      <edge id="57" source="25" target="73" weight="4.0"></edge>
+      <edge id="58" source="74" target="75" weight="4.0"></edge>
+      <edge id="59" source="2" target="76" weight="4.0"></edge>
+      <edge id="60" source="25" target="77" weight="4.0"></edge>
+      <edge id="61" source="78" target="79" weight="4.0"></edge>
+      <edge id="62" source="80" target="53" weight="4.0"></edge>
+      <edge id="63" source="81" target="82" weight="4.0"></edge>
+      <edge id="64" source="83" target="38" weight="4.0"></edge>
+      <edge id="65" source="66" target="84" weight="4.0"></edge>
+      <edge id="66" source="85" target="63" weight="4.0"></edge>
+      <edge id="67" source="19" target="86" weight="4.0"></edge>
+      <edge id="68" source="4" target="76" weight="4.0"></edge>
+      <edge id="69" source="87" target="19" weight="4.0"></edge>
+      <edge id="70" source="88" target="89" weight="3.0"></edge>
+      <edge id="71" source="64" target="23" weight="3.0"></edge>
+      <edge id="72" source="49" target="50" weight="3.0"></edge>
+      <edge id="73" source="90" target="1" weight="3.0"></edge>
+      <edge id="74" source="91" target="92" weight="3.0"></edge>
+      <edge id="75" source="93" target="49" weight="3.0"></edge>
+      <edge id="76" source="94" target="49" weight="3.0"></edge>
+      <edge id="77" source="95" target="93" weight="3.0"></edge>
+      <edge id="78" source="96" target="1" weight="3.0"></edge>
+      <edge id="79" source="95" target="27" weight="3.0"></edge>
+      <edge id="80" source="93" target="97" weight="3.0"></edge>
+      <edge id="81" source="98" target="99" weight="3.0"></edge>
+      <edge id="82" source="11" target="100" weight="3.0"></edge>
+      <edge id="83" source="101" target="50" weight="3.0"></edge>
+      <edge id="84" source="68" target="48" weight="3.0"></edge>
+      <edge id="85" source="102" target="62" weight="3.0"></edge>
+      <edge id="86" source="103" target="48" weight="3.0"></edge>
+      <edge id="87" source="19" target="104" weight="3.0"></edge>
+      <edge id="88" source="19" target="105" weight="2.0"></edge>
+      <edge id="89" source="106" target="79" weight="2.0"></edge>
+      <edge id="90" source="107" target="15" weight="2.0"></edge>
+      <edge id="91" source="108" target="109" weight="2.0"></edge>
+      <edge id="92" source="110" target="108" weight="2.0"></edge>
+      <edge id="93" source="19" target="111" weight="2.0"></edge>
+      <edge id="94" source="108" target="112" weight="2.0"></edge>
+      <edge id="95" source="113" target="35" weight="2.0"></edge>
+      <edge id="96" source="114" target="82" weight="2.0"></edge>
+      <edge id="97" source="115" target="116" weight="2.0"></edge>
+      <edge id="98" source="69" target="85" weight="2.0"></edge>
+      <edge id="99" source="117" target="6" weight="2.0"></edge>
+      <edge id="100" source="95" target="118" weight="2.0"></edge>
+      <edge id="101" source="119" target="120" weight="2.0"></edge>
+      <edge id="102" source="108" target="28" weight="2.0"></edge>
+      <edge id="103" source="121" target="85" weight="2.0"></edge>
+      <edge id="104" source="122" target="62" weight="2.0"></edge>
+      <edge id="105" source="123" target="30" weight="2.0"></edge>
+      <edge id="106" source="89" target="124" weight="2.0"></edge>
+      <edge id="107" source="97" target="125" weight="2.0"></edge>
+      <edge id="108" source="126" target="52" weight="2.0"></edge>
+      <edge id="109" source="94" target="97" weight="2.0"></edge>
+      <edge id="110" source="38" target="127" weight="2.0"></edge>
+      <edge id="111" source="128" target="82"></edge>
+      <edge id="112" source="103" target="129"></edge>
+      <edge id="113" source="130" target="93"></edge>
+      <edge id="114" source="131" target="53"></edge>
+      <edge id="115" source="1" target="132"></edge>
+      <edge id="116" source="94" target="133"></edge>
+      <edge id="117" source="112" target="98"></edge>
+      <edge id="118" source="48" target="134"></edge>
+      <edge id="119" source="68" target="16"></edge>
+      <edge id="120" source="135" target="82"></edge>
+      <edge id="121" source="90" target="15"></edge>
+      <edge id="122" source="136" target="93"></edge>
+      <edge id="123" source="137" target="50"></edge>
+      <edge id="124" source="85" target="114"></edge>
+      <edge id="125" source="138" target="109"></edge>
+      <edge id="126" source="139" target="140"></edge>
+      <edge id="127" source="141" target="142"></edge>
+      <edge id="128" source="85" target="143"></edge>
+      <edge id="129" source="144" target="145"></edge>
+      <edge id="130" source="146" target="147"></edge>
+      <edge id="131" source="93" target="148"></edge>
+      <edge id="132" source="149" target="62"></edge>
+      <edge id="133" source="136" target="27"></edge>
+      <edge id="134" source="150" target="61"></edge>
+      <edge id="135" source="151" target="25"></edge>
+      <edge id="136" source="48" target="152"></edge>
+      <edge id="137" source="127" target="47"></edge>
+      <edge id="138" source="153" target="146"></edge>
+      <edge id="139" source="154" target="54"></edge>
+      <edge id="140" source="155" target="43"></edge>
+      <edge id="141" source="94" target="156"></edge>
+      <edge id="142" source="157" target="109"></edge>
+      <edge id="143" source="158" target="159"></edge>
+      <edge id="144" source="160" target="118"></edge>
+      <edge id="145" source="3" target="161"></edge>
+      <edge id="146" source="125" target="162"></edge>
+      <edge id="147" source="32" target="163"></edge>
+      <edge id="148" source="164" target="165"></edge>
+      <edge id="149" source="157" target="115"></edge>
+      <edge id="150" source="53" target="150"></edge>
+      <edge id="151" source="94" target="148"></edge>
+      <edge id="152" source="82" target="63"></edge>
+      <edge id="153" source="166" target="35"></edge>
+      <edge id="154" source="27" target="109"></edge>
+      <edge id="155" source="167" target="168"></edge>
+      <edge id="156" source="167" target="62"></edge>
+      <edge id="157" source="169" target="170"></edge>
+      <edge id="158" source="171" target="172"></edge>
+      <edge id="159" source="173" target="174"></edge>
+      <edge id="160" source="27" target="112"></edge>
+      <edge id="161" source="68" target="12"></edge>
+      <edge id="162" source="4" target="166"></edge>
+      <edge id="163" source="175" target="125"></edge>
+      <edge id="164" source="12" target="176"></edge>
+      <edge id="165" source="53" target="109"></edge>
+      <edge id="166" source="166" target="8"></edge>
+      <edge id="167" source="166" target="177"></edge>
+      <edge id="168" source="70" target="178"></edge>
+      <edge id="169" source="16" target="176"></edge>
+      <edge id="170" source="179" target="23"></edge>
+      <edge id="171" source="47" target="180"></edge>
+      <edge id="172" source="181" target="45"></edge>
+      <edge id="173" source="25" target="182"></edge>
+      <edge id="174" source="183" target="151"></edge>
+      <edge id="175" source="184" target="185"></edge>
+      <edge id="176" source="186" target="3"></edge>
+      <edge id="177" source="187" target="16"></edge>
+      <edge id="178" source="157" target="178"></edge>
+      <edge id="179" source="128" target="62"></edge>
+      <edge id="180" source="188" target="189"></edge>
+      <edge id="181" source="190" target="69"></edge>
+      <edge id="182" source="71" target="76"></edge>
+      <edge id="183" source="149" target="82"></edge>
+      <edge id="184" source="191" target="192"></edge>
+      <edge id="185" source="19" target="180"></edge>
+      <edge id="186" source="193" target="194"></edge>
+      <edge id="187" source="195" target="109"></edge>
+      <edge id="188" source="109" target="98"></edge>
+      <edge id="189" source="196" target="197"></edge>
+      <edge id="190" source="3" target="127"></edge>
+      <edge id="191" source="135" target="85"></edge>
+      <edge id="192" source="198" target="131"></edge>
+      <edge id="193" source="127" target="25"></edge>
+      <edge id="194" source="110" target="116"></edge>
+      <edge id="195" source="199" target="200"></edge>
+      <edge id="196" source="201" target="202"></edge>
+      <edge id="197" source="112" target="125"></edge>
+      <edge id="198" source="53" target="112"></edge>
+      <edge id="199" source="203" target="65"></edge>
+      <edge id="200" source="121" target="82"></edge>
+      <edge id="201" source="3" target="204"></edge>
+      <edge id="202" source="76" target="205"></edge>
+      <edge id="203" source="95" target="50"></edge>
+      <edge id="204" source="206" target="207"></edge>
+      <edge id="205" source="208" target="2"></edge>
+      <edge id="206" source="112" target="138"></edge>
+      <edge id="207" source="157" target="112"></edge>
+      <edge id="208" source="209" target="82"></edge>
+      <edge id="209" source="135" target="62"></edge>
+      <edge id="210" source="2" target="210"></edge>
+      <edge id="211" source="159" target="211"></edge>
+      <edge id="212" source="125" target="212"></edge>
+      <edge id="213" source="213" target="176"></edge>
+      <edge id="214" source="162" target="116"></edge>
+      <edge id="215" source="85" target="149"></edge>
+      <edge id="216" source="131" target="11"></edge>
+      <edge id="217" source="68" target="118"></edge>
+      <edge id="218" source="82" target="214"></edge>
+      <edge id="219" source="102" target="85"></edge>
+      <edge id="220" source="215" target="3"></edge>
+      <edge id="221" source="216" target="217"></edge>
+    </edges>
+  </graph>
+</gexf>

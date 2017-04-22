@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="deaths from cancer">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="429.9933" y="-69.53174"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="cancer deaths in california">
+        <viz:size value="82.77494"></viz:size>
+        <viz:position x="271.41068" y="291.02264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="cancer deaths in england">
+        <viz:size value="77.65197"></viz:size>
+        <viz:position x="950.61035" y="195.45149"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="lung cancer">
+        <viz:size value="76.538284"></viz:size>
+        <viz:position x="-889.2026" y="-450.09128"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="cancer deaths in new york">
+        <viz:size value="75.20186"></viz:size>
+        <viz:position x="215.81715" y="-1176.3921"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="breast cancer">
+        <viz:size value="68.14849"></viz:size>
+        <viz:position x="-29.571095" y="-1193.8577"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="pancreatic cancer">
+        <viz:size value="66.737816"></viz:size>
+        <viz:position x="787.0174" y="654.68896"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="prostate cancer">
+        <viz:size value="63.693733"></viz:size>
+        <viz:position x="-705.1463" y="-982.67053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="colorectal cancer">
+        <viz:size value="62.877033"></viz:size>
+        <viz:position x="-90.33121" y="569.7954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="cancer deaths in florida">
+        <viz:size value="61.837585"></viz:size>
+        <viz:position x="603.3582" y="544.70935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="stomach cancer">
+        <viz:size value="61.6891"></viz:size>
+        <viz:position x="-597.05347" y="381.7575"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="cancer deaths in texas">
+        <viz:size value="59.83295"></viz:size>
+        <viz:position x="-287.55258" y="674.1377"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="cancer organizations">
+        <viz:size value="57.457073"></viz:size>
+        <viz:position x="-286.05438" y="1181.3987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="cancer deaths in pennsylvania">
+        <viz:size value="56.194893"></viz:size>
+        <viz:position x="443.03384" y="135.49118"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="cancer deaths in illinois">
+        <viz:size value="55.303944"></viz:size>
+        <viz:position x="1150.591" y="-111.6635"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="cancer deaths in virginia">
+        <viz:size value="54.709976"></viz:size>
+        <viz:position x="685.6862" y="-291.69528"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="cancer deaths in maryland">
+        <viz:size value="54.41299"></viz:size>
+        <viz:position x="562.54407" y="-496.27896"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="cancer deaths in massachusetts">
+        <viz:size value="54.33875"></viz:size>
+        <viz:position x="136.7957" y="946.1278"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="cancer deaths in jersey">
+        <viz:size value="53.89327"></viz:size>
+        <viz:position x="30.892113" y="286.8656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="cancer researchers">
+        <viz:size value="53.670532"></viz:size>
+        <viz:position x="-1411.7357" y="292.67163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="cancer deaths in connecticut">
+        <viz:size value="52.85383"></viz:size>
+        <viz:position x="155.75325" y="-329.15152"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="cancer treatments">
+        <viz:size value="52.11137"></viz:size>
+        <viz:position x="203.70293" y="1189.1418"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="cancer deaths in spain">
+        <viz:size value="51.814384"></viz:size>
+        <viz:position x="207.7034" y="-729.5579"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="cancer deaths in the netherlands">
+        <viz:size value="51.74014"></viz:size>
+        <viz:position x="923.53815" y="-263.76236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="people with cancer">
+        <viz:size value="51.36891"></viz:size>
+        <viz:position x="-971.1745" y="1011.0196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="cancer deaths in wales">
+        <viz:size value="51.220417"></viz:size>
+        <viz:position x="1156.5321" y="-325.15433"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="cancer in the united kingdom">
+        <viz:size value="51.220417"></viz:size>
+        <viz:position x="-526.21136" y="-104.16647"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="cancer deaths in washington, d c ">
+        <viz:size value="51.220417"></viz:size>
+        <viz:position x="816.1241" y="870.64844"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="cancer deaths in tennessee">
+        <viz:size value="50.923435"></viz:size>
+        <viz:position x="916.1975" y="-37.30337"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="ovarian cancer">
+        <viz:size value="50.700695"></viz:size>
+        <viz:position x="312.75818" y="-500.46835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="cancer deaths in new zealand">
+        <viz:size value="50.700695"></viz:size>
+        <viz:position x="156.44681" y="85.62333"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="cancer deaths in louisiana">
+        <viz:size value="50.47796"></viz:size>
+        <viz:position x="670.3969" y="-77.51297"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="cancer deaths in the philippines">
+        <viz:size value="49.883987"></viz:size>
+        <viz:position x="1398.5625" y="166.82199"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="cancer deaths in michigan">
+        <viz:size value="49.587006"></viz:size>
+        <viz:position x="-34.608295" y="-748.4589"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="cancer deaths in washington">
+        <viz:size value="49.36427"></viz:size>
+        <viz:position x="446.06378" y="-711.58093"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="cancer research">
+        <viz:size value="49.067287"></viz:size>
+        <viz:position x="-19.61381" y="1283.0636"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="cancer deaths in georgia">
+        <viz:size value="48.844547"></viz:size>
+        <viz:position x="61.338795" y="-538.3964"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="cancer deaths in ohio">
+        <viz:size value="48.39907"></viz:size>
+        <viz:position x="801.8522" y="383.8566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="cancer deaths in arizona">
+        <viz:size value="48.17633"></viz:size>
+        <viz:position x="-85.566475" y="-327.2864"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="cancer deaths in scotland">
+        <viz:size value="48.10209"></viz:size>
+        <viz:position x="1002.63776" y="479.5546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="kidney cancer">
+        <viz:size value="47.87935"></viz:size>
+        <viz:position x="-371.16507" y="264.3298"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="cancer in india">
+        <viz:size value="47.582367"></viz:size>
+        <viz:position x="-119.6321" y="832.44324"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="cancer deaths in utah">
+        <viz:size value="47.582367"></viz:size>
+        <viz:position x="386.01575" y="486.92215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="cancer deaths in russia">
+        <viz:size value="47.433872"></viz:size>
+        <viz:position x="802.7461" y="-893.05743"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="cancer deaths in sweden">
+        <viz:size value="47.28538"></viz:size>
+        <viz:position x="139.17812" y="498.6802"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="cancer deaths in norway">
+        <viz:size value="46.914154"></viz:size>
+        <viz:position x="693.1546" y="-685.54175"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="cancer deaths in minnesota">
+        <viz:size value="46.61717"></viz:size>
+        <viz:position x="321.35318" y="-930.84845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="cancer deaths in north carolina">
+        <viz:size value="46.542923"></viz:size>
+        <viz:position x="1399.4174" y="-54.9939"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="cancer deaths in oregon">
+        <viz:size value="45.651974"></viz:size>
+        <viz:position x="826.3772" y="-484.23428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="cancer deaths in missouri">
+        <viz:size value="44.909515"></viz:size>
+        <viz:position x="-982.9891" y="-174.82549"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="bladder cancer">
+        <viz:size value="44.909515"></viz:size>
+        <viz:position x="543.4277" y="771.5227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="cancer deaths in turkey">
+        <viz:size value="44.38979"></viz:size>
+        <viz:position x="-1116.227" y="-460.83746"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="cancer deaths in wisconsin">
+        <viz:size value="43.944317"></viz:size>
+        <viz:position x="-550.32355" y="-326.8461"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="cancer deaths in hawaii">
+        <viz:size value="43.64733"></viz:size>
+        <viz:position x="-339.0063" y="42.452805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="causes of cancer">
+        <viz:size value="43.2761"></viz:size>
+        <viz:position x="-1046.9407" y="624.934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="cancer deaths in switzerland">
+        <viz:size value="42.830627"></viz:size>
+        <viz:position x="-181.99826" y="-545.12885"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="cancer deaths in romania">
+        <viz:size value="42.682137"></viz:size>
+        <viz:position x="1155.0671" y="323.36172"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="cancer deaths in south africa">
+        <viz:size value="42.53364"></viz:size>
+        <viz:position x="-26.38329" y="-99.58884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="cancer deaths in oklahoma">
+        <viz:size value="41.791183"></viz:size>
+        <viz:position x="-119.63786" y="106.60005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="cancer deaths in colorado">
+        <viz:size value="41.419952"></viz:size>
+        <viz:position x="721.071" y="135.23718"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="cancer deaths in indiana">
+        <viz:size value="41.419952"></viz:size>
+        <viz:position x="570.51984" y="313.58386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="cancer deaths in mississippi">
+        <viz:size value="40.75174"></viz:size>
+        <viz:position x="92.9248" y="727.8401"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="cancer deaths in south carolina">
+        <viz:size value="39.860786"></viz:size>
+        <viz:position x="575.48157" y="-912.66394"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="cancer deaths in nevada">
+        <viz:size value="39.860786"></viz:size>
+        <viz:position x="1060.9124" y="-519.3317"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="cancer fundraisers">
+        <viz:size value="39.48956"></viz:size>
+        <viz:position x="115.982544" y="-1417.6375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="cancer deaths in maine">
+        <viz:size value="39.266823"></viz:size>
+        <viz:position x="-844.2532" y="-792.0073"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="gynaecological cancer">
+        <viz:size value="38.672855"></viz:size>
+        <viz:position x="-264.41467" y="-1150.4564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="cancer deaths in poland">
+        <viz:size value="38.672855"></viz:size>
+        <viz:position x="1172.1783" y="97.43112"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="cancer hospitals">
+        <viz:size value="38.450115"></viz:size>
+        <viz:position x="-80.69548" y="1069.002"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="cancer deaths in alabama">
+        <viz:size value="38.450115"></viz:size>
+        <viz:position x="459.82712" y="-1109.2161"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="cancer deaths in new mexico">
+        <viz:size value="38.450115"></viz:size>
+        <viz:position x="-146.0444" y="-940.5796"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="cancer deaths in the soviet union">
+        <viz:size value="38.22738"></viz:size>
+        <viz:position x="-839.68274" y="502.22833"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="cancer deaths in arkansas">
+        <viz:size value="37.781902"></viz:size>
+        <viz:position x="1007.95" y="702.47754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="cancer charities in the united states">
+        <viz:size value="37.559166"></viz:size>
+        <viz:position x="572.71216" y="-1320.7747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="cancer deaths in kentucky">
+        <viz:size value="37.559166"></viz:size>
+        <viz:position x="-771.72046" y="-252.43428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="cancer deaths in kansas">
+        <viz:size value="37.559166"></viz:size>
+        <viz:position x="-1191.3815" y="-253.95117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="cancer deaths in singapore">
+        <viz:size value="37.11369"></viz:size>
+        <viz:position x="-609.31476" y="-762.8184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="md anderson cancer center">
+        <viz:size value="34.366592"></viz:size>
+        <viz:position x="-1422.4344" y="52.19744"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="cancer deaths in alaska">
+        <viz:size value="33.698376"></viz:size>
+        <viz:position x="215.00175" y="-125.29457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="cancer awareness">
+        <viz:size value="33.327145"></viz:size>
+        <viz:position x="-110.70548" y="-1415.7015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="gastrointestinal cancer">
+        <viz:size value="33.327145"></viz:size>
+        <viz:position x="-1120.2561" y="861.2917"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="cancer deaths in puerto rico">
+        <viz:size value="32.658936"></viz:size>
+        <viz:position x="-343.22263" y="-370.39465"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="cancer deaths in the united states">
+        <viz:size value="32.287704"></viz:size>
+        <viz:position x="-263.95547" y="-160.77684"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="cancer deaths in portugal">
+        <viz:size value="31.842228"></viz:size>
+        <viz:position x="-176.90428" y="362.4548"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="thyroid cancer">
+        <viz:size value="31.842228"></viz:size>
+        <viz:position x="435.06992" y="-294.978"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="cancer deaths in serbia">
+        <viz:size value="31.470997"></viz:size>
+        <viz:position x="-708.3419" y="-550.27386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="cancer deaths in south dakota">
+        <viz:size value="31.470997"></viz:size>
+        <viz:position x="929.55597" y="-1074.0374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="cancer deaths in rhode island">
+        <viz:size value="31.470997"></viz:size>
+        <viz:position x="-336.8665" y="945.02527"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="american cancer society">
+        <viz:size value="30.580046"></viz:size>
+        <viz:position x="-1195.0875" y="223.1244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="cancer deaths in venezuela">
+        <viz:size value="30.580046"></viz:size>
+        <viz:position x="-509.57648" y="782.13824"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="cancer deaths in pakistan">
+        <viz:size value="29.689095"></viz:size>
+        <viz:position x="-960.1085" y="-1022.3037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="cancer epidemiologists">
+        <viz:size value="29.169373"></viz:size>
+        <viz:position x="-1273.1576" y="465.64072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="cancer deaths in nigeria">
+        <viz:size value="28.649652"></viz:size>
+        <viz:position x="-783.98224" y="-14.072231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="cancer deaths in thailand">
+        <viz:size value="28.649652"></viz:size>
+        <viz:position x="944.55444" y="-709.71783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="cancer screening">
+        <viz:size value="28.12993"></viz:size>
+        <viz:position x="-431.72745" y="-926.8124"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="cancer deaths in montana">
+        <viz:size value="27.535963"></viz:size>
+        <viz:position x="-297.4571" y="-742.5903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="cancer deaths in nebraska">
+        <viz:size value="26.941996"></viz:size>
+        <viz:position x="1363.56" y="396.51248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="cancer vaccines">
+        <viz:size value="26.27378"></viz:size>
+        <viz:position x="-504.797" y="-1128.576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="cancer deaths in idaho">
+        <viz:size value="26.27378"></viz:size>
+        <viz:position x="-1411.4813" y="-193.10468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="books about cancer">
+        <viz:size value="26.27378"></viz:size>
+        <viz:position x="-690.6672" y="931.1124"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="cancer deaths in new hampshire">
+        <viz:size value="24.863108"></viz:size>
+        <viz:position x="343.4404" y="-1377.645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="cancer deaths in wyoming">
+        <viz:size value="24.863108"></viz:size>
+        <viz:position x="-1260.5314" y="-667.389"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="cancer deaths in delaware">
+        <viz:size value="24.863108"></viz:size>
+        <viz:position x="822.0833" y="1146.439"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="head and neck cancer">
+        <viz:size value="24.046404"></viz:size>
+        <viz:position x="-1272.3995" y="678.5868"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="literature about cancer">
+        <viz:size value="24.046404"></viz:size>
+        <viz:position x="-817.3437" y="1149.9182"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="types of cancer">
+        <viz:size value="24.046404"></viz:size>
+        <viz:position x="-330.44818" y="-1375.423"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="cancer deaths in uruguay">
+        <viz:size value="23.15545"></viz:size>
+        <viz:position x="-1360.647" y="-441.24265"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="cancer staging">
+        <viz:size value="23.15545"></viz:size>
+        <viz:position x="-571.5722" y="-1323.5227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="cancer in dogs">
+        <viz:size value="22.264502"></viz:size>
+        <viz:position x="446.7848" y="1160.2358"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="cancer deaths in ukraine">
+        <viz:size value="21.225058"></viz:size>
+        <viz:position x="-1195.9495" y="-22.20407"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="cancer deaths in namibia">
+        <viz:size value="18.849188"></viz:size>
+        <viz:position x="91.37586" y="-964.1478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="cancer in cats">
+        <viz:size value="17.438515"></viz:size>
+        <viz:position x="634.472" y="1278.199"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="cancer deaths in the isle of man">
+        <viz:size value="17.438515"></viz:size>
+        <viz:position x="-791.6375" y="-1194.7677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="cancer deaths in saint lucia">
+        <viz:size value="15.730858"></viz:size>
+        <viz:position x="1189.9556" y="825.9387"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="cancer deaths in peru">
+        <viz:size value="15.730858"></viz:size>
+        <viz:position x="618.5517" y="980.9848"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="cancer deaths in trinidad and tobago">
+        <viz:size value="15.730858"></viz:size>
+        <viz:position x="-1127.1182" y="-881.02924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="cancer deaths in slovenia">
+        <viz:size value="15.730858"></viz:size>
+        <viz:position x="-802.93164" y="249.80702"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="clinical trials related to cancer">
+        <viz:size value="15.730858"></viz:size>
+        <viz:position x="-1011.38226" y="-671.60504"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="works about cancer">
+        <viz:size value="15.730858"></viz:size>
+        <viz:position x="135.99025" y="1433.4982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="cancer deaths in north dakota">
+        <viz:size value="15.730858"></viz:size>
+        <viz:position x="-656.7253" y="624.96436"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="cancer deaths in vietnam">
+        <viz:size value="15.730858"></viz:size>
+        <viz:position x="1011.1112" y="1007.2244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="cancer genome databases">
+        <viz:size value="13.800464"></viz:size>
+        <viz:position x="-633.9321" y="1282.0273"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="cancer deaths in sri lanka">
+        <viz:size value="11.424594"></viz:size>
+        <viz:position x="1084.7277" y="-895.2271"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="cancer deaths in panama">
+        <viz:size value="11.424594"></viz:size>
+        <viz:position x="-987.81696" y="88.986015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="cancer deaths in uganda">
+        <viz:size value="11.424594"></viz:size>
+        <viz:position x="1242.7305" y="584.4879"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="cancer deaths in samoa">
+        <viz:size value="11.424594"></viz:size>
+        <viz:position x="1387.2202" y="-274.48563"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="cancer deaths in saint kitts and nevis">
+        <viz:size value="8.306265"></viz:size>
+        <viz:position x="-458.3668" y="-572.64716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="national cancer centers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-523.9773" y="1086.2399"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="cancer genome consortium">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-176.86711" y="1426.3417"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="cancer deaths in vatican city">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-858.07605" y="773.238"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="cancer deaths in paraguay">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1322.36" y="-504.38248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="cancer deaths in guam">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="717.8528" y="-1137.2777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="cancer deaths in nicaragua">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1215.8512" y="-708.6397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="cancer genetics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="376.07764" y="1379.711"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="cancer deaths in vanuatu">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1021.8975" y="370.09174"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="cancer deaths in tonga">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-400.09534" y="495.67886"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="cancer genes">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-412.93805" y="1362.6138"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="cancer deaths in bermuda">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="319.91278" y="703.49316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="cancer deaths in tajikistan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="361.6333" y="935.0914"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="cancer deaths in saudi arabia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-574.5127" y="126.83495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="972.0"></edge>
+      <edge id="1" source="2" target="1" weight="485.0"></edge>
+      <edge id="2" source="3" target="1" weight="328.0"></edge>
+      <edge id="3" source="1" target="4" weight="282.0"></edge>
+      <edge id="4" source="1" target="5" weight="224.0"></edge>
+      <edge id="5" source="6" target="1" weight="183.0"></edge>
+      <edge id="6" source="7" target="1" weight="132.0"></edge>
+      <edge id="7" source="8" target="1" weight="118.0"></edge>
+      <edge id="8" source="1" target="9" weight="113.0"></edge>
+      <edge id="9" source="1" target="10" weight="111.0"></edge>
+      <edge id="10" source="11" target="1" weight="110.0"></edge>
+      <edge id="11" source="1" target="12" weight="107.0"></edge>
+      <edge id="12" source="13" target="1" weight="103.0"></edge>
+      <edge id="13" source="14" target="1" weight="97.0"></edge>
+      <edge id="14" source="15" target="1" weight="86.0"></edge>
+      <edge id="15" source="16" target="1" weight="86.0"></edge>
+      <edge id="16" source="17" target="2" weight="83.0"></edge>
+      <edge id="17" source="18" target="1" weight="81.0"></edge>
+      <edge id="18" source="1" target="19" weight="80.0"></edge>
+      <edge id="19" source="1" target="20" weight="79.0"></edge>
+      <edge id="20" source="21" target="1" weight="76.0"></edge>
+      <edge id="21" source="22" target="1" weight="72.0"></edge>
+      <edge id="22" source="23" target="1" weight="71.0"></edge>
+      <edge id="23" source="1" target="24" weight="70.0"></edge>
+      <edge id="24" source="1" target="25" weight="68.0"></edge>
+      <edge id="25" source="26" target="1" weight="67.0"></edge>
+      <edge id="26" source="27" target="1" weight="67.0"></edge>
+      <edge id="27" source="1" target="28" weight="64.0"></edge>
+      <edge id="28" source="29" target="1" weight="63.0"></edge>
+      <edge id="29" source="30" target="1" weight="63.0"></edge>
+      <edge id="30" source="17" target="3" weight="62.0"></edge>
+      <edge id="31" source="31" target="1" weight="61.0"></edge>
+      <edge id="32" source="32" target="1" weight="60.0"></edge>
+      <edge id="33" source="33" target="1" weight="59.0"></edge>
+      <edge id="34" source="34" target="1" weight="58.0"></edge>
+      <edge id="35" source="35" target="1" weight="54.0"></edge>
+      <edge id="36" source="1" target="36" weight="54.0"></edge>
+      <edge id="37" source="37" target="1" weight="53.0"></edge>
+      <edge id="38" source="38" target="1" weight="49.0"></edge>
+      <edge id="39" source="39" target="1" weight="42.0"></edge>
+      <edge id="40" source="40" target="1" weight="42.0"></edge>
+      <edge id="41" source="1" target="41" weight="38.0"></edge>
+      <edge id="42" source="42" target="1" weight="37.0"></edge>
+      <edge id="43" source="1" target="43" weight="37.0"></edge>
+      <edge id="44" source="44" target="1" weight="36.0"></edge>
+      <edge id="45" source="45" target="1" weight="34.0"></edge>
+      <edge id="46" source="1" target="46" weight="34.0"></edge>
+      <edge id="47" source="47" target="1" weight="33.0"></edge>
+      <edge id="48" source="1" target="48" weight="31.0"></edge>
+      <edge id="49" source="1" target="49" weight="31.0"></edge>
+      <edge id="50" source="1" target="50" weight="29.0"></edge>
+      <edge id="51" source="51" target="1" weight="28.0"></edge>
+      <edge id="52" source="1" target="52" weight="25.0"></edge>
+      <edge id="53" source="53" target="1" weight="25.0"></edge>
+      <edge id="54" source="1" target="54" weight="25.0"></edge>
+      <edge id="55" source="17" target="12" weight="23.0"></edge>
+      <edge id="56" source="1" target="55" weight="23.0"></edge>
+      <edge id="57" source="12" target="56" weight="17.0"></edge>
+      <edge id="58" source="17" target="24" weight="16.0"></edge>
+      <edge id="59" source="1" target="57" weight="16.0"></edge>
+      <edge id="60" source="58" target="1" weight="15.0"></edge>
+      <edge id="61" source="1" target="59" weight="14.0"></edge>
+      <edge id="62" source="1" target="60" weight="13.0"></edge>
+      <edge id="63" source="17" target="34" weight="13.0"></edge>
+      <edge id="64" source="61" target="1" weight="13.0"></edge>
+      <edge id="65" source="62" target="63" weight="12.0"></edge>
+      <edge id="66" source="1" target="64" weight="11.0"></edge>
+      <edge id="67" source="65" target="66" weight="11.0"></edge>
+      <edge id="68" source="1" target="67" weight="10.0"></edge>
+      <edge id="69" source="68" target="69" weight="9.0"></edge>
+      <edge id="70" source="1" target="70" weight="9.0"></edge>
+      <edge id="71" source="66" target="71" weight="9.0"></edge>
+      <edge id="72" source="72" target="1" weight="8.0"></edge>
+      <edge id="73" source="73" target="74" weight="7.0"></edge>
+      <edge id="74" source="75" target="63" weight="7.0"></edge>
+      <edge id="75" source="66" target="76" weight="6.0"></edge>
+      <edge id="76" source="73" target="48" weight="6.0"></edge>
+      <edge id="77" source="66" target="77" weight="6.0"></edge>
+      <edge id="78" source="78" target="66" weight="5.0"></edge>
+      <edge id="79" source="1" target="79" weight="4.0"></edge>
+      <edge id="80" source="80" target="81" weight="4.0"></edge>
+      <edge id="81" source="82" target="83" weight="4.0"></edge>
+      <edge id="82" source="4" target="84" weight="4.0"></edge>
+      <edge id="83" source="85" target="66" weight="4.0"></edge>
+      <edge id="84" source="1" target="86" weight="3.0"></edge>
+      <edge id="85" source="87" target="66" weight="3.0"></edge>
+      <edge id="86" source="75" target="88" weight="3.0"></edge>
+      <edge id="87" source="89" target="90" weight="2.0"></edge>
+      <edge id="88" source="70" target="66" weight="2.0"></edge>
+      <edge id="89" source="91" target="4" weight="2.0"></edge>
+      <edge id="90" source="66" target="92" weight="2.0"></edge>
+      <edge id="91" source="89" target="93" weight="2.0"></edge>
+      <edge id="92" source="1" target="94" weight="2.0"></edge>
+      <edge id="93" source="66" target="95" weight="2.0"></edge>
+      <edge id="94" source="1" target="96" weight="2.0"></edge>
+      <edge id="95" source="69" target="83" weight="2.0"></edge>
+      <edge id="96" source="66" target="97" weight="2.0"></edge>
+      <edge id="97" source="98" target="89" weight="2.0"></edge>
+      <edge id="98" source="66" target="99" weight="2.0"></edge>
+      <edge id="99" source="66" target="100" weight="2.0"></edge>
+      <edge id="100" source="101" target="66" weight="2.0"></edge>
+      <edge id="101" source="58" target="66" weight="2.0"></edge>
+      <edge id="102" source="102" target="1" weight="2.0"></edge>
+      <edge id="103" source="3" target="103" weight="2.0"></edge>
+      <edge id="104" source="1" target="104" weight="2.0"></edge>
+      <edge id="105" source="91" target="3" weight="2.0"></edge>
+      <edge id="106" source="105" target="106"></edge>
+      <edge id="107" source="70" target="63"></edge>
+      <edge id="108" source="107" target="4"></edge>
+      <edge id="109" source="89" target="95"></edge>
+      <edge id="110" source="66" target="108"></edge>
+      <edge id="111" source="74" target="109"></edge>
+      <edge id="112" source="66" target="96"></edge>
+      <edge id="113" source="24" target="110"></edge>
+      <edge id="114" source="1" target="111"></edge>
+      <edge id="115" source="112" target="113"></edge>
+      <edge id="116" source="89" target="96"></edge>
+      <edge id="117" source="114" target="115"></edge>
+      <edge id="118" source="1" target="116"></edge>
+      <edge id="119" source="117" target="2"></edge>
+      <edge id="120" source="118" target="63"></edge>
+      <edge id="121" source="119" target="120"></edge>
+      <edge id="122" source="95" target="63"></edge>
+      <edge id="123" source="121" target="80"></edge>
+      <edge id="124" source="122" target="63"></edge>
+      <edge id="125" source="123" target="1"></edge>
+      <edge id="126" source="124" target="66"></edge>
+      <edge id="127" source="66" target="125"></edge>
+      <edge id="128" source="112" target="105"></edge>
+      <edge id="129" source="1" target="126"></edge>
+      <edge id="130" source="127" target="2"></edge>
+      <edge id="131" source="48" target="128"></edge>
+      <edge id="132" source="2" target="129"></edge>
+      <edge id="133" source="105" target="115"></edge>
+      <edge id="134" source="130" target="113"></edge>
+      <edge id="135" source="87" target="89"></edge>
+      <edge id="136" source="34" target="131"></edge>
+      <edge id="137" source="24" target="132"></edge>
+      <edge id="138" source="133" target="1"></edge>
+      <edge id="139" source="74" target="106"></edge>
+      <edge id="140" source="134" target="95"></edge>
+      <edge id="141" source="4" target="135"></edge>
+      <edge id="142" source="136" target="89"></edge>
+      <edge id="143" source="105" target="130"></edge>
+      <edge id="144" source="137" target="34"></edge>
+      <edge id="145" source="138" target="1"></edge>
+      <edge id="146" source="1" target="139"></edge>
+    </edges>
+  </graph>
+</gexf>

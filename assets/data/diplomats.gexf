@@ -1,0 +1,888 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="15" label="american diplomats">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="707.18164" y="-760.6735"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="british diplomats">
+        <viz:size value="92.44491"></viz:size>
+        <viz:position x="827.39197" y="-112.56231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="19th-century diplomats">
+        <viz:size value="88.41553"></viz:size>
+        <viz:position x="768.86304" y="108.885025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="french diplomats">
+        <viz:size value="86.09863"></viz:size>
+        <viz:position x="156.9628" y="336.8512"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="diplomats">
+        <viz:size value="85.09129"></viz:size>
+        <viz:position x="813.4393" y="884.00385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="female diplomats">
+        <viz:size value="78.94648"></viz:size>
+        <viz:position x="38.60487" y="-830.68884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="english diplomats">
+        <viz:size value="77.83841"></viz:size>
+        <viz:position x="242.08844" y="1220.7955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="canadian diplomats">
+        <viz:size value="73.80902"></viz:size>
+        <viz:position x="1405.0676" y="-376.88306"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="german diplomats">
+        <viz:size value="73.00315"></viz:size>
+        <viz:position x="1200.66" y="-301.3362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="australian diplomats">
+        <viz:size value="72.90241"></viz:size>
+        <viz:position x="-395.067" y="-1406.3212"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="russian diplomats">
+        <viz:size value="72.09654"></viz:size>
+        <viz:position x="1227.1663" y="167.54727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="16th-century diplomats">
+        <viz:size value="71.592865"></viz:size>
+        <viz:position x="329.28052" y="963.7626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="17th-century diplomats">
+        <viz:size value="71.49213"></viz:size>
+        <viz:position x="463.24707" y="1144.4121"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="18th-century diplomats">
+        <viz:size value="68.57083"></viz:size>
+        <viz:position x="-269.79834" y="-191.73557"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="indian diplomats">
+        <viz:size value="66.4554"></viz:size>
+        <viz:position x="1327.988" y="-581.54584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="italian diplomats">
+        <viz:size value="65.851"></viz:size>
+        <viz:position x="229.5888" y="756.85126"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="soviet diplomats">
+        <viz:size value="65.24658"></viz:size>
+        <viz:position x="1201.8655" y="376.51013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="dutch diplomats">
+        <viz:size value="65.04512"></viz:size>
+        <viz:position x="-825.14246" y="909.63574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="chinese diplomats">
+        <viz:size value="63.93704"></viz:size>
+        <viz:position x="-1280.8031" y="657.4005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="japanese diplomats">
+        <viz:size value="63.93704"></viz:size>
+        <viz:position x="-125.97179" y="1009.5093"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="african-american diplomats">
+        <viz:size value="63.63484"></viz:size>
+        <viz:position x="1223.854" y="-775.54114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="polish diplomats">
+        <viz:size value="63.2319"></viz:size>
+        <viz:position x="1090.1311" y="565.6121"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="new zealand diplomats">
+        <viz:size value="62.929695"></viz:size>
+        <viz:position x="-529.09686" y="-154.90298"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="scottish diplomats">
+        <viz:size value="62.728226"></viz:size>
+        <viz:position x="-446.05563" y="-361.59882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="20th-century diplomats">
+        <viz:size value="62.627495"></viz:size>
+        <viz:position x="380.15192" y="-49.44194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="israeli diplomats">
+        <viz:size value="62.123817"></viz:size>
+        <viz:position x="-963.90216" y="-772.8764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="romanian diplomats">
+        <viz:size value="61.92235"></viz:size>
+        <viz:position x="847.56055" y="527.5067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="spanish diplomats">
+        <viz:size value="61.92235"></viz:size>
+        <viz:position x="-703.72455" y="-346.247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="pakistani diplomats">
+        <viz:size value="60.51207"></viz:size>
+        <viz:position x="-1085.4347" y="-572.90186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="medieval diplomats">
+        <viz:size value="60.20986"></viz:size>
+        <viz:position x="-162.7779" y="620.07135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="austrian diplomats">
+        <viz:size value="60.10913"></viz:size>
+        <viz:position x="-403.22043" y="1413.3088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="swedish diplomats">
+        <viz:size value="59.605457"></viz:size>
+        <viz:position x="-126.25623" y="-21.271797"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="ukrainian diplomats">
+        <viz:size value="59.30325"></viz:size>
+        <viz:position x="-597.96497" y="-548.14874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="washington diplomats">
+        <viz:size value="58.698845"></viz:size>
+        <viz:position x="-383.58322" y="1000.40656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="mexican diplomats">
+        <viz:size value="58.295906"></viz:size>
+        <viz:position x="-718.9461" y="688.3762"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="iranian diplomats">
+        <viz:size value="56.482685"></viz:size>
+        <viz:position x="-822.81506" y="-594.81494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="korean diplomats">
+        <viz:size value="56.07975"></viz:size>
+        <viz:position x="-482.1082" y="267.23807"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="sri lankan diplomats">
+        <viz:size value="54.7702"></viz:size>
+        <viz:position x="-150.56918" y="-1457.5471"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="assassinated diplomats">
+        <viz:size value="54.7702"></viz:size>
+        <viz:position x="670.6677" y="-1036.065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="turkish diplomats">
+        <viz:size value="54.7702"></viz:size>
+        <viz:position x="-768.55206" y="-130.72806"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="brazilian diplomats">
+        <viz:size value="54.56873"></viz:size>
+        <viz:position x="-335.87845" y="446.41693"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="chilean diplomats">
+        <viz:size value="53.863586"></viz:size>
+        <viz:position x="-1258.9886" y="121.53798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="argentine diplomats">
+        <viz:size value="52.956978"></viz:size>
+        <viz:position x="-557.92847" y="844.6294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="albanian diplomats">
+        <viz:size value="52.65477"></viz:size>
+        <viz:position x="-971.3464" y="298.65842"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="portuguese diplomats">
+        <viz:size value="51.345222"></viz:size>
+        <viz:position x="-259.27344" y="817.6448"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="austro-hungarian diplomats">
+        <viz:size value="50.740818"></viz:size>
+        <viz:position x="278.4784" y="1436.3676"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="norwegian diplomats">
+        <viz:size value="50.740818"></viz:size>
+        <viz:position x="-722.07477" y="300.7334"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="danish diplomats">
+        <viz:size value="49.83421"></viz:size>
+        <viz:position x="-989.20593" y="-169.15863"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="hungarian diplomats">
+        <viz:size value="49.532"></viz:size>
+        <viz:position x="-163.13406" y="1442.6862"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="diplomats of georgia">
+        <viz:size value="49.532"></viz:size>
+        <viz:position x="-590.01184" y="492.8631"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="cold war diplomats">
+        <viz:size value="49.229797"></viz:size>
+        <viz:position x="864.90686" y="-909.4105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="irish diplomats">
+        <viz:size value="48.62539"></viz:size>
+        <viz:position x="598.3208" y="-120.90384"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="sinhalese diplomats">
+        <viz:size value="48.62539"></viz:size>
+        <viz:position x="105.97463" y="-1472.664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="filipino diplomats">
+        <viz:size value="48.62539"></viz:size>
+        <viz:position x="-605.2821" y="70.433525"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="egyptian diplomats">
+        <viz:size value="48.222454"></viz:size>
+        <viz:position x="-1220.4071" y="-120.64323"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="franklin marshall diplomats football coaches">
+        <viz:size value="47.920254"></viz:size>
+        <viz:position x="-1375.4926" y="-450.64987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="belgian diplomats">
+        <viz:size value="47.517315"></viz:size>
+        <viz:position x="452.98483" y="686.3143"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="cuban diplomats">
+        <viz:size value="47.517315"></viz:size>
+        <viz:position x="-371.76147" y="27.656027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="moroccan diplomats">
+        <viz:size value="46.812172"></viz:size>
+        <viz:position x="116.07239" y="1017.2494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="prussian diplomats">
+        <viz:size value="46.812172"></viz:size>
+        <viz:position x="1446.1814" y="-152.88809"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="fictional diplomats">
+        <viz:size value="46.812172"></viz:size>
+        <viz:position x="-680.13324" y="-795.76935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="byzantine diplomats">
+        <viz:size value="46.812172"></viz:size>
+        <viz:position x="-834.34326" y="92.17184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="nigerian diplomats">
+        <viz:size value="46.409233"></viz:size>
+        <viz:position x="-1177.9362" y="-851.9834"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="serbian diplomats">
+        <viz:size value="44.696743"></viz:size>
+        <viz:position x="1089.0552" y="962.1815"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="greek diplomats">
+        <viz:size value="44.696743"></viz:size>
+        <viz:position x="-833.0858" y="-1203.4662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="azerbaijani diplomats">
+        <viz:size value="44.293808"></viz:size>
+        <viz:position x="1455.6691" y="90.40709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="diplomats by role">
+        <viz:size value="42.88353"></viz:size>
+        <viz:position x="730.93494" y="1274.1968"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="asian-american diplomats">
+        <viz:size value="42.88353"></viz:size>
+        <viz:position x="446.3646" y="-695.71027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="croatian diplomats">
+        <viz:size value="42.379852"></viz:size>
+        <viz:position x="1000.35944" y="109.11597"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="lgbt diplomats">
+        <viz:size value="41.27177"></viz:size>
+        <viz:position x="725.7789" y="-336.8548"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="angolan diplomats">
+        <viz:size value="40.062958"></viz:size>
+        <viz:position x="1241.8085" y="-49.82607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="slovenian diplomats">
+        <viz:size value="40.062958"></viz:size>
+        <viz:position x="697.0439" y="681.3245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="bangladeshi diplomats">
+        <viz:size value="39.45855"></viz:size>
+        <viz:position x="-931.92346" y="-390.753"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="slovak diplomats">
+        <viz:size value="38.85414"></viz:size>
+        <viz:position x="306.7897" y="511.3595"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="costa rican diplomats">
+        <viz:size value="38.85414"></viz:size>
+        <viz:position x="490.26898" y="-901.31915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="yugoslav diplomats">
+        <viz:size value="38.85414"></viz:size>
+        <viz:position x="977.318" y="751.73395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="21st-century diplomats">
+        <viz:size value="38.85414"></viz:size>
+        <viz:position x="567.669" y="-513.5993"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="south african diplomats">
+        <viz:size value="38.149002"></viz:size>
+        <viz:position x="-965.3" y="737.5846"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="republic of venice diplomats">
+        <viz:size value="37.443863"></viz:size>
+        <viz:position x="5.385297" y="805.18475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="guatemalan diplomats">
+        <viz:size value="36.738724"></viz:size>
+        <viz:position x="-1447.64" y="228.61015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="diplomats who committed suicide">
+        <viz:size value="36.738724"></viz:size>
+        <viz:position x="964.77124" y="332.54712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="ugandan diplomats">
+        <viz:size value="36.738724"></viz:size>
+        <viz:position x="265.3856" y="-921.4622"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="singaporean diplomats">
+        <viz:size value="34.22036"></viz:size>
+        <viz:position x="-439.0298" y="-948.17615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="european union diplomats">
+        <viz:size value="34.22036"></viz:size>
+        <viz:position x="559.38525" y="473.00354"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="algerian diplomats">
+        <viz:size value="33.313744"></viz:size>
+        <viz:position x="233.30406" y="-243.2909"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="armenian diplomats">
+        <viz:size value="33.313744"></viz:size>
+        <viz:position x="1428.8502" y="330.3798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="yoruba diplomats">
+        <viz:size value="33.313744"></viz:size>
+        <viz:position x="-1034.8982" y="-1039.0908"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="dominican republic diplomats">
+        <viz:size value="33.313744"></viz:size>
+        <viz:position x="468.66425" y="-296.55774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="luxembourgian diplomats">
+        <viz:size value="32.3064"></viz:size>
+        <viz:position x="238.43076" y="-1154.4192"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="ethiopian diplomats">
+        <viz:size value="32.3064"></viz:size>
+        <viz:position x="321.1926" y="-474.38495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="senegalese diplomats">
+        <viz:size value="32.3064"></viz:size>
+        <viz:position x="-870.20374" y="1166.8556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="botswana diplomats">
+        <viz:size value="31.19832"></viz:size>
+        <viz:position x="-214.64346" y="-787.3755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="ancient roman diplomats">
+        <viz:size value="31.19832"></viz:size>
+        <viz:position x="531.3216" y="-1361.0754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="namibian diplomats">
+        <viz:size value="31.19832"></viz:size>
+        <viz:position x="24.41276" y="-1043.7662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="estonian diplomats">
+        <viz:size value="31.19832"></viz:size>
+        <viz:position x="36.58398" y="-1268.3306"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="tang dynasty diplomats">
+        <viz:size value="31.19832"></viz:size>
+        <viz:position x="-427.9944" y="658.31476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="franklin marshall diplomats men s basketball coaches">
+        <viz:size value="29.989506"></viz:size>
+        <viz:position x="-1428.6741" y="-244.1447"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="macedonian diplomats">
+        <viz:size value="28.780691"></viz:size>
+        <viz:position x="1229.3777" y="777.81396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="han dynasty diplomats">
+        <viz:size value="28.780691"></viz:size>
+        <viz:position x="-654.191" y="1056.8499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="kenyan diplomats">
+        <viz:size value="28.780691"></viz:size>
+        <viz:position x="-189.28271" y="-1232.1166"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="confederate states diplomats">
+        <viz:size value="28.780691"></viz:size>
+        <viz:position x="720.5132" y="322.9075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="bolivian diplomats">
+        <viz:size value="28.780691"></viz:size>
+        <viz:position x="-323.34686" y="-565.5408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="nicaraguan diplomats">
+        <viz:size value="28.780691"></viz:size>
+        <viz:position x="926.3549" y="-1133.9751"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="franklin marshall diplomats baseball coaches">
+        <viz:size value="28.780691"></viz:size>
+        <viz:position x="-1171.5778" y="-352.3566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="jamaican diplomats">
+        <viz:size value="28.780691"></viz:size>
+        <viz:position x="94.51809" y="-463.96548"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="kidnapped diplomats">
+        <viz:size value="27.370409"></viz:size>
+        <viz:position x="1104.9727" y="-530.68085"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="syrian diplomats">
+        <viz:size value="27.370409"></viz:size>
+        <viz:position x="253.40982" y="133.14499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="czechoslovak diplomats">
+        <viz:size value="25.859392"></viz:size>
+        <viz:position x="-828.97614" y="-956.1867"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="burmese diplomats">
+        <viz:size value="25.859392"></viz:size>
+        <viz:position x="984.68646" y="-715.3802"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="ottoman diplomats">
+        <viz:size value="24.146904"></viz:size>
+        <viz:position x="110.63744" y="-53.316437"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="malagasy diplomats">
+        <viz:size value="24.146904"></viz:size>
+        <viz:position x="-59.920498" y="-621.04114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="papal diplomats">
+        <viz:size value="22.232948"></viz:size>
+        <viz:position x="548.38104" y="884.7057"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="welsh diplomats">
+        <viz:size value="22.232948"></viz:size>
+        <viz:position x="500.88474" y="1356.9304"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="three kingdoms diplomats">
+        <viz:size value="22.232948"></viz:size>
+        <viz:position x="-476.2945" y="1204.2769"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="montenegrin diplomats">
+        <viz:size value="22.232948"></viz:size>
+        <viz:position x="929.0571" y="1115.104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="franklin marshall diplomats football players">
+        <viz:size value="22.232948"></viz:size>
+        <viz:position x="-1296.4111" y="-657.78705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="15th-century diplomats">
+        <viz:size value="22.232948"></viz:size>
+        <viz:position x="-3.293184" y="170.9072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="thai diplomats">
+        <viz:size value="19.916054"></viz:size>
+        <viz:position x="425.52927" y="296.53574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="bavarian diplomats">
+        <viz:size value="19.916054"></viz:size>
+        <viz:position x="1037.4225" y="-131.18471"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="federated states of micronesia diplomats">
+        <viz:size value="19.916054"></viz:size>
+        <viz:position x="310.97665" y="-1380.354"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="14th-century diplomats">
+        <viz:size value="19.916054"></viz:size>
+        <viz:position x="71.52136" y="569.0737"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="five dynasties and ten kingdoms diplomats">
+        <viz:size value="17.296955"></viz:size>
+        <viz:position x="-1385.1865" y="461.38498"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="ming dynasty diplomats">
+        <viz:size value="17.296955"></viz:size>
+        <viz:position x="-1042.3522" y="1008.5961"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="gambian diplomats">
+        <viz:size value="17.296955"></viz:size>
+        <viz:position x="-175.72523" y="-410.73694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="safavid diplomats">
+        <viz:size value="14.073452"></viz:size>
+        <viz:position x="56.013824" y="1449.0088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="dominica diplomats">
+        <viz:size value="14.073452"></viz:size>
+        <viz:position x="-236.85934" y="1216.7389"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="arab-american diplomats">
+        <viz:size value="14.073452"></viz:size>
+        <viz:position x="813.1121" y="-559.87787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="lesotho diplomats">
+        <viz:size value="14.073452"></viz:size>
+        <viz:position x="453.26685" y="-1138.1559"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="latvian diplomats">
+        <viz:size value="14.073452"></viz:size>
+        <viz:position x="545.8102" y="118.55423"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="honduran diplomats">
+        <viz:size value="14.073452"></viz:size>
+        <viz:position x="-456.93402" y="-737.5525"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="uzbekistani diplomats">
+        <viz:size value="14.073452"></viz:size>
+        <viz:position x="1344.8416" y="571.2304"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="13th-century diplomats">
+        <viz:size value="9.842603"></viz:size>
+        <viz:position x="-92.37203" y="395.24408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="maldivian diplomats">
+        <viz:size value="9.842603"></viz:size>
+        <viz:position x="-15.64023" y="-260.26657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="maltese diplomats">
+        <viz:size value="9.842603"></viz:size>
+        <viz:position x="954.5661" y="-358.33475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="samoan diplomats">
+        <viz:size value="9.842603"></viz:size>
+        <viz:position x="-616.0572" y="-1319.4763"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="tongan diplomats">
+        <viz:size value="9.842603"></viz:size>
+        <viz:position x="-406.969" y="-1171.3628"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="omani diplomats">
+        <viz:size value="9.842603"></viz:size>
+        <viz:position x="-1050.4062" y="62.16733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="bahraini diplomats">
+        <viz:size value="9.842603"></viz:size>
+        <viz:position x="212.11194" y="-684.91284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="serer diplomats">
+        <viz:size value="9.842603"></viz:size>
+        <viz:position x="-673.70215" y="1308.132"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="diplomats from kavaje">
+        <viz:size value="9.842603"></viz:size>
+        <viz:position x="-852.54944" y="501.0904"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="diplomats by nationality">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-634.8913" y="-1075.8215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="palauan diplomats">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="726.6209" y="-1249.4792"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="nauruan diplomats">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-202.72295" y="-1003.9604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="franklin marshall diplomats baseball players">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1455.4006" y="-24.544348"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="cook island diplomats">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1091.878" y="-957.3709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="grenadian diplomats">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-3.5103307" y="1225.8989"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="diplomats of taiwan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="687.2197" y="1066.6576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="song dynasty diplomats">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1180.9493" y="842.95996"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="12th-century diplomats">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-243.45428" y="215.93748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="yuan dynasty diplomats">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1084.4474" y="544.242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="sui dynasty diplomats">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1193.3091" y="344.30573"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="41.0"></edge>
+      <edge id="1" source="2" target="3" weight="31.0"></edge>
+      <edge id="2" source="4" target="5" weight="16.0"></edge>
+      <edge id="3" source="6" target="5" weight="14.0"></edge>
+      <edge id="4" source="7" target="8" weight="13.0"></edge>
+      <edge id="5" source="9" target="10" weight="11.0"></edge>
+      <edge id="6" source="11" target="12" weight="10.0"></edge>
+      <edge id="7" source="11" target="13" weight="10.0"></edge>
+      <edge id="8" source="14" target="15" weight="10.0"></edge>
+      <edge id="9" source="16" target="9" weight="9.0"></edge>
+      <edge id="10" source="17" target="15" weight="9.0"></edge>
+      <edge id="11" source="15" target="18" weight="7.0"></edge>
+      <edge id="12" source="14" target="19" weight="7.0"></edge>
+      <edge id="13" source="2" target="20" weight="7.0"></edge>
+      <edge id="14" source="21" target="22" weight="6.0"></edge>
+      <edge id="15" source="23" target="24" weight="5.0"></edge>
+      <edge id="16" source="25" target="19" weight="5.0"></edge>
+      <edge id="17" source="15" target="26" weight="5.0"></edge>
+      <edge id="18" source="21" target="27" weight="5.0"></edge>
+      <edge id="19" source="27" target="28" weight="5.0"></edge>
+      <edge id="20" source="5" target="14" weight="5.0"></edge>
+      <edge id="21" source="29" target="30" weight="4.0"></edge>
+      <edge id="22" source="31" target="32" weight="4.0"></edge>
+      <edge id="23" source="33" target="34" weight="4.0"></edge>
+      <edge id="24" source="35" target="36" weight="4.0"></edge>
+      <edge id="25" source="37" target="30" weight="4.0"></edge>
+      <edge id="26" source="38" target="39" weight="4.0"></edge>
+      <edge id="27" source="40" target="41" weight="3.0"></edge>
+      <edge id="28" source="42" target="19" weight="3.0"></edge>
+      <edge id="29" source="43" target="44" weight="3.0"></edge>
+      <edge id="30" source="6" target="28" weight="3.0"></edge>
+      <edge id="31" source="14" target="45" weight="3.0"></edge>
+      <edge id="32" source="46" target="47" weight="3.0"></edge>
+      <edge id="33" source="48" target="49" weight="3.0"></edge>
+      <edge id="34" source="50" target="19" weight="2.0"></edge>
+      <edge id="35" source="51" target="39" weight="2.0"></edge>
+      <edge id="36" source="15" target="52" weight="2.0"></edge>
+      <edge id="37" source="53" target="4" weight="2.0"></edge>
+      <edge id="38" source="54" target="55" weight="2.0"></edge>
+      <edge id="39" source="56" target="19" weight="2.0"></edge>
+      <edge id="40" source="19" target="57" weight="2.0"></edge>
+      <edge id="41" source="5" target="58" weight="2.0"></edge>
+      <edge id="42" source="59" target="60" weight="2.0"></edge>
+      <edge id="43" source="22" target="28" weight="2.0"></edge>
+      <edge id="44" source="61" target="4" weight="2.0"></edge>
+      <edge id="45" source="21" target="62" weight="2.0"></edge>
+      <edge id="46" source="19" target="63" weight="2.0"></edge>
+      <edge id="47" source="14" target="36" weight="2.0"></edge>
+      <edge id="48" source="64" target="65"></edge>
+      <edge id="49" source="66" target="26"></edge>
+      <edge id="50" source="19" target="67"></edge>
+      <edge id="51" source="68" target="35"></edge>
+      <edge id="52" source="69" target="19"></edge>
+      <edge id="53" source="35" target="53"></edge>
+      <edge id="54" source="5" target="70"></edge>
+      <edge id="55" source="71" target="19"></edge>
+      <edge id="56" source="53" target="30"></edge>
+      <edge id="57" source="72" target="23"></edge>
+      <edge id="58" source="73" target="19"></edge>
+      <edge id="59" source="19" target="74"></edge>
+      <edge id="60" source="53" target="75"></edge>
+      <edge id="61" source="29" target="31"></edge>
+      <edge id="62" source="76" target="15"></edge>
+      <edge id="63" source="77" target="17"></edge>
+      <edge id="64" source="78" target="53"></edge>
+      <edge id="65" source="5" target="79"></edge>
+      <edge id="66" source="80" target="19"></edge>
+      <edge id="67" source="81" target="82"></edge>
+      <edge id="68" source="53" target="83"></edge>
+      <edge id="69" source="84" target="9"></edge>
+      <edge id="70" source="85" target="19"></edge>
+      <edge id="71" source="72" target="86"></edge>
+      <edge id="72" source="87" target="39"></edge>
+      <edge id="73" source="79" target="19"></edge>
+      <edge id="74" source="88" target="26"></edge>
+      <edge id="75" source="89" target="31"></edge>
+      <edge id="76" source="90" target="91"></edge>
+      <edge id="77" source="5" target="92"></edge>
+      <edge id="78" source="93" target="19"></edge>
+      <edge id="79" source="39" target="94"></edge>
+      <edge id="80" source="72" target="62"></edge>
+      <edge id="81" source="95" target="3"></edge>
+      <edge id="82" source="96" target="97"></edge>
+      <edge id="83" source="27" target="98"></edge>
+      <edge id="84" source="11" target="99"></edge>
+      <edge id="85" source="2" target="53"></edge>
+      <edge id="86" source="19" target="100"></edge>
+      <edge id="87" source="101" target="53"></edge>
+      <edge id="88" source="47" target="53"></edge>
+      <edge id="89" source="5" target="102"></edge>
+      <edge id="90" source="4" target="103"></edge>
+      <edge id="91" source="104" target="105"></edge>
+      <edge id="92" source="106" target="19"></edge>
+      <edge id="93" source="102" target="107"></edge>
+      <edge id="94" source="19" target="108"></edge>
+      <edge id="95" source="109" target="17"></edge>
+      <edge id="96" source="64" target="28"></edge>
+      <edge id="97" source="110" target="30"></edge>
+      <edge id="98" source="111" target="22"></edge>
+      <edge id="99" source="19" target="112"></edge>
+      <edge id="100" source="113" target="26"></edge>
+      <edge id="101" source="45" target="102"></edge>
+      <edge id="102" source="47" target="111"></edge>
+      <edge id="103" source="114" target="19"></edge>
+      <edge id="104" source="5" target="31"></edge>
+      <edge id="105" source="115" target="18"></edge>
+      <edge id="106" source="116" target="15"></edge>
+      <edge id="107" source="39" target="117"></edge>
+      <edge id="108" source="19" target="118"></edge>
+      <edge id="109" source="119" target="6"></edge>
+      <edge id="110" source="44" target="120"></edge>
+      <edge id="111" source="121" target="30"></edge>
+      <edge id="112" source="122" target="123"></edge>
+      <edge id="113" source="47" target="124"></edge>
+      <edge id="114" source="2" target="125"></edge>
+      <edge id="115" source="126" target="127"></edge>
+      <edge id="116" source="5" target="128"></edge>
+      <edge id="117" source="9" target="129"></edge>
+      <edge id="118" source="102" target="130"></edge>
+      <edge id="119" source="120" target="4"></edge>
+    </edges>
+  </graph>
+</gexf>

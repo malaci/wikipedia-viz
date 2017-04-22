@@ -1,0 +1,1015 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="power stations">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-335.07968" y="-256.6649"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="power forwards">
+        <viz:size value="90.78874"></viz:size>
+        <viz:position x="-581.3375" y="642.51385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="electric power">
+        <viz:size value="82.50704"></viz:size>
+        <viz:position x="866.92633" y="-124.44321"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="nuclear power">
+        <viz:size value="81.323944"></viz:size>
+        <viz:position x="412.68256" y="-1024.355"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="solar power">
+        <viz:size value="70.08451"></viz:size>
+        <viz:position x="-723.235" y="-129.74216"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="power metal">
+        <viz:size value="69.9155"></viz:size>
+        <viz:position x="-224.21881" y="875.4721"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="power pop">
+        <viz:size value="69.49296"></viz:size>
+        <viz:position x="340.98407" y="643.55975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="wind power">
+        <viz:size value="66.28169"></viz:size>
+        <viz:position x="1142.1438" y="-971.1595"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="power companies of the united states">
+        <viz:size value="65.014084"></viz:size>
+        <viz:position x="561.1196" y="-863.2146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="leaders who took power by coup">
+        <viz:size value="64.169014"></viz:size>
+        <viz:position x="142.43465" y="559.18427"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="power rangers">
+        <viz:size value="60.3662"></viz:size>
+        <viz:position x="-1489.701" y="-295.20047"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="water power">
+        <viz:size value="59.436623"></viz:size>
+        <viz:position x="-214.01314" y="-479.20218"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="people power">
+        <viz:size value="55.549297"></viz:size>
+        <viz:position x="278.17404" y="386.60803"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="power in california">
+        <viz:size value="51.915497"></viz:size>
+        <viz:position x="69.07196" y="-441.2918"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="power architecture">
+        <viz:size value="51.323944"></viz:size>
+        <viz:position x="-1041.7247" y="313.70386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="power companies of canada">
+        <viz:size value="50.816902"></viz:size>
+        <viz:position x="-371.3122" y="-1477.5248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="anti nuclear power activists">
+        <viz:size value="50.64789"></viz:size>
+        <viz:position x="-65.1457" y="529.80286"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="power control">
+        <viz:size value="49.71831"></viz:size>
+        <viz:position x="790.31915" y="-354.13895"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="power station technology">
+        <viz:size value="49.549297"></viz:size>
+        <viz:position x="-970.45685" y="1143.4"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="power cables">
+        <viz:size value="49.126762"></viz:size>
+        <viz:position x="1041.8872" y="27.599937"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="power engineering">
+        <viz:size value="48.02817"></viz:size>
+        <viz:position x="573.52386" y="-395.7324"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="hydroelectric power companies">
+        <viz:size value="46.422535"></viz:size>
+        <viz:position x="101.34405" y="-1488.8872"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="power companies of the united kingdom">
+        <viz:size value="46.253525"></viz:size>
+        <viz:position x="1450.4667" y="-412.76547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="georgia power">
+        <viz:size value="44.64789"></viz:size>
+        <viz:position x="-854.8291" y="55.639065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="power tools">
+        <viz:size value="43.21127"></viz:size>
+        <viz:position x="584.2114" y="942.71466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="power companies of norway">
+        <viz:size value="43.21127"></viz:size>
+        <viz:position x="565.91" y="-1418.2253"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="power companies of australia">
+        <viz:size value="42.704227"></viz:size>
+        <viz:position x="1152.1176" y="482.46716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="hydroelectric power plants in washington">
+        <viz:size value="42.197186"></viz:size>
+        <viz:position x="-763.48267" y="-756.7892"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="power electronics">
+        <viz:size value="41.94366"></viz:size>
+        <viz:position x="-1360.8412" y="-136.24428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="tidal power">
+        <viz:size value="41.09859"></viz:size>
+        <viz:position x="-791.07635" y="1295.1194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="alabama power">
+        <viz:size value="40.845074"></viz:size>
+        <viz:position x="590.8014" y="-1191.7948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="mechanical power transmission">
+        <viz:size value="40.507046"></viz:size>
+        <viz:position x="1298.0968" y="-142.8921"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="united states power company dams">
+        <viz:size value="40.507046"></viz:size>
+        <viz:position x="-854.767" y="-977.2026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="electrical power connectors">
+        <viz:size value="40.25352"></viz:size>
+        <viz:position x="-197.76178" y="1096.5682"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="power tool manufacturers">
+        <viz:size value="39.915493"></viz:size>
+        <viz:position x="423.4513" y="1132.1553"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="power companies of india">
+        <viz:size value="39.577465"></viz:size>
+        <viz:position x="710.4394" y="536.34863"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="power companies of china">
+        <viz:size value="38.140846"></viz:size>
+        <viz:position x="1029.6881" y="-765.4073"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="anti nuclear power movement">
+        <viz:size value="36.197186"></viz:size>
+        <viz:position x="-1.1449584" y="-1063.8419"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="power companies of japan">
+        <viz:size value="35.267605"></viz:size>
+        <viz:position x="658.1396" y="-156.46768"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="power supplies">
+        <viz:size value="34.760563"></viz:size>
+        <viz:position x="-1264.2018" y="285.107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="power companies of russia">
+        <viz:size value="34.760563"></viz:size>
+        <viz:position x="303.04114" y="-819.46594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="dc power connectors">
+        <viz:size value="33.74648"></viz:size>
+        <viz:position x="-148.06367" y="1307.4805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="pieman river power development">
+        <viz:size value="33.23944"></viz:size>
+        <viz:position x="-503.09064" y="-112.65019"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="ontario power generation">
+        <viz:size value="33.23944"></viz:size>
+        <viz:position x="55.840496" y="-828.04016"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="hydroelectric power plants in tennessee">
+        <viz:size value="33.23944"></viz:size>
+        <viz:position x="296.19107" y="1495.9647"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="power companies of brazil">
+        <viz:size value="32.64789"></viz:size>
+        <viz:position x="1304.6552" y="306.63007"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="power companies of germany">
+        <viz:size value="32.64789"></viz:size>
+        <viz:position x="891.5083" y="1216.7692"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="nova scotia power">
+        <viz:size value="32.64789"></viz:size>
+        <viz:position x="-126.994896" y="-1511.5575"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="hydroelectric power plants in oregon">
+        <viz:size value="32.056343"></viz:size>
+        <viz:position x="-1026.11" y="-376.52142"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="power microprocessors">
+        <viz:size value="32.056343"></viz:size>
+        <viz:position x="-956.0503" y="509.7209"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="mississauga power players">
+        <viz:size value="32.056343"></viz:size>
+        <viz:position x="48.52957" y="1224.0245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="wave power">
+        <viz:size value="32.056343"></viz:size>
+        <viz:position x="-766.8568" y="1058.7992"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="ministry of power">
+        <viz:size value="31.46479"></viz:size>
+        <viz:position x="682.25183" y="309.80542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="video power">
+        <viz:size value="31.46479"></viz:size>
+        <viz:position x="-54.750675" y="748.43896"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="power plants in the philippines">
+        <viz:size value="30.112679"></viz:size>
+        <viz:position x="-808.0527" y="-350.80148"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="mains power connectors">
+        <viz:size value="29.352114"></viz:size>
+        <viz:position x="864.1929" y="152.05882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="nb power">
+        <viz:size value="29.352114"></viz:size>
+        <viz:position x="355.19043" y="-470.8835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="hydroelectric power plants in virginia">
+        <viz:size value="29.352114"></viz:size>
+        <viz:position x="-747.112" y="-1318.7399"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="units of power">
+        <viz:size value="28.59155"></viz:size>
+        <viz:position x="-1194.5156" y="512.0001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="combined heat and power plants in poland">
+        <viz:size value="27.746479"></viz:size>
+        <viz:position x="-434.5842" y="-483.17978"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="geothermal power in new zealand">
+        <viz:size value="26.816902"></viz:size>
+        <viz:position x="226.74025" y="168.89442"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="gordon river power development scheme">
+        <viz:size value="26.816902"></viz:size>
+        <viz:position x="32.61648" y="69.69075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="hydroelectric power plants in michigan">
+        <viz:size value="26.816902"></viz:size>
+        <viz:position x="-1084.0009" y="-1043.658"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="pulsed power">
+        <viz:size value="26.816902"></viz:size>
+        <viz:position x="677.0107" y="68.51493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="power companies of pakistan">
+        <viz:size value="26.816902"></viz:size>
+        <viz:position x="464.56564" y="18.672626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="geothermal power in iceland">
+        <viz:size value="25.802816"></viz:size>
+        <viz:position x="-1126.8303" y="1000.76404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="power companies of spain">
+        <viz:size value="25.802816"></viz:size>
+        <viz:position x="905.8937" y="-964.9074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="king river power development scheme">
+        <viz:size value="25.802816"></viz:size>
+        <viz:position x="-903.17676" y="-572.56085"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="power companies of england">
+        <viz:size value="24.788734"></viz:size>
+        <viz:position x="1148.3724" y="-572.60345"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="portland power players">
+        <viz:size value="24.788734"></viz:size>
+        <viz:position x="-429.08923" y="784.7305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="power companies of sweden">
+        <viz:size value="24.788734"></viz:size>
+        <viz:position x="388.31024" y="-1260.9614"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="power companies of switzerland">
+        <viz:size value="23.605635"></viz:size>
+        <viz:position x="180.40845" y="-1264.2142"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="power companies of the philippines">
+        <viz:size value="23.605635"></viz:size>
+        <viz:position x="1006.014" y="-382.56302"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="hydroelectric power plants in montana">
+        <viz:size value="23.605635"></viz:size>
+        <viz:position x="-547.86005" y="-1357.0133"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="combined heat and power plants in denmark">
+        <viz:size value="23.605635"></viz:size>
+        <viz:position x="-162.59462" y="-78.13332"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="hydroelectric power plants in texas">
+        <viz:size value="22.33803"></viz:size>
+        <viz:position x="1425.651" y="486.5051"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="alcoa power generating dams">
+        <viz:size value="22.33803"></viz:size>
+        <viz:position x="82.22147" y="1475.0245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="human power">
+        <viz:size value="22.33803"></viz:size>
+        <viz:position x="-1359.8923" y="650.76074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="power companies of france">
+        <viz:size value="22.33803"></viz:size>
+        <viz:position x="461.5668" y="-666.0369"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="traction power networks">
+        <viz:size value="22.33803"></viz:size>
+        <viz:position x="-925.1081" y="894.8832"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="hydroelectric power plants in pennsylvania">
+        <viz:size value="22.33803"></viz:size>
+        <viz:position x="-160.62407" y="-856.3689"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="geothermal power in kenya">
+        <viz:size value="22.33803"></viz:size>
+        <viz:position x="-580.37256" y="-324.96295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="power companies of scotland">
+        <viz:size value="20.90141"></viz:size>
+        <viz:position x="-579.68207" y="1391.8849"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="hydroelectric power plants in maine">
+        <viz:size value="20.90141"></viz:size>
+        <viz:position x="-922.0138" y="-1190.4961"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="combined heat and power plants in england">
+        <viz:size value="20.90141"></viz:size>
+        <viz:position x="230.57257" y="-294.52026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="geothermal power in the united states">
+        <viz:size value="20.90141"></viz:size>
+        <viz:position x="-347.87683" y="24.666857"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="power companies of taiwan">
+        <viz:size value="20.90141"></viz:size>
+        <viz:position x="896.4269" y="-571.7437"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="power companies of greece">
+        <viz:size value="20.90141"></viz:size>
+        <viz:position x="-818.3599" y="259.95602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="uninterruptible power supply">
+        <viz:size value="19.295774"></viz:size>
+        <viz:position x="448.33292" y="-211.94589"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="hydroelectric power plants in south carolina">
+        <viz:size value="19.295774"></viz:size>
+        <viz:position x="-1073.6263" y="87.297066"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="hydroelectric power plants in arizona">
+        <viz:size value="19.295774"></viz:size>
+        <viz:position x="-592.7573" y="-907.0708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="trade and commerce power in the australian constitution cases">
+        <viz:size value="19.295774"></viz:size>
+        <viz:position x="1345.3916" y="688.0703"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="hydroelectric power plants in north carolina">
+        <viz:size value="19.295774"></viz:size>
+        <viz:position x="-125.00166" y="1516.564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="hydroelectric power plants in kentucky">
+        <viz:size value="19.295774"></viz:size>
+        <viz:position x="760.7691" y="775.32526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="power companies of chile">
+        <viz:size value="19.295774"></viz:size>
+        <viz:position x="908.45135" y="381.69452"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="power plants in chennai">
+        <viz:size value="17.352112"></viz:size>
+        <viz:position x="-29.47074" y="-1288.4258"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="hydroelectric power plants in alaska">
+        <viz:size value="17.352112"></viz:size>
+        <viz:position x="-280.80328" y="622.2604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="power standards">
+        <viz:size value="17.352112"></viz:size>
+        <viz:position x="-1245.0419" y="832.80566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="hydroelectric power plants in new york">
+        <viz:size value="17.352112"></viz:size>
+        <viz:position x="-219.95413" y="-1089.8352"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="combined heat and power plants in lithuania">
+        <viz:size value="17.352112"></viz:size>
+        <viz:position x="-56.180737" y="-631.75433"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="power companies of belgium">
+        <viz:size value="17.352112"></viz:size>
+        <viz:position x="711.38336" y="-1031.0875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="corporations power in the australian constitution cases">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="1064.4955" y="1068.1431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="power companies of serbia">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="-944.1836" y="-151.9493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="power companies of ghana">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="1084.5367" y="254.89835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="hydroelectric power plants in oklahoma">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="1506.9407" y="247.95789"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="combined heat and power plants in the united states">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="187.07376" y="-628.6087"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="power companies of israel">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="-587.5645" y="1163.0768"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="combined heat and power plants in estonia">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="-105.45136" y="-301.31314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="power companies of finland">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="327.1702" y="-1476.0953"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="oshawa power players">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="256.4135" y="1281.0785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="new power party members of the legislative yuan in taiwan">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="-375.32562" y="1248.8892"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="external affairs power in the australian constitution cases">
+        <viz:size value="15.154929"></viz:size>
+        <viz:position x="1221.7606" y="900.59467"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="power companies of laos">
+        <viz:size value="12.450705"></viz:size>
+        <viz:position x="-642.836" y="879.28906"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="hydroelectric power plants in south dakota">
+        <viz:size value="12.450705"></viz:size>
+        <viz:position x="-1331.0205" y="-700.33374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="power companies of northern ireland">
+        <viz:size value="12.450705"></viz:size>
+        <viz:position x="157.56442" y="804.1534"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="power companies of bosnia and herzegovina">
+        <viz:size value="12.450705"></viz:size>
+        <viz:position x="-522.23303" y="-699.1513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="power monopolies">
+        <viz:size value="12.450705"></viz:size>
+        <viz:position x="667.1643" y="-591.59875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="power companies of estonia">
+        <viz:size value="12.450705"></viz:size>
+        <viz:position x="1269.7778" y="-806.87976"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="combined heat and power plants in russia">
+        <viz:size value="12.450705"></viz:size>
+        <viz:position x="-676.73804" y="-540.01385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="power companies of the republic of ireland">
+        <viz:size value="12.450705"></viz:size>
+        <viz:position x="-0.31109703" y="986.4362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="power companies of the czech republic">
+        <viz:size value="12.450705"></viz:size>
+        <viz:position x="812.1171" y="1011.6808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="power companies of south korea">
+        <viz:size value="12.450705"></viz:size>
+        <viz:position x="788.4072" y="-1282.5199"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="hydroelectric power plants in massachusetts">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="-604.89984" y="304.8722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="power companies of hong kong">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="1242.295" y="-366.49884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="power companies of bulgaria">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="249.90253" y="-54.35055"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="power companies of thailand">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="-431.2814" y="1009.13275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="power companies of denmark">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="984.5023" y="-1160.9705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="power companies of zambia">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="-815.1458" y="711.4669"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="power ranger teams">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="-1248.167" y="-383.07657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="hydroelectric power plants in vermont">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="1129.5814" y="695.43915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="power companies of kazakhstan">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="33.689938" y="311.66074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="power companies of argentina">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="1471.5891" y="31.267225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="power companies of portugal">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="1370.5978" y="-621.9346"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="power districts in nebraska">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="206.89478" y="-1030.345"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="former hydroelectric power plants in the united states">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="-1155.7736" y="-156.80072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="hydroelectric power plants in connecticut">
+        <viz:size value="8.901409"></viz:size>
+        <viz:position x="-1213.1744" y="-877.5608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="combined heat and power plants in wales">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-614.15344" y="86.75904"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="hydroelectric power plants in ohio">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-380.01892" y="-913.412"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="power companies in france">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="778.1137" y="-780.7455"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="hydroelectric power plants in missouri">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1000.8432" y="-800.28766"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="power companies of uruguay">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="471.18198" y="231.19681"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="power companies of indonesia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-300.1794" y="-687.891"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="hydroelectric power plants in new hampshire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="974.7986" y="855.2004"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="combined heat and power plants in australia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-156.93735" y="169.3096"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="minister of power">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="492.1429" y="465.12814"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="power companies of benin">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="213.02557" y="1043.4554"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="hydroelectric power plants in illinois">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1289.5181" y="71.39389"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="power companies of sri lanka">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1084.5262" y="-184.40219"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="power companies of the faroe islands">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-219.8758" y="374.7764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="geothermal power in saba">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1439.8551" y="442.1429"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="geothermal power in dominica">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="484.8583" y="1387.6487"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="new power party politicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-357.6653" y="1468.0754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="hydroelectric power plants in indiana">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="550.4172" y="708.61273"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="hydroelectric power plants in iowa">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1131.08" y="-610.0621"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="hydroelectric power plants in hawaii">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-735.4206" y="491.2023"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="geothermal power in canada">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-253.85027" y="-1308.7395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="power companies of zimbabwe">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1062.5258" y="708.2005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="combined heat and power plants in ukraine">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="56.112087" y="-158.64491"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="proposed hydroelectric power plants in the united states">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-442.09152" y="456.76547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="hydroelectric power plants in maryland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-666.40314" y="-1112.0637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="geothermal power in the united kingdom">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1511.024" y="-191.80801"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="hydroelectric power plants in nevada">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-445.582" y="-1152.4628"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="geothermal power in saint kitts and nevis">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1490.8307" y="224.02202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="power companies of peru">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1256.1158" y="80.40184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="power companies of saba">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1525.9723" y="-3.6703837"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="hydroelectric power plants in new jersey">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-398.29532" y="227.2058"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="power companies of saint kitts and nevis">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="633.4376" y="1165.56"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="geothermal power in australia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="928.76263" y="603.5156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="power companies of dominica">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="697.9487" y="1358.6902"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="power companies of togo">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="371.40765" y="882.75726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="hydroelectric power plants in nebraska">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1416.3549" y="-510.598"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="88.0"></edge>
+      <edge id="1" source="0" target="2" weight="75.0"></edge>
+      <edge id="2" source="3" target="4" weight="60.0"></edge>
+      <edge id="3" source="5" target="6" weight="41.0"></edge>
+      <edge id="4" source="0" target="7" weight="41.0"></edge>
+      <edge id="5" source="8" target="6" weight="23.0"></edge>
+      <edge id="6" source="9" target="0" weight="19.0"></edge>
+      <edge id="7" source="0" target="10" weight="16.0"></edge>
+      <edge id="8" source="0" target="11" weight="14.0"></edge>
+      <edge id="9" source="12" target="0" weight="13.0"></edge>
+      <edge id="10" source="11" target="13" weight="12.0"></edge>
+      <edge id="11" source="3" target="14" weight="12.0"></edge>
+      <edge id="12" source="15" target="3" weight="12.0"></edge>
+      <edge id="13" source="16" target="17" weight="11.0"></edge>
+      <edge id="14" source="0" target="18" weight="11.0"></edge>
+      <edge id="15" source="0" target="19" weight="9.0"></edge>
+      <edge id="16" source="20" target="21" weight="8.0"></edge>
+      <edge id="17" source="22" target="0" weight="7.0"></edge>
+      <edge id="18" source="0" target="23" weight="7.0"></edge>
+      <edge id="19" source="24" target="3" weight="6.0"></edge>
+      <edge id="20" source="9" target="6" weight="6.0"></edge>
+      <edge id="21" source="0" target="25" weight="6.0"></edge>
+      <edge id="22" source="3" target="26" weight="6.0"></edge>
+      <edge id="23" source="6" target="27" weight="5.0"></edge>
+      <edge id="24" source="0" target="28" weight="5.0"></edge>
+      <edge id="25" source="29" target="30" weight="5.0"></edge>
+      <edge id="26" source="31" target="32" weight="5.0"></edge>
+      <edge id="27" source="33" target="0" weight="5.0"></edge>
+      <edge id="28" source="34" target="0" weight="4.0"></edge>
+      <edge id="29" source="0" target="35" weight="4.0"></edge>
+      <edge id="30" source="3" target="36" weight="4.0"></edge>
+      <edge id="31" source="0" target="37" weight="4.0"></edge>
+      <edge id="32" source="38" target="30" weight="4.0"></edge>
+      <edge id="33" source="0" target="39" weight="4.0"></edge>
+      <edge id="34" source="6" target="40" weight="3.0"></edge>
+      <edge id="35" source="41" target="42" weight="3.0"></edge>
+      <edge id="36" source="43" target="44" weight="3.0"></edge>
+      <edge id="37" source="45" target="46" weight="3.0"></edge>
+      <edge id="38" source="41" target="47" weight="3.0"></edge>
+      <edge id="39" source="48" target="13" weight="3.0"></edge>
+      <edge id="40" source="0" target="49" weight="3.0"></edge>
+      <edge id="41" source="3" target="50" weight="3.0"></edge>
+      <edge id="42" source="3" target="51" weight="3.0"></edge>
+      <edge id="43" source="13" target="52" weight="2.0"></edge>
+      <edge id="44" source="0" target="53" weight="2.0"></edge>
+      <edge id="45" source="18" target="3" weight="2.0"></edge>
+      <edge id="46" source="54" target="55" weight="2.0"></edge>
+      <edge id="47" source="0" target="56" weight="2.0"></edge>
+      <edge id="48" source="10" target="57" weight="2.0"></edge>
+      <edge id="49" source="6" target="42" weight="2.0"></edge>
+      <edge id="50" source="6" target="18" weight="2.0"></edge>
+      <edge id="51" source="58" target="59" weight="2.0"></edge>
+      <edge id="52" source="6" target="60" weight="2.0"></edge>
+      <edge id="53" source="3" target="61" weight="2.0"></edge>
+      <edge id="54" source="62" target="5" weight="2.0"></edge>
+      <edge id="55" source="13" target="63" weight="2.0"></edge>
+      <edge id="56" source="6" target="64" weight="2.0"></edge>
+      <edge id="57" source="65" target="3" weight="2.0"></edge>
+      <edge id="58" source="66" target="59" weight="2.0"></edge>
+      <edge id="59" source="67" target="68" weight="2.0"></edge>
+      <edge id="60" source="69" target="70" weight="2.0"></edge>
+      <edge id="61" source="3" target="71" weight="2.0"></edge>
+      <edge id="62" source="72" target="0" weight="2.0"></edge>
+      <edge id="63" source="61" target="6" weight="2.0"></edge>
+      <edge id="64" source="36" target="73" weight="2.0"></edge>
+      <edge id="65" source="29" target="74"></edge>
+      <edge id="66" source="0" target="75"></edge>
+      <edge id="67" source="76" target="13"></edge>
+      <edge id="68" source="77" target="78"></edge>
+      <edge id="69" source="79" target="80"></edge>
+      <edge id="70" source="81" target="82"></edge>
+      <edge id="71" source="83" target="13"></edge>
+      <edge id="72" source="84" target="85"></edge>
+      <edge id="73" source="86" target="87"></edge>
+      <edge id="74" source="88" target="89"></edge>
+      <edge id="75" source="90" target="41"></edge>
+      <edge id="76" source="91" target="92"></edge>
+      <edge id="77" source="82" target="6"></edge>
+      <edge id="78" source="3" target="93"></edge>
+      <edge id="79" source="94" target="33"></edge>
+      <edge id="80" source="36" target="95"></edge>
+      <edge id="81" source="96" target="85"></edge>
+      <edge id="82" source="97" target="98"></edge>
+      <edge id="83" source="29" target="99"></edge>
+      <edge id="84" source="100" target="3"></edge>
+      <edge id="85" source="0" target="101"></edge>
+      <edge id="86" source="102" target="8"></edge>
+      <edge id="87" source="103" target="104"></edge>
+      <edge id="88" source="9" target="105"></edge>
+      <edge id="89" source="106" target="107"></edge>
+      <edge id="90" source="108" target="107"></edge>
+      <edge id="91" source="109" target="6"></edge>
+      <edge id="92" source="110" target="13"></edge>
+      <edge id="93" source="6" target="111"></edge>
+      <edge id="94" source="0" target="112"></edge>
+      <edge id="95" source="0" target="85"></edge>
+      <edge id="96" source="113" target="0"></edge>
+      <edge id="97" source="114" target="115"></edge>
+      <edge id="98" source="6" target="116"></edge>
+      <edge id="99" source="117" target="6"></edge>
+      <edge id="100" source="100" target="118"></edge>
+      <edge id="101" source="0" target="119"></edge>
+      <edge id="102" source="120" target="94"></edge>
+      <edge id="103" source="121" target="3"></edge>
+      <edge id="104" source="29" target="122"></edge>
+      <edge id="105" source="34" target="6"></edge>
+      <edge id="106" source="123" target="3"></edge>
+      <edge id="107" source="124" target="3"></edge>
+      <edge id="108" source="125" target="0"></edge>
+      <edge id="109" source="126" target="41"></edge>
+      <edge id="110" source="127" target="128"></edge>
+      <edge id="111" source="123" target="41"></edge>
+      <edge id="112" source="106" target="3"></edge>
+      <edge id="113" source="0" target="129"></edge>
+      <edge id="114" source="13" target="130"></edge>
+      <edge id="115" source="13" target="131"></edge>
+      <edge id="116" source="132" target="133"></edge>
+      <edge id="117" source="0" target="134"></edge>
+      <edge id="118" source="135" target="136"></edge>
+      <edge id="119" source="30" target="137"></edge>
+      <edge id="120" source="102" target="55"></edge>
+      <edge id="121" source="123" target="78"></edge>
+      <edge id="122" source="81" target="40"></edge>
+      <edge id="123" source="138" target="139"></edge>
+      <edge id="124" source="0" target="140"></edge>
+      <edge id="125" source="141" target="142"></edge>
+      <edge id="126" source="0" target="143"></edge>
+      <edge id="127" source="0" target="144"></edge>
+      <edge id="128" source="145" target="5"></edge>
+      <edge id="129" source="146" target="142"></edge>
+      <edge id="130" source="0" target="147"></edge>
+      <edge id="131" source="3" target="148"></edge>
+      <edge id="132" source="149" target="150"></edge>
+      <edge id="133" source="151" target="152"></edge>
+      <edge id="134" source="153" target="3"></edge>
+      <edge id="135" source="86" target="0"></edge>
+      <edge id="136" source="154" target="155"></edge>
+      <edge id="137" source="156" target="41"></edge>
+      <edge id="138" source="132" target="157"></edge>
+      <edge id="139" source="158" target="6"></edge>
+      <edge id="140" source="159" target="89"></edge>
+      <edge id="141" source="0" target="160"></edge>
+      <edge id="142" source="3" target="161"></edge>
+      <edge id="143" source="162" target="0"></edge>
+      <edge id="144" source="29" target="163"></edge>
+      <edge id="145" source="164" target="165"></edge>
+      <edge id="146" source="3" target="166"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="6" label="peerages of the united kingdom">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-422.748" y="-296.49963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="peerage of england">
+        <viz:size value="93.36545"></viz:size>
+        <viz:position x="252.08429" y="450.60104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="peerage of ireland">
+        <viz:size value="92.66177"></viz:size>
+        <viz:position x="0.15029301" y="-0.044106457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="peerage of great britain">
+        <viz:size value="80.39791"></viz:size>
+        <viz:position x="-195.54352" y="477.90225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="peerage of scotland">
+        <viz:size value="65.92251"></viz:size>
+        <viz:position x="383.16702" y="-346.1243"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="jacobite peerages">
+        <viz:size value="46.72251"></viz:size>
+        <viz:position x="509.43344" y="84.24116"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="european peerage">
+        <viz:size value="14.052356"></viz:size>
+        <viz:position x="-31.325298" y="-515.3703"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="new zealand recipients of a british peerage">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-495.2182" y="145.29376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="8.0"></edge>
+      <edge id="1" source="2" target="3"></edge>
+      <edge id="2" source="4" target="5"></edge>
+      <edge id="3" source="4" target="6"></edge>
+    </edges>
+  </graph>
+</gexf>

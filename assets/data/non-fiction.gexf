@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="non-fiction writers">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="435.1849" y="276.8609"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="non-fiction books">
+        <viz:size value="86.6959"></viz:size>
+        <viz:position x="-1.1770482" y="-1.893341"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="non-fiction literature">
+        <viz:size value="47.070786"></viz:size>
+        <viz:position x="-366.17203" y="364.11536"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="non-fiction novels">
+        <viz:size value="34.532402"></viz:size>
+        <viz:position x="-272.725" y="-438.76987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="pulitzer prize for general non-fiction winners">
+        <viz:size value="33.19242"></viz:size>
+        <viz:position x="488.58444" y="-167.17381"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="non-fiction genres">
+        <viz:size value="23.621136"></viz:size>
+        <viz:position x="55.63044" y="512.77966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="hugo award for best non-fiction book winning works">
+        <viz:size value="8.881355"></viz:size>
+        <viz:position x="173.52426" y="-486.27338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="intersex in non-fiction">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-512.8501" y="-59.64562"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="13.0"></edge>
+      <edge id="1" source="2" target="3" weight="10.0"></edge>
+      <edge id="2" source="4" target="1" weight="3.0"></edge>
+      <edge id="3" source="5" target="3" weight="2.0"></edge>
+      <edge id="4" source="4" target="6" weight="2.0"></edge>
+      <edge id="5" source="7" target="3"></edge>
+    </edges>
+  </graph>
+</gexf>

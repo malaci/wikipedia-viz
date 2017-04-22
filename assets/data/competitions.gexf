@@ -1,0 +1,1969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="sports competitions">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-982.7601" y="177.39407"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="association football competitions">
+        <viz:size value="89.79791"></viz:size>
+        <viz:position x="-203.92088" y="-728.9412"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="cricket competitions">
+        <viz:size value="89.296165"></viz:size>
+        <viz:position x="1560.3416" y="-189.67256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="athletics competitions">
+        <viz:size value="86.78745"></viz:size>
+        <viz:position x="-950.1531" y="554.78284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="240" label="hockey competitions">
+        <viz:size value="81.770035"></viz:size>
+        <viz:position x="-44.912395" y="396.6452"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="198" label="volleyball competitions">
+        <viz:size value="79.177704"></viz:size>
+        <viz:position x="359.322" y="-1454.485"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="international basketball competitions">
+        <viz:size value="76.41812"></viz:size>
+        <viz:position x="1166.253" y="1118.0979"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="competitions in the united states">
+        <viz:size value="76.16725"></viz:size>
+        <viz:position x="-291.49872" y="854.8574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="rugby union competitions">
+        <viz:size value="71.31708"></viz:size>
+        <viz:position x="1384.9688" y="347.50732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="competitions in the united kingdom">
+        <viz:size value="70.56446"></viz:size>
+        <viz:position x="-1420.9985" y="-789.61743"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="handball competitions">
+        <viz:size value="70.480835"></viz:size>
+        <viz:position x="-1442.2275" y="395.0111"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="248" label="figure skating competitions">
+        <viz:size value="70.39721"></viz:size>
+        <viz:position x="819.6181" y="-215.36325"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="competitions in australia">
+        <viz:size value="69.14286"></viz:size>
+        <viz:position x="-1132.0295" y="1168.7283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="324" label="baseball competitions">
+        <viz:size value="68.223"></viz:size>
+        <viz:position x="576.4857" y="12.522024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="185" label="gymnastics competitions">
+        <viz:size value="67.47038"></viz:size>
+        <viz:position x="101.19573" y="533.07544"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="194" label="polo competitions">
+        <viz:size value="67.05226"></viz:size>
+        <viz:position x="245.58119" y="675.33295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="rugby league competitions">
+        <viz:size value="65.71429"></viz:size>
+        <viz:position x="-1509.4471" y="-1013.27466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="fencing competitions">
+        <viz:size value="65.37979"></viz:size>
+        <viz:position x="596.379" y="770.3537"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="curling competitions">
+        <viz:size value="65.21254"></viz:size>
+        <viz:position x="-858.0787" y="-5.977826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="music competitions">
+        <viz:size value="64.79443"></viz:size>
+        <viz:position x="267.8045" y="1606.4374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="308" label="sailing competitions">
+        <viz:size value="64.54355"></viz:size>
+        <viz:position x="401.59787" y="1305.3511"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="217" label="international competitions hosted by sweden">
+        <viz:size value="63.205574"></viz:size>
+        <viz:position x="587.4936" y="1504.514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="swimming competitions">
+        <viz:size value="62.620213"></viz:size>
+        <viz:position x="-1824.3231" y="40.092632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="competitions in london">
+        <viz:size value="62.034843"></viz:size>
+        <viz:position x="-834.8236" y="1352.8798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="competitions in canada">
+        <viz:size value="61.616726"></viz:size>
+        <viz:position x="-1097.3483" y="-539.82135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="running competitions">
+        <viz:size value="61.365856"></viz:size>
+        <viz:position x="-1653.0465" y="712.8776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="futsal competitions">
+        <viz:size value="61.365856"></viz:size>
+        <viz:position x="-386.10657" y="-1532.4226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="judo competitions">
+        <viz:size value="61.28223"></viz:size>
+        <viz:position x="-1163.4344" y="206.78088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="280" label="shooting competitions">
+        <viz:size value="61.114983"></viz:size>
+        <viz:position x="-1085.8348" y="-1236.2404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="motorsport competitions">
+        <viz:size value="60.69687"></viz:size>
+        <viz:position x="768.5322" y="1424.5464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="skiing competitions">
+        <viz:size value="60.445995"></viz:size>
+        <viz:position x="-278.19498" y="55.769817"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="competitions in germany">
+        <viz:size value="60.19512"></viz:size>
+        <viz:position x="1054.7158" y="-1111.9785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="competitions in england">
+        <viz:size value="59.944252"></viz:size>
+        <viz:position x="-1335.8138" y="1183.951"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="competitions in japan">
+        <viz:size value="59.19164"></viz:size>
+        <viz:position x="-853.39105" y="-196.3061"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="competitions in france">
+        <viz:size value="58.606274"></viz:size>
+        <viz:position x="-495.84683" y="-214.69435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="aquatics competitions">
+        <viz:size value="58.3554"></viz:size>
+        <viz:position x="-1661.1145" y="100.980225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="315" label="wrestling competitions">
+        <viz:size value="58.188156"></viz:size>
+        <viz:position x="622.8412" y="566.35626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="competitions in china">
+        <viz:size value="57.18467"></viz:size>
+        <viz:position x="-994.7518" y="-1067.0728"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="competitions in south korea">
+        <viz:size value="56.766552"></viz:size>
+        <viz:position x="-899.444" y="-1351.4816"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="competitions in sweden">
+        <viz:size value="56.599304"></viz:size>
+        <viz:position x="1207.7296" y="-324.431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="bodybuilding competitions">
+        <viz:size value="56.599304"></viz:size>
+        <viz:position x="748.2249" y="904.28375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="hurling competitions">
+        <viz:size value="56.599304"></viz:size>
+        <viz:position x="-949.4863" y="-1553.6061"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="rugby sevens competitions">
+        <viz:size value="56.348434"></viz:size>
+        <viz:position x="1279.0356" y="-508.96344"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="table tennis competitions">
+        <viz:size value="56.26481"></viz:size>
+        <viz:position x="-1267.9825" y="389.03677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="canoeing and kayaking competitions">
+        <viz:size value="55.84669"></viz:size>
+        <viz:position x="-791.9531" y="181.49515"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="233" label="competitions in scotland">
+        <viz:size value="55.512196"></viz:size>
+        <viz:position x="856.4187" y="293.12555"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="archery competitions">
+        <viz:size value="54.42509"></viz:size>
+        <viz:position x="-1521.795" y="211.27753"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="science competitions">
+        <viz:size value="54.341465"></viz:size>
+        <viz:position x="-569.0085" y="1689.2899"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="195" label="boxing competitions">
+        <viz:size value="54.09059"></viz:size>
+        <viz:position x="1108.432" y="-636.04504"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="rowing competitions">
+        <viz:size value="54.09059"></viz:size>
+        <viz:position x="-665.8948" y="38.707287"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="gaelic football competitions">
+        <viz:size value="54.09059"></viz:size>
+        <viz:position x="599.01263" y="1701.2139"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="competitions in ireland">
+        <viz:size value="54.00697"></viz:size>
+        <viz:position x="852.9086" y="-398.0767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="rally competitions">
+        <viz:size value="53.58885"></viz:size>
+        <viz:position x="790.48206" y="1233.3363"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="295" label="weightlifting competitions">
+        <viz:size value="52.585365"></viz:size>
+        <viz:position x="403.52652" y="826.79767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="competitions in india">
+        <viz:size value="51.916378"></viz:size>
+        <viz:position x="1499.7411" y="-9.70022"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="softball competitions">
+        <viz:size value="51.74913"></viz:size>
+        <viz:position x="-1338.9364" y="196.6481"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="281" label="spelling competitions">
+        <viz:size value="51.74913"></viz:size>
+        <viz:position x="411.64328" y="85.847855"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="singing competitions">
+        <viz:size value="51.080143"></viz:size>
+        <viz:position x="36.227768" y="1492.597"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="esports competitions">
+        <viz:size value="50.41115"></viz:size>
+        <viz:position x="-428.2614" y="-730.81714"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="230" label="competitions in russia">
+        <viz:size value="50.327526"></viz:size>
+        <viz:position x="152.34183" y="1047.3195"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="competitions in new york city">
+        <viz:size value="50.327526"></viz:size>
+        <viz:position x="-250.14265" y="614.2965"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="competitions in the netherlands">
+        <viz:size value="49.90941"></viz:size>
+        <viz:position x="-902.92834" y="891.64264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="karate competitions">
+        <viz:size value="49.65854"></viz:size>
+        <viz:position x="-1093.3239" y="405.9431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="298" label="triathlon competitions">
+        <viz:size value="49.407665"></viz:size>
+        <viz:position x="706.1087" y="165.16187"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="competitions in south africa">
+        <viz:size value="49.240417"></viz:size>
+        <viz:position x="-1366.1873" y="-331.20392"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="190" label="piano competitions">
+        <viz:size value="49.07317"></viz:size>
+        <viz:position x="64.442276" y="1298.2283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="263" label="college basketball competitions">
+        <viz:size value="49.07317"></viz:size>
+        <viz:position x="524.26697" y="-1002.85535"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="women s basketball competitions">
+        <viz:size value="48.8223"></viz:size>
+        <viz:position x="1430.894" y="862.76733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="mathematics competitions">
+        <viz:size value="48.32056"></viz:size>
+        <viz:position x="136.85626" y="326.22458"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="basketball competitions in europe">
+        <viz:size value="48.069687"></viz:size>
+        <viz:position x="1517.6724" y="507.43295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="competitions in finland">
+        <viz:size value="46.73171"></viz:size>
+        <viz:position x="3.8541403" y="930.52527"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="282" label="student quiz competitions">
+        <viz:size value="45.393726"></viz:size>
+        <viz:position x="526.9131" y="240.00717"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="county cup competitions">
+        <viz:size value="45.059235"></viz:size>
+        <viz:position x="-909.1905" y="1540.8365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="surfing competitions">
+        <viz:size value="44.641117"></viz:size>
+        <viz:position x="-1069.9987" y="1453.4078"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="293" label="dance competitions">
+        <viz:size value="43.721256"></viz:size>
+        <viz:position x="815.80554" y="505.0606"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="basketball competitions between national teams">
+        <viz:size value="43.721256"></viz:size>
+        <viz:position x="1272.3441" y="961.42694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="206" label="robotics competitions">
+        <viz:size value="43.55401"></viz:size>
+        <viz:position x="-599.1876" y="1350.5565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="competitions in turkey">
+        <viz:size value="43.052265"></viz:size>
+        <viz:position x="-1026.8622" y="-148.23949"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="netball competitions">
+        <viz:size value="42.801395"></viz:size>
+        <viz:position x="-1071.0826" y="18.0638"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="strongmen competitions">
+        <viz:size value="42.048782"></viz:size>
+        <viz:position x="-1206.5652" y="-190.74574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="debating competitions">
+        <viz:size value="41.79791"></viz:size>
+        <viz:position x="265.08615" y="-1802.1903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="competitions in belgium">
+        <viz:size value="41.54704"></viz:size>
+        <viz:position x="-752.0014" y="1202.1433"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="youth football competitions">
+        <viz:size value="41.29617"></viz:size>
+        <viz:position x="-120.72092" y="-1068.2207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="taekwondo competitions">
+        <viz:size value="40.45993"></viz:size>
+        <viz:position x="-489.6911" y="-32.773777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="236" label="competitions in hong kong">
+        <viz:size value="40.12544"></viz:size>
+        <viz:position x="757.17035" y="-729.14703"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="ski jumping competitions">
+        <viz:size value="39.874565"></viz:size>
+        <viz:position x="-106.7178" y="4.274001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="european athletic association competitions">
+        <viz:size value="38.536587"></viz:size>
+        <viz:position x="-729.74866" y="591.73615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="255" label="competitions in ukraine">
+        <viz:size value="38.536587"></viz:size>
+        <viz:position x="-206.25911" y="1805.6321"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="310" label="aviation competitions and awards">
+        <viz:size value="38.20209"></viz:size>
+        <viz:position x="-322.53165" y="1404.4269"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="322" label="international track and field competitions hosted by the united states">
+        <viz:size value="37.783974"></viz:size>
+        <viz:position x="226.10785" y="874.78986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="234" label="competitions in serbia">
+        <viz:size value="37.783974"></viz:size>
+        <viz:position x="-140.38602" y="-1801.1337"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="football competitions in baden-wurttemberg">
+        <viz:size value="37.44948"></viz:size>
+        <viz:position x="1238.676" y="-1044.292"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="215" label="asian football confederation competitions">
+        <viz:size value="37.031357"></viz:size>
+        <viz:position x="368.32214" y="-1269.8137"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="basketball competitions in asia">
+        <viz:size value="37.031357"></viz:size>
+        <viz:position x="1082.863" y="949.4735"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="geography awards and competitions">
+        <viz:size value="36.696865"></viz:size>
+        <viz:position x="228.87276" y="149.69164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="international track and field competitions hosted by canada">
+        <viz:size value="35.860626"></viz:size>
+        <viz:position x="-1057.4651" y="-727.3867"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="starcraft competitions">
+        <viz:size value="35.860626"></viz:size>
+        <viz:position x="-860.8394" y="-1172.071"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="league of legends competitions">
+        <viz:size value="35.860626"></viz:size>
+        <viz:position x="-754.7456" y="-993.77905"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="orienteering competitions">
+        <viz:size value="35.358887"></viz:size>
+        <viz:position x="71.388214" y="-25.106895"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="football competitions in saxony">
+        <viz:size value="35.358887"></viz:size>
+        <viz:position x="889.57245" y="-1130.0857"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="football competitions in rhineland-palatinate">
+        <viz:size value="35.358887"></viz:size>
+        <viz:position x="1323.3562" y="-1205.4523"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="violin competitions">
+        <viz:size value="35.358887"></viz:size>
+        <viz:position x="-173.59325" y="1012.6519"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="conmebol competitions">
+        <viz:size value="35.358887"></viz:size>
+        <viz:position x="-607.37384" y="-759.47614"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="220" label="uefa competitions">
+        <viz:size value="34.940765"></viz:size>
+        <viz:position x="135.46507" y="-1658.3289"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="concacaf competitions">
+        <viz:size value="34.940765"></viz:size>
+        <viz:position x="-571.61017" y="-1511.2482"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="iaaf competitions">
+        <viz:size value="34.439026"></viz:size>
+        <viz:position x="-1388.2891" y="906.15674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="gliding competitions">
+        <viz:size value="34.439026"></viz:size>
+        <viz:position x="243.05815" y="1207.9441"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="football competitions in hesse">
+        <viz:size value="34.439026"></viz:size>
+        <viz:position x="1450.8647" y="-1074.3136"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="snooker amateur competitions">
+        <viz:size value="33.43554"></viz:size>
+        <viz:position x="-1334.9598" y="-943.6011"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="opera competitions">
+        <viz:size value="33.43554"></viz:size>
+        <viz:position x="31.989464" y="1814.4094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="football competitions in north rhine-westphalia">
+        <viz:size value="33.43554"></viz:size>
+        <viz:position x="1175.6057" y="-826.2011"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="competitions in bulgaria">
+        <viz:size value="32.9338"></viz:size>
+        <viz:position x="542.4955" y="956.18585"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="kabaddi competitions">
+        <viz:size value="32.348434"></viz:size>
+        <viz:position x="-1253.6652" y="5.896936"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="football competitions in brazil">
+        <viz:size value="31.76307"></viz:size>
+        <viz:position x="1791.6743" y="-186.10976"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="football competitions hosted by london">
+        <viz:size value="31.76307"></viz:size>
+        <viz:position x="-569.44806" y="-941.71454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="222" label="beach soccer competitions">
+        <viz:size value="31.1777"></viz:size>
+        <viz:position x="168.53488" y="-1113.8928"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="football competitions in portugal">
+        <viz:size value="31.1777"></viz:size>
+        <viz:position x="-510.81335" y="-1704.7598"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="203" label="football competitions in saarland">
+        <viz:size value="31.1777"></viz:size>
+        <viz:position x="1051.6101" y="-936.79956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="korfball competitions">
+        <viz:size value="31.1777"></viz:size>
+        <viz:position x="-1339.8446" y="574.7678"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="302" label="union of arab football associations competitions">
+        <viz:size value="30.508713"></viz:size>
+        <viz:position x="394.57025" y="-862.9719"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="skateboarding competitions">
+        <viz:size value="29.839724"></viz:size>
+        <viz:position x="-322.25943" y="264.67123"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="193" label="competitions in the soviet union">
+        <viz:size value="29.839724"></viz:size>
+        <viz:position x="69.38203" y="754.03296"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="180" label="engineering competitions">
+        <viz:size value="29.839724"></viz:size>
+        <viz:position x="-438.37988" y="1260.5326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="barla competitions">
+        <viz:size value="29.839724"></viz:size>
+        <viz:position x="-1599.6261" y="-841.3923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="fifa competitions">
+        <viz:size value="29.839724"></viz:size>
+        <viz:position x="-188.54083" y="-1236.5321"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="non-fifa football competitions">
+        <viz:size value="29.839724"></viz:size>
+        <viz:position x="-17.7164" y="-1391.9335"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="snowboarding competitions">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="-448.81805" y="358.87012"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="219" label="confederation of african football competitions for national teams">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="-40.42263" y="-1598.4203"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="scrabble competitions">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="-1245.2727" y="-716.20245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="229" label="international football competitions hosted by finland">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="219.73492" y="-925.1466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="174" label="pool competitions">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="-1155.4377" y="583.3515"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="football competitions in schleswig-holstein">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="852.5353" y="-930.35535"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="320" label="finswimming competitions">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="-440.66776" y="550.7338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="basketball competitions in africa">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="1357.6268" y="1167.9253"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="214" label="oceania football confederation competitions">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="539.92163" y="-1199.4114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="189" label="competitions in israel">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="-149.65578" y="1486.765"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="snooker non-ranking competitions">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="-1072.0475" y="944.7274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="football competitions in malta">
+        <viz:size value="29.087109"></viz:size>
+        <viz:position x="897.9457" y="-578.0874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="307" label="camogie competitions">
+        <viz:size value="28.334496"></viz:size>
+        <viz:position x="-696.1327" y="-1684.1913"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="football competitions in nepal">
+        <viz:size value="28.334496"></viz:size>
+        <viz:position x="-165.15553" y="-528.3793"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="world rugby competitions">
+        <viz:size value="28.334496"></viz:size>
+        <viz:position x="1310.5618" y="-680.22156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="218" label="business competitions">
+        <viz:size value="28.334496"></viz:size>
+        <viz:position x="-679.2959" y="1495.5244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="robot soccer competitions">
+        <viz:size value="27.498259"></viz:size>
+        <viz:position x="966.66077" y="643.0082"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="biathlon competitions">
+        <viz:size value="27.498259"></viz:size>
+        <viz:position x="32.40495" y="164.31592"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="college football competitions">
+        <viz:size value="27.498259"></viz:size>
+        <viz:position x="-1447.4556" y="33.475563"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="285" label="football competitions in estonia">
+        <viz:size value="27.498259"></viz:size>
+        <viz:position x="1479.3916" y="-741.6873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="246" label="international football competitions hosted by denmark">
+        <viz:size value="27.498259"></viz:size>
+        <viz:position x="349.44485" y="-680.24963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="racewalking competitions">
+        <viz:size value="27.498259"></viz:size>
+        <viz:position x="-696.6435" y="847.5837"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="226" label="football competitions in thailand">
+        <viz:size value="27.498259"></viz:size>
+        <viz:position x="-37.215652" y="-795.6879"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="football competitions in hamburg">
+        <viz:size value="27.498259"></viz:size>
+        <viz:position x="734.21906" y="-1246.7064"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="basketball competitions in spain">
+        <viz:size value="27.498259"></viz:size>
+        <viz:position x="1682.9639" y="653.671"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="competitions in belarus">
+        <viz:size value="26.578398"></viz:size>
+        <viz:position x="-241.63109" y="423.4348"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="181" label="film competitions">
+        <viz:size value="26.578398"></viz:size>
+        <viz:position x="-790.11633" y="-793.13794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="177" label="racquetball competitions">
+        <viz:size value="26.578398"></viz:size>
+        <viz:position x="-1550.1392" y="-252.58472"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="football competitions in berlin">
+        <viz:size value="26.578398"></viz:size>
+        <viz:position x="899.62665" y="-1359.5801"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="209" label="conducting competitions">
+        <viz:size value="26.578398"></viz:size>
+        <viz:position x="-566.01587" y="1128.3331"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="football competitions in gozo">
+        <viz:size value="26.578398"></viz:size>
+        <viz:position x="699.26666" y="-549.7586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="modern pentathlon competitions">
+        <viz:size value="26.578398"></viz:size>
+        <viz:position x="-859.38116" y="714.7326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="196" label="celebrity competitions">
+        <viz:size value="26.578398"></viz:size>
+        <viz:position x="1063.366" y="-462.5709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="brazilian jiu-jitsu competitions">
+        <viz:size value="26.578398"></viz:size>
+        <viz:position x="-1626.6989" y="356.1977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="284" label="competitions in taiwan">
+        <viz:size value="25.574913"></viz:size>
+        <viz:position x="7.8756943" y="-1209.8698"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="241" label="len competitions">
+        <viz:size value="25.574913"></viz:size>
+        <viz:position x="-1751.6027" y="494.96964"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="197" label="cheerleading competitions">
+        <viz:size value="25.574913"></viz:size>
+        <viz:position x="921.869" y="835.85626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="football competitions in bremen">
+        <viz:size value="25.574913"></viz:size>
+        <viz:position x="717.9677" y="-1056.7045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="competitions in jamaica">
+        <viz:size value="25.574913"></viz:size>
+        <viz:position x="-1052.3301" y="738.9659"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="249" label="synchronized skating competitions">
+        <viz:size value="25.574913"></viz:size>
+        <viz:position x="964.06506" y="-86.82648"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="245" label="dota 2 competitions">
+        <viz:size value="24.57143"></viz:size>
+        <viz:position x="-128.26549" y="783.8009"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="quidditch competitions">
+        <viz:size value="24.57143"></viz:size>
+        <viz:position x="-1688.0016" y="-666.5051"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="172" label="basketball competitions in the philippines">
+        <viz:size value="24.57143"></viz:size>
+        <viz:position x="1614.2513" y="854.1839"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="204" label="football cup competitions in spain">
+        <viz:size value="24.57143"></viz:size>
+        <viz:position x="422.614" y="-132.87045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="irish senior rugby competitions">
+        <viz:size value="24.57143"></viz:size>
+        <viz:position x="1443.12" y="173.00505"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="292" label="ballet competitions">
+        <viz:size value="23.400698"></viz:size>
+        <viz:position x="776.0198" y="694.8954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="306" label="aff competitions">
+        <viz:size value="23.400698"></viz:size>
+        <viz:position x="-195.80072" y="-1451.9272"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="213" label="football competitions in the philippines">
+        <viz:size value="23.400698"></viz:size>
+        <viz:position x="-494.2957" y="-1129.4916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="171" label="match racing competitions">
+        <viz:size value="23.400698"></viz:size>
+        <viz:position x="1019.63336" y="-275.50128"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="basketball competitions in south america">
+        <viz:size value="23.400698"></viz:size>
+        <viz:position x="1298.9834" y="743.6225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="250" label="dancesport competitions">
+        <viz:size value="23.400698"></viz:size>
+        <viz:position x="-1200.4761" y="-1078.9111"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="311" label="unaf competitions">
+        <viz:size value="23.400698"></viz:size>
+        <viz:position x="-350.75378" y="-1777.2626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="ski mountaineering competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="-133.22435" y="219.21837"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="combined events competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="-626.2971" y="252.21684"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="football competitions in brandenburg">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="1049.5264" y="-1466.1803"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="intellectual competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="343.9656" y="294.77322"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="253" label="gaelic athletic association competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="-675.31476" y="-149.76883"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="physics competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="-314.1129" y="1618.6863"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="bmx competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="-313.79816" y="-132.4056"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="290" label="lifesaving competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="-927.7372" y="347.3826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="nacac competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="-1436.9058" y="729.63135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="robot combat competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="1136.2471" y="567.0222"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="football competitions in mecklenburg-vorpommern">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="747.65454" y="-1440.2598"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="snooker competitions in wales">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="-996.8945" y="1279.3248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="179" label="fireworks competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="-1149.1349" y="-897.2423"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="military excellence competitions">
+        <viz:size value="22.146343"></viz:size>
+        <viz:position x="-1260.2744" y="-1309.0363"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="leinster inter-county football competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="761.3431" y="1630.8158"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="basketball competitions in portugal">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="1736.3885" y="473.3156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="international aquatics competitions hosted by the united states">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="-374.95657" y="1043.0874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="aerobatic competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="354.18082" y="1044.4745"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="football competitions in rio grande do sul">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="1776.9884" y="-357.58643"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="262" label="ncaa division i men s basketball conference competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="357.06018" y="-1079.1246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="football competitions in northern cyprus">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="180.62129" y="-1309.8564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="cecafa competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="29.175655" y="-963.8827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="314" label="international minifootball competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="-475.6652" y="139.25217"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="208" label="environmental sciences awards and competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="-478.5763" y="1514.1517"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="303" label="football competitions in tahiti">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="-236.78374" y="-323.4418"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="fitness and figure competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="694.1334" y="1083.5645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="221" label="wheelchair rugby competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="-601.1805" y="450.71283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="211" label="ultimate competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="-945.29175" y="-886.24164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="football competitions in saxony-anhalt">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="1208.2905" y="-1342.2428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="gaelic games competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="-778.0124" y="-1534.4972"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="football cup competitions in kuwait">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="-232.45839" y="-1637.3528"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="public speaking competitions">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="45.061363" y="-1812.3535"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="basketball competitions in north america">
+        <viz:size value="20.72474"></viz:size>
+        <viz:position x="1134.2341" y="770.2932"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="294" label="powerlifting competitions">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="435.65674" y="637.8075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="warcraft competitions">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="-677.5464" y="-1162.6545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="317" label="football competitions in botswana">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="538.57416" y="-696.4628"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="296" label="language competitions">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="-1092.1466" y="-1420.871"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="247" label="indoor soccer competitions">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="-517.829" y="933.64874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="216" label="ifaf competitions">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="601.6441" y="1315.7494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="275" label="football cup competitions in latvia">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="1507.3113" y="-554.2649"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="223" label="puzzle competitions">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="-334.48312" y="-1100.5477"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="football competitions in thuringia">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="1054.7103" y="-1257.5549"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="football competitions in new caledonia">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="-122.900955" y="-184.957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="fai cup competitions">
+        <viz:size value="19.135887"></viz:size>
+        <viz:position x="659.4544" y="-365.2575"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="guitar competitions">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="105.2917" y="1662.3732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="munster gaa inter-county football competitions">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="267.65982" y="1802.394"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="football competitions in indonesia">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="-211.18498" y="-917.54626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="connacht gaa inter-county football competitions">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="927.2827" y="1555.2781"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="244" label="trivia competitions">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="-30.526543" y="1126.633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="ulster inter-county football competitions">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="434.79944" y="1725.2125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="187" label="football competitions in the maldives">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="186.51872" y="-581.2396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="304" label="eaff competitions">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="127.684006" y="-407.61694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="military skills competitions">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="-1371.8696" y="-1156.2075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="212" label="touch competitions">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="-1232.263" y="766.1174"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="257" label="football competitions in rio de janeiro">
+        <viz:size value="17.212543"></viz:size>
+        <viz:position x="466.44122" y="-318.85565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="264" label="all-ireland soccer competitions">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="-1512.777" y="-623.6334"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="192" label="mental-skill competitions">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="253.80533" y="-39.73646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="football competitions in martinique">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="-336.0171" y="-576.1708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="183" label="catalan football competitions">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="1103.4429" y="54.27511"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="high jump competitions">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="-774.8813" y="414.07748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="232" label="edinburgh football competitions">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="905.9172" y="106.75173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="university and college soccer competitions">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="-1521.5654" y="-449.79272"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="273" label="football cup competitions in the faroe islands">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="1167.2261" y="-132.34326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="252" label="equestrian competitions in brazil">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="-1201.4663" y="-388.687"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="227" label="counter-strike competitions">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="-713.1878" y="-1346.3406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="football cup competitions in lithuania">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="1659.1895" y="-713.54865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="football cup competitions in cyprus">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="1408.5325" y="-375.8279"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="173" label="football competitions in barbados">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="-1027.2246" y="-329.1449"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="basketball competitions in morocco">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="1234.634" y="1305.6456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="272" label="football cup competitions in bosnia and herzegovina">
+        <viz:size value="15.038327"></viz:size>
+        <viz:position x="542.03516" y="-1572.7732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="women s football competitions in cyprus">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="1366.168" y="-192.91669"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="260" label="football competitions in honduras">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="620.9487" y="-176.9363"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="287" label="football cup competitions in denmark">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="150.74837" y="-760.44586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="team combination track and field competitions">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="-426.24545" y="754.24634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="238" label="football competitions in pakistan">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="-390.1059" y="-909.1585"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="basketball competitions in oceania">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="1475.814" y="1042.1047"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="319" label="basketball competitions in yugoslavia">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="1781.688" y="288.89856"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="288" label="songwriting competitions">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="220.90802" y="1413.2246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="309" label="tall ships competitions">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="508.62656" y="1152.6716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="football competitions in guadeloupe">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="-531.6582" y="-554.4142"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="skeleton competitions">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="1053.7028" y="247.60674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="242" label="football competitions in the british virgin islands">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="-259.68283" y="1187.931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="313" label="cadica competitions">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="-1481.8784" y="1055.7666"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="321" label="grappling competitions">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="-894.55646" y="-644.72546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="276" label="horticultural competitions">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="-1328.5404" y="-559.51843"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="football competitions in alsace-lorraine">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="1359.0623" y="-905.4154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="bobsleigh competitions">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="997.0344" y="430.4632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="210" label="football competitions in french guiana">
+        <viz:size value="12.36237"></viz:size>
+        <viz:position x="-587.48553" y="-375.03946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="254" label="equestrian competitions in argentina">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="-1543.9915" y="548.835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="269" label="forecasting competitions">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="-410.95728" y="1769.001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="186" label="trampoline competitions">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="285.62173" y="481.71326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="259" label="football competitions in costa rica">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="763.94617" y="-31.179525"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="228" label="football competitions in minas gerais">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="1716.3112" y="-532.4228"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="football competitions in reunion">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="-393.10788" y="-393.03314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="305" label="sudoku competitions">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="-520.3699" y="-1322.2797"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="175" label="football competitions in pomerania">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="881.1486" y="-1581.3903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="267" label="snooker pro-am competitions">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="-1227.4412" y="1339.3308"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="299" label="duathlon competitions">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="675.1018" y="365.966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="women s football competitions in lithuania">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="1574.328" y="-905.0888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="279" label="nordic combined competitions">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="67.377914" y="-204.82358"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="184" label="women s football competitions in spain">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="1245.9989" y="181.44533"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="291" label="basketball competitions in angola">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="953.90955" y="1353.1113"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="205" label="basque football competitions">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="263.32657" y="-246.88544"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="crossword competitions">
+        <viz:size value="8.850175"></viz:size>
+        <viz:position x="-68.598854" y="595.7955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="200" label="harp competitions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="412.13263" y="1497.9395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="278" label="football competitions in east prussia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="558.829" y="-1391.8052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="football competitions in kolkata">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1639.6527" y="145.90732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="297" label="counter-strike competitions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-347.02777" y="-1331.9805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="300" label="football competitions in bonaire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1233.1124" y="1008.76013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="268" label="cacac competitions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1589.2286" y="877.9708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="265" label="competitions in yorkshire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1719.1547" y="-487.56558"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="176" label="basketball competitions in egypt">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1009.3961" y="1191.3738"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="243" label="basketball competitions in romania">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1498.9905" y="681.32837"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="256" label="card game competitions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1388.8079" y="-143.11156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="286" label="board games competitions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1595.6998" y="-79.58031"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="225" label="diving competitions in spain">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1754.9188" y="-311.11502"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="237" label="equestrian competitions in chile">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-761.3568" y="-346.6236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="diving competitions in italy">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1799.0295" y="264.86874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="diving competitions in brazil">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1792.1365" y="-146.89005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="266" label="football competitions in santa catarina">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1825.5044" y="71.76696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="323" label="football competitions in molepolole">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-45.637978" y="-389.93823"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="235" label="football competitions in macau">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="634.3655" y="-856.83606"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="274" label="women s football competitions in the faroe islands">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1307.7012" y="-4.181262"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="202" label="basketball competitions in singapore">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1110.0935" y="1430.397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="182" label="football competitions in silesia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="952.2661" y="-765.17883"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="188" label="boccia competitions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-595.1077" y="687.0913"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="312" label="women s football competitions in bosnia and herzegovina">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="502.41522" y="-1752.3726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="basketball competitions in croatia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1330.1956" y="551.28937"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="301" label="football competitions in mayotte">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-712.42426" y="-569.09576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="271" label="football competitions in republika srpska">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="349.39835" y="-1637.2318"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="289" label="basketball competitions in bosnia and herzegovina">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1589.3348" y="333.6103"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="231" label="football competitions in rio grande do norte">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1694.7384" y="-46.602608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="201" label="west african football union competitions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="0.37420592" y="-604.68445"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="283" label="ibsa competitions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-903.73206" y="-450.2333"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="277" label="football competitions in sint maarten">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-738.0424" y="1025.4718"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="270" label="football competitions in parana">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1595.0736" y="-367.78796"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="224" label="football competitions in west prussia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="704.57605" y="-1659.0878"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="239" label="cello competitions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-119.25674" y="1304.588"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="199" label="volleybal competitions in iran">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="165.69585" y="-1488.1763"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="316" label="international wrerstling competitions hosted by poland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="482.69614" y="442.71637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="251" label="basketball competitions in tunisia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="901.7902" y="1043.4845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="261" label="competitions in lancashire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1202.9468" y="380.03586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="178" label="football competitions in curacao">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-931.5297" y="1098.8197"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="318" label="football competitions in lobatse">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="502.12503" y="-518.4397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="191" label="football competitions in mandatory palestine">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-104.08119" y="1664.6343"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="207" label="electronics competitions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-756.1242" y="1649.6086"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="258" label="football competitions in sao paulo">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="329.25586" y="-443.7317"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="300.0"></edge>
+      <edge id="1" source="0" target="2" weight="156.0"></edge>
+      <edge id="2" source="0" target="3" weight="113.0"></edge>
+      <edge id="3" source="4" target="0" weight="79.0"></edge>
+      <edge id="4" source="5" target="0" weight="74.0"></edge>
+      <edge id="5" source="6" target="0" weight="73.0"></edge>
+      <edge id="6" source="0" target="7" weight="68.0"></edge>
+      <edge id="7" source="8" target="0" weight="66.0"></edge>
+      <edge id="8" source="9" target="10" weight="61.0"></edge>
+      <edge id="9" source="11" target="0" weight="55.0"></edge>
+      <edge id="10" source="12" target="13" weight="51.0"></edge>
+      <edge id="11" source="0" target="10" weight="43.0"></edge>
+      <edge id="12" source="0" target="14" weight="42.0"></edge>
+      <edge id="13" source="15" target="0" weight="37.0"></edge>
+      <edge id="14" source="0" target="16" weight="30.0"></edge>
+      <edge id="15" source="0" target="17" weight="29.0"></edge>
+      <edge id="16" source="18" target="0" weight="20.0"></edge>
+      <edge id="17" source="19" target="0" weight="19.0"></edge>
+      <edge id="18" source="20" target="21" weight="16.0"></edge>
+      <edge id="19" source="22" target="23" weight="15.0"></edge>
+      <edge id="20" source="24" target="0" weight="15.0"></edge>
+      <edge id="21" source="25" target="0" weight="15.0"></edge>
+      <edge id="22" source="26" target="0" weight="13.0"></edge>
+      <edge id="23" source="27" target="28" weight="11.0"></edge>
+      <edge id="24" source="29" target="30" weight="10.0"></edge>
+      <edge id="25" source="0" target="31" weight="10.0"></edge>
+      <edge id="26" source="20" target="32" weight="9.0"></edge>
+      <edge id="27" source="4" target="33" weight="9.0"></edge>
+      <edge id="28" source="34" target="35" weight="9.0"></edge>
+      <edge id="29" source="36" target="35" weight="8.0"></edge>
+      <edge id="30" source="37" target="35" weight="8.0"></edge>
+      <edge id="31" source="38" target="0" weight="8.0"></edge>
+      <edge id="32" source="39" target="40" weight="8.0"></edge>
+      <edge id="33" source="41" target="42" weight="8.0"></edge>
+      <edge id="34" source="22" target="43" weight="8.0"></edge>
+      <edge id="35" source="44" target="45" weight="7.0"></edge>
+      <edge id="36" source="1" target="46" weight="7.0"></edge>
+      <edge id="37" source="47" target="48" weight="7.0"></edge>
+      <edge id="38" source="49" target="50" weight="7.0"></edge>
+      <edge id="39" source="51" target="52" weight="6.0"></edge>
+      <edge id="40" source="53" target="54" weight="6.0"></edge>
+      <edge id="41" source="55" target="56" weight="6.0"></edge>
+      <edge id="42" source="57" target="53" weight="6.0"></edge>
+      <edge id="43" source="58" target="1" weight="6.0"></edge>
+      <edge id="44" source="59" target="60" weight="6.0"></edge>
+      <edge id="45" source="61" target="62" weight="6.0"></edge>
+      <edge id="46" source="47" target="41" weight="6.0"></edge>
+      <edge id="47" source="63" target="64" weight="6.0"></edge>
+      <edge id="48" source="65" target="32" weight="5.0"></edge>
+      <edge id="49" source="66" target="67" weight="5.0"></edge>
+      <edge id="50" source="0" target="68" weight="5.0"></edge>
+      <edge id="51" source="69" target="70" weight="5.0"></edge>
+      <edge id="52" source="71" target="0" weight="5.0"></edge>
+      <edge id="53" source="18" target="72" weight="5.0"></edge>
+      <edge id="54" source="73" target="32" weight="5.0"></edge>
+      <edge id="55" source="74" target="1" weight="4.0"></edge>
+      <edge id="56" source="75" target="76" weight="4.0"></edge>
+      <edge id="57" source="75" target="35" weight="4.0"></edge>
+      <edge id="58" source="53" target="77" weight="4.0"></edge>
+      <edge id="59" source="78" target="35" weight="4.0"></edge>
+      <edge id="60" source="32" target="79" weight="4.0"></edge>
+      <edge id="61" source="80" target="69" weight="4.0"></edge>
+      <edge id="62" source="81" target="20" weight="4.0"></edge>
+      <edge id="63" source="53" target="82" weight="3.0"></edge>
+      <edge id="64" source="4" target="83" weight="3.0"></edge>
+      <edge id="65" source="84" target="50" weight="3.0"></edge>
+      <edge id="66" source="45" target="85" weight="3.0"></edge>
+      <edge id="67" source="86" target="0" weight="3.0"></edge>
+      <edge id="68" source="41" target="87" weight="3.0"></edge>
+      <edge id="69" source="32" target="88" weight="3.0"></edge>
+      <edge id="70" source="89" target="1" weight="3.0"></edge>
+      <edge id="71" source="90" target="91" weight="3.0"></edge>
+      <edge id="72" source="92" target="17" weight="3.0"></edge>
+      <edge id="73" source="65" target="21" weight="3.0"></edge>
+      <edge id="74" source="0" target="93" weight="3.0"></edge>
+      <edge id="75" source="94" target="68" weight="3.0"></edge>
+      <edge id="76" source="95" target="96" weight="3.0"></edge>
+      <edge id="77" source="97" target="45" weight="3.0"></edge>
+      <edge id="78" source="98" target="99" weight="3.0"></edge>
+      <edge id="79" source="100" target="101" weight="3.0"></edge>
+      <edge id="80" source="102" target="103" weight="3.0"></edge>
+      <edge id="81" source="104" target="41" weight="3.0"></edge>
+      <edge id="82" source="17" target="105" weight="3.0"></edge>
+      <edge id="83" source="106" target="107" weight="3.0"></edge>
+      <edge id="84" source="108" target="22" weight="3.0"></edge>
+      <edge id="85" source="49" target="109" weight="3.0"></edge>
+      <edge id="86" source="35" target="110" weight="3.0"></edge>
+      <edge id="87" source="111" target="98" weight="3.0"></edge>
+      <edge id="88" source="112" target="111" weight="3.0"></edge>
+      <edge id="89" source="113" target="69" weight="3.0"></edge>
+      <edge id="90" source="114" target="21" weight="3.0"></edge>
+      <edge id="91" source="22" target="115" weight="3.0"></edge>
+      <edge id="92" source="116" target="117" weight="3.0"></edge>
+      <edge id="93" source="71" target="69" weight="3.0"></edge>
+      <edge id="94" source="118" target="119" weight="2.0"></edge>
+      <edge id="95" source="0" target="120" weight="2.0"></edge>
+      <edge id="96" source="10" target="121" weight="2.0"></edge>
+      <edge id="97" source="0" target="122" weight="2.0"></edge>
+      <edge id="98" source="123" target="112" weight="2.0"></edge>
+      <edge id="99" source="22" target="124" weight="2.0"></edge>
+      <edge id="100" source="45" target="125" weight="2.0"></edge>
+      <edge id="101" source="14" target="126" weight="2.0"></edge>
+      <edge id="102" source="123" target="98" weight="2.0"></edge>
+      <edge id="103" source="127" target="10" weight="2.0"></edge>
+      <edge id="104" source="128" target="4" weight="2.0"></edge>
+      <edge id="105" source="129" target="130" weight="2.0"></edge>
+      <edge id="106" source="131" target="132" weight="2.0"></edge>
+      <edge id="107" source="133" target="14" weight="2.0"></edge>
+      <edge id="108" source="134" target="35" weight="2.0"></edge>
+      <edge id="109" source="135" target="136" weight="2.0"></edge>
+      <edge id="110" source="137" target="138" weight="2.0"></edge>
+      <edge id="111" source="139" target="140" weight="2.0"></edge>
+      <edge id="112" source="91" target="141" weight="2.0"></edge>
+      <edge id="113" source="23" target="142" weight="2.0"></edge>
+      <edge id="114" source="4" target="143" weight="2.0"></edge>
+      <edge id="115" source="144" target="0" weight="2.0"></edge>
+      <edge id="116" source="145" target="146" weight="2.0"></edge>
+      <edge id="117" source="147" target="23" weight="2.0"></edge>
+      <edge id="118" source="148" target="142" weight="2.0"></edge>
+      <edge id="119" source="133" target="124" weight="2.0"></edge>
+      <edge id="120" source="149" target="150" weight="2.0"></edge>
+      <edge id="121" source="151" target="70" weight="2.0"></edge>
+      <edge id="122" source="79" target="21" weight="2.0"></edge>
+      <edge id="123" source="152" target="112" weight="2.0"></edge>
+      <edge id="124" source="153" target="91" weight="2.0"></edge>
+      <edge id="125" source="154" target="150" weight="2.0"></edge>
+      <edge id="126" source="0" target="155" weight="2.0"></edge>
+      <edge id="127" source="156" target="157" weight="2.0"></edge>
+      <edge id="128" source="59" target="158" weight="2.0"></edge>
+      <edge id="129" source="159" target="14" weight="2.0"></edge>
+      <edge id="130" source="160" target="161" weight="2.0"></edge>
+      <edge id="131" source="116" target="162" weight="2.0"></edge>
+      <edge id="132" source="99" target="35" weight="2.0"></edge>
+      <edge id="133" source="163" target="28" weight="2.0"></edge>
+      <edge id="134" source="116" target="164" weight="2.0"></edge>
+      <edge id="135" source="165" target="166" weight="2.0"></edge>
+      <edge id="136" source="0" target="167" weight="2.0"></edge>
+      <edge id="137" source="22" target="168" weight="2.0"></edge>
+      <edge id="138" source="169" target="4" weight="2.0"></edge>
+      <edge id="139" source="170" target="171" weight="2.0"></edge>
+      <edge id="140" source="58" target="101" weight="2.0"></edge>
+      <edge id="141" source="81" target="79" weight="2.0"></edge>
+      <edge id="142" source="172" target="81" weight="2.0"></edge>
+      <edge id="143" source="173" target="0" weight="2.0"></edge>
+      <edge id="144" source="0" target="174" weight="2.0"></edge>
+      <edge id="145" source="128" target="113" weight="2.0"></edge>
+      <edge id="146" source="175" target="78" weight="2.0"></edge>
+      <edge id="147" source="21" target="88" weight="2.0"></edge>
+      <edge id="148" source="145" target="116" weight="2.0"></edge>
+      <edge id="149" source="176" target="32"></edge>
+      <edge id="150" source="177" target="0"></edge>
+      <edge id="151" source="178" target="18"></edge>
+      <edge id="152" source="116" target="179"></edge>
+      <edge id="153" source="69" target="180"></edge>
+      <edge id="154" source="181" target="17"></edge>
+      <edge id="155" source="98" target="34"></edge>
+      <edge id="156" source="182" target="35"></edge>
+      <edge id="157" source="183" target="184"></edge>
+      <edge id="158" source="185" target="186"></edge>
+      <edge id="159" source="22" target="187"></edge>
+      <edge id="160" source="188" target="0"></edge>
+      <edge id="161" source="189" target="190"></edge>
+      <edge id="162" source="97" target="22"></edge>
+      <edge id="163" source="189" target="191"></edge>
+      <edge id="164" source="192" target="154"></edge>
+      <edge id="165" source="193" target="194"></edge>
+      <edge id="166" source="195" target="196"></edge>
+      <edge id="167" source="76" target="134"></edge>
+      <edge id="168" source="132" target="197"></edge>
+      <edge id="169" source="198" target="199"></edge>
+      <edge id="170" source="200" target="50"></edge>
+      <edge id="171" source="22" target="201"></edge>
+      <edge id="172" source="76" target="36"></edge>
+      <edge id="173" source="81" target="141"></edge>
+      <edge id="174" source="116" target="107"></edge>
+      <edge id="175" source="32" target="202"></edge>
+      <edge id="176" source="203" target="76"></edge>
+      <edge id="177" source="175" target="110"></edge>
+      <edge id="178" source="204" target="205"></edge>
+      <edge id="179" source="203" target="112"></edge>
+      <edge id="180" source="193" target="185"></edge>
+      <edge id="181" source="98" target="134"></edge>
+      <edge id="182" source="206" target="207"></edge>
+      <edge id="183" source="48" target="104"></edge>
+      <edge id="184" source="208" target="206"></edge>
+      <edge id="185" source="209" target="51"></edge>
+      <edge id="186" source="22" target="210"></edge>
+      <edge id="187" source="211" target="17"></edge>
+      <edge id="188" source="212" target="0"></edge>
+      <edge id="189" source="213" target="23"></edge>
+      <edge id="190" source="214" target="215"></edge>
+      <edge id="191" source="98" target="75"></edge>
+      <edge id="192" source="216" target="217"></edge>
+      <edge id="193" source="180" target="218"></edge>
+      <edge id="194" source="219" target="220"></edge>
+      <edge id="195" source="0" target="221"></edge>
+      <edge id="196" source="222" target="97"></edge>
+      <edge id="197" source="42" target="223"></edge>
+      <edge id="198" source="78" target="224"></edge>
+      <edge id="199" source="37" target="76"></edge>
+      <edge id="200" source="225" target="10"></edge>
+      <edge id="201" source="22" target="226"></edge>
+      <edge id="202" source="48" target="227"></edge>
+      <edge id="203" source="228" target="56"></edge>
+      <edge id="204" source="133" target="210"></edge>
+      <edge id="205" source="98" target="110"></edge>
+      <edge id="206" source="32" target="114"></edge>
+      <edge id="207" source="185" target="86"></edge>
+      <edge id="208" source="229" target="23"></edge>
+      <edge id="209" source="152" target="76"></edge>
+      <edge id="210" source="206" target="180"></edge>
+      <edge id="211" source="230" target="193"></edge>
+      <edge id="212" source="231" target="56"></edge>
+      <edge id="213" source="34" target="76"></edge>
+      <edge id="214" source="232" target="233"></edge>
+      <edge id="215" source="103" target="234"></edge>
+      <edge id="216" source="193" target="69"></edge>
+      <edge id="217" source="235" target="236"></edge>
+      <edge id="218" source="237" target="0"></edge>
+      <edge id="219" source="81" target="65"></edge>
+      <edge id="220" source="238" target="22"></edge>
+      <edge id="221" source="239" target="190"></edge>
+      <edge id="222" source="203" target="98"></edge>
+      <edge id="223" source="86" target="240"></edge>
+      <edge id="224" source="10" target="241"></edge>
+      <edge id="225" source="242" target="69"></edge>
+      <edge id="226" source="243" target="81"></edge>
+      <edge id="227" source="244" target="69"></edge>
+      <edge id="228" source="69" target="245"></edge>
+      <edge id="229" source="229" target="246"></edge>
+      <edge id="230" source="46" target="68"></edge>
+      <edge id="231" source="239" target="70"></edge>
+      <edge id="232" source="111" target="76"></edge>
+      <edge id="233" source="247" target="69"></edge>
+      <edge id="234" source="248" target="249"></edge>
+      <edge id="235" source="203" target="35"></edge>
+      <edge id="236" source="250" target="116"></edge>
+      <edge id="237" source="91" target="88"></edge>
+      <edge id="238" source="251" target="32"></edge>
+      <edge id="239" source="252" target="0"></edge>
+      <edge id="240" source="0" target="253"></edge>
+      <edge id="241" source="254" target="0"></edge>
+      <edge id="242" source="209" target="69"></edge>
+      <edge id="243" source="63" target="255"></edge>
+      <edge id="244" source="256" target="0"></edge>
+      <edge id="245" source="257" target="258"></edge>
+      <edge id="246" source="239" target="109"></edge>
+      <edge id="247" source="259" target="260"></edge>
+      <edge id="248" source="39" target="261"></edge>
+      <edge id="249" source="262" target="263"></edge>
+      <edge id="250" source="105" target="264"></edge>
+      <edge id="251" source="81" target="114"></edge>
+      <edge id="252" source="265" target="116"></edge>
+      <edge id="253" source="266" target="56"></edge>
+      <edge id="254" source="60" target="267"></edge>
+      <edge id="255" source="268" target="101"></edge>
+      <edge id="256" source="64" target="269"></edge>
+      <edge id="257" source="270" target="56"></edge>
+      <edge id="258" source="124" target="126"></edge>
+      <edge id="259" source="271" target="272"></edge>
+      <edge id="260" source="273" target="274"></edge>
+      <edge id="261" source="59" target="51"></edge>
+      <edge id="262" source="275" target="166"></edge>
+      <edge id="263" source="116" target="276"></edge>
+      <edge id="264" source="243" target="91"></edge>
+      <edge id="265" source="18" target="277"></edge>
+      <edge id="266" source="78" target="278"></edge>
+      <edge id="267" source="4" target="279"></edge>
+      <edge id="268" source="123" target="76"></edge>
+      <edge id="269" source="153" target="81"></edge>
+      <edge id="270" source="280" target="107"></edge>
+      <edge id="271" source="210" target="126"></edge>
+      <edge id="272" source="281" target="150"></edge>
+      <edge id="273" source="282" target="150"></edge>
+      <edge id="274" source="0" target="283"></edge>
+      <edge id="275" source="284" target="23"></edge>
+      <edge id="276" source="166" target="285"></edge>
+      <edge id="277" source="286" target="0"></edge>
+      <edge id="278" source="287" target="22"></edge>
+      <edge id="279" source="109" target="288"></edge>
+      <edge id="280" source="59" target="0"></edge>
+      <edge id="281" source="289" target="91"></edge>
+      <edge id="282" source="78" target="76"></edge>
+      <edge id="283" source="0" target="290"></edge>
+      <edge id="284" source="32" target="291"></edge>
+      <edge id="285" source="292" target="293"></edge>
+      <edge id="286" source="294" target="295"></edge>
+      <edge id="287" source="87" target="296"></edge>
+      <edge id="288" source="59" target="30"></edge>
+      <edge id="289" source="41" target="227"></edge>
+      <edge id="290" source="64" target="218"></edge>
+      <edge id="291" source="37" target="98"></edge>
+      <edge id="292" source="113" target="119"></edge>
+      <edge id="293" source="97" target="297"></edge>
+      <edge id="294" source="298" target="299"></edge>
+      <edge id="295" source="300" target="18"></edge>
+      <edge id="296" source="17" target="164"></edge>
+      <edge id="297" source="113" target="0"></edge>
+      <edge id="298" source="301" target="14"></edge>
+      <edge id="299" source="222" target="302"></edge>
+      <edge id="300" source="303" target="14"></edge>
+      <edge id="301" source="22" target="304"></edge>
+      <edge id="302" source="128" target="71"></edge>
+      <edge id="303" source="78" target="98"></edge>
+      <edge id="304" source="276" target="17"></edge>
+      <edge id="305" source="223" target="305"></edge>
+      <edge id="306" source="36" target="98"></edge>
+      <edge id="307" source="45" target="306"></edge>
+      <edge id="308" source="189" target="109"></edge>
+      <edge id="309" source="96" target="307"></edge>
+      <edge id="310" source="210" target="0"></edge>
+      <edge id="311" source="175" target="134"></edge>
+      <edge id="312" source="308" target="309"></edge>
+      <edge id="313" source="76" target="110"></edge>
+      <edge id="314" source="180" target="310"></edge>
+      <edge id="315" source="45" target="311"></edge>
+      <edge id="316" source="128" target="42"></edge>
+      <edge id="317" source="312" target="272"></edge>
+      <edge id="318" source="313" target="101"></edge>
+      <edge id="319" source="314" target="0"></edge>
+      <edge id="320" source="315" target="316"></edge>
+      <edge id="321" source="317" target="318"></edge>
+      <edge id="322" source="319" target="91"></edge>
+      <edge id="323" source="154" target="86"></edge>
+      <edge id="324" source="0" target="320"></edge>
+      <edge id="325" source="321" target="17"></edge>
+      <edge id="326" source="74" target="14"></edge>
+      <edge id="327" source="193" target="322"></edge>
+      <edge id="328" source="74" target="68"></edge>
+      <edge id="329" source="91" target="65"></edge>
+      <edge id="330" source="22" target="323"></edge>
+    </edges>
+  </graph>
+</gexf>

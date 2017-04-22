@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="american jazz">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-222.9265" y="-200.7053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="jazz musicians">
+        <viz:size value="88.68193"></viz:size>
+        <viz:position x="-48.099934" y="-128.47769"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="jazz pianists">
+        <viz:size value="83.79644"></viz:size>
+        <viz:position x="-194.92136" y="-594.30164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="jazz saxophonists">
+        <viz:size value="82.98219"></viz:size>
+        <viz:position x="-96.94036" y="-374.99994"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="jazz albums">
+        <viz:size value="82.330795"></viz:size>
+        <viz:position x="490.31314" y="-1232.1555"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="jazz singers">
+        <viz:size value="80.78372"></viz:size>
+        <viz:position x="-792.2007" y="59.82771"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="jazz guitarists">
+        <viz:size value="79.96947"></viz:size>
+        <viz:position x="-239.49025" y="440.79224"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="jazz ensembles">
+        <viz:size value="79.31807"></viz:size>
+        <viz:position x="-632.01135" y="939.77734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="jazz composers">
+        <viz:size value="79.23664"></viz:size>
+        <viz:position x="73.52737" y="-460.4122"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="jazz drummers">
+        <viz:size value="76.142494"></viz:size>
+        <viz:position x="33.959194" y="416.30286"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="norwegian jazz">
+        <viz:size value="75.65395"></viz:size>
+        <viz:position x="516.4295" y="-738.5931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="jazz trumpeters">
+        <viz:size value="73.455475"></viz:size>
+        <viz:position x="-290.45898" y="43.29847"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="jazz fusion">
+        <viz:size value="72.31553"></viz:size>
+        <viz:position x="-858.6041" y="291.03546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="jazz standards">
+        <viz:size value="71.5827"></viz:size>
+        <viz:position x="252.0375" y="-1110.3741"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="jazz double-bassists">
+        <viz:size value="69.79135"></viz:size>
+        <viz:position x="509.10294" y="-481.74533"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="jazz labels">
+        <viz:size value="69.70992"></viz:size>
+        <viz:position x="-714.03357" y="-817.5362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="jazz bandleaders">
+        <viz:size value="68.3257"></viz:size>
+        <viz:position x="-488.94757" y="-176.20107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="canadian jazz">
+        <viz:size value="67.59289"></viz:size>
+        <viz:position x="878.03076" y="29.41276"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="british jazz">
+        <viz:size value="65.7201"></viz:size>
+        <viz:position x="112.2941" y="1064.5756"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="jazz trombonists">
+        <viz:size value="64.90585"></viz:size>
+        <viz:position x="748.8065" y="-401.11365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="jazz clarinetists">
+        <viz:size value="64.82444"></viz:size>
+        <viz:position x="-98.63694" y="176.99765"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="smooth jazz">
+        <viz:size value="63.11451"></viz:size>
+        <viz:position x="-549.3835" y="40.546154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="jazz festivals">
+        <viz:size value="62.21883"></viz:size>
+        <viz:position x="774.3301" y="1098.6134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="jazz compositions">
+        <viz:size value="61.48601"></viz:size>
+        <viz:position x="3.785182" y="-1334.3915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="free jazz">
+        <viz:size value="59.287537"></viz:size>
+        <viz:position x="-292.86008" y="-1050.5803"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="latin jazz">
+        <viz:size value="59.124687"></viz:size>
+        <viz:position x="726.9041" y="504.10834"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="french jazz">
+        <viz:size value="58.066162"></viz:size>
+        <viz:position x="979.70544" y="410.5982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="jazz songs">
+        <viz:size value="57.577614"></viz:size>
+        <viz:position x="-1336.159" y="112.39671"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="australian jazz">
+        <viz:size value="57.414764"></viz:size>
+        <viz:position x="976.09314" y="-508.28363"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="jazz violinists">
+        <viz:size value="57.17049"></viz:size>
+        <viz:position x="946.57764" y="-969.8306"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="jazz clubs">
+        <viz:size value="57.17049"></viz:size>
+        <viz:position x="1306.0497" y="316.7282"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="mainstream jazz">
+        <viz:size value="57.08906"></viz:size>
+        <viz:position x="-670.2321" y="-536.3403"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="jazz flautists">
+        <viz:size value="56.68194"></viz:size>
+        <viz:position x="182.3422" y="-49.482502"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="cool jazz">
+        <viz:size value="56.19339"></viz:size>
+        <viz:position x="-670.8897" y="-304.59628"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="japanese jazz">
+        <viz:size value="56.030537"></viz:size>
+        <viz:position x="-1130.2521" y="-768.32184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="jazz radio">
+        <viz:size value="55.54199"></viz:size>
+        <viz:position x="352.07248" y="1094.9924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="brazilian jazz">
+        <viz:size value="54.646313"></viz:size>
+        <viz:position x="-63.90033" y="612.6129"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="jazz percussionists">
+        <viz:size value="52.854965"></viz:size>
+        <viz:position x="350.9057" y="849.3032"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="jazz messengers">
+        <viz:size value="52.692116"></viz:size>
+        <viz:position x="612.1884" y="82.22008"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="danish jazz">
+        <viz:size value="51.79644"></viz:size>
+        <viz:position x="928.6229" y="660.0394"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="jazz arrangers">
+        <viz:size value="50.98219"></viz:size>
+        <viz:position x="23.34117" y="-706.5424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="jazz organists">
+        <viz:size value="50.412212"></viz:size>
+        <viz:position x="-769.33325" y="-1112.3619"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="jazz vibraphonists">
+        <viz:size value="50.167942"></viz:size>
+        <viz:position x="483.48575" y="638.67896"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="polish jazz">
+        <viz:size value="50.167942"></viz:size>
+        <viz:position x="479.04428" y="-984.1722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="jazz educators">
+        <viz:size value="49.435116"></viz:size>
+        <viz:position x="-195.43338" y="-832.52094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="jazz films">
+        <viz:size value="48.70229"></viz:size>
+        <viz:position x="1047.14" y="-766.7462"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="belgian jazz">
+        <viz:size value="47.64377"></viz:size>
+        <viz:position x="701.91034" y="759.4302"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="west coast jazz">
+        <viz:size value="47.48092"></viz:size>
+        <viz:position x="-441.08856" y="-803.4344"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="afro-cuban jazz">
+        <viz:size value="47.15522"></viz:size>
+        <viz:position x="-906.55066" y="-648.2009"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="jazz writers">
+        <viz:size value="46.910942"></viz:size>
+        <viz:position x="92.61506" y="830.5853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="jazz keyboardists">
+        <viz:size value="46.748093"></viz:size>
+        <viz:position x="-1095.6272" y="283.7487"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="south african jazz">
+        <viz:size value="46.585243"></viz:size>
+        <viz:position x="226.7887" y="621.2967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="jazz terminology">
+        <viz:size value="45.933846"></viz:size>
+        <viz:position x="1339.7992" y="-178.62663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="acid jazz">
+        <viz:size value="45.445297"></viz:size>
+        <viz:position x="-541.76056" y="738.7646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="modal jazz">
+        <viz:size value="43.165398"></viz:size>
+        <viz:position x="79.990776" y="-926.1329"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="chamber jazz">
+        <viz:size value="42.676846"></viz:size>
+        <viz:position x="-461.31537" y="501.8439"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="jazz record producers">
+        <viz:size value="42.269722"></viz:size>
+        <viz:position x="-552.48334" y="-1031.7906"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="jazz cornetists">
+        <viz:size value="41.78117"></viz:size>
+        <viz:position x="-919.94763" y="-395.4959"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="jazz genres">
+        <viz:size value="41.29262"></viz:size>
+        <viz:position x="-1080.5435" y="42.872158"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="gypsy jazz">
+        <viz:size value="41.04835"></viz:size>
+        <viz:position x="-148.24785" y="900.3256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="jazz songwriters">
+        <viz:size value="40.559795"></viz:size>
+        <viz:position x="-955.16516" y="526.6119"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="jazz banjoists">
+        <viz:size value="40.315525"></viz:size>
+        <viz:position x="-633.9261" y="296.6205"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="czech jazz">
+        <viz:size value="39.501274"></viz:size>
+        <viz:position x="788.60657" y="256.1888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="jazz techniques">
+        <viz:size value="39.175575"></viz:size>
+        <viz:position x="1119.6406" y="-62.32804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="criss cross jazz artists">
+        <viz:size value="37.9542"></viz:size>
+        <viz:position x="490.55438" y="-268.17532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="jazz organizations">
+        <viz:size value="36.569977"></viz:size>
+        <viz:position x="-898.5835" y="1010.43787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="jazz cellists">
+        <viz:size value="36.569977"></viz:size>
+        <viz:position x="744.91797" y="-157.16066"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="jazz awards">
+        <viz:size value="36.569977"></viz:size>
+        <viz:position x="-676.55286" y="1169.739"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="jazz accordionists">
+        <viz:size value="35.83715"></viz:size>
+        <viz:position x="732.7824" y="-888.80115"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="serbian jazz">
+        <viz:size value="35.430027"></viz:size>
+        <viz:position x="-717.1304" y="546.72516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="jazz culture">
+        <viz:size value="33.638676"></viz:size>
+        <viz:position x="1209.0072" y="527.78955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="jazz flugelhornists">
+        <viz:size value="32.66158"></viz:size>
+        <viz:position x="-856.548" y="-146.39557"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="jazz oboists">
+        <viz:size value="32.17303"></viz:size>
+        <viz:position x="115.1781" y="163.93594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="jazz music education">
+        <viz:size value="32.17303"></viz:size>
+        <viz:position x="38.894325" y="1329.3754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="grammy award for best contemporary jazz album">
+        <viz:size value="32.17303"></viz:size>
+        <viz:position x="721.6014" y="-1139.9065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="jazz soundtracks">
+        <viz:size value="30.463106"></viz:size>
+        <viz:position x="-1149.2238" y="-536.53424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="grammy award for best jazz vocal album">
+        <viz:size value="30.463106"></viz:size>
+        <viz:position x="-449.05954" y="1245.2285"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="jazz by nationality">
+        <viz:size value="29.811708"></viz:size>
+        <viz:position x="1128.0343" y="763.43024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="jazz instruments">
+        <viz:size value="29.160309"></viz:size>
+        <viz:position x="-1076.5754" y="798.30524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="ponca jazz records artists">
+        <viz:size value="28.427483"></viz:size>
+        <viz:position x="295.17535" y="-552.65485"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="jazz harmonica players">
+        <viz:size value="27.694658"></viz:size>
+        <viz:position x="387.11017" y="177.4099"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="azerbaijani jazz">
+        <viz:size value="27.694658"></viz:size>
+        <viz:position x="-1302.0017" y="368.16534"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="jazz books">
+        <viz:size value="27.694658"></viz:size>
+        <viz:position x="-137.65785" y="1132.92"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="cadence jazz records artists">
+        <viz:size value="26.880407"></viz:size>
+        <viz:position x="-373.93082" y="-395.9791"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="nu jazz">
+        <viz:size value="25.984734"></viz:size>
+        <viz:position x="274.28467" y="-790.0915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="united jazz rock ensemble members">
+        <viz:size value="25.007633"></viz:size>
+        <viz:position x="234.38705" y="-285.7944"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="portuguese jazz">
+        <viz:size value="24.030535"></viz:size>
+        <viz:position x="-296.5236" y="720.4693"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="grammy award for best jazz vocal performance, female">
+        <viz:size value="24.030535"></viz:size>
+        <viz:position x="252.72006" y="-1337.0076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="grammy award for best large jazz ensemble album">
+        <viz:size value="22.890585"></viz:size>
+        <viz:position x="-1193.3253" y="587.4918"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="new york jazz quartet members">
+        <viz:size value="22.890585"></viz:size>
+        <viz:position x="409.8466" y="-72.50238"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="20th century in jazz">
+        <viz:size value="22.890585"></viz:size>
+        <viz:position x="-492.29242" y="-1253.9154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="grammy award for best jazz vocal performance, male">
+        <viz:size value="21.669212"></viz:size>
+        <viz:position x="-1318.708" y="-122.55638"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="black jazz records artists">
+        <viz:size value="20.284988"></viz:size>
+        <viz:position x="-456.65103" y="-589.80554"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="jazz harpists">
+        <viz:size value="20.284988"></viz:size>
+        <viz:position x="-243.82146" y="-1316.7714"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="jazz mandolinists">
+        <viz:size value="18.737913"></viz:size>
+        <viz:position x="-1093.1737" y="-217.85098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="jazz bassoonists">
+        <viz:size value="16.86514"></viz:size>
+        <viz:position x="524.62146" y="377.97482"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="jazz publications">
+        <viz:size value="16.86514"></viz:size>
+        <viz:position x="-224.27687" y="1338.7275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="history of jazz">
+        <viz:size value="16.86514"></viz:size>
+        <viz:position x="1216.4739" y="-605.81836"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="jazz in maryland">
+        <viz:size value="16.86514"></viz:size>
+        <viz:position x="-836.42035" y="771.9416"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="jazz people">
+        <viz:size value="14.748092"></viz:size>
+        <viz:position x="281.59445" y="1319.9172"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="jazz eps">
+        <viz:size value="14.748092"></viz:size>
+        <viz:position x="1233.5459" y="-376.69568"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="jazz dance">
+        <viz:size value="14.748092"></viz:size>
+        <viz:position x="1088.5615" y="197.36014"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="jazz events">
+        <viz:size value="14.748092"></viz:size>
+        <viz:position x="1335.4445" y="73.38458"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="newark jazz">
+        <viz:size value="12.142494"></viz:size>
+        <viz:position x="-1297.861" y="-367.55817"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="chinese jazz">
+        <viz:size value="12.142494"></viz:size>
+        <viz:position x="582.86554" y="959.40607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="english jazz horn players">
+        <viz:size value="8.722647"></viz:size>
+        <viz:position x="-385.925" y="256.5374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="historians of jazz">
+        <viz:size value="8.722647"></viz:size>
+        <viz:position x="268.67737" y="390.06458"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="21st century in jazz">
+        <viz:size value="8.722647"></viz:size>
+        <viz:position x="-387.1177" y="1007.39655"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="dutch jazz bassists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-55.445614" y="-1093.8478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="leo jazz records artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-933.0169" y="-927.7113"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="macedonian jazz">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="553.0412" y="1233.8982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="jazz baltica">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="933.81757" y="932.3888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="avant-garde jazz tubists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="769.368" y="-648.86127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="cam jazz records artists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="985.25116" y="-262.37564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="315.0"></edge>
+      <edge id="1" source="2" target="1" weight="267.0"></edge>
+      <edge id="2" source="1" target="3" weight="224.0"></edge>
+      <edge id="3" source="1" target="4" weight="190.0"></edge>
+      <edge id="4" source="2" target="5" weight="190.0"></edge>
+      <edge id="5" source="6" target="7" weight="182.0"></edge>
+      <edge id="6" source="5" target="8" weight="170.0"></edge>
+      <edge id="7" source="9" target="1" weight="159.0"></edge>
+      <edge id="8" source="1" target="7" weight="155.0"></edge>
+      <edge id="9" source="8" target="1" weight="153.0"></edge>
+      <edge id="10" source="5" target="3" weight="149.0"></edge>
+      <edge id="11" source="5" target="4" weight="144.0"></edge>
+      <edge id="12" source="10" target="1" weight="135.0"></edge>
+      <edge id="13" source="1" target="11" weight="129.0"></edge>
+      <edge id="14" source="0" target="12" weight="129.0"></edge>
+      <edge id="15" source="0" target="5" weight="122.0"></edge>
+      <edge id="16" source="13" target="5" weight="117.0"></edge>
+      <edge id="17" source="6" target="14" weight="112.0"></edge>
+      <edge id="18" source="1" target="13" weight="111.0"></edge>
+      <edge id="19" source="1" target="15" weight="104.0"></edge>
+      <edge id="20" source="7" target="5" weight="94.0"></edge>
+      <edge id="21" source="4" target="12" weight="84.0"></edge>
+      <edge id="22" source="13" target="12" weight="84.0"></edge>
+      <edge id="23" source="1" target="14" weight="79.0"></edge>
+      <edge id="24" source="1" target="16" weight="79.0"></edge>
+      <edge id="25" source="0" target="17" weight="78.0"></edge>
+      <edge id="26" source="9" target="5" weight="69.0"></edge>
+      <edge id="27" source="6" target="0" weight="69.0"></edge>
+      <edge id="28" source="1" target="18" weight="68.0"></edge>
+      <edge id="29" source="18" target="12" weight="63.0"></edge>
+      <edge id="30" source="1" target="19" weight="62.0"></edge>
+      <edge id="31" source="20" target="13" weight="55.0"></edge>
+      <edge id="32" source="5" target="15" weight="51.0"></edge>
+      <edge id="33" source="14" target="5" weight="48.0"></edge>
+      <edge id="34" source="11" target="5" weight="47.0"></edge>
+      <edge id="35" source="12" target="7" weight="46.0"></edge>
+      <edge id="36" source="5" target="10" weight="44.0"></edge>
+      <edge id="37" source="17" target="10" weight="42.0"></edge>
+      <edge id="38" source="12" target="10" weight="37.0"></edge>
+      <edge id="39" source="8" target="21" weight="36.0"></edge>
+      <edge id="40" source="6" target="11" weight="36.0"></edge>
+      <edge id="41" source="10" target="6" weight="35.0"></edge>
+      <edge id="42" source="6" target="15" weight="32.0"></edge>
+      <edge id="43" source="11" target="17" weight="31.0"></edge>
+      <edge id="44" source="5" target="19" weight="31.0"></edge>
+      <edge id="45" source="16" target="12" weight="28.0"></edge>
+      <edge id="46" source="22" target="1" weight="28.0"></edge>
+      <edge id="47" source="18" target="5" weight="27.0"></edge>
+      <edge id="48" source="16" target="5" weight="26.0"></edge>
+      <edge id="49" source="12" target="14" weight="26.0"></edge>
+      <edge id="50" source="17" target="15" weight="26.0"></edge>
+      <edge id="51" source="17" target="16" weight="24.0"></edge>
+      <edge id="52" source="23" target="4" weight="22.0"></edge>
+      <edge id="53" source="24" target="3" weight="21.0"></edge>
+      <edge id="54" source="18" target="17" weight="21.0"></edge>
+      <edge id="55" source="1" target="25" weight="20.0"></edge>
+      <edge id="56" source="4" target="26" weight="20.0"></edge>
+      <edge id="57" source="2" target="27" weight="19.0"></edge>
+      <edge id="58" source="28" target="29" weight="18.0"></edge>
+      <edge id="59" source="8" target="30" weight="18.0"></edge>
+      <edge id="60" source="12" target="25" weight="18.0"></edge>
+      <edge id="61" source="31" target="3" weight="17.0"></edge>
+      <edge id="62" source="12" target="15" weight="17.0"></edge>
+      <edge id="63" source="6" target="18" weight="16.0"></edge>
+      <edge id="64" source="6" target="19" weight="16.0"></edge>
+      <edge id="65" source="20" target="32" weight="15.0"></edge>
+      <edge id="66" source="19" target="17" weight="14.0"></edge>
+      <edge id="67" source="33" target="3" weight="14.0"></edge>
+      <edge id="68" source="12" target="32" weight="14.0"></edge>
+      <edge id="69" source="4" target="34" weight="12.0"></edge>
+      <edge id="70" source="22" target="6" weight="12.0"></edge>
+      <edge id="71" source="6" target="16" weight="11.0"></edge>
+      <edge id="72" source="25" target="17" weight="10.0"></edge>
+      <edge id="73" source="12" target="19" weight="10.0"></edge>
+      <edge id="74" source="35" target="12" weight="10.0"></edge>
+      <edge id="75" source="36" target="9" weight="10.0"></edge>
+      <edge id="76" source="5" target="25" weight="9.0"></edge>
+      <edge id="77" source="37" target="1" weight="9.0"></edge>
+      <edge id="78" source="38" target="5" weight="8.0"></edge>
+      <edge id="79" source="39" target="0" weight="8.0"></edge>
+      <edge id="80" source="40" target="25" weight="8.0"></edge>
+      <edge id="81" source="13" target="41" weight="8.0"></edge>
+      <edge id="82" source="42" target="1" weight="7.0"></edge>
+      <edge id="83" source="0" target="23" weight="7.0"></edge>
+      <edge id="84" source="17" target="22" weight="7.0"></edge>
+      <edge id="85" source="43" target="25" weight="7.0"></edge>
+      <edge id="86" source="44" target="1" weight="7.0"></edge>
+      <edge id="87" source="28" target="11" weight="7.0"></edge>
+      <edge id="88" source="27" target="3" weight="6.0"></edge>
+      <edge id="89" source="45" target="25" weight="6.0"></edge>
+      <edge id="90" source="25" target="46" weight="5.0"></edge>
+      <edge id="91" source="31" target="0" weight="5.0"></edge>
+      <edge id="92" source="32" target="17" weight="5.0"></edge>
+      <edge id="93" source="29" target="47" weight="5.0"></edge>
+      <edge id="94" source="9" target="47" weight="5.0"></edge>
+      <edge id="95" source="6" target="25" weight="5.0"></edge>
+      <edge id="96" source="37" target="5" weight="5.0"></edge>
+      <edge id="97" source="5" target="48" weight="5.0"></edge>
+      <edge id="98" source="5" target="44" weight="5.0"></edge>
+      <edge id="99" source="49" target="18" weight="5.0"></edge>
+      <edge id="100" source="3" target="47" weight="5.0"></edge>
+      <edge id="101" source="5" target="42" weight="4.0"></edge>
+      <edge id="102" source="5" target="22" weight="4.0"></edge>
+      <edge id="103" source="50" target="20" weight="4.0"></edge>
+      <edge id="104" source="12" target="22" weight="4.0"></edge>
+      <edge id="105" source="51" target="9" weight="4.0"></edge>
+      <edge id="106" source="52" target="20" weight="4.0"></edge>
+      <edge id="107" source="31" target="2" weight="4.0"></edge>
+      <edge id="108" source="53" target="12" weight="4.0"></edge>
+      <edge id="109" source="6" target="37" weight="3.0"></edge>
+      <edge id="110" source="52" target="12" weight="3.0"></edge>
+      <edge id="111" source="54" target="0" weight="3.0"></edge>
+      <edge id="112" source="32" target="6" weight="3.0"></edge>
+      <edge id="113" source="22" target="55" weight="3.0"></edge>
+      <edge id="114" source="14" target="56" weight="3.0"></edge>
+      <edge id="115" source="15" target="26" weight="3.0"></edge>
+      <edge id="116" source="5" target="53" weight="3.0"></edge>
+      <edge id="117" source="6" target="53" weight="3.0"></edge>
+      <edge id="118" source="22" target="34" weight="3.0"></edge>
+      <edge id="119" source="26" target="10" weight="3.0"></edge>
+      <edge id="120" source="17" target="42" weight="3.0"></edge>
+      <edge id="121" source="57" target="40" weight="2.0"></edge>
+      <edge id="122" source="7" target="56" weight="2.0"></edge>
+      <edge id="123" source="58" target="0" weight="2.0"></edge>
+      <edge id="124" source="59" target="60" weight="2.0"></edge>
+      <edge id="125" source="0" target="26" weight="2.0"></edge>
+      <edge id="126" source="54" target="29" weight="2.0"></edge>
+      <edge id="127" source="17" target="44" weight="2.0"></edge>
+      <edge id="128" source="48" target="1" weight="2.0"></edge>
+      <edge id="129" source="52" target="6" weight="2.0"></edge>
+      <edge id="130" source="61" target="40" weight="2.0"></edge>
+      <edge id="131" source="12" target="42" weight="2.0"></edge>
+      <edge id="132" source="43" target="44" weight="2.0"></edge>
+      <edge id="133" source="62" target="7" weight="2.0"></edge>
+      <edge id="134" source="52" target="40" weight="2.0"></edge>
+      <edge id="135" source="63" target="64"></edge>
+      <edge id="136" source="1" target="53"></edge>
+      <edge id="137" source="63" target="8"></edge>
+      <edge id="138" source="65" target="66"></edge>
+      <edge id="139" source="25" target="67"></edge>
+      <edge id="140" source="68" target="69"></edge>
+      <edge id="141" source="52" target="17"></edge>
+      <edge id="142" source="5" target="32"></edge>
+      <edge id="143" source="44" target="12"></edge>
+      <edge id="144" source="70" target="71"></edge>
+      <edge id="145" source="32" target="55"></edge>
+      <edge id="146" source="72" target="42"></edge>
+      <edge id="147" source="14" target="73"></edge>
+      <edge id="148" source="53" target="74"></edge>
+      <edge id="149" source="29" target="75"></edge>
+      <edge id="150" source="76" target="9"></edge>
+      <edge id="151" source="77" target="78"></edge>
+      <edge id="152" source="48" target="79"></edge>
+      <edge id="153" source="6" target="48"></edge>
+      <edge id="154" source="5" target="52"></edge>
+      <edge id="155" source="80" target="0"></edge>
+      <edge id="156" source="81" target="44"></edge>
+      <edge id="157" source="17" target="37"></edge>
+      <edge id="158" source="44" target="33"></edge>
+      <edge id="159" source="82" target="83"></edge>
+      <edge id="160" source="84" target="85"></edge>
+      <edge id="161" source="2" target="86"></edge>
+      <edge id="162" source="48" target="87"></edge>
+      <edge id="163" source="88" target="42"></edge>
+      <edge id="164" source="89" target="3"></edge>
+      <edge id="165" source="13" target="90"></edge>
+      <edge id="166" source="91" target="78"></edge>
+      <edge id="167" source="32" target="1"></edge>
+      <edge id="168" source="22" target="90"></edge>
+      <edge id="169" source="44" target="20"></edge>
+      <edge id="170" source="92" target="15"></edge>
+      <edge id="171" source="92" target="93"></edge>
+      <edge id="172" source="89" target="4"></edge>
+      <edge id="173" source="62" target="14"></edge>
+      <edge id="174" source="9" target="94"></edge>
+      <edge id="175" source="63" target="95"></edge>
+      <edge id="176" source="17" target="53"></edge>
+      <edge id="177" source="52" target="1"></edge>
+      <edge id="178" source="12" target="37"></edge>
+      <edge id="179" source="53" target="96"></edge>
+      <edge id="180" source="14" target="84"></edge>
+      <edge id="181" source="73" target="2"></edge>
+      <edge id="182" source="97" target="37"></edge>
+      <edge id="183" source="98" target="99"></edge>
+      <edge id="184" source="6" target="42"></edge>
+      <edge id="185" source="48" target="33"></edge>
+      <edge id="186" source="100" target="101"></edge>
+      <edge id="187" source="88" target="44"></edge>
+      <edge id="188" source="102" target="17"></edge>
+      <edge id="189" source="103" target="75"></edge>
+      <edge id="190" source="29" target="104"></edge>
+      <edge id="191" source="37" target="41"></edge>
+      <edge id="192" source="73" target="7"></edge>
+      <edge id="193" source="9" target="75"></edge>
+      <edge id="194" source="13" target="84"></edge>
+      <edge id="195" source="105" target="9"></edge>
+      <edge id="196" source="106" target="107"></edge>
+      <edge id="197" source="108" target="71"></edge>
+      <edge id="198" source="99" target="10"></edge>
+      <edge id="199" source="43" target="53"></edge>
+      <edge id="200" source="56" target="42"></edge>
+      <edge id="201" source="47" target="53"></edge>
+      <edge id="202" source="71" target="109"></edge>
+      <edge id="203" source="63" target="0"></edge>
+      <edge id="204" source="55" target="53"></edge>
+      <edge id="205" source="63" target="13"></edge>
+      <edge id="206" source="89" target="8"></edge>
+      <edge id="207" source="44" target="6"></edge>
+      <edge id="208" source="48" target="110"></edge>
+      <edge id="209" source="48" target="12"></edge>
+      <edge id="210" source="15" target="99"></edge>
+      <edge id="211" source="111" target="107"></edge>
+      <edge id="212" source="74" target="112"></edge>
+      <edge id="213" source="48" target="96"></edge>
+      <edge id="214" source="107" target="113"></edge>
+      <edge id="215" source="80" target="13"></edge>
+    </edges>
+  </graph>
+</gexf>

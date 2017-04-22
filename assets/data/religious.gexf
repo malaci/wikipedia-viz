@@ -1,0 +1,977 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="religious organizations">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-587.9593" y="-80.868225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="religious leaders">
+        <viz:size value="90.3446"></viz:size>
+        <viz:position x="44.223103" y="1013.44183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="religious buildings">
+        <viz:size value="86.22919"></viz:size>
+        <viz:position x="-1249.7185" y="322.32568"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="religious writers">
+        <viz:size value="76.494644"></viz:size>
+        <viz:position x="1022.8071" y="770.65125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="religious places">
+        <viz:size value="73.01237"></viz:size>
+        <viz:position x="-1342.8679" y="659.14545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="roman catholic religious sisters and nuns">
+        <viz:size value="71.42952"></viz:size>
+        <viz:position x="164.74722" y="561.4043"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="new religious movements">
+        <viz:size value="70.24238"></viz:size>
+        <viz:position x="-565.3425" y="900.03094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="founders of roman catholic religious communities">
+        <viz:size value="66.12696"></viz:size>
+        <viz:position x="769.47455" y="-750.58624"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="religious museums">
+        <viz:size value="64.86067"></viz:size>
+        <viz:position x="-439.47223" y="455.27957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="religious festivals">
+        <viz:size value="64.70239"></viz:size>
+        <viz:position x="151.65398" y="-1236.241"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="religious studies">
+        <viz:size value="63.67354"></viz:size>
+        <viz:position x="-681.4368" y="1334.5809"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="religious orders">
+        <viz:size value="60.11212"></viz:size>
+        <viz:position x="-1057.6825" y="419.8132"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="religious films">
+        <viz:size value="60.032978"></viz:size>
+        <viz:position x="656.2872" y="-550.7334"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="roman catholic religious institutes established in the 19th century">
+        <viz:size value="55.759274"></viz:size>
+        <viz:position x="-168.49742" y="5.7277217"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="religious persecution">
+        <viz:size value="53.859856"></viz:size>
+        <viz:position x="-1322.2498" y="-697.6732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="religious occupations">
+        <viz:size value="52.356144"></viz:size>
+        <viz:position x="292.17825" y="-770.40985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="religious behaviour and experience">
+        <viz:size value="51.08986"></viz:size>
+        <viz:position x="1015.45917" y="-1101.732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="religious books">
+        <viz:size value="50.615005"></viz:size>
+        <viz:position x="442.43723" y="-485.3184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="latin religious phrases">
+        <viz:size value="50.37758"></viz:size>
+        <viz:position x="951.93494" y="1138.8265"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="religious television stations in the united states">
+        <viz:size value="50.37758"></viz:size>
+        <viz:position x="959.71405" y="523.1645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="religious objects">
+        <viz:size value="49.981865"></viz:size>
+        <viz:position x="155.192" y="-1466.9827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="roman catholic religious brothers">
+        <viz:size value="47.211872"></viz:size>
+        <viz:position x="237.97221" y="120.55494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="religious leadership roles">
+        <viz:size value="46.42045"></viz:size>
+        <viz:position x="228.12712" y="-564.8645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="religious organisations based in india">
+        <viz:size value="46.26216"></viz:size>
+        <viz:position x="-665.4486" y="564.31665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="religious israeli settlements">
+        <viz:size value="46.26216"></viz:size>
+        <viz:position x="371.6127" y="-1214.2363"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="religious scholars">
+        <viz:size value="45.549877"></viz:size>
+        <viz:position x="-1209.1174" y="868.49207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="religious scandals">
+        <viz:size value="44.916737"></viz:size>
+        <viz:position x="189.46996" y="1262.2982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="religious symbols">
+        <viz:size value="44.441883"></viz:size>
+        <viz:position x="588.85547" y="-1372.4453"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="religious terminology">
+        <viz:size value="44.283596"></viz:size>
+        <viz:position x="582.9129" y="1362.4703"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="religious media">
+        <viz:size value="43.01731"></viz:size>
+        <viz:position x="-181.03438" y="1036.6057"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="religious charities">
+        <viz:size value="42.6216"></viz:size>
+        <viz:position x="-830.84076" y="137.39644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="religious pluralism">
+        <viz:size value="42.463314"></viz:size>
+        <viz:position x="1412.5527" y="380.5597"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="religious texts">
+        <viz:size value="42.463314"></viz:size>
+        <viz:position x="-502.7059" y="-1193.8977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="religious ethics">
+        <viz:size value="40.48475"></viz:size>
+        <viz:position x="614.0309" y="-913.1174"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="women s rights in religious movements">
+        <viz:size value="40.247322"></viz:size>
+        <viz:position x="1271.8727" y="-68.27723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="national religious party politicians">
+        <viz:size value="40.247322"></viz:size>
+        <viz:position x="-1061.7317" y="-1043.6146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="religious belief and doctrine">
+        <viz:size value="40.247322"></viz:size>
+        <viz:position x="-698.1075" y="-1064.054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="religious zionist orthodox rabbis">
+        <viz:size value="40.009895"></viz:size>
+        <viz:position x="-1184.8444" y="-875.23816"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="roman catholic religious institutes established in the 20th century">
+        <viz:size value="40.009895"></viz:size>
+        <viz:position x="-143.02892" y="231.46649"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="religious zionism">
+        <viz:size value="40.009895"></viz:size>
+        <viz:position x="1255.0524" y="800.7331"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="religious parodies and satires">
+        <viz:size value="38.74361"></viz:size>
+        <viz:position x="-643.27655" y="1120.4321"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="religious discrimination">
+        <viz:size value="38.189613"></viz:size>
+        <viz:position x="-1422.076" y="-480.0317"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="international society for krishna consciousness religious figures">
+        <viz:size value="37.635616"></viz:size>
+        <viz:position x="-28.617987" y="1236.7361"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="religious architecture">
+        <viz:size value="37.319046"></viz:size>
+        <viz:position x="-1418.8386" y="451.7779"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="religious riots">
+        <viz:size value="36.685905"></viz:size>
+        <viz:position x="71.738495" y="-802.0064"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="religious naturalists">
+        <viz:size value="36.369335"></viz:size>
+        <viz:position x="856.5266" y="937.78424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="religious demographics">
+        <viz:size value="35.261337"></viz:size>
+        <viz:position x="-225.61212" y="-983.0388"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="religious sees of the serbian orthodox church">
+        <viz:size value="35.261337"></viz:size>
+        <viz:position x="801.4296" y="-150.40031"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="religious tourism">
+        <viz:size value="34.15334"></viz:size>
+        <viz:position x="-21.273361" y="-1034.227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="religious activists">
+        <viz:size value="33.678482"></viz:size>
+        <viz:position x="459.7512" y="995.242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="religious titles">
+        <viz:size value="33.678482"></viz:size>
+        <viz:position x="-600.9204" y="131.87453"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="jewish religious movements">
+        <viz:size value="33.28277"></viz:size>
+        <viz:position x="-263.09827" y="1248.1775"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="jewish religious clothing">
+        <viz:size value="32.807915"></viz:size>
+        <viz:position x="1392.9879" y="-500.19424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="child sexual abuse in religious groups">
+        <viz:size value="32.807915"></viz:size>
+        <viz:position x="143.39375" y="1485.1416"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="religious philosophical concepts">
+        <viz:size value="31.858204"></viz:size>
+        <viz:position x="-67.97282" y="-1259.6632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="religious organisations based in england">
+        <viz:size value="31.858204"></viz:size>
+        <viz:position x="1281.9252" y="161.7554"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="roman religious sites">
+        <viz:size value="31.383348"></viz:size>
+        <viz:position x="-1493.7859" y="-13.952841"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="religious philosophy">
+        <viz:size value="30.829348"></viz:size>
+        <viz:position x="-275.91483" y="-1220.8699"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="religious science">
+        <viz:size value="30.275352"></viz:size>
+        <viz:position x="-885.30975" y="588.029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="roman catholic religious institutes established in the 17th century">
+        <viz:size value="30.275352"></viz:size>
+        <viz:position x="155.75012" y="-126.456696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="fictional religious workers">
+        <viz:size value="30.275352"></viz:size>
+        <viz:position x="839.164" y="74.96807"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="religious television channels in india">
+        <viz:size value="30.275352"></viz:size>
+        <viz:position x="-282.5552" y="1469.731"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="religious headgear">
+        <viz:size value="30.275352"></viz:size>
+        <viz:position x="1218.2028" y="-281.20676"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="religious activism">
+        <viz:size value="29.721352"></viz:size>
+        <viz:position x="-1158.304" y="-544.331"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="religious holidays">
+        <viz:size value="29.088213"></viz:size>
+        <viz:position x="804.5501" y="-1030.8304"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="religious corporations">
+        <viz:size value="29.088213"></viz:size>
+        <viz:position x="-749.5845" y="788.56757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="religious kibbutz movement">
+        <viz:size value="28.455072"></viz:size>
+        <viz:position x="406.5241" y="-984.37946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="united religious front politicians">
+        <viz:size value="28.455072"></viz:size>
+        <viz:position x="-894.09735" y="-1184.2245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="religious zionist yeshivot">
+        <viz:size value="27.742786"></viz:size>
+        <viz:position x="-1012.2554" y="-717.72296"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="religious flags">
+        <viz:size value="27.742786"></viz:size>
+        <viz:position x="371.33368" y="-1439.8163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="religious websites">
+        <viz:size value="27.742786"></viz:size>
+        <viz:position x="-616.0614" y="-840.25574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="religious hoaxes">
+        <viz:size value="27.742786"></viz:size>
+        <viz:position x="366.48203" y="1442.6606"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="religious culture of the pacific northwest">
+        <viz:size value="27.742786"></viz:size>
+        <viz:position x="-261.56525" y="660.4576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="religious identity">
+        <viz:size value="27.030504"></viz:size>
+        <viz:position x="1487.4355" y="-68.93965"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="religious art">
+        <viz:size value="26.239077"></viz:size>
+        <viz:position x="634.9409" y="849.1339"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="religious tract publishing companies">
+        <viz:size value="26.239077"></viz:size>
+        <viz:position x="-479.69864" y="685.07874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="former members of roman catholic religious institutes">
+        <viz:size value="26.239077"></viz:size>
+        <viz:position x="390.23914" y="-80.655014"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="religious organisations based in the united kingdom">
+        <viz:size value="26.239077"></viz:size>
+        <viz:position x="-846.1336" y="358.58243"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="religious controversies">
+        <viz:size value="26.239077"></viz:size>
+        <viz:position x="594.54517" y="-1150.2487"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="religious furniture">
+        <viz:size value="26.239077"></viz:size>
+        <viz:position x="-51.698986" y="-1487.8396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="religious of the virgin mary">
+        <viz:size value="25.36851"></viz:size>
+        <viz:position x="-49.097683" y="558.00507"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="religious philosophers">
+        <viz:size value="25.36851"></viz:size>
+        <viz:position x="-834.2007" y="994.0568"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="religious language">
+        <viz:size value="25.36851"></viz:size>
+        <viz:position x="777.85345" y="1270.6168"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="roman catholic religious clothing">
+        <viz:size value="25.36851"></viz:size>
+        <viz:position x="1184.0388" y="-912.0712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="religious oaths">
+        <viz:size value="24.418797"></viz:size>
+        <viz:position x="812.6202" y="-1259.3162"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="religious vesture">
+        <viz:size value="24.418797"></viz:size>
+        <viz:position x="962.606" y="-866.8604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="religious organisations in london">
+        <viz:size value="24.418797"></viz:size>
+        <viz:position x="-627.04803" y="339.54672"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="religious organisations based in scotland">
+        <viz:size value="24.418797"></viz:size>
+        <viz:position x="-1050.7885" y="185.82118"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="religious worker characters in video games">
+        <viz:size value="24.418797"></viz:size>
+        <viz:position x="927.9491" y="293.31702"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="subcultures of religious movements">
+        <viz:size value="24.418797"></viz:size>
+        <viz:position x="-1250.2158" y="-119.41584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="sikh religious clothing">
+        <viz:size value="24.418797"></viz:size>
+        <viz:position x="903.1479" y="-560.77515"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="hindu religious clothing">
+        <viz:size value="23.469086"></viz:size>
+        <viz:position x="1453.2495" y="-294.2039"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="religious organisations based in lagos">
+        <viz:size value="23.469086"></viz:size>
+        <viz:position x="-476.7237" y="1365.7053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="religious workers from california">
+        <viz:size value="23.469086"></viz:size>
+        <viz:position x="246.81705" y="1027.161"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="religious political parties">
+        <viz:size value="22.361088"></viz:size>
+        <viz:position x="1379.2227" y="595.3435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="religious torah front politicians">
+        <viz:size value="22.361088"></viz:size>
+        <viz:position x="-490.71164" y="-1411.659"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="religious faiths, traditions, and movements">
+        <viz:size value="22.361088"></viz:size>
+        <viz:position x="-707.52826" y="-1312.8424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="roman catholic religious institutes established in the 18th century">
+        <viz:size value="22.361088"></viz:size>
+        <viz:position x="278.784" y="337.98013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="religious organisations based in singapore">
+        <viz:size value="22.361088"></viz:size>
+        <viz:position x="-378.47723" y="229.8787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="religious views on birth control">
+        <viz:size value="22.361088"></viz:size>
+        <viz:position x="-987.961" y="804.80725"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="non-clerical religious clothing">
+        <viz:size value="19.828526"></viz:size>
+        <viz:position x="1091.6364" y="-683.15375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="religious organisations based in australia">
+        <viz:size value="19.828526"></viz:size>
+        <viz:position x="-1267.6025" y="92.775536"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="religious conventions">
+        <viz:size value="19.828526"></viz:size>
+        <viz:position x="-809.2892" y="-291.1257"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="religious organisations based in germany">
+        <viz:size value="19.828526"></viz:size>
+        <viz:position x="85.33651" y="-361.24347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="religious television channels in the united kingdom">
+        <viz:size value="19.828526"></viz:size>
+        <viz:position x="807.87476" y="696.6549"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="religious iconography">
+        <viz:size value="19.828526"></viz:size>
+        <viz:position x="665.21075" y="1088.8727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="religious events">
+        <viz:size value="18.324814"></viz:size>
+        <viz:position x="416.04276" y="1211.4729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="historicity of religious figures">
+        <viz:size value="18.324814"></viz:size>
+        <viz:position x="-441.56323" y="-996.88654"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="founders of eastern catholic religious communities">
+        <viz:size value="18.324814"></viz:size>
+        <viz:position x="741.4003" y="454.02112"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="religious poetry">
+        <viz:size value="18.324814"></viz:size>
+        <viz:position x="546.37854" y="-265.3961"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="religious organisations based in new zealand">
+        <viz:size value="18.324814"></viz:size>
+        <viz:position x="-381.84134" y="-767.2031"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="religious organisations based in italy">
+        <viz:size value="18.324814"></viz:size>
+        <viz:position x="-221.77068" y="429.63287"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="religious sites in georgia">
+        <viz:size value="18.324814"></viz:size>
+        <viz:position x="-1477.1251" y="219.11884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="religious organisations in south africa">
+        <viz:size value="18.324814"></viz:size>
+        <viz:position x="-1145.2838" y="619.35925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="eastern catholic religious sisters">
+        <viz:size value="16.504534"></viz:size>
+        <viz:position x="583.51843" y="615.0517"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="religious fundamentalism">
+        <viz:size value="16.504534"></viz:size>
+        <viz:position x="192.54974" y="-1004.3299"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="editors of religious publications">
+        <viz:size value="16.504534"></viz:size>
+        <viz:position x="153.37502" y="793.9424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="religious organisations based in saudi arabia">
+        <viz:size value="16.504534"></viz:size>
+        <viz:position x="-943.1582" y="-490.75"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="religious groups in trinidad and tobago">
+        <viz:size value="16.504534"></viz:size>
+        <viz:position x="-428.3986" y="1107.1747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="religious organisations based in the republic of ireland">
+        <viz:size value="16.504534"></viz:size>
+        <viz:position x="-1028.9939" y="-266.00696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="religious comics">
+        <viz:size value="16.504534"></viz:size>
+        <viz:position x="-883.4128" y="1211.1902"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="buddhist religious clothing">
+        <viz:size value="16.504534"></viz:size>
+        <viz:position x="1317.8882" y="-701.45294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="religious organisations based in south korea">
+        <viz:size value="14.446826"></viz:size>
+        <viz:position x="-1056.5198" y="1041.5593"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="religious institutes in the vincentian tradition">
+        <viz:size value="14.446826"></viz:size>
+        <viz:position x="36.99921" y="72.5059"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="religious organisations based in sweden">
+        <viz:size value="14.446826"></viz:size>
+        <viz:position x="618.718" y="-29.567568"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="religious sees in edmonton">
+        <viz:size value="14.446826"></viz:size>
+        <viz:position x="-382.66714" y="7.753031"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="religious television stations in pakistan">
+        <viz:size value="14.446826"></viz:size>
+        <viz:position x="-147.8406" y="-757.61774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="religious converts">
+        <viz:size value="14.446826"></viz:size>
+        <viz:position x="-325.65543" y="883.92584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="lutheran women s religious houses">
+        <viz:size value="14.446826"></viz:size>
+        <viz:position x="-10.733434" y="-564.055"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="student religious organisations in australia">
+        <viz:size value="11.914263"></viz:size>
+        <viz:position x="1068.2831" y="106.70567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="religious naturalism">
+        <viz:size value="11.914263"></viz:size>
+        <viz:position x="1493.0082" y="167.2196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="latter day saint religious clothing">
+        <viz:size value="11.914263"></viz:size>
+        <viz:position x="1158.7247" y="-486.69128"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="religious organisations in the netherlands">
+        <viz:size value="11.914263"></viz:size>
+        <viz:position x="-413.78467" y="-421.15637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="sikh religious workers">
+        <viz:size value="11.914263"></viz:size>
+        <viz:position x="-264.23788" y="-1455.1952"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="frankish religious sisters and nuns">
+        <viz:size value="11.914263"></viz:size>
+        <viz:position x="369.97516" y="571.02765"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="religious organisations based in switzerland">
+        <viz:size value="11.914263"></viz:size>
+        <viz:position x="380.94345" y="788.0547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="religious sees in alberta">
+        <viz:size value="11.914263"></viz:size>
+        <viz:position x="-160.63535" y="-373.99225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="religious workers who died in the holocaust">
+        <viz:size value="11.914263"></viz:size>
+        <viz:position x="501.226" y="379.91052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="religious apologists">
+        <viz:size value="8.590273"></viz:size>
+        <viz:position x="-66.86458" y="1459.2983"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="religious organisations based in wales">
+        <viz:size value="8.590273"></viz:size>
+        <viz:position x="1162.988" y="347.58316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="student religious organisations in new zealand">
+        <viz:size value="8.590273"></viz:size>
+        <viz:position x="1034.1367" y="-109.19873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="roman catholic religious educators">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="466.67288" y="143.91495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="religious abstentions">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1441.2397" y="-239.53049"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="religious organisations based in egypt">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-537.28815" y="-615.34375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="contemplative religious institutes">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="312.51764" y="-308.1696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="protestant religious clothing">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="979.76636" y="-332.27924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="ukrainian religious sisters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="681.8707" y="234.6779"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="religious organisations based in rwanda">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-326.46893" y="-206.83734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="student religious organisations in norway">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-818.17645" y="-78.00022"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="religious organisations based in the solomon islands">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1040.0985" y="-37.145157"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="religious animation">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="747.92804" y="-362.44077"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="religious organisations based in portugal">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1229.2452" y="-344.57233"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="religious organisations based in iran">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1171.8333" y="567.5759"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="gesher zionist religious centre politicians">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1116.036" y="983.8122"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="religious sisters of the sacred heart">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-68.22457" y="801.0528"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="religious organisations based in norway">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-789.29926" y="-696.3239"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="anglican women s religious houses">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-575.2001" y="-289.57037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="religious organisations in france">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-706.9205" y="-488.56332"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="religious blogs">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-874.90625" y="-918.2625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="religious schools in maryland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-260.62585" y="-570.5766"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="bridgettine religious sisters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="502.16794" y="-717.4647"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="religious organisations based in fiji">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="46.945526" y="326.6956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="religious organisations based in croatia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-65.15516" y="-181.3697"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="279.0"></edge>
+      <edge id="1" source="1" target="2" weight="160.0"></edge>
+      <edge id="2" source="0" target="3" weight="112.0"></edge>
+      <edge id="3" source="1" target="4" weight="108.0"></edge>
+      <edge id="4" source="5" target="1" weight="46.0"></edge>
+      <edge id="5" source="6" target="1" weight="38.0"></edge>
+      <edge id="6" source="7" target="8" weight="35.0"></edge>
+      <edge id="7" source="1" target="7" weight="28.0"></edge>
+      <edge id="8" source="9" target="10" weight="17.0"></edge>
+      <edge id="9" source="1" target="11" weight="16.0"></edge>
+      <edge id="10" source="12" target="1" weight="11.0"></edge>
+      <edge id="11" source="13" target="14" weight="9.0"></edge>
+      <edge id="12" source="2" target="15" weight="9.0"></edge>
+      <edge id="13" source="1" target="16" weight="8.0"></edge>
+      <edge id="14" source="17" target="18" weight="8.0"></edge>
+      <edge id="15" source="19" target="20" weight="8.0"></edge>
+      <edge id="16" source="21" target="1" weight="7.0"></edge>
+      <edge id="17" source="22" target="23" weight="7.0"></edge>
+      <edge id="18" source="24" target="22" weight="7.0"></edge>
+      <edge id="19" source="25" target="1" weight="5.0"></edge>
+      <edge id="20" source="26" target="27" weight="5.0"></edge>
+      <edge id="21" source="1" target="28" weight="5.0"></edge>
+      <edge id="22" source="29" target="1" weight="5.0"></edge>
+      <edge id="23" source="30" target="1" weight="4.0"></edge>
+      <edge id="24" source="8" target="31" weight="4.0"></edge>
+      <edge id="25" source="32" target="1" weight="4.0"></edge>
+      <edge id="26" source="33" target="34" weight="4.0"></edge>
+      <edge id="27" source="35" target="0" weight="4.0"></edge>
+      <edge id="28" source="6" target="36" weight="4.0"></edge>
+      <edge id="29" source="37" target="1" weight="3.0"></edge>
+      <edge id="30" source="22" target="38" weight="3.0"></edge>
+      <edge id="31" source="39" target="1" weight="3.0"></edge>
+      <edge id="32" source="19" target="40" weight="3.0"></edge>
+      <edge id="33" source="41" target="42" weight="3.0"></edge>
+      <edge id="34" source="8" target="43" weight="3.0"></edge>
+      <edge id="35" source="1" target="44" weight="3.0"></edge>
+      <edge id="36" source="45" target="46" weight="3.0"></edge>
+      <edge id="37" source="47" target="48" weight="3.0"></edge>
+      <edge id="38" source="49" target="50" weight="3.0"></edge>
+      <edge id="39" source="51" target="52" weight="2.0"></edge>
+      <edge id="40" source="53" target="54" weight="2.0"></edge>
+      <edge id="41" source="8" target="55" weight="2.0"></edge>
+      <edge id="42" source="56" target="24" weight="2.0"></edge>
+      <edge id="43" source="57" target="8" weight="2.0"></edge>
+      <edge id="44" source="1" target="58" weight="2.0"></edge>
+      <edge id="45" source="24" target="59" weight="2.0"></edge>
+      <edge id="46" source="60" target="61" weight="2.0"></edge>
+      <edge id="47" source="1" target="62" weight="2.0"></edge>
+      <edge id="48" source="49" target="41" weight="2.0"></edge>
+      <edge id="49" source="63" target="0" weight="2.0"></edge>
+      <edge id="50" source="44" target="8" weight="2.0"></edge>
+      <edge id="51" source="1" target="64" weight="2.0"></edge>
+      <edge id="52" source="43" target="22" weight="2.0"></edge>
+      <edge id="53" source="65" target="1" weight="2.0"></edge>
+      <edge id="54" source="66" target="67" weight="2.0"></edge>
+      <edge id="55" source="68" target="44" weight="2.0"></edge>
+      <edge id="56" source="50" target="53" weight="2.0"></edge>
+      <edge id="57" source="1" target="43" weight="2.0"></edge>
+      <edge id="58" source="69" target="22" weight="2.0"></edge>
+      <edge id="59" source="15" target="11" weight="2.0"></edge>
+      <edge id="60" source="70" target="71" weight="2.0"></edge>
+      <edge id="61" source="29" target="8" weight="2.0"></edge>
+      <edge id="62" source="8" target="72" weight="2.0"></edge>
+      <edge id="63" source="1" target="73" weight="2.0"></edge>
+      <edge id="64" source="74" target="68" weight="2.0"></edge>
+      <edge id="65" source="8" target="75" weight="2.0"></edge>
+      <edge id="66" source="76" target="77"></edge>
+      <edge id="67" source="78" target="77"></edge>
+      <edge id="68" source="49" target="79"></edge>
+      <edge id="69" source="80" target="81"></edge>
+      <edge id="70" source="9" target="39"></edge>
+      <edge id="71" source="8" target="82"></edge>
+      <edge id="72" source="83" target="8"></edge>
+      <edge id="73" source="84" target="1"></edge>
+      <edge id="74" source="85" target="86"></edge>
+      <edge id="75" source="87" target="88"></edge>
+      <edge id="76" source="89" target="78"></edge>
+      <edge id="77" source="1" target="90"></edge>
+      <edge id="78" source="91" target="1"></edge>
+      <edge id="79" source="15" target="92"></edge>
+      <edge id="80" source="36" target="90"></edge>
+      <edge id="81" source="93" target="41"></edge>
+      <edge id="82" source="94" target="77"></edge>
+      <edge id="83" source="1" target="95"></edge>
+      <edge id="84" source="96" target="97"></edge>
+      <edge id="85" source="98" target="99"></edge>
+      <edge id="86" source="85" target="100"></edge>
+      <edge id="87" source="0" target="101"></edge>
+      <edge id="88" source="102" target="103"></edge>
+      <edge id="89" source="104" target="22"></edge>
+      <edge id="90" source="1" target="105"></edge>
+      <edge id="91" source="19" target="106"></edge>
+      <edge id="92" source="107" target="36"></edge>
+      <edge id="93" source="108" target="1"></edge>
+      <edge id="94" source="109" target="8"></edge>
+      <edge id="95" source="98" target="1"></edge>
+      <edge id="96" source="110" target="111"></edge>
+      <edge id="97" source="1" target="112"></edge>
+      <edge id="98" source="113" target="15"></edge>
+      <edge id="99" source="114" target="115"></edge>
+      <edge id="100" source="116" target="0"></edge>
+      <edge id="101" source="98" target="117"></edge>
+      <edge id="102" source="1" target="118"></edge>
+      <edge id="103" source="119" target="61"></edge>
+      <edge id="104" source="120" target="1"></edge>
+      <edge id="105" source="121" target="122"></edge>
+      <edge id="106" source="123" target="31"></edge>
+      <edge id="107" source="124" target="1"></edge>
+      <edge id="108" source="45" target="125"></edge>
+      <edge id="109" source="87" target="52"></edge>
+      <edge id="110" source="126" target="22"></edge>
+      <edge id="111" source="52" target="127"></edge>
+      <edge id="112" source="128" target="129"></edge>
+      <edge id="113" source="130" target="71"></edge>
+      <edge id="114" source="131" target="132"></edge>
+      <edge id="115" source="49" target="89"></edge>
+      <edge id="116" source="36" target="133"></edge>
+      <edge id="117" source="134" target="11"></edge>
+      <edge id="118" source="49" target="54"></edge>
+      <edge id="119" source="1" target="135"></edge>
+      <edge id="120" source="36" target="136"></edge>
+      <edge id="121" source="137" target="1"></edge>
+      <edge id="122" source="22" target="138"></edge>
+      <edge id="123" source="36" target="71"></edge>
+      <edge id="124" source="139" target="1"></edge>
+      <edge id="125" source="140" target="1"></edge>
+      <edge id="126" source="65" target="15"></edge>
+      <edge id="127" source="141" target="53"></edge>
+      <edge id="128" source="142" target="143"></edge>
+      <edge id="129" source="144" target="143"></edge>
+      <edge id="130" source="8" target="65"></edge>
+      <edge id="131" source="1" target="145"></edge>
+      <edge id="132" source="146" target="1"></edge>
+      <edge id="133" source="85" target="8"></edge>
+      <edge id="134" source="147" target="148"></edge>
+      <edge id="135" source="1" target="149"></edge>
+      <edge id="136" source="150" target="1"></edge>
+      <edge id="137" source="22" target="90"></edge>
+      <edge id="138" source="30" target="15"></edge>
+      <edge id="139" source="15" target="151"></edge>
+      <edge id="140" source="152" target="1"></edge>
+      <edge id="141" source="153" target="42"></edge>
+      <edge id="142" source="154" target="117"></edge>
+      <edge id="143" source="36" target="155"></edge>
+      <edge id="144" source="1" target="156"></edge>
+      <edge id="145" source="157" target="158"></edge>
+      <edge id="146" source="159" target="160"></edge>
+      <edge id="147" source="98" target="161"></edge>
+      <edge id="148" source="1" target="162"></edge>
+    </edges>
+  </graph>
+</gexf>

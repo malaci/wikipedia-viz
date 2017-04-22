@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="united nations security council">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="1116.8922" y="-81.76433"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="computer security">
+        <viz:size value="85.61262"></viz:size>
+        <viz:position x="-444.82065" y="-419.5963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="national security">
+        <viz:size value="78.62927"></viz:size>
+        <viz:position x="69.00033" y="3.7609553"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="security companies">
+        <viz:size value="69.794914"></viz:size>
+        <viz:position x="-831.2181" y="174.28618"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="network security">
+        <viz:size value="63.989487"></viz:size>
+        <viz:position x="-645.3756" y="-613.82837"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="united states department of homeland security">
+        <viz:size value="62.138474"></viz:size>
+        <viz:position x="-484.66608" y="682.1963"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="social security">
+        <viz:size value="62.05434"></viz:size>
+        <viz:position x="741.4307" y="396.14337"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="international security">
+        <viz:size value="57.595093"></viz:size>
+        <viz:position x="1090.6403" y="219.18007"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="security organizations">
+        <viz:size value="56.333042"></viz:size>
+        <viz:position x="838.88354" y="738.61694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="data security">
+        <viz:size value="55.491673"></viz:size>
+        <viz:position x="-815.24475" y="-91.54694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="free security software">
+        <viz:size value="52.631027"></viz:size>
+        <viz:position x="126.52919" y="-567.68274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="security technology">
+        <viz:size value="52.04207"></viz:size>
+        <viz:position x="-767.13007" y="759.84216"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="protective security units">
+        <viz:size value="48.592464"></viz:size>
+        <viz:position x="140.93938" y="-1105.2733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="windows security software">
+        <viz:size value="48.508327"></viz:size>
+        <viz:position x="-721.05566" y="422.27286"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="linux security software">
+        <viz:size value="47.66696"></viz:size>
+        <viz:position x="-164.95284" y="-575.82684"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="operating system security">
+        <viz:size value="46.404907"></viz:size>
+        <viz:position x="-162.37245" y="-1102.4777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="security studies">
+        <viz:size value="44.89045"></viz:size>
+        <viz:position x="873.2342" y="-662.9512"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="web security exploits">
+        <viz:size value="44.63804"></viz:size>
+        <viz:position x="-182.05164" y="-291.29373"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="internet security">
+        <viz:size value="44.469765"></viz:size>
+        <viz:position x="-1071.0542" y="-320.76312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="security guards">
+        <viz:size value="44.469765"></viz:size>
+        <viz:position x="-156.35959" y="542.75464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="transport layer security">
+        <viz:size value="43.79667"></viz:size>
+        <viz:position x="94.94302" y="-290.07227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="food security">
+        <viz:size value="43.54426"></viz:size>
+        <viz:position x="689.7035" y="-875.7367"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="court security">
+        <viz:size value="41.777386"></viz:size>
+        <viz:position x="851.56165" y="86.414696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="security engineering">
+        <viz:size value="39.758106"></viz:size>
+        <viz:position x="-240.41208" y="-30.348875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="os x security software">
+        <viz:size value="36.897457"></viz:size>
+        <viz:position x="-775.71533" y="-356.0906"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="federal security service of the russian federation">
+        <viz:size value="36.476776"></viz:size>
+        <viz:position x="308.7125" y="1071.9803"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="aviation security">
+        <viz:size value="36.476776"></viz:size>
+        <viz:position x="-264.26096" y="821.2443"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="security consulting firms">
+        <viz:size value="36.05609"></viz:size>
+        <viz:position x="-940.53613" y="-611.7868"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="mobile security">
+        <viz:size value="34.625767"></viz:size>
+        <viz:position x="-968.10767" y="556.64044"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="transportation security administration">
+        <viz:size value="34.12095"></viz:size>
+        <viz:position x="-569.8204" y="968.0767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="security service of ukraine">
+        <viz:size value="32.522346"></viz:size>
+        <viz:position x="1042.485" y="-425.6922"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="security compliance">
+        <viz:size value="31.933393"></viz:size>
+        <viz:position x="-519.77026" y="-153.88667"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="perimeter security">
+        <viz:size value="31.344435"></viz:size>
+        <viz:position x="-528.2867" y="124.751564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="vehicle security systems">
+        <viz:size value="31.344435"></viz:size>
+        <viz:position x="10.07472" y="817.223"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="israeli security forces">
+        <viz:size value="31.344435"></viz:size>
+        <viz:position x="605.2323" y="-157.72208"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="energy security">
+        <viz:size value="29.99825"></viz:size>
+        <viz:position x="581.9442" y="143.04256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="physical security">
+        <viz:size value="29.241016"></viz:size>
+        <viz:position x="-443.6806" y="408.71725"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="security in the united states">
+        <viz:size value="29.241016"></viz:size>
+        <viz:position x="384.36752" y="-417.25134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="database security">
+        <viz:size value="26.716915"></viz:size>
+        <viz:position x="-1102.4921" y="-28.847784"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="fictional homeland security agents">
+        <viz:size value="25.707273"></viz:size>
+        <viz:position x="164.96733" y="548.0875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="nigerian security personnel">
+        <viz:size value="24.697634"></viz:size>
+        <viz:position x="671.896" y="-458.51788"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="directors of the nigerian state security service">
+        <viz:size value="22.25767"></viz:size>
+        <viz:position x="45.16418" y="301.54834"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="recipients of the homeland security distinguished service medal">
+        <viz:size value="22.25767"></viz:size>
+        <viz:position x="298.95612" y="794.25543"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="security databases">
+        <viz:size value="20.827345"></viz:size>
+        <viz:position x="-221.55244" y="235.91264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="unix security software">
+        <viz:size value="20.827345"></viz:size>
+        <viz:position x="-384.28656" y="-753.9903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="directors of the federal security service">
+        <viz:size value="20.827345"></viz:size>
+        <viz:position x="871.969" y="-224.81378"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="water security">
+        <viz:size value="20.827345"></viz:size>
+        <viz:position x="483.7652" y="-693.541"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="palestinian security services">
+        <viz:size value="19.228746"></viz:size>
+        <viz:position x="432.76178" y="434.4181"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="security breaches">
+        <viz:size value="19.228746"></viz:size>
+        <viz:position x="-713.60144" y="-870.80817"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="garda crime and security branch">
+        <viz:size value="17.293602"></viz:size>
+        <viz:position x="431.95032" y="-1023.2392"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="united states secretaries of homeland security">
+        <viz:size value="17.293602"></viz:size>
+        <viz:position x="18.219162" y="1101.6224"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="security sector reform">
+        <viz:size value="15.106047"></viz:size>
+        <viz:position x="574.91077" y="667.04956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="state departments of homeland security of the united states">
+        <viz:size value="15.106047"></viz:size>
+        <viz:position x="-277.13284" y="1089.8763"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="people of the federal security service">
+        <viz:size value="15.106047"></viz:size>
+        <viz:position x="588.1214" y="951.5942"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="security testing tools">
+        <viz:size value="12.413672"></viz:size>
+        <viz:position x="214.07442" y="-821.72314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="chief security officers">
+        <viz:size value="12.413672"></viz:size>
+        <viz:position x="-443.30673" y="-1017.7098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="security in germany">
+        <viz:size value="8.8799305"></viz:size>
+        <viz:position x="306.7837" y="182.77194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="security issues by country">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="339.6414" y="-118.28514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="peace and security expert">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="997.02014" y="485.61755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="cloud security">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-81.89355" y="-846.53406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="antivirus security software">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1085.6178" y="279.70148"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="95.0"></edge>
+      <edge id="1" source="2" target="3" weight="54.0"></edge>
+      <edge id="2" source="2" target="4" weight="49.0"></edge>
+      <edge id="3" source="1" target="5" weight="38.0"></edge>
+      <edge id="4" source="2" target="6" weight="28.0"></edge>
+      <edge id="5" source="2" target="7" weight="20.0"></edge>
+      <edge id="6" source="2" target="8" weight="19.0"></edge>
+      <edge id="7" source="9" target="2" weight="17.0"></edge>
+      <edge id="8" source="10" target="4" weight="14.0"></edge>
+      <edge id="9" source="2" target="11" weight="13.0"></edge>
+      <edge id="10" source="12" target="13" weight="10.0"></edge>
+      <edge id="11" source="14" target="2" weight="9.0"></edge>
+      <edge id="12" source="10" target="8" weight="9.0"></edge>
+      <edge id="13" source="6" target="15" weight="8.0"></edge>
+      <edge id="14" source="12" target="16" weight="6.0"></edge>
+      <edge id="15" source="7" target="17" weight="6.0"></edge>
+      <edge id="16" source="10" target="18" weight="6.0"></edge>
+      <edge id="17" source="15" target="9" weight="6.0"></edge>
+      <edge id="18" source="10" target="19" weight="5.0"></edge>
+      <edge id="19" source="2" target="19" weight="5.0"></edge>
+      <edge id="20" source="12" target="20" weight="5.0"></edge>
+      <edge id="21" source="2" target="21" weight="4.0"></edge>
+      <edge id="22" source="22" target="23" weight="4.0"></edge>
+      <edge id="23" source="13" target="2" weight="4.0"></edge>
+      <edge id="24" source="24" target="25" weight="4.0"></edge>
+      <edge id="25" source="14" target="10" weight="4.0"></edge>
+      <edge id="26" source="26" target="13" weight="3.0"></edge>
+      <edge id="27" source="27" target="2" weight="3.0"></edge>
+      <edge id="28" source="25" target="28" weight="2.0"></edge>
+      <edge id="29" source="29" target="30" weight="2.0"></edge>
+      <edge id="30" source="2" target="31" weight="2.0"></edge>
+      <edge id="31" source="25" target="32" weight="2.0"></edge>
+      <edge id="32" source="12" target="31" weight="2.0"></edge>
+      <edge id="33" source="28" target="30" weight="2.0"></edge>
+      <edge id="34" source="33" target="34" weight="2.0"></edge>
+      <edge id="35" source="35" target="2" weight="2.0"></edge>
+      <edge id="36" source="26" target="31" weight="2.0"></edge>
+      <edge id="37" source="36" target="37" weight="2.0"></edge>
+      <edge id="38" source="38" target="25"></edge>
+      <edge id="39" source="26" target="39"></edge>
+      <edge id="40" source="40" target="12"></edge>
+      <edge id="41" source="34" target="41"></edge>
+      <edge id="42" source="42" target="12"></edge>
+      <edge id="43" source="43" target="25"></edge>
+      <edge id="44" source="44" target="2"></edge>
+      <edge id="45" source="45" target="8"></edge>
+      <edge id="46" source="1" target="46"></edge>
+      <edge id="47" source="47" target="48"></edge>
+      <edge id="48" source="26" target="30"></edge>
+      <edge id="49" source="49" target="12"></edge>
+      <edge id="50" source="31" target="10"></edge>
+      <edge id="51" source="50" target="12"></edge>
+      <edge id="52" source="51" target="19"></edge>
+      <edge id="53" source="52" target="12"></edge>
+      <edge id="54" source="53" target="54"></edge>
+      <edge id="55" source="12" target="55"></edge>
+      <edge id="56" source="56" target="2"></edge>
+      <edge id="57" source="2" target="57"></edge>
+      <edge id="58" source="12" target="58"></edge>
+      <edge id="59" source="59" target="12"></edge>
+    </edges>
+  </graph>
+</gexf>

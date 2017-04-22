@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="male screenwriters">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="152.10753" y="-103.558"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="american screenwriters">
+        <viz:size value="97.048676"></viz:size>
+        <viz:position x="67.32121" y="314.20593"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="women screenwriters">
+        <viz:size value="79.50469"></viz:size>
+        <viz:position x="156.4268" y="558.51886"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="french screenwriters">
+        <viz:size value="75.89752"></viz:size>
+        <viz:position x="-390.0369" y="469.4018"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="canadian screenwriters">
+        <viz:size value="71.716484"></viz:size>
+        <viz:position x="1034.0228" y="727.53674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="indian screenwriters">
+        <viz:size value="70.486755"></viz:size>
+        <viz:position x="-911.61053" y="-125.2018"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="english screenwriters">
+        <viz:size value="70.07686"></viz:size>
+        <viz:position x="-118.3598" y="-554.8707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="italian screenwriters">
+        <viz:size value="68.84714"></viz:size>
+        <viz:position x="82.81095" y="-386.3428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="british screenwriters">
+        <viz:size value="67.125534"></viz:size>
+        <viz:position x="-459.14517" y="-1176.7208"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="german screenwriters">
+        <viz:size value="65.076004"></viz:size>
+        <viz:position x="-33.086723" y="60.93711"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="australian screenwriters">
+        <viz:size value="60.731"></viz:size>
+        <viz:position x="403.02405" y="-973.45184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="lgbt screenwriters">
+        <viz:size value="60.157127"></viz:size>
+        <viz:position x="247.23924" y="128.90002"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="japanese screenwriters">
+        <viz:size value="58.68147"></viz:size>
+        <viz:position x="-682.7661" y="1080.3446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="argentine screenwriters">
+        <viz:size value="56.467976"></viz:size>
+        <viz:position x="-314.2648" y="-413.85428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="spanish screenwriters">
+        <viz:size value="56.058067"></viz:size>
+        <viz:position x="847.91455" y="940.3665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="soviet screenwriters">
+        <viz:size value="54.254482"></viz:size>
+        <viz:position x="861.01" y="-557.65155"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="malayalam screenwriters">
+        <viz:size value="54.008537"></viz:size>
+        <viz:position x="-288.97418" y="-5.655914"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="mexican screenwriters">
+        <viz:size value="53.024765"></viz:size>
+        <viz:position x="-839.6021" y="573.8478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="russian screenwriters">
+        <viz:size value="52.04099"></viz:size>
+        <viz:position x="625.5323" y="-569.4431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="swedish screenwriters">
+        <viz:size value="51.303158"></viz:size>
+        <viz:position x="345.0337" y="394.125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="austrian screenwriters">
+        <viz:size value="50.155422"></viz:size>
+        <viz:position x="1246.9675" y="-11.711089"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="danish screenwriters">
+        <viz:size value="49.17165"></viz:size>
+        <viz:position x="638.529" y="-319.50204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="african-american screenwriters">
+        <viz:size value="48.18787"></viz:size>
+        <viz:position x="-77.60187" y="793.97015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="iranian screenwriters">
+        <viz:size value="48.18787"></viz:size>
+        <viz:position x="94.99634" y="1265.0475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="tamil screenwriters">
+        <viz:size value="48.105892"></viz:size>
+        <viz:position x="-1014.93475" y="93.63578"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="hungarian screenwriters">
+        <viz:size value="47.614006"></viz:size>
+        <viz:position x="747.016" y="193.89493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="brazilian screenwriters">
+        <viz:size value="47.040134"></viz:size>
+        <viz:position x="-1188.3947" y="-466.9851"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="chinese screenwriters">
+        <viz:size value="46.876175"></viz:size>
+        <viz:position x="96.75191" y="-1249.84"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="scottish screenwriters">
+        <viz:size value="45.8924"></viz:size>
+        <viz:position x="-199.82364" y="-1257.162"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="israeli screenwriters">
+        <viz:size value="43.43296"></viz:size>
+        <viz:position x="1222.4407" y="-256.35287"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="dutch screenwriters">
+        <viz:size value="43.43296"></viz:size>
+        <viz:position x="-1265.3896" y="0.5678558"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="telugu screenwriters">
+        <viz:size value="42.77711"></viz:size>
+        <viz:position x="-618.0506" y="-59.2181"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="irish screenwriters">
+        <viz:size value="42.285225"></viz:size>
+        <viz:position x="1148.3878" y="495.2856"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="belgian screenwriters">
+        <viz:size value="41.79334"></viz:size>
+        <viz:position x="-346.64914" y="-962.77704"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="anime screenwriters">
+        <viz:size value="41.301453"></viz:size>
+        <viz:position x="-425.59988" y="1191.351"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="romanian screenwriters">
+        <viz:size value="39.98975"></viz:size>
+        <viz:position x="-120.04727" y="-220.5693"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="kannada screenwriters">
+        <viz:size value="36.054653"></viz:size>
+        <viz:position x="-435.9224" y="-210.47087"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="chilean screenwriters">
+        <viz:size value="32.857384"></viz:size>
+        <viz:position x="361.64038" y="-484.2385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="indonesian screenwriters">
+        <viz:size value="32.857384"></viz:size>
+        <viz:position x="-1228.8878" y="260.98663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="south african screenwriters">
+        <viz:size value="32.3655"></viz:size>
+        <viz:position x="609.9869" y="450.09116"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="egyptian screenwriters">
+        <viz:size value="31.217764"></viz:size>
+        <viz:position x="-1042.2949" y="-690.718"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="welsh screenwriters">
+        <viz:size value="30.643894"></viz:size>
+        <viz:position x="337.1911" y="-251.678"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="venezuelan screenwriters">
+        <viz:size value="30.643894"></viz:size>
+        <viz:position x="442.40323" y="647.81036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="ukrainian screenwriters">
+        <viz:size value="29.988045"></viz:size>
+        <viz:position x="727.70575" y="-68.539925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="bulgarian screenwriters">
+        <viz:size value="29.988045"></viz:size>
+        <viz:position x="483.72998" y="-66.590034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="albanian screenwriters">
+        <viz:size value="29.332195"></viz:size>
+        <viz:position x="-124.19686" y="534.0119"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="screenwriters from georgia">
+        <viz:size value="27.856533"></viz:size>
+        <viz:position x="923.9654" y="-301.86627"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="armenian screenwriters">
+        <viz:size value="27.856533"></viz:size>
+        <viz:position x="-242.89008" y="991.1292"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="screenwriters from northern ireland">
+        <viz:size value="27.03672"></viz:size>
+        <viz:position x="784.3239" y="664.51196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="cuban screenwriters">
+        <viz:size value="25.151152"></viz:size>
+        <viz:position x="-453.63916" y="188.57025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="portuguese screenwriters">
+        <viz:size value="25.151152"></viz:size>
+        <viz:position x="-1188.5211" y="-221.70682"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="estonian screenwriters">
+        <viz:size value="24.167377"></viz:size>
+        <viz:position x="663.39484" y="-825.2184"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="taiwanese screenwriters">
+        <viz:size value="24.167377"></viz:size>
+        <viz:position x="345.07318" y="-1216.6312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="animation screenwriters">
+        <viz:size value="24.167377"></viz:size>
+        <viz:position x="497.48578" y="191.78192"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="azerbaijani screenwriters">
+        <viz:size value="23.01964"></viz:size>
+        <viz:position x="997.612" y="188.37709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="icelandic screenwriters">
+        <viz:size value="21.789923"></viz:size>
+        <viz:position x="-928.7437" y="339.26846"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="bosnia and herzegovina screenwriters">
+        <viz:size value="21.789923"></viz:size>
+        <viz:position x="-684.03485" y="-1053.1346"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="colombian screenwriters">
+        <viz:size value="21.789923"></viz:size>
+        <viz:position x="-355.9887" y="-697.77264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="uruguayan screenwriters">
+        <viz:size value="20.396242"></viz:size>
+        <viz:position x="-716.0168" y="-314.4613"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="lithuanian screenwriters">
+        <viz:size value="20.396242"></viz:size>
+        <viz:position x="400.17233" y="-728.4124"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="malaysian screenwriters">
+        <viz:size value="18.838598"></viz:size>
+        <viz:position x="63.21208" y="1021.7195"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="peruvian screenwriters">
+        <viz:size value="18.838598"></viz:size>
+        <viz:position x="-594.21136" y="-813.3349"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="first nations screenwriters">
+        <viz:size value="18.838598"></viz:size>
+        <viz:position x="192.23265" y="781.67316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="ghanaian screenwriters">
+        <viz:size value="18.838598"></viz:size>
+        <viz:position x="-72.155556" y="-1052.5244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="moroccan screenwriters">
+        <viz:size value="16.95303"></viz:size>
+        <viz:position x="-99.788956" y="-804.828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="moldovan screenwriters">
+        <viz:size value="16.95303"></viz:size>
+        <viz:position x="1144.0503" y="-488.01175"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="luxembourgian screenwriters">
+        <viz:size value="14.821519"></viz:size>
+        <viz:position x="-740.6061" y="141.3534"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="latvian screenwriters">
+        <viz:size value="14.821519"></viz:size>
+        <viz:position x="869.56647" y="-927.5627"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="bengali screenwriters">
+        <viz:size value="14.821519"></viz:size>
+        <viz:position x="-1146.9689" y="502.7272"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="lebanese screenwriters">
+        <viz:size value="14.821519"></viz:size>
+        <viz:position x="351.45868" y="1205.3478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="algerian screenwriters">
+        <viz:size value="14.821519"></viz:size>
+        <viz:position x="-341.6535" y="720.44226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="belarusian screenwriters">
+        <viz:size value="14.821519"></viz:size>
+        <viz:position x="626.2067" y="-1102.3665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="palestinian screenwriters">
+        <viz:size value="14.821519"></viz:size>
+        <viz:position x="-157.14354" y="1230.26"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="kyrgyzstani screenwriters">
+        <viz:size value="12.198121"></viz:size>
+        <viz:position x="1037.7915" y="-725.56134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="bolivian screenwriters">
+        <viz:size value="12.198121"></viz:size>
+        <viz:position x="609.4091" y="1104.2119"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="jersey screenwriters">
+        <viz:size value="12.198121"></viz:size>
+        <viz:position x="-199.2943" y="274.5831"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="ophir award winners screenwriters">
+        <viz:size value="8.75491"></viz:size>
+        <viz:position x="1240.684" y="245.05466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="kosovan screenwriters">
+        <viz:size value="8.75491"></viz:size>
+        <viz:position x="-833.35284" y="882.29236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="arab screenwriters">
+        <viz:size value="8.75491"></viz:size>
+        <viz:position x="-884.37103" y="-888.5588"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="dominican republic screenwriters">
+        <viz:size value="8.75491"></viz:size>
+        <viz:position x="-548.8322" y="-508.12064"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="bangladeshi screenwriters">
+        <viz:size value="8.75491"></viz:size>
+        <viz:position x="-949.53906" y="-401.94626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="kazakhstani screenwriters">
+        <viz:size value="8.75491"></viz:size>
+        <viz:position x="357.9965" y="964.2401"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="odia screenwriters">
+        <viz:size value="8.75491"></viz:size>
+        <viz:position x="-1035.99" y="739.04144"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="emirati screenwriters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="598.0866" y="845.59143"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="yugoslav screenwriters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-511.19717" y="908.2036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="jamaican screenwriters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="139.03006" y="-656.9102"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="hindi-language screenwriters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-636.34717" y="382.6601"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="iraqi screenwriters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-617.8824" y="672.8673"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="maltese screenwriters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-777.7812" y="-624.32007"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="german-language screenwriters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="974.6586" y="-63.383472"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="hindi screenwriters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="888.52" y="428.14117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="marathi-language screenwriters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="157.46791" y="-929.14325"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="467.0"></edge>
+      <edge id="1" source="2" target="0" weight="376.0"></edge>
+      <edge id="2" source="3" target="0" weight="197.0"></edge>
+      <edge id="3" source="4" target="0" weight="177.0"></edge>
+      <edge id="4" source="5" target="0" weight="137.0"></edge>
+      <edge id="5" source="6" target="1" weight="108.0"></edge>
+      <edge id="6" source="0" target="7" weight="97.0"></edge>
+      <edge id="7" source="8" target="7" weight="87.0"></edge>
+      <edge id="8" source="0" target="9" weight="84.0"></edge>
+      <edge id="9" source="10" target="0" weight="81.0"></edge>
+      <edge id="10" source="11" target="0" weight="75.0"></edge>
+      <edge id="11" source="12" target="0" weight="69.0"></edge>
+      <edge id="12" source="6" target="3" weight="51.0"></edge>
+      <edge id="13" source="10" target="13" weight="40.0"></edge>
+      <edge id="14" source="14" target="15" weight="30.0"></edge>
+      <edge id="15" source="0" target="16" weight="27.0"></edge>
+      <edge id="16" source="6" target="7" weight="25.0"></edge>
+      <edge id="17" source="6" target="17" weight="20.0"></edge>
+      <edge id="18" source="18" target="0" weight="16.0"></edge>
+      <edge id="19" source="19" target="0" weight="14.0"></edge>
+      <edge id="20" source="20" target="21" weight="12.0"></edge>
+      <edge id="21" source="0" target="22" weight="12.0"></edge>
+      <edge id="22" source="0" target="21" weight="11.0"></edge>
+      <edge id="23" source="23" target="24" weight="9.0"></edge>
+      <edge id="24" source="25" target="8" weight="7.0"></edge>
+      <edge id="25" source="0" target="26" weight="7.0"></edge>
+      <edge id="26" source="25" target="0" weight="6.0"></edge>
+      <edge id="27" source="27" target="28" weight="6.0"></edge>
+      <edge id="28" source="0" target="29" weight="5.0"></edge>
+      <edge id="29" source="30" target="0" weight="4.0"></edge>
+      <edge id="30" source="0" target="31" weight="3.0"></edge>
+      <edge id="31" source="6" target="32" weight="3.0"></edge>
+      <edge id="32" source="13" target="29" weight="3.0"></edge>
+      <edge id="33" source="0" target="33" weight="3.0"></edge>
+      <edge id="34" source="34" target="8" weight="3.0"></edge>
+      <edge id="35" source="35" target="6" weight="3.0"></edge>
+      <edge id="36" source="34" target="0" weight="2.0"></edge>
+      <edge id="37" source="6" target="25" weight="2.0"></edge>
+      <edge id="38" source="5" target="36" weight="2.0"></edge>
+      <edge id="39" source="37" target="0" weight="2.0"></edge>
+      <edge id="40" source="8" target="22" weight="2.0"></edge>
+      <edge id="41" source="38" target="13" weight="2.0"></edge>
+      <edge id="42" source="39" target="6" weight="2.0"></edge>
+      <edge id="43" source="40" target="13" weight="2.0"></edge>
+      <edge id="44" source="41" target="6" weight="2.0"></edge>
+      <edge id="45" source="42" target="39" weight="2.0"></edge>
+      <edge id="46" source="43" target="0" weight="2.0"></edge>
+      <edge id="47" source="34" target="6" weight="2.0"></edge>
+      <edge id="48" source="6" target="31"></edge>
+      <edge id="49" source="44" target="45"></edge>
+      <edge id="50" source="46" target="38"></edge>
+      <edge id="51" source="20" target="47"></edge>
+      <edge id="52" source="48" target="1"></edge>
+      <edge id="53" source="6" target="49"></edge>
+      <edge id="54" source="22" target="50"></edge>
+      <edge id="55" source="3" target="51"></edge>
+      <edge id="56" source="52" target="1"></edge>
+      <edge id="57" source="35" target="0"></edge>
+      <edge id="58" source="53" target="0"></edge>
+      <edge id="59" source="43" target="8"></edge>
+      <edge id="60" source="54" target="55"></edge>
+      <edge id="61" source="56" target="4"></edge>
+      <edge id="62" source="57" target="1"></edge>
+      <edge id="63" source="58" target="57"></edge>
+      <edge id="64" source="23" target="59"></edge>
+      <edge id="65" source="60" target="0"></edge>
+      <edge id="66" source="61" target="31"></edge>
+      <edge id="67" source="62" target="63"></edge>
+      <edge id="68" source="64" target="6"></edge>
+      <edge id="69" source="65" target="38"></edge>
+      <edge id="70" source="13" target="66"></edge>
+      <edge id="71" source="6" target="47"></edge>
+      <edge id="72" source="4" target="67"></edge>
+      <edge id="73" source="55" target="0"></edge>
+      <edge id="74" source="47" target="68"></edge>
+      <edge id="75" source="50" target="69"></edge>
+      <edge id="76" source="3" target="70"></edge>
+      <edge id="77" source="6" target="71"></edge>
+      <edge id="78" source="0" target="72"></edge>
+      <edge id="79" source="73" target="13"></edge>
+      <edge id="80" source="60" target="6"></edge>
+      <edge id="81" source="74" target="75"></edge>
+      <edge id="82" source="76" target="39"></edge>
+      <edge id="83" source="77" target="0"></edge>
+      <edge id="84" source="0" target="78"></edge>
+      <edge id="85" source="79" target="69"></edge>
+      <edge id="86" source="66" target="0"></edge>
+      <edge id="87" source="80" target="81"></edge>
+      <edge id="88" source="82" target="10"></edge>
+      <edge id="89" source="38" target="0"></edge>
+      <edge id="90" source="83" target="32"></edge>
+      <edge id="91" source="84" target="6"></edge>
+      <edge id="92" source="0" target="32"></edge>
+      <edge id="93" source="29" target="6"></edge>
+      <edge id="94" source="85" target="29"></edge>
+      <edge id="95" source="6" target="43"></edge>
+      <edge id="96" source="86" target="6"></edge>
+      <edge id="97" source="60" target="79"></edge>
+      <edge id="98" source="87" target="1"></edge>
+      <edge id="99" source="88" target="13"></edge>
+      <edge id="100" source="31" target="8"></edge>
+      <edge id="101" source="5" target="89"></edge>
+      <edge id="102" source="10" target="90"></edge>
+      <edge id="103" source="61" target="66"></edge>
+      <edge id="104" source="20" target="91"></edge>
+      <edge id="105" source="8" target="32"></edge>
+    </edges>
+  </graph>
+</gexf>

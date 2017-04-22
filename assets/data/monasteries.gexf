@@ -1,0 +1,1376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="christian monasteries">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="146.02892" y="-75.28241"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="benedictine monasteries">
+        <viz:size value="84.920975"></viz:size>
+        <viz:position x="795.61096" y="-5.441591"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="buddhist monasteries">
+        <viz:size value="81.73659"></viz:size>
+        <viz:position x="875.0994" y="1109.3357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="monasteries in england">
+        <viz:size value="77.802925"></viz:size>
+        <viz:position x="538.6202" y="306.4214"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="cistercian monasteries">
+        <viz:size value="76.21073"></viz:size>
+        <viz:position x="353.02237" y="-497.04156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="monasteries in france">
+        <viz:size value="71.340485"></viz:size>
+        <viz:position x="454.12704" y="-1071.1757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="augustinian monasteries">
+        <viz:size value="70.31024"></viz:size>
+        <viz:position x="915.52905" y="-151.24374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="180" label="serbian orthodox monasteries">
+        <viz:size value="66.37659"></viz:size>
+        <viz:position x="-940.0589" y="-1291.6975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="192" label="monasteries in russia">
+        <viz:size value="60.56975"></viz:size>
+        <viz:position x="-1584.9325" y="187.1758"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="monasteries in ireland">
+        <viz:size value="60.28878"></viz:size>
+        <viz:position x="1294.1533" y="-917.5772"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="monasteries in scotland">
+        <viz:size value="60.007805"></viz:size>
+        <viz:position x="499.45804" y="-642.3183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="monasteries in italy">
+        <viz:size value="59.914143"></viz:size>
+        <viz:position x="-926.592" y="-151.15831"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="monasteries in bavaria">
+        <viz:size value="58.040974"></viz:size>
+        <viz:position x="218.6965" y="191.28331"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="ruined abbeys and monasteries">
+        <viz:size value="57.853657"></viz:size>
+        <viz:position x="395.3888" y="-318.85098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="monasteries in india">
+        <viz:size value="57.759995"></viz:size>
+        <viz:position x="-1492.3318" y="-588.0554"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="monasteries in yorkshire">
+        <viz:size value="57.010727"></viz:size>
+        <viz:position x="304.03668" y="866.888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="premonstratensian monasteries">
+        <viz:size value="56.54244"></viz:size>
+        <viz:position x="-294.3819" y="-707.5415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="russian orthodox monasteries">
+        <viz:size value="56.448776"></viz:size>
+        <viz:position x="-1332.1587" y="856.9393"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="monasteries in spain">
+        <viz:size value="56.167805"></viz:size>
+        <viz:position x="-703.6281" y="277.38342"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="dissolution of the monasteries">
+        <viz:size value="55.137558"></viz:size>
+        <viz:position x="-18.65449" y="598.66943"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="monasteries in lincolnshire">
+        <viz:size value="54.95024"></viz:size>
+        <viz:position x="503.51544" y="1346.0497"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="greek orthodox monasteries">
+        <viz:size value="54.95024"></viz:size>
+        <viz:position x="-1213.637" y="1039.5677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="carthusian monasteries">
+        <viz:size value="54.38829"></viz:size>
+        <viz:position x="-895.127" y="160.45992"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="grade i listed monasteries">
+        <viz:size value="53.82634"></viz:size>
+        <viz:position x="386.93454" y="256.9861"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="dominican monasteries">
+        <viz:size value="51.48488"></viz:size>
+        <viz:position x="-367.83902" y="828.0675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="monasteries in norfolk">
+        <viz:size value="51.016582"></viz:size>
+        <viz:position x="482.89365" y="1076.7502"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="monasteries in baden-wurttemberg">
+        <viz:size value="49.049755"></viz:size>
+        <viz:position x="766.4143" y="-303.8734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="trappist monasteries">
+        <viz:size value="48.300488"></viz:size>
+        <viz:position x="-457.76477" y="-94.33314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="cluniac monasteries">
+        <viz:size value="48.01951"></viz:size>
+        <viz:position x="6.387726" y="291.19632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="monasteries in catalonia">
+        <viz:size value="47.738537"></viz:size>
+        <viz:position x="-1016.4709" y="996.9907"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="romanian orthodox monasteries">
+        <viz:size value="46.895607"></viz:size>
+        <viz:position x="-14.530342" y="83.400475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="monasteries in devon">
+        <viz:size value="45.116096"></viz:size>
+        <viz:position x="1384.311" y="787.5404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="monasteries in essex">
+        <viz:size value="44.460487"></viz:size>
+        <viz:position x="1246.8491" y="982.8186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="178" label="monasteries in suffolk">
+        <viz:size value="44.179512"></viz:size>
+        <viz:position x="432.74136" y="1554.2108"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="carmelite monasteries">
+        <viz:size value="43.80488"></viz:size>
+        <viz:position x="76.58124" y="815.22034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="monasteries destroyed during the french revolution">
+        <viz:size value="42.680977"></viz:size>
+        <viz:position x="672.37585" y="-575.52826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="monasteries in wales">
+        <viz:size value="42.306343"></viz:size>
+        <viz:position x="1133.0209" y="-187.89972"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="monasteries in cambridgeshire">
+        <viz:size value="42.306343"></viz:size>
+        <viz:position x="1031.3782" y="953.70105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="monasteries in dorset">
+        <viz:size value="41.463413"></viz:size>
+        <viz:position x="684.5414" y="994.17163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="bulgarian orthodox monasteries">
+        <viz:size value="41.463413"></viz:size>
+        <viz:position x="-120.72317" y="1595.918"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="monasteries in tuscany">
+        <viz:size value="41.463413"></viz:size>
+        <viz:position x="-1166.4916" y="-145.43431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="monasteries in saxony">
+        <viz:size value="40.995117"></viz:size>
+        <viz:position x="1413.9285" y="-746.5951"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="georgian orthodox monasteries">
+        <viz:size value="40.995117"></viz:size>
+        <viz:position x="-141.31764" y="-1555.4684"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="monasteries in gloucestershire">
+        <viz:size value="40.620483"></viz:size>
+        <viz:position x="682.05493" y="1224.8679"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="monasteries in kent">
+        <viz:size value="40.152195"></viz:size>
+        <viz:position x="1287.1548" y="-584.83716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="monasteries in aragon">
+        <viz:size value="40.152195"></viz:size>
+        <viz:position x="-1021.0384" y="579.85016"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="monasteries in castile and leon">
+        <viz:size value="39.6839"></viz:size>
+        <viz:position x="202.77156" y="-279.34528"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="monasteries in somerset">
+        <viz:size value="39.6839"></viz:size>
+        <viz:position x="325.5835" y="9.497046"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="monasteries in north rhine-westphalia">
+        <viz:size value="39.6839"></viz:size>
+        <viz:position x="-576.1847" y="-1015.6835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="monasteries in wiltshire">
+        <viz:size value="39.12195"></viz:size>
+        <viz:position x="1338.6254" y="412.749"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="monasteries in west sussex">
+        <viz:size value="39.12195"></viz:size>
+        <viz:position x="-383.54068" y="-1136.1714"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="eastern orthodox monasteries">
+        <viz:size value="39.12195"></viz:size>
+        <viz:position x="-341.9491" y="-1558.8333"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="monasteries in london">
+        <viz:size value="38.653656"></viz:size>
+        <viz:position x="469.4066" y="-125.548"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="monasteries in leicestershire">
+        <viz:size value="38.653656"></viz:size>
+        <viz:position x="-475.18997" y="1070.4049"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="monasteries in staffordshire">
+        <viz:size value="38.653656"></viz:size>
+        <viz:position x="196.75272" y="-1329.3038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="gelug monasteries">
+        <viz:size value="38.091705"></viz:size>
+        <viz:position x="-1385.098" y="-772.7965"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="monasteries in herefordshire">
+        <viz:size value="36.967804"></viz:size>
+        <viz:position x="997.56055" y="729.6276"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="monasteries in berkshire">
+        <viz:size value="36.967804"></viz:size>
+        <viz:position x="133.73317" y="1594.9954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="monasteries on mount athos">
+        <viz:size value="36.405853"></viz:size>
+        <viz:position x="-357.49258" y="1558.9362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="monasteries in warwickshire">
+        <viz:size value="36.405853"></viz:size>
+        <viz:position x="-852.8113" y="1169.594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="monasteries in moscow">
+        <viz:size value="35.750244"></viz:size>
+        <viz:position x="401.62854" y="683.046"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="monasteries in cumbria">
+        <viz:size value="35.750244"></viz:size>
+        <viz:position x="637.60596" y="706.09845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="monasteries in oxfordshire">
+        <viz:size value="35.750244"></viz:size>
+        <viz:position x="841.163" y="868.66846"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="monasteries in nottinghamshire">
+        <viz:size value="35.094635"></viz:size>
+        <viz:position x="1380.0453" y="-215.13873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="monasteries in bedfordshire">
+        <viz:size value="35.094635"></viz:size>
+        <viz:position x="683.7121" y="1438.204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="monasteries in galicia">
+        <viz:size value="34.439026"></viz:size>
+        <viz:position x="-790.5715" y="488.92288"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="monasteries of canonesses regular">
+        <viz:size value="33.68976"></viz:size>
+        <viz:position x="1053.4353" y="-516.75226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="monasteries in rhineland-palatinate">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="-197.48843" y="197.79271"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="coptic orthodox monasteries">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="438.19284" y="-1540.1283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="monasteries in derbyshire">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="963.3435" y="109.42499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="177" label="monasteries in cornwall">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="-234.00133" y="982.5395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="monasteries in saxony-anhalt">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="889.75574" y="-683.3902"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="monasteries in buckinghamshire">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="-186.67728" y="-1280.8151"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="monasteries in lower austria">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="-818.83527" y="-532.395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="196" label="monasteries in the czech republic">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="-363.6786" y="-1350.2072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="poor clare monasteries">
+        <viz:size value="32.09756"></viz:size>
+        <viz:position x="765.03625" y="582.78265"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="monasteries in worcestershire">
+        <viz:size value="31.254635"></viz:size>
+        <viz:position x="341.39554" y="1222.1964"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="monasteries in crete">
+        <viz:size value="31.254635"></viz:size>
+        <viz:position x="-551.55334" y="-1490.9792"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="monasteries in east sussex">
+        <viz:size value="31.254635"></viz:size>
+        <viz:position x="48.935425" y="-1121.235"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="monasteries in northamptonshire">
+        <viz:size value="31.254635"></viz:size>
+        <viz:position x="-6.553306" y="1019.0751"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="monasteries in lombardy">
+        <viz:size value="31.254635"></viz:size>
+        <viz:position x="-609.8638" y="67.940315"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="monasteries in hesse">
+        <viz:size value="31.254635"></viz:size>
+        <viz:position x="676.75543" y="-777.171"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="monasteries in cheshire">
+        <viz:size value="31.254635"></viz:size>
+        <viz:position x="-82.43014" y="1207.9076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="195" label="macedonian orthodox monasteries">
+        <viz:size value="30.318047"></viz:size>
+        <viz:position x="-742.2071" y="-1402.6549"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="monasteries in emilia-romagna">
+        <viz:size value="30.318047"></viz:size>
+        <viz:position x="-1376.6085" y="-148.6183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="monasteries in shropshire">
+        <viz:size value="30.318047"></viz:size>
+        <viz:position x="646.8554" y="-139.5901"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="grade ii listed monasteries">
+        <viz:size value="30.318047"></viz:size>
+        <viz:position x="939.2192" y="515.95496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="monasteries in lancashire">
+        <viz:size value="30.318047"></viz:size>
+        <viz:position x="-141.87794" y="-1055.074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="cypriot orthodox monasteries">
+        <viz:size value="30.318047"></viz:size>
+        <viz:position x="-94.7757" y="-583.9207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="double monasteries">
+        <viz:size value="29.287804"></viz:size>
+        <viz:position x="711.6066" y="165.85349"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="gilbertine monasteries">
+        <viz:size value="29.287804"></viz:size>
+        <viz:position x="527.1482" y="871.7716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="monasteries in surrey">
+        <viz:size value="28.1639"></viz:size>
+        <viz:position x="530.79645" y="59.18941"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="monasteries in mecklenburg-vorpommern">
+        <viz:size value="28.1639"></viz:size>
+        <viz:position x="-419.8243" y="-302.15717"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="camaldolese monasteries">
+        <viz:size value="27.039999"></viz:size>
+        <viz:position x="-1320.5278" y="45.602783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="185" label="orthodox monasteries in ukraine">
+        <viz:size value="27.039999"></viz:size>
+        <viz:position x="846.41406" y="-1366.0472"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="monasteries in madrid">
+        <viz:size value="27.039999"></viz:size>
+        <viz:position x="-965.77185" y="360.96777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="trappistine monasteries">
+        <viz:size value="27.039999"></viz:size>
+        <viz:position x="1017.8164" y="-900.7041"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="monasteries in county durham">
+        <viz:size value="27.039999"></viz:size>
+        <viz:position x="733.65375" y="384.86227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="monasteries in asturias">
+        <viz:size value="27.039999"></viz:size>
+        <viz:position x="-1091.3362" y="801.8204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="monasteries in lazio">
+        <viz:size value="25.728779"></viz:size>
+        <viz:position x="-1076.45" y="30.703299"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="ukrainian orthodox monasteries">
+        <viz:size value="25.728779"></viz:size>
+        <viz:position x="639.6376" y="-1016.5921"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="syriac orthodox monasteries">
+        <viz:size value="25.728779"></viz:size>
+        <viz:position x="58.71564" y="-1589.9912"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="monasteries in umbria">
+        <viz:size value="25.728779"></viz:size>
+        <viz:position x="-1277.2196" y="-533.5565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="franciscan monasteries in germany">
+        <viz:size value="24.323902"></viz:size>
+        <viz:position x="1143.9231" y="18.613274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="monasteries in upper austria">
+        <viz:size value="24.323902"></viz:size>
+        <viz:position x="-381.70895" y="117.45001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="monasteries in hampshire">
+        <viz:size value="24.323902"></viz:size>
+        <viz:position x="-291.88434" y="1174.4633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="172" label="monasteries in the isle of wight">
+        <viz:size value="24.323902"></viz:size>
+        <viz:position x="1420.5762" y="186.13812"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="monasteries in piedmont">
+        <viz:size value="24.323902"></viz:size>
+        <viz:position x="-1367.9629" y="235.47986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="monasteries in the west midlands">
+        <viz:size value="24.323902"></viz:size>
+        <viz:position x="317.74234" y="460.47388"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="bridgettine monasteries">
+        <viz:size value="24.323902"></viz:size>
+        <viz:position x="1082.1774" y="366.1385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="monasteries in schleswig-holstein">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="-1364.4144" y="463.56067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="monasteries in aisne">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="-8.728669" y="-1351.5645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="monasteries in thuringia">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="843.66956" y="-495.79465"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="monasteries in abruzzo">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="-1057.3999" y="-866.4294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="monasteries in northumberland">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="534.41125" y="491.14255"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="173" label="monasteries in carinthia">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="1574.7202" y="-108.27928"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="tironensian monasteries">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="826.3953" y="-914.27155"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="monasteries in brandenburg">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="1603.9735" y="113.47231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="african monasteries of the congregation of missionary benedictines of saint ottilien">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="120.87926" y="-498.46802"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="181" label="monasteries in hertfordshire">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="-626.17194" y="1257.9357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="lutheran monasteries in germany">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="1140.5919" y="-1048.5428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="193" label="cave monasteries">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="-1553.3472" y="411.4318"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="franciscan monasteries in denmark">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="1222.233" y="216.27133"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="189" label="monasteries in the valencian community">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="262.6439" y="-1146.2134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="armenian apostolic monasteries">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="-411.87033" y="-537.4868"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="monasteries in styria">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="1484.9983" y="-519.14923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="monasteries in tyne and wear">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="200.65723" y="1045.1061"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="ursuline monasteries">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-682.38635" y="1054.3967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="european monasteries of the congregation of missionary benedictines of saint ottilien">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-166.95164" y="414.13715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="monasteries suppressed under the scottish reformation">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-33.84875" y="-130.00876"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="171" label="nyingma monasteries and temples">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-1269.8938" y="-938.9814"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="roman catholic monasteries in the united states">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="1189.1332" y="760.7448"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="monasteries in castilla-la mancha">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-830.28" y="897.45636"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="monasteries in south tyrol">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-917.22974" y="-724.9742"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="hieronymite monasteries">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-19.202944" y="-338.56067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="187" label="asian monasteries of the congregation of missionary benedictines of saint ottilien">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-1595.9808" y="-232.67337"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="monasteries in bucharest">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-229.27782" y="622.25244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="anglican monasteries">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="136.8076" y="1268.3853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="monasteries in the philippines">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-1028.9099" y="-332.8624"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="franciscan monasteries in bosnia and herzegovina">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="-229.51349" y="-239.3227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="monasteries in campania">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="-1154.7426" y="210.81546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="monasteries closed by the protestant reformation">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="988.4313" y="-335.46127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="monasteries in navarre">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="-875.22473" y="712.18024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="salesian monasteries">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="-506.39447" y="271.73392"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="monasteries in prague">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="-740.7646" y="-1156.5201"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="baroque monasteries">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="-562.5045" y="-1255.7273"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="198" label="franciscan monasteries in sweden">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="-594.07965" y="1486.618"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="franciscan monasteries in austria">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="1.6460799" y="1418.7089"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="203" label="maronite monasteries in lebanon">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="443.5959" y="-851.64325"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="franciscan monasteries in croatia">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="-608.08997" y="-599.275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="monasteries in extremadura">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="-655.6386" y="-170.89209"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="monasteries in oise">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="643.766" y="-1236.0984"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="monasteries in veneto">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="-1471.1145" y="-382.3482"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="monasteries of secular canonesses">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="1008.2148" y="-1197.3971"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="grade ii listed monasteries">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="270.16946" y="1438.5873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="204" label="monasteries in oxford">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="1132.6368" y="-733.3482"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="monasteries in andalusia">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="-792.61096" y="-318.77072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="201" label="monasteries in bristol">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="1550.235" y="-329.44095"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="monasteries of knights hospitaller in switzerland">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="-228.25049" y="-447.5245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="191" label="monasteries in bohuslan">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="-809.0412" y="-946.23505"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="visitation monasteries">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="894.4909" y="293.66348"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="monasteries in liguria">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="-1257.4564" y="-341.12415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="valliscaulian monasteries">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="626.97974" y="-1431.117"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="monasteries in rome">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="-784.1213" y="6.895172"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="kagyu monasteries and temples">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="1090.6268" y="1174.815"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="monasteries in saint petersburg">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="-1456.0208" y="668.7353"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="monasteries in la rioja">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="-651.0175" y="668.5968"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="monasteries in vatican city">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="108.22867" y="431.95767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="north american monasteries of the congregation of missionary benedictines of saint ottilien">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1365.8047" y="-14.13729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="monasteries in azerbaijan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-594.9048" y="-393.29056"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="monasteries in rutland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1273.4697" y="-379.59717"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="184" label="roman catholic monasteries in canada">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="49.436203" y="-914.71454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="franciscan monasteries in belgium">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="67.34258" y="-706.1948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="monasteries in cantabria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1230.8617" y="647.4763"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="200" label="franciscan monasteries in slovenia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-125.11312" y="799.663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="174" label="vincentian monasteries in slovenia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="194.96335" y="653.5824"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="monasteries in the balearic islands">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1166.9155" y="417.81644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="pauline monasteries">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-685.9221" y="-790.89325"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="202" label="pure land monasteries">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="894.4939" y="1326.8585"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="monasteries under the columban rule in switzerland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="568.9368" y="-377.78662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="roman catholic monasteries in sweden">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-438.12234" y="1333.5319"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="monasteries in saarland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="424.6475" y="-1303.1345"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="monasteries in bremen">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-226.69882" y="1388.3425"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="197" label="franciscan monasteries in norway">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-811.1504" y="1382.0248"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="ukrainian catholic monasteries">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="247.54741" y="-921.9644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="175" label="franciscan monasteries in the united states">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-353.7254" y="403.38437"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="roman catholic monasteries in the united kingdom">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-595.0566" y="853.5611"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="studite brethren monasteries">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-479.22952" y="-790.42664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="monasteries in salzburg">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1211.2206" y="559.9296"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="lutheran monasteries in sweden">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-131.42122" y="-821.0788"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="190" label="roman catholic monasteries in finland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1473.0406" y="591.91034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="roman catholic monasteries in asia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1025.3966" y="-525.3776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="182" label="franciscan monasteries in portugal">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="267.32672" y="-703.28766"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="186" label="monasteries in merseyside">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1537.9504" y="362.3306"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="olivetan monasteries">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1551.4343" y="-16.095009"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="monasteries in Ile-de-france">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="246.71817" y="-1534.508"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="eastern catholic monasteries">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-237.58478" y="-33.356148"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="194" label="monasteries in new zealand">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="829.5316" y="-1128.1956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="179" label="monasteries by church">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1147.0234" y="-1121.9781"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="176" label="methodist monasteries">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-427.0826" y="630.30493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="monasteries in molise">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1167.9325" y="-694.6045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="monasteries in calabria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1045.2329" y="1221.9965"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="188" label="monasteries on fruska gora">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-962.02576" y="-1086.2396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="199" label="latin american monasteries of the congregation of missionary benedictines of saint ottilien">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-323.68063" y="-930.687"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="183" label="oriental orthodox monasteries">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-566.39374" y="470.12607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="153.0"></edge>
+      <edge id="1" source="1" target="2" weight="87.0"></edge>
+      <edge id="2" source="1" target="3" weight="78.0"></edge>
+      <edge id="3" source="1" target="4" weight="77.0"></edge>
+      <edge id="4" source="5" target="3" weight="64.0"></edge>
+      <edge id="5" source="1" target="6" weight="51.0"></edge>
+      <edge id="6" source="7" target="1" weight="45.0"></edge>
+      <edge id="7" source="1" target="8" weight="41.0"></edge>
+      <edge id="8" source="9" target="2" weight="39.0"></edge>
+      <edge id="9" source="10" target="1" weight="39.0"></edge>
+      <edge id="10" source="11" target="2" weight="37.0"></edge>
+      <edge id="11" source="9" target="10" weight="34.0"></edge>
+      <edge id="12" source="1" target="12" weight="31.0"></edge>
+      <edge id="13" source="1" target="13" weight="31.0"></edge>
+      <edge id="14" source="1" target="14" weight="31.0"></edge>
+      <edge id="15" source="15" target="1" weight="29.0"></edge>
+      <edge id="16" source="1" target="16" weight="29.0"></edge>
+      <edge id="17" source="1" target="17" weight="29.0"></edge>
+      <edge id="18" source="5" target="8" weight="26.0"></edge>
+      <edge id="19" source="11" target="12" weight="23.0"></edge>
+      <edge id="20" source="18" target="1" weight="23.0"></edge>
+      <edge id="21" source="19" target="1" weight="22.0"></edge>
+      <edge id="22" source="9" target="18" weight="22.0"></edge>
+      <edge id="23" source="5" target="2" weight="21.0"></edge>
+      <edge id="24" source="20" target="9" weight="18.0"></edge>
+      <edge id="25" source="16" target="5" weight="17.0"></edge>
+      <edge id="26" source="20" target="1" weight="17.0"></edge>
+      <edge id="27" source="21" target="6" weight="16.0"></edge>
+      <edge id="28" source="22" target="1" weight="16.0"></edge>
+      <edge id="29" source="7" target="23" weight="16.0"></edge>
+      <edge id="30" source="24" target="1" weight="15.0"></edge>
+      <edge id="31" source="25" target="2" weight="15.0"></edge>
+      <edge id="32" source="21" target="2" weight="15.0"></edge>
+      <edge id="33" source="1" target="26" weight="15.0"></edge>
+      <edge id="34" source="27" target="19" weight="14.0"></edge>
+      <edge id="35" source="11" target="6" weight="14.0"></edge>
+      <edge id="36" source="1" target="28" weight="13.0"></edge>
+      <edge id="37" source="9" target="26" weight="13.0"></edge>
+      <edge id="38" source="5" target="13" weight="12.0"></edge>
+      <edge id="39" source="11" target="19" weight="12.0"></edge>
+      <edge id="40" source="1" target="29" weight="11.0"></edge>
+      <edge id="41" source="30" target="1" weight="11.0"></edge>
+      <edge id="42" source="1" target="31" weight="11.0"></edge>
+      <edge id="43" source="32" target="1" weight="11.0"></edge>
+      <edge id="44" source="25" target="10" weight="11.0"></edge>
+      <edge id="45" source="21" target="16" weight="11.0"></edge>
+      <edge id="46" source="33" target="1" weight="11.0"></edge>
+      <edge id="47" source="34" target="7" weight="11.0"></edge>
+      <edge id="48" source="2" target="35" weight="10.0"></edge>
+      <edge id="49" source="36" target="1" weight="10.0"></edge>
+      <edge id="50" source="5" target="29" weight="10.0"></edge>
+      <edge id="51" source="5" target="18" weight="10.0"></edge>
+      <edge id="52" source="24" target="21" weight="10.0"></edge>
+      <edge id="53" source="9" target="37" weight="10.0"></edge>
+      <edge id="54" source="9" target="38" weight="9.0"></edge>
+      <edge id="55" source="1" target="38" weight="9.0"></edge>
+      <edge id="56" source="39" target="7" weight="9.0"></edge>
+      <edge id="57" source="9" target="40" weight="8.0"></edge>
+      <edge id="58" source="41" target="19" weight="8.0"></edge>
+      <edge id="59" source="1" target="42" weight="8.0"></edge>
+      <edge id="60" source="21" target="18" weight="8.0"></edge>
+      <edge id="61" source="4" target="25" weight="8.0"></edge>
+      <edge id="62" source="16" target="11" weight="8.0"></edge>
+      <edge id="63" source="43" target="9" weight="7.0"></edge>
+      <edge id="64" source="44" target="1" weight="7.0"></edge>
+      <edge id="65" source="44" target="9" weight="7.0"></edge>
+      <edge id="66" source="11" target="8" weight="7.0"></edge>
+      <edge id="67" source="1" target="40" weight="7.0"></edge>
+      <edge id="68" source="45" target="1" weight="7.0"></edge>
+      <edge id="69" source="7" target="46" weight="7.0"></edge>
+      <edge id="70" source="1" target="37" weight="7.0"></edge>
+      <edge id="71" source="47" target="0" weight="7.0"></edge>
+      <edge id="72" source="48" target="1" weight="7.0"></edge>
+      <edge id="73" source="5" target="24" weight="7.0"></edge>
+      <edge id="74" source="9" target="48" weight="7.0"></edge>
+      <edge id="75" source="6" target="49" weight="6.0"></edge>
+      <edge id="76" source="43" target="1" weight="6.0"></edge>
+      <edge id="77" source="7" target="50" weight="6.0"></edge>
+      <edge id="78" source="30" target="5" weight="6.0"></edge>
+      <edge id="79" source="6" target="51" weight="6.0"></edge>
+      <edge id="80" source="21" target="37" weight="6.0"></edge>
+      <edge id="81" source="52" target="31" weight="6.0"></edge>
+      <edge id="82" source="21" target="26" weight="5.0"></edge>
+      <edge id="83" source="1" target="53" weight="5.0"></edge>
+      <edge id="84" source="1" target="54" weight="5.0"></edge>
+      <edge id="85" source="21" target="55" weight="5.0"></edge>
+      <edge id="86" source="7" target="56" weight="5.0"></edge>
+      <edge id="87" source="1" target="57" weight="5.0"></edge>
+      <edge id="88" source="9" target="42" weight="5.0"></edge>
+      <edge id="89" source="8" target="21" weight="5.0"></edge>
+      <edge id="90" source="9" target="13" weight="5.0"></edge>
+      <edge id="91" source="19" target="58" weight="5.0"></edge>
+      <edge id="92" source="59" target="7" weight="5.0"></edge>
+      <edge id="93" source="4" target="49" weight="5.0"></edge>
+      <edge id="94" source="11" target="32" weight="5.0"></edge>
+      <edge id="95" source="36" target="5" weight="5.0"></edge>
+      <edge id="96" source="23" target="17" weight="4.0"></edge>
+      <edge id="97" source="60" target="25" weight="4.0"></edge>
+      <edge id="98" source="57" target="5" weight="4.0"></edge>
+      <edge id="99" source="61" target="7" weight="4.0"></edge>
+      <edge id="100" source="62" target="7" weight="4.0"></edge>
+      <edge id="101" source="44" target="25" weight="4.0"></edge>
+      <edge id="102" source="21" target="38" weight="4.0"></edge>
+      <edge id="103" source="51" target="2" weight="4.0"></edge>
+      <edge id="104" source="1" target="63" weight="4.0"></edge>
+      <edge id="105" source="30" target="11" weight="4.0"></edge>
+      <edge id="106" source="0" target="64" weight="4.0"></edge>
+      <edge id="107" source="65" target="66" weight="3.0"></edge>
+      <edge id="108" source="21" target="67" weight="3.0"></edge>
+      <edge id="109" source="5" target="42" weight="3.0"></edge>
+      <edge id="110" source="7" target="68" weight="3.0"></edge>
+      <edge id="111" source="5" target="32" weight="3.0"></edge>
+      <edge id="112" source="7" target="69" weight="3.0"></edge>
+      <edge id="113" source="70" target="3" weight="3.0"></edge>
+      <edge id="114" source="19" target="71" weight="3.0"></edge>
+      <edge id="115" source="5" target="38" weight="3.0"></edge>
+      <edge id="116" source="72" target="1" weight="3.0"></edge>
+      <edge id="117" source="6" target="73" weight="3.0"></edge>
+      <edge id="118" source="40" target="21" weight="3.0"></edge>
+      <edge id="119" source="27" target="74" weight="3.0"></edge>
+      <edge id="120" source="75" target="22" weight="3.0"></edge>
+      <edge id="121" source="76" target="1" weight="3.0"></edge>
+      <edge id="122" source="5" target="37" weight="3.0"></edge>
+      <edge id="123" source="5" target="48" weight="3.0"></edge>
+      <edge id="124" source="17" target="77" weight="3.0"></edge>
+      <edge id="125" source="78" target="3" weight="3.0"></edge>
+      <edge id="126" source="5" target="79" weight="3.0"></edge>
+      <edge id="127" source="35" target="6" weight="3.0"></edge>
+      <edge id="128" source="5" target="26" weight="3.0"></edge>
+      <edge id="129" source="4" target="80" weight="3.0"></edge>
+      <edge id="130" source="81" target="1" weight="3.0"></edge>
+      <edge id="131" source="47" target="4" weight="3.0"></edge>
+      <edge id="132" source="82" target="24" weight="2.0"></edge>
+      <edge id="133" source="1" target="83" weight="2.0"></edge>
+      <edge id="134" source="84" target="19" weight="2.0"></edge>
+      <edge id="135" source="36" target="11" weight="2.0"></edge>
+      <edge id="136" source="85" target="63" weight="2.0"></edge>
+      <edge id="137" source="11" target="86" weight="2.0"></edge>
+      <edge id="138" source="7" target="87" weight="2.0"></edge>
+      <edge id="139" source="76" target="11" weight="2.0"></edge>
+      <edge id="140" source="57" target="11" weight="2.0"></edge>
+      <edge id="141" source="88" target="89" weight="2.0"></edge>
+      <edge id="142" source="90" target="7" weight="2.0"></edge>
+      <edge id="143" source="91" target="14" weight="2.0"></edge>
+      <edge id="144" source="25" target="38" weight="2.0"></edge>
+      <edge id="145" source="92" target="93" weight="2.0"></edge>
+      <edge id="146" source="1" target="94" weight="2.0"></edge>
+      <edge id="147" source="95" target="2" weight="2.0"></edge>
+      <edge id="148" source="62" target="17" weight="2.0"></edge>
+      <edge id="149" source="24" target="11" weight="2.0"></edge>
+      <edge id="150" source="19" target="85" weight="2.0"></edge>
+      <edge id="151" source="96" target="4" weight="2.0"></edge>
+      <edge id="152" source="1" target="97" weight="2.0"></edge>
+      <edge id="153" source="34" target="17" weight="2.0"></edge>
+      <edge id="154" source="5" target="98" weight="2.0"></edge>
+      <edge id="155" source="99" target="19" weight="2.0"></edge>
+      <edge id="156" source="5" target="100" weight="2.0"></edge>
+      <edge id="157" source="11" target="26" weight="2.0"></edge>
+      <edge id="158" source="5" target="43" weight="2.0"></edge>
+      <edge id="159" source="101" target="102" weight="2.0"></edge>
+      <edge id="160" source="19" target="103" weight="2.0"></edge>
+      <edge id="161" source="9" target="33" weight="2.0"></edge>
+      <edge id="162" source="5" target="33" weight="2.0"></edge>
+      <edge id="163" source="18" target="25" weight="2.0"></edge>
+      <edge id="164" source="64" target="16" weight="2.0"></edge>
+      <edge id="165" source="29" target="9" weight="2.0"></edge>
+      <edge id="166" source="41" target="12" weight="2.0"></edge>
+      <edge id="167" source="104" target="3" weight="2.0"></edge>
+      <edge id="168" source="17" target="27" weight="2.0"></edge>
+      <edge id="169" source="105" target="2" weight="2.0"></edge>
+      <edge id="170" source="106" target="1" weight="2.0"></edge>
+      <edge id="171" source="40" target="5" weight="2.0"></edge>
+      <edge id="172" source="4" target="107" weight="2.0"></edge>
+      <edge id="173" source="108" target="109" weight="2.0"></edge>
+      <edge id="174" source="7" target="110" weight="2.0"></edge>
+      <edge id="175" source="39" target="17" weight="2.0"></edge>
+      <edge id="176" source="111" target="16" weight="2.0"></edge>
+      <edge id="177" source="50" target="17"></edge>
+      <edge id="178" source="14" target="112"></edge>
+      <edge id="179" source="113" target="4"></edge>
+      <edge id="180" source="36" target="114"></edge>
+      <edge id="181" source="42" target="115"></edge>
+      <edge id="182" source="116" target="97"></edge>
+      <edge id="183" source="76" target="111"></edge>
+      <edge id="184" source="63" target="5"></edge>
+      <edge id="185" source="117" target="14"></edge>
+      <edge id="186" source="57" target="21"></edge>
+      <edge id="187" source="118" target="119"></edge>
+      <edge id="188" source="21" target="97"></edge>
+      <edge id="189" source="21" target="30"></edge>
+      <edge id="190" source="19" target="120"></edge>
+      <edge id="191" source="121" target="19"></edge>
+      <edge id="192" source="122" target="2"></edge>
+      <edge id="193" source="21" target="63"></edge>
+      <edge id="194" source="19" target="123"></edge>
+      <edge id="195" source="4" target="124"></edge>
+      <edge id="196" source="29" target="25"></edge>
+      <edge id="197" source="31" target="125"></edge>
+      <edge id="198" source="21" target="42"></edge>
+      <edge id="199" source="84" target="17"></edge>
+      <edge id="200" source="126" target="3"></edge>
+      <edge id="201" source="127" target="128"></edge>
+      <edge id="202" source="70" target="129"></edge>
+      <edge id="203" source="0" target="130"></edge>
+      <edge id="204" source="11" target="131"></edge>
+      <edge id="205" source="38" target="11"></edge>
+      <edge id="206" source="22" target="112"></edge>
+      <edge id="207" source="132" target="7"></edge>
+      <edge id="208" source="107" target="2"></edge>
+      <edge id="209" source="41" target="14"></edge>
+      <edge id="210" source="1" target="133"></edge>
+      <edge id="211" source="21" target="29"></edge>
+      <edge id="212" source="134" target="76"></edge>
+      <edge id="213" source="1" target="135"></edge>
+      <edge id="214" source="136" target="14"></edge>
+      <edge id="215" source="25" target="33"></edge>
+      <edge id="216" source="10" target="128"></edge>
+      <edge id="217" source="63" target="137"></edge>
+      <edge id="218" source="138" target="3"></edge>
+      <edge id="219" source="12" target="139"></edge>
+      <edge id="220" source="140" target="141"></edge>
+      <edge id="221" source="142" target="33"></edge>
+      <edge id="222" source="143" target="13"></edge>
+      <edge id="223" source="35" target="40"></edge>
+      <edge id="224" source="144" target="14"></edge>
+      <edge id="225" source="105" target="31"></edge>
+      <edge id="226" source="145" target="17"></edge>
+      <edge id="227" source="146" target="31"></edge>
+      <edge id="228" source="13" target="147"></edge>
+      <edge id="229" source="10" target="148"></edge>
+      <edge id="230" source="11" target="48"></edge>
+      <edge id="231" source="24" target="149"></edge>
+      <edge id="232" source="4" target="150"></edge>
+      <edge id="233" source="1" target="151"></edge>
+      <edge id="234" source="5" target="76"></edge>
+      <edge id="235" source="12" target="152"></edge>
+      <edge id="236" source="17" target="78"></edge>
+      <edge id="237" source="12" target="104"></edge>
+      <edge id="238" source="25" target="31"></edge>
+      <edge id="239" source="75" target="40"></edge>
+      <edge id="240" source="108" target="43"></edge>
+      <edge id="241" source="36" target="153"></edge>
+      <edge id="242" source="17" target="141"></edge>
+      <edge id="243" source="33" target="125"></edge>
+      <edge id="244" source="154" target="155"></edge>
+      <edge id="245" source="138" target="12"></edge>
+      <edge id="246" source="156" target="31"></edge>
+      <edge id="247" source="157" target="5"></edge>
+      <edge id="248" source="158" target="40"></edge>
+      <edge id="249" source="25" target="37"></edge>
+      <edge id="250" source="21" target="159"></edge>
+      <edge id="251" source="40" target="160"></edge>
+      <edge id="252" source="87" target="12"></edge>
+      <edge id="253" source="25" target="48"></edge>
+      <edge id="254" source="99" target="13"></edge>
+      <edge id="255" source="25" target="40"></edge>
+      <edge id="256" source="143" target="76"></edge>
+      <edge id="257" source="10" target="161"></edge>
+      <edge id="258" source="162" target="163"></edge>
+      <edge id="259" source="164" target="14"></edge>
+      <edge id="260" source="4" target="95"></edge>
+      <edge id="261" source="97" target="5"></edge>
+      <edge id="262" source="165" target="31"></edge>
+      <edge id="263" source="166" target="14"></edge>
+      <edge id="264" source="57" target="153"></edge>
+      <edge id="265" source="39" target="14"></edge>
+      <edge id="266" source="0" target="114"></edge>
+      <edge id="267" source="167" target="22"></edge>
+      <edge id="268" source="116" target="33"></edge>
+      <edge id="269" source="8" target="70"></edge>
+      <edge id="270" source="22" target="117"></edge>
+      <edge id="271" source="77" target="4"></edge>
+      <edge id="272" source="1" target="168"></edge>
+      <edge id="273" source="169" target="12"></edge>
+      <edge id="274" source="1" target="170"></edge>
+      <edge id="275" source="126" target="26"></edge>
+      <edge id="276" source="89" target="171"></edge>
+      <edge id="277" source="116" target="7"></edge>
+      <edge id="278" source="30" target="114"></edge>
+      <edge id="279" source="134" target="33"></edge>
+      <edge id="280" source="172" target="5"></edge>
+      <edge id="281" source="173" target="21"></edge>
+      <edge id="282" source="0" target="111"></edge>
+      <edge id="283" source="1" target="174"></edge>
+      <edge id="284" source="175" target="1"></edge>
+      <edge id="285" source="21" target="48"></edge>
+      <edge id="286" source="21" target="43"></edge>
+      <edge id="287" source="39" target="4"></edge>
+      <edge id="288" source="176" target="1"></edge>
+      <edge id="289" source="121" target="17"></edge>
+      <edge id="290" source="56" target="17"></edge>
+      <edge id="291" source="177" target="13"></edge>
+      <edge id="292" source="178" target="148"></edge>
+      <edge id="293" source="115" target="33"></edge>
+      <edge id="294" source="40" target="125"></edge>
+      <edge id="295" source="179" target="180"></edge>
+      <edge id="296" source="46" target="17"></edge>
+      <edge id="297" source="181" target="14"></edge>
+      <edge id="298" source="20" target="141"></edge>
+      <edge id="299" source="4" target="154"></edge>
+      <edge id="300" source="116" target="22"></edge>
+      <edge id="301" source="97" target="142"></edge>
+      <edge id="302" source="182" target="1"></edge>
+      <edge id="303" source="183" target="1"></edge>
+      <edge id="304" source="184" target="1"></edge>
+      <edge id="305" source="22" target="164"></edge>
+      <edge id="306" source="185" target="122"></edge>
+      <edge id="307" source="22" target="49"></edge>
+      <edge id="308" source="5" target="186"></edge>
+      <edge id="309" source="63" target="123"></edge>
+      <edge id="310" source="40" target="156"></edge>
+      <edge id="311" source="14" target="139"></edge>
+      <edge id="312" source="89" target="187"></edge>
+      <edge id="313" source="180" target="188"></edge>
+      <edge id="314" source="87" target="13"></edge>
+      <edge id="315" source="17" target="150"></edge>
+      <edge id="316" source="143" target="16"></edge>
+      <edge id="317" source="11" target="189"></edge>
+      <edge id="318" source="43" target="164"></edge>
+      <edge id="319" source="190" target="126"></edge>
+      <edge id="320" source="4" target="191"></edge>
+      <edge id="321" source="192" target="193"></edge>
+      <edge id="322" source="11" target="194"></edge>
+      <edge id="323" source="102" target="195"></edge>
+      <edge id="324" source="43" target="11"></edge>
+      <edge id="325" source="5" target="44"></edge>
+      <edge id="326" source="153" target="30"></edge>
+      <edge id="327" source="196" target="4"></edge>
+      <edge id="328" source="197" target="198"></edge>
+      <edge id="329" source="1" target="199"></edge>
+      <edge id="330" source="1" target="200"></edge>
+      <edge id="331" source="139" target="2"></edge>
+      <edge id="332" source="21" target="201"></edge>
+      <edge id="333" source="25" target="42"></edge>
+      <edge id="334" source="2" target="150"></edge>
+      <edge id="335" source="202" target="108"></edge>
+      <edge id="336" source="1" target="203"></edge>
+      <edge id="337" source="204" target="2"></edge>
+    </edges>
+  </graph>
+</gexf>

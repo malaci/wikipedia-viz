@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="37" label="music industry">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="1313.1763" y="-158.4735"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="industry in the united states">
+        <viz:size value="89.69128"></viz:size>
+        <viz:position x="-696.49536" y="-841.9281"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="food industry">
+        <viz:size value="89.476524"></viz:size>
+        <viz:position x="125.168205" y="-1343.9401"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="industry museums">
+        <viz:size value="87.43626"></viz:size>
+        <viz:position x="-141.27216" y="156.48747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="entertainment industry">
+        <viz:size value="86.57719"></viz:size>
+        <viz:position x="-317.49493" y="-245.30746"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="pharmaceutical industry">
+        <viz:size value="85.07384"></viz:size>
+        <viz:position x="-933.5759" y="437.17395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="businesspeople in the oil industry">
+        <viz:size value="84.10739"></viz:size>
+        <viz:position x="653.7794" y="-900.6754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="sciences industry">
+        <viz:size value="82.604034"></viz:size>
+        <viz:position x="-229.95079" y="641.39685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="life sciences industry">
+        <viz:size value="82.49666"></viz:size>
+        <viz:position x="10.939159" y="605.69025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="petroleum industry">
+        <viz:size value="81.63758"></viz:size>
+        <viz:position x="861.5214" y="-740.2713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="textile industry">
+        <viz:size value="77.23491"></viz:size>
+        <viz:position x="-240.53314" y="1329.634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="industry in the united kingdom">
+        <viz:size value="77.127525"></viz:size>
+        <viz:position x="-1008.90924" y="-455.0176"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="automotive industry">
+        <viz:size value="76.26846"></viz:size>
+        <viz:position x="1071.6973" y="357.35425"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="meat industry">
+        <viz:size value="70.36243"></viz:size>
+        <viz:position x="238.52121" y="551.8262"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="people in the automobile industry">
+        <viz:size value="70.25504"></viz:size>
+        <viz:position x="-1205.2571" y="513.2795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="industry ministers">
+        <viz:size value="70.14765"></viz:size>
+        <viz:position x="832.813" y="-245.57207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="industry canada">
+        <viz:size value="70.040276"></viz:size>
+        <viz:position x="569.58545" y="125.38788"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="energy industry">
+        <viz:size value="69.718124"></viz:size>
+        <viz:position x="377.75937" y="-259.8266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="industry in india">
+        <viz:size value="69.61075"></viz:size>
+        <viz:position x="322.27975" y="242.48721"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="sex industry">
+        <viz:size value="69.18122"></viz:size>
+        <viz:position x="-86.49065" y="-351.4299"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="beverage industry">
+        <viz:size value="68.751686"></viz:size>
+        <viz:position x="209.28192" y="-1123.885"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="steel industry">
+        <viz:size value="67.57048"></viz:size>
+        <viz:position x="598.0826" y="-121.36579"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="media industry">
+        <viz:size value="67.57048"></viz:size>
+        <viz:position x="350.72137" y="-7.299179"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="mortgage industry of the united states">
+        <viz:size value="63.275173"></viz:size>
+        <viz:position x="134.30829" y="-158.45126"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="industry in england">
+        <viz:size value="61.8792"></viz:size>
+        <viz:position x="105.089424" y="93.98331"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="chief executives in the automobile industry">
+        <viz:size value="61.34229"></viz:size>
+        <viz:position x="-1134.2991" y="739.57495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="video game industry">
+        <viz:size value="60.16108"></viz:size>
+        <viz:position x="-104.16237" y="-90.96423"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="hospitality industry">
+        <viz:size value="59.30202"></viz:size>
+        <viz:position x="-273.26367" y="882.3813"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="plastics industry">
+        <viz:size value="59.30202"></viz:size>
+        <viz:position x="168.20964" y="-646.78656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="chemical industry">
+        <viz:size value="59.30202"></viz:size>
+        <viz:position x="223.85104" y="817.9048"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="sugar industry">
+        <viz:size value="58.12081"></viz:size>
+        <viz:position x="-723.4647" y="832.95306"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="american casino industry businesspeople">
+        <viz:size value="58.12081"></viz:size>
+        <viz:position x="-761.4504" y="1107.7319"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="film industry">
+        <viz:size value="58.12081"></viz:size>
+        <viz:position x="-357.41403" y="-1.7005088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="construction industry">
+        <viz:size value="56.40269"></viz:size>
+        <viz:position x="857.2949" y="755.3739"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="industry in china">
+        <viz:size value="55.32887"></viz:size>
+        <viz:position x="-41.04621" y="-1111.3956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="business and industry awards">
+        <viz:size value="55.006718"></viz:size>
+        <viz:position x="-166.64197" y="395.6966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="travel industry">
+        <viz:size value="54.4698"></viz:size>
+        <viz:position x="-529.7555" y="1243.2633"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="military industry">
+        <viz:size value="54.4698"></viz:size>
+        <viz:position x="653.917" y="885.70667"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="paper industry">
+        <viz:size value="53.82551"></viz:size>
+        <viz:position x="-1331.0791" y="49.106438"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="industry in belgium">
+        <viz:size value="52.53692"></viz:size>
+        <viz:position x="-809.84784" y="-1062.9722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="clothing industry">
+        <viz:size value="52.53692"></viz:size>
+        <viz:position x="-312.98663" y="1115.104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="wine industry organisations">
+        <viz:size value="51.570473"></viz:size>
+        <viz:position x="-1064.4807" y="-236.94888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="industry ministries">
+        <viz:size value="48.77853"></viz:size>
+        <viz:position x="416.19623" y="-767.3098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="electronics industry">
+        <viz:size value="48.349003"></viz:size>
+        <viz:position x="-55.651897" y="-866.8832"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="chief executives in the technology industry">
+        <viz:size value="48.349003"></viz:size>
+        <viz:position x="242.60141" y="1305.717"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="ministry of industry">
+        <viz:size value="47.382557"></viz:size>
+        <viz:position x="192.25983" y="-886.27234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="chief executives in the finance industry">
+        <viz:size value="46.953026"></viz:size>
+        <viz:position x="-429.13785" y="470.3824"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="industry in france">
+        <viz:size value="45.98658"></viz:size>
+        <viz:position x="-790.6648" y="-318.44186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="vehicle industry">
+        <viz:size value="45.98658"></viz:size>
+        <viz:position x="912.25726" y="520.25665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="american businesspeople in the coal industry">
+        <viz:size value="45.98658"></viz:size>
+        <viz:position x="14.7844925" y="1331.654"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="anime industry">
+        <viz:size value="45.44967"></viz:size>
+        <viz:position x="-577.93494" y="-157.98882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="american tobacco industry executives">
+        <viz:size value="45.44967"></viz:size>
+        <viz:position x="394.21478" y="-508.8222"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="rail industry">
+        <viz:size value="44.912758"></viz:size>
+        <viz:position x="891.65125" y="1007.898"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="recording industry association of america">
+        <viz:size value="44.268463"></viz:size>
+        <viz:position x="1294.4738" y="-406.76932"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="insurance industry organizations">
+        <viz:size value="42.44296"></viz:size>
+        <viz:position x="-602.5616" y="-1189.7965"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="american horse racing industry executives">
+        <viz:size value="42.44296"></viz:size>
+        <viz:position x="-912.87115" y="666.3758"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="manufacturing industry strikes">
+        <viz:size value="41.798664"></viz:size>
+        <viz:position x="619.36646" y="-377.51602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="industry in russia">
+        <viz:size value="41.798664"></viz:size>
+        <viz:position x="-481.37598" y="723.5496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="finance industry associations">
+        <viz:size value="41.154366"></viz:size>
+        <viz:position x="656.9897" y="343.82776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="cotton industry">
+        <viz:size value="40.402687"></viz:size>
+        <viz:position x="-58.15699" y="1096.4448"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="industry in taiwan">
+        <viz:size value="38.89933"></viz:size>
+        <viz:position x="149.86526" y="-406.63605"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="manga industry">
+        <viz:size value="38.04027"></viz:size>
+        <viz:position x="-523.1659" y="-397.7231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="department of trade and industry">
+        <viz:size value="38.04027"></viz:size>
+        <viz:position x="627.66534" y="-633.21045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="industry in italy">
+        <viz:size value="37.181213"></viz:size>
+        <viz:position x="-74.35256" y="-615.5024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="nuclear industry">
+        <viz:size value="37.181213"></viz:size>
+        <viz:position x="-1087.1296" y="-1.2822572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="secretaries of trade and industry of the philippines">
+        <viz:size value="37.181213"></viz:size>
+        <viz:position x="864.6608" y="-504.21243"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="industry in iran">
+        <viz:size value="37.181213"></viz:size>
+        <viz:position x="1079.4194" y="796.9699"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="chief executives in the manufacturing industry">
+        <viz:size value="37.181213"></viz:size>
+        <viz:position x="460.00992" y="1247.7095"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="recording industry association of japan">
+        <viz:size value="35.24832"></viz:size>
+        <viz:position x="1065.4349" y="-375.18524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="industry in brazil">
+        <viz:size value="34.1745"></viz:size>
+        <viz:position x="1337.0559" y="86.17909"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="petrochemical industry">
+        <viz:size value="32.993294"></viz:size>
+        <viz:position x="-290.1803" y="-787.33777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="alcohol industry trade associations">
+        <viz:size value="31.7047"></viz:size>
+        <viz:position x="-912.31104" y="-679.45654"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="industry in thailand">
+        <viz:size value="30.416111"></viz:size>
+        <viz:position x="828.5199" y="6.4182215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="health care industry trade groups">
+        <viz:size value="30.416111"></viz:size>
+        <viz:position x="-993.774" y="-902.343"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="industry in australia">
+        <viz:size value="28.912754"></viz:size>
+        <viz:position x="1098.1351" y="103.916466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="companies by industry">
+        <viz:size value="28.912754"></viz:size>
+        <viz:position x="-1317.6978" y="295.80655"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="industry in mexico">
+        <viz:size value="27.302017"></viz:size>
+        <viz:position x="860.3822" y="235.54196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="industry on the river thames">
+        <viz:size value="27.302017"></viz:size>
+        <viz:position x="189.84052" y="1060.6506"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="industry in ukraine">
+        <viz:size value="27.302017"></viz:size>
+        <viz:position x="1198.1157" y="583.9222"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="dutch chief executives in the retail industry">
+        <viz:size value="27.302017"></viz:size>
+        <viz:position x="-399.22116" y="239.0309"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="business and industry archives">
+        <viz:size value="25.476513"></viz:size>
+        <viz:position x="-1087.1548" y="251.65765"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="industry in poland">
+        <viz:size value="25.476513"></viz:size>
+        <viz:position x="448.75668" y="726.96045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="industry in nigeria">
+        <viz:size value="25.476513"></viz:size>
+        <viz:position x="1061.5896" y="-841.90674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="business and industry organizations based in chicago, illinois">
+        <viz:size value="25.476513"></viz:size>
+        <viz:position x="-713.56476" y="-558.4862"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="oil industry standards">
+        <viz:size value="25.476513"></viz:size>
+        <viz:position x="-500.25107" y="-679.13727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="azerbaijan state oil and industry university">
+        <viz:size value="25.476513"></viz:size>
+        <viz:position x="864.5444" y="-1023.0663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="mobile industry processor interface standards">
+        <viz:size value="23.436243"></viz:size>
+        <viz:position x="-498.63663" y="-967.80835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="industry in pakistan">
+        <viz:size value="23.436243"></viz:size>
+        <viz:position x="1306.1649" y="338.9022"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="british businesspeople in the armaments industry">
+        <viz:size value="23.436243"></viz:size>
+        <viz:position x="-1164.2544" y="-678.95264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="chief executives in the healthcare industry">
+        <viz:size value="23.436243"></viz:size>
+        <viz:position x="-137.47282" y="-1333.8015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="metallurgical industry of the united kingdom">
+        <viz:size value="20.966446"></viz:size>
+        <viz:position x="-1266.7681" y="-438.06677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="mobile phone industry by country">
+        <viz:size value="20.966446"></viz:size>
+        <viz:position x="-276.8152" y="-1049.8584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="adult industry awards">
+        <viz:size value="20.966446"></viz:size>
+        <viz:position x="-295.64728" y="-511.23807"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="pasta industry">
+        <viz:size value="20.966446"></viz:size>
+        <viz:position x="404.05783" y="-1287.0819"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="industry trade groups based in denmark">
+        <viz:size value="18.174496"></viz:size>
+        <viz:position x="1068.9115" y="-129.27794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="transport industry associations">
+        <viz:size value="14.738256"></viz:size>
+        <viz:position x="438.13528" y="998.743"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="businesspeople in the glass industry">
+        <viz:size value="14.738256"></viz:size>
+        <viz:position x="-950.5794" y="931.63104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="dutch chief executives in the oil industry">
+        <viz:size value="14.738256"></viz:size>
+        <viz:position x="680.86127" y="1149.0688"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="industry in turkey">
+        <viz:size value="10.228189"></viz:size>
+        <viz:position x="665.85455" y="592.2091"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="industry in uruguay">
+        <viz:size value="10.228189"></viz:size>
+        <viz:position x="441.82233" y="448.5787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="industry in switzerland">
+        <viz:size value="10.228189"></viz:size>
+        <viz:position x="-379.01434" y="-1278.9534"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="service industry associations">
+        <viz:size value="10.228189"></viz:size>
+        <viz:position x="-839.5195" y="-82.099785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="business and industry award recipients">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="81.404816" y="343.73532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="pipe industry of russia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-678.32935" y="564.7561"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="environment industry">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-22.256266" y="850.37695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="mexican telecommunications industry businesspeople">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="443.0153" y="-1025.4263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="hong kong casino industry businesspeople">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="650.20764" y="-1174.2566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="industry in europe">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1321.4768" y="-192.37166"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="chief executives in the sports industry">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-534.2054" y="982.5227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="tobacco industry associations">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-855.6533" y="169.224"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="natural gas industry by country">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1151.5986" y="-622.1683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="tobacco industry in the philippines">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-613.8457" y="82.68882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="industry trade groups based in the philippines">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-667.3218" y="328.05695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="19.0"></edge>
+      <edge id="1" source="2" target="3" weight="10.0"></edge>
+      <edge id="2" source="4" target="5" weight="9.0"></edge>
+      <edge id="3" source="6" target="7" weight="9.0"></edge>
+      <edge id="4" source="8" target="9" weight="8.0"></edge>
+      <edge id="5" source="6" target="10" weight="7.0"></edge>
+      <edge id="6" source="11" target="12" weight="5.0"></edge>
+      <edge id="7" source="12" target="13" weight="4.0"></edge>
+      <edge id="8" source="14" target="15" weight="3.0"></edge>
+      <edge id="9" source="16" target="17" weight="3.0"></edge>
+      <edge id="10" source="18" target="19" weight="3.0"></edge>
+      <edge id="11" source="20" target="21" weight="3.0"></edge>
+      <edge id="12" source="11" target="22" weight="3.0"></edge>
+      <edge id="13" source="23" target="24" weight="3.0"></edge>
+      <edge id="14" source="25" target="26" weight="3.0"></edge>
+      <edge id="15" source="25" target="11" weight="3.0"></edge>
+      <edge id="16" source="27" target="28" weight="2.0"></edge>
+      <edge id="17" source="29" target="30" weight="2.0"></edge>
+      <edge id="18" source="12" target="31" weight="2.0"></edge>
+      <edge id="19" source="18" target="32" weight="2.0"></edge>
+      <edge id="20" source="33" target="34" weight="2.0"></edge>
+      <edge id="21" source="35" target="36" weight="2.0"></edge>
+      <edge id="22" source="37" target="38" weight="2.0"></edge>
+      <edge id="23" source="39" target="40" weight="2.0"></edge>
+      <edge id="24" source="41" target="42" weight="2.0"></edge>
+      <edge id="25" source="12" target="33" weight="2.0"></edge>
+      <edge id="26" source="43" target="44" weight="2.0"></edge>
+      <edge id="27" source="45" target="46" weight="2.0"></edge>
+      <edge id="28" source="47" target="32"></edge>
+      <edge id="29" source="48" target="49"></edge>
+      <edge id="30" source="50" target="51"></edge>
+      <edge id="31" source="0" target="52"></edge>
+      <edge id="32" source="53" target="54"></edge>
+      <edge id="33" source="22" target="55"></edge>
+      <edge id="34" source="56" target="57"></edge>
+      <edge id="35" source="58" target="22"></edge>
+      <edge id="36" source="56" target="59"></edge>
+      <edge id="37" source="60" target="18"></edge>
+      <edge id="38" source="32" target="61"></edge>
+      <edge id="39" source="62" target="18"></edge>
+      <edge id="40" source="63" target="0"></edge>
+      <edge id="41" source="9" target="64"></edge>
+      <edge id="42" source="65" target="12"></edge>
+      <edge id="43" source="66" target="24"></edge>
+      <edge id="44" source="12" target="67"></edge>
+      <edge id="45" source="68" target="18"></edge>
+      <edge id="46" source="4" target="56"></edge>
+      <edge id="47" source="37" target="69"></edge>
+      <edge id="48" source="70" target="13"></edge>
+      <edge id="49" source="9" target="71"></edge>
+      <edge id="50" source="39" target="72"></edge>
+      <edge id="51" source="73" target="74"></edge>
+      <edge id="52" source="2" target="56"></edge>
+      <edge id="53" source="22" target="75"></edge>
+      <edge id="54" source="76" target="77"></edge>
+      <edge id="55" source="65" target="78"></edge>
+      <edge id="56" source="79" target="80"></edge>
+      <edge id="57" source="49" target="81"></edge>
+      <edge id="58" source="82" target="83"></edge>
+      <edge id="59" source="65" target="84"></edge>
+      <edge id="60" source="85" target="86"></edge>
+      <edge id="61" source="18" target="87"></edge>
+      <edge id="62" source="45" target="56"></edge>
+      <edge id="63" source="88" target="77"></edge>
+      <edge id="64" source="12" target="89"></edge>
+      <edge id="65" source="90" target="39"></edge>
+      <edge id="66" source="91" target="83"></edge>
+      <edge id="67" source="37" target="92"></edge>
+      <edge id="68" source="93" target="18"></edge>
+      <edge id="69" source="94" target="95"></edge>
+      <edge id="70" source="96" target="18"></edge>
+      <edge id="71" source="97" target="67"></edge>
+      <edge id="72" source="12" target="98"></edge>
+      <edge id="73" source="22" target="99"></edge>
+      <edge id="74" source="85" target="40"></edge>
+      <edge id="75" source="60" target="37"></edge>
+      <edge id="76" source="100" target="32"></edge>
+      <edge id="77" source="101" target="18"></edge>
+      <edge id="78" source="27" target="102"></edge>
+      <edge id="79" source="95" target="56"></edge>
+      <edge id="80" source="103" target="47"></edge>
+      <edge id="81" source="104" target="85"></edge>
+    </edges>
+  </graph>
+</gexf>

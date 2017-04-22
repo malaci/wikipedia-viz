@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="12" label="speed skaters">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-364.9703" y="-998.86475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="figure skaters">
+        <viz:size value="96.763084"></viz:size>
+        <viz:position x="-323.10474" y="59.47183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="pair skaters">
+        <viz:size value="81.25998"></viz:size>
+        <viz:position x="547.47986" y="232.84251"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="american female single skaters">
+        <viz:size value="58.260864"></viz:size>
+        <viz:position x="-402.8286" y="940.72266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="american male single skaters">
+        <viz:size value="55.790592"></viz:size>
+        <viz:position x="181.61703" y="75.56709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="roller skaters">
+        <viz:size value="51.020405"></viz:size>
+        <viz:position x="-195.8122" y="-1264.6241"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="canadian male single skaters">
+        <viz:size value="50.083405"></viz:size>
+        <viz:position x="247.8989" y="-186.74411"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="german female single skaters">
+        <viz:size value="49.657497"></viz:size>
+        <viz:position x="-261.92722" y="1266.1423"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="canadian female single skaters">
+        <viz:size value="49.061222"></viz:size>
+        <viz:position x="815.32983" y="-205.08524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="russian female single skaters">
+        <viz:size value="47.52795"></viz:size>
+        <viz:position x="-1014.8581" y="-57.34606"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="japanese female single skaters">
+        <viz:size value="46.931675"></viz:size>
+        <viz:position x="-762.22046" y="320.32397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="russian male single skaters">
+        <viz:size value="46.76131"></viz:size>
+        <viz:position x="-1004.3313" y="203.62364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="german male single skaters">
+        <viz:size value="44.291035"></viz:size>
+        <viz:position x="70.17636" y="-1290.3694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="japanese male single skaters">
+        <viz:size value="44.291035"></viz:size>
+        <viz:position x="52.314503" y="285.2013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="british male single skaters">
+        <viz:size value="43.268856"></viz:size>
+        <viz:position x="527.6954" y="-200.96577"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="french male single skaters">
+        <viz:size value="43.013306"></viz:size>
+        <viz:position x="680.9575" y="465.31052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="british female single skaters">
+        <viz:size value="42.502216"></viz:size>
+        <viz:position x="713.35895" y="10.864352"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="french female single skaters">
+        <viz:size value="41.39485"></viz:size>
+        <viz:position x="339.0693" y="330.24167"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="vert skaters">
+        <viz:size value="41.39485"></viz:size>
+        <viz:position x="-845.04004" y="-974.363"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="south korean female single skaters">
+        <viz:size value="40.202305"></viz:size>
+        <viz:position x="1116.7816" y="-638.9409"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="austrian female single skaters">
+        <viz:size value="40.202305"></viz:size>
+        <viz:position x="0.016520094" y="-226.32196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="austrian male single skaters">
+        <viz:size value="39.52085"></viz:size>
+        <viz:position x="818.50824" y="241.10829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="swiss female single skaters">
+        <viz:size value="39.180122"></viz:size>
+        <viz:position x="-714.53595" y="1050.8794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="soviet male single skaters">
+        <viz:size value="38.413486"></viz:size>
+        <viz:position x="-978.61945" y="457.4773"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="italian female single skaters">
+        <viz:size value="36.4543"></viz:size>
+        <viz:position x="-82.73239" y="-1041.8992"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="soviet female single skaters">
+        <viz:size value="35.94321"></viz:size>
+        <viz:position x="379.39697" y="-406.64664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="swedish female single skaters">
+        <viz:size value="35.94321"></viz:size>
+        <viz:position x="-61.738007" y="15.187791"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="swedish male single skaters">
+        <viz:size value="35.5173"></viz:size>
+        <viz:position x="721.10425" y="717.8484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="chinese male single skaters">
+        <viz:size value="35.00621"></viz:size>
+        <viz:position x="515.97327" y="1182.8549"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="ukrainian male single skaters">
+        <viz:size value="33.984024"></viz:size>
+        <viz:position x="-908.06946" y="902.3808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="swiss male single skaters">
+        <viz:size value="33.47294"></viz:size>
+        <viz:position x="781.1289" y="-1040.982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="chinese female single skaters">
+        <viz:size value="32.280388"></viz:size>
+        <viz:position x="-277.5277" y="-176.20879"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="italian male single skaters">
+        <viz:size value="32.280388"></viz:size>
+        <viz:position x="539.2357" y="886.9651"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="polish male single skaters">
+        <viz:size value="32.280388"></viz:size>
+        <viz:position x="1004.97076" y="28.96347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="finnish female single skaters">
+        <viz:size value="32.280388"></viz:size>
+        <viz:position x="-783.3591" y="46.37027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="polish female single skaters">
+        <viz:size value="31.684116"></viz:size>
+        <viz:position x="671.7934" y="-423.51215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="norwegian female single skaters">
+        <viz:size value="31.00266"></viz:size>
+        <viz:position x="924.56934" y="521.5474"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="ukrainian female single skaters">
+        <viz:size value="31.00266"></viz:size>
+        <viz:position x="635.9242" y="-846.23364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="czech female single skaters">
+        <viz:size value="30.321207"></viz:size>
+        <viz:position x="67.57455" y="741.26575"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="dutch female single skaters">
+        <viz:size value="30.321207"></viz:size>
+        <viz:position x="-768.7235" y="-236.11865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="czechoslovak female single skaters">
+        <viz:size value="29.55457"></viz:size>
+        <viz:position x="-100.318634" y="516.0186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="hungarian male single skaters">
+        <viz:size value="29.55457"></viz:size>
+        <viz:position x="951.2507" y="-434.26047"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="australian male single skaters">
+        <viz:size value="28.787931"></viz:size>
+        <viz:position x="311.7291" y="762.5346"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="finnish male single skaters">
+        <viz:size value="28.787931"></viz:size>
+        <viz:position x="963.3349" y="-852.1988"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="australian female single skaters">
+        <viz:size value="27.936111"></viz:size>
+        <viz:position x="1275.2776" y="167.24742"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="czechoslovak male single skaters">
+        <viz:size value="27.936111"></viz:size>
+        <viz:position x="-907.31805" y="-514.8732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="slovak male single skaters">
+        <viz:size value="27.936111"></viz:size>
+        <viz:position x="-1164.0165" y="-566.17084"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="czech male single skaters">
+        <viz:size value="27.936111"></viz:size>
+        <viz:position x="182.24814" y="512.10516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="hungarian female single skaters">
+        <viz:size value="26.999111"></viz:size>
+        <viz:position x="-605.0922" y="803.6632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="south african female single skaters">
+        <viz:size value="25.976929"></viz:size>
+        <viz:position x="910.554" y="876.8708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="slovak female single skaters">
+        <viz:size value="25.976929"></viz:size>
+        <viz:position x="-178.34953" y="1043.0172"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="south korean male single skaters">
+        <viz:size value="25.976929"></viz:size>
+        <viz:position x="108.731705" y="-445.09943"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="english male single skaters">
+        <viz:size value="24.954746"></viz:size>
+        <viz:position x="415.66235" y="24.245224"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="estonian female single skaters">
+        <viz:size value="24.954746"></viz:size>
+        <viz:position x="-1264.0691" y="-47.67024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="aggressive inline skaters">
+        <viz:size value="23.7622"></viz:size>
+        <viz:position x="-636.5822" y="-1070.2386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="lithuanian female single skaters">
+        <viz:size value="23.7622"></viz:size>
+        <viz:position x="1241.5323" y="-397.58752"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="belgian female single skaters">
+        <viz:size value="22.484472"></viz:size>
+        <viz:position x="-211.91846" y="-808.7263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="spanish female single skaters">
+        <viz:size value="22.484472"></viz:size>
+        <viz:position x="-361.46262" y="656.3709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="israeli male single skaters">
+        <viz:size value="22.484472"></viz:size>
+        <viz:position x="-387.782" y="413.42163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="dutch male single skaters">
+        <viz:size value="22.484472"></viz:size>
+        <viz:position x="257.46207" y="-651.8054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="english female single skaters">
+        <viz:size value="22.484472"></viz:size>
+        <viz:position x="1081.6522" y="699.8415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="spanish male single skaters">
+        <viz:size value="21.036379"></viz:size>
+        <viz:position x="-811.39813" y="658.099"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="bulgarian female single skaters">
+        <viz:size value="21.036379"></viz:size>
+        <viz:position x="-197.72957" y="267.52072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="estonian male single skaters">
+        <viz:size value="21.036379"></viz:size>
+        <viz:position x="1057.9381" y="279.84955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="norwegian male single skaters">
+        <viz:size value="21.036379"></viz:size>
+        <viz:position x="174.65898" y="-1047.4868"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="latvian female single skaters">
+        <viz:size value="21.036379"></viz:size>
+        <viz:position x="-393.02054" y="-584.76227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="bulgarian male single skaters">
+        <viz:size value="19.417923"></viz:size>
+        <viz:position x="459.35458" y="571.73444"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="romanian male single skaters">
+        <viz:size value="19.417923"></viz:size>
+        <viz:position x="-491.17627" y="-317.74118"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="danish male single skaters">
+        <viz:size value="19.417923"></viz:size>
+        <viz:position x="1212.5027" y="460.77936"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="danish female single skaters">
+        <viz:size value="19.417923"></viz:size>
+        <viz:position x="1282.629" y="-86.68986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="belgian male single skaters">
+        <viz:size value="17.458738"></viz:size>
+        <viz:position x="1074.8463" y="-206.97472"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="belarusian male single skaters">
+        <viz:size value="17.458738"></viz:size>
+        <viz:position x="-1227.7822" y="450.42477"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="slovenian female single skaters">
+        <viz:size value="15.244009"></viz:size>
+        <viz:position x="-213.49362" y="-408.63858"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="serbian female single skaters">
+        <viz:size value="15.244009"></viz:size>
+        <viz:position x="247.02722" y="1269.5791"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="south african male single skaters">
+        <viz:size value="15.244009"></viz:size>
+        <viz:position x="811.16943" y="-650.23846"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="taiwanese female single skaters">
+        <viz:size value="15.244009"></viz:size>
+        <viz:position x="-159.8744" y="770.75037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="croatian male single skaters">
+        <viz:size value="15.244009"></viz:size>
+        <viz:position x="385.4803" y="-912.0721"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="croatian female single skaters">
+        <viz:size value="15.244009"></viz:size>
+        <viz:position x="-0.33352843" y="1276.8436"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="israeli female single skaters">
+        <viz:size value="15.244009"></viz:size>
+        <viz:position x="-508.54672" y="1181.7173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="taiwanese male single skaters">
+        <viz:size value="15.244009"></viz:size>
+        <viz:position x="-1073.3813" y="694.60406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="turkish female single skaters">
+        <viz:size value="15.244009"></viz:size>
+        <viz:position x="-516.9177" y="-791.52734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="slovenian male single skaters">
+        <viz:size value="15.244009"></viz:size>
+        <viz:position x="311.9641" y="1030.4469"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="turkish male single skaters">
+        <viz:size value="12.518189"></viz:size>
+        <viz:position x="-562.01025" y="-70.174255"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="yugoslav female single skaters">
+        <viz:size value="12.518189"></viz:size>
+        <viz:position x="61.44253" y="996.9394"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="belarusian female single skaters">
+        <viz:size value="12.518189"></viz:size>
+        <viz:position x="-1264.3215" y="-305.1468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="male single skaters from georgia">
+        <viz:size value="12.518189"></viz:size>
+        <viz:position x="738.484" y="1050.1698"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="filipino female single skaters">
+        <viz:size value="12.518189"></viz:size>
+        <viz:position x="-1008.4864" y="-785.98157"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="azerbaijani male single skaters">
+        <viz:size value="8.94055"></viz:size>
+        <viz:position x="-1248.0867" y="193.90149"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="filipino male single skaters">
+        <viz:size value="8.94055"></viz:size>
+        <viz:position x="-609.92395" y="522.5407"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="azerbaijani female single skaters">
+        <viz:size value="8.94055"></viz:size>
+        <viz:position x="-81.10659" y="-606.48096"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="romanian female single skaters">
+        <viz:size value="8.94055"></viz:size>
+        <viz:position x="-1014.94257" y="-298.96375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="kazakhstani male single skaters">
+        <viz:size value="8.94055"></viz:size>
+        <viz:position x="-544.2704" y="202.67635"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="latvian male single skaters">
+        <viz:size value="8.94055"></viz:size>
+        <viz:position x="335.6777" y="-1248.7856"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="yugoslav male single skaters">
+        <viz:size value="8.94055"></viz:size>
+        <viz:position x="541.11743" y="-1128.6254"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="brazilian male single skaters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="513.82446" y="-637.0283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="female single skaters from georgia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-743.3113" y="-722.98065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="serbian male single skaters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="79.588295" y="-808.04736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="brazilian female single skaters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-653.3764" y="-488.398"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="american inline skaters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-449.222" y="-1226.4686"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="53.0"></edge>
+      <edge id="1" source="0" target="2" weight="40.0"></edge>
+      <edge id="2" source="3" target="0" weight="29.0"></edge>
+      <edge id="3" source="0" target="4" weight="28.0"></edge>
+      <edge id="4" source="0" target="5" weight="25.0"></edge>
+      <edge id="5" source="0" target="6" weight="25.0"></edge>
+      <edge id="6" source="0" target="7" weight="24.0"></edge>
+      <edge id="7" source="8" target="1" weight="22.0"></edge>
+      <edge id="8" source="0" target="9" weight="18.0"></edge>
+      <edge id="9" source="0" target="10" weight="17.0"></edge>
+      <edge id="10" source="8" target="11" weight="16.0"></edge>
+      <edge id="11" source="12" target="13" weight="15.0"></edge>
+      <edge id="12" source="14" target="6" weight="13.0"></edge>
+      <edge id="13" source="2" target="8" weight="12.0"></edge>
+      <edge id="14" source="15" target="0" weight="12.0"></edge>
+      <edge id="15" source="16" target="0" weight="11.0"></edge>
+      <edge id="16" source="0" target="17" weight="10.0"></edge>
+      <edge id="17" source="18" target="8" weight="10.0"></edge>
+      <edge id="18" source="0" target="19" weight="10.0"></edge>
+      <edge id="19" source="0" target="20" weight="10.0"></edge>
+      <edge id="20" source="0" target="21" weight="9.0"></edge>
+      <edge id="21" source="0" target="22" weight="9.0"></edge>
+      <edge id="22" source="23" target="0" weight="8.0"></edge>
+      <edge id="23" source="8" target="24" weight="7.0"></edge>
+      <edge id="24" source="25" target="0" weight="6.0"></edge>
+      <edge id="25" source="3" target="8" weight="6.0"></edge>
+      <edge id="26" source="0" target="26" weight="6.0"></edge>
+      <edge id="27" source="0" target="27" weight="6.0"></edge>
+      <edge id="28" source="21" target="28" weight="6.0"></edge>
+      <edge id="29" source="0" target="29" weight="5.0"></edge>
+      <edge id="30" source="10" target="8" weight="5.0"></edge>
+      <edge id="31" source="7" target="8" weight="4.0"></edge>
+      <edge id="32" source="0" target="30" weight="4.0"></edge>
+      <edge id="33" source="0" target="31" weight="4.0"></edge>
+      <edge id="34" source="32" target="13" weight="4.0"></edge>
+      <edge id="35" source="8" target="33" weight="4.0"></edge>
+      <edge id="36" source="8" target="34" weight="4.0"></edge>
+      <edge id="37" source="0" target="35" weight="4.0"></edge>
+      <edge id="38" source="36" target="8" weight="4.0"></edge>
+      <edge id="39" source="0" target="37" weight="3.0"></edge>
+      <edge id="40" source="8" target="38" weight="3.0"></edge>
+      <edge id="41" source="39" target="0" weight="3.0"></edge>
+      <edge id="42" source="0" target="40" weight="3.0"></edge>
+      <edge id="43" source="20" target="41" weight="3.0"></edge>
+      <edge id="44" source="8" target="17" weight="3.0"></edge>
+      <edge id="45" source="0" target="42" weight="3.0"></edge>
+      <edge id="46" source="0" target="43" weight="3.0"></edge>
+      <edge id="47" source="0" target="44" weight="3.0"></edge>
+      <edge id="48" source="8" target="45" weight="3.0"></edge>
+      <edge id="49" source="46" target="0" weight="2.0"></edge>
+      <edge id="50" source="23" target="8" weight="2.0"></edge>
+      <edge id="51" source="47" target="40" weight="2.0"></edge>
+      <edge id="52" source="48" target="0" weight="2.0"></edge>
+      <edge id="53" source="0" target="49" weight="2.0"></edge>
+      <edge id="54" source="50" target="40" weight="2.0"></edge>
+      <edge id="55" source="51" target="52" weight="2.0"></edge>
+      <edge id="56" source="53" target="32" weight="2.0"></edge>
+      <edge id="57" source="37" target="8" weight="2.0"></edge>
+      <edge id="58" source="19" target="8" weight="2.0"></edge>
+      <edge id="59" source="8" target="54" weight="2.0"></edge>
+      <edge id="60" source="8" target="55"></edge>
+      <edge id="61" source="56" target="57"></edge>
+      <edge id="62" source="58" target="8"></edge>
+      <edge id="63" source="14" target="37"></edge>
+      <edge id="64" source="59" target="6"></edge>
+      <edge id="65" source="8" target="42"></edge>
+      <edge id="66" source="8" target="60"></edge>
+      <edge id="67" source="61" target="27"></edge>
+      <edge id="68" source="58" target="0"></edge>
+      <edge id="69" source="62" target="63"></edge>
+      <edge id="70" source="39" target="8"></edge>
+      <edge id="71" source="64" target="8"></edge>
+      <edge id="72" source="0" target="65"></edge>
+      <edge id="73" source="0" target="66"></edge>
+      <edge id="74" source="19" target="67"></edge>
+      <edge id="75" source="3" target="68"></edge>
+      <edge id="76" source="69" target="19"></edge>
+      <edge id="77" source="0" target="70"></edge>
+      <edge id="78" source="71" target="72"></edge>
+      <edge id="79" source="73" target="0"></edge>
+      <edge id="80" source="71" target="7"></edge>
+      <edge id="81" source="74" target="0"></edge>
+      <edge id="82" source="32" target="75"></edge>
+      <edge id="83" source="76" target="51"></edge>
+      <edge id="84" source="0" target="77"></edge>
+      <edge id="85" source="78" target="25"></edge>
+      <edge id="86" source="79" target="67"></edge>
+      <edge id="87" source="25" target="8"></edge>
+      <edge id="88" source="39" target="67"></edge>
+      <edge id="89" source="80" target="81"></edge>
+      <edge id="90" source="39" target="82"></edge>
+      <edge id="91" source="83" target="9"></edge>
+      <edge id="92" source="8" target="20"></edge>
+      <edge id="93" source="58" target="67"></edge>
+      <edge id="94" source="8" target="27"></edge>
+      <edge id="95" source="71" target="12"></edge>
+      <edge id="96" source="37" target="84"></edge>
+      <edge id="97" source="85" target="0"></edge>
+      <edge id="98" source="8" target="86"></edge>
+      <edge id="99" source="12" target="87"></edge>
+      <edge id="100" source="88" target="8"></edge>
+      <edge id="101" source="89" target="17"></edge>
+      <edge id="102" source="42" target="90"></edge>
+      <edge id="103" source="67" target="20"></edge>
+      <edge id="104" source="0" target="91"></edge>
+      <edge id="105" source="25" target="92"></edge>
+      <edge id="106" source="93" target="8"></edge>
+      <edge id="107" source="94" target="12"></edge>
+      <edge id="108" source="67" target="26"></edge>
+      <edge id="109" source="49" target="14"></edge>
+      <edge id="110" source="95" target="2"></edge>
+      <edge id="111" source="0" target="96"></edge>
+      <edge id="112" source="0" target="97"></edge>
+      <edge id="113" source="0" target="76"></edge>
+      <edge id="114" source="10" target="98"></edge>
+    </edges>
+  </graph>
+</gexf>

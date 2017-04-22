@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="management systems">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="193.70686" y="1043.424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="land management">
+        <viz:size value="92.097885"></viz:size>
+        <viz:position x="304.32593" y="212.11922"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="project management">
+        <viz:size value="91.884315"></viz:size>
+        <viz:position x="-1009.2146" y="-427.93085"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="water management">
+        <viz:size value="86.117905"></viz:size>
+        <viz:position x="1301.441" y="-0.9206468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="data management">
+        <viz:size value="84.51613"></viz:size>
+        <viz:position x="746.98" y="1080.4935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="management consulting">
+        <viz:size value="83.76863"></viz:size>
+        <viz:position x="-606.7775" y="181.68867"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="mit sloan school of management">
+        <viz:size value="82.80756"></viz:size>
+        <viz:position x="-1205.6681" y="524.39935"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="human resource management">
+        <viz:size value="82.70078"></viz:size>
+        <viz:position x="-1065.978" y="-163.39111"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="information management">
+        <viz:size value="82.060074"></viz:size>
+        <viz:position x="856.0745" y="667.78656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="supply management">
+        <viz:size value="81.632935"></viz:size>
+        <viz:position x="-714.3674" y="1097.4622"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="waste management">
+        <viz:size value="81.52614"></viz:size>
+        <viz:position x="-111.91158" y="-587.47046"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="network management">
+        <viz:size value="79.92436"></viz:size>
+        <viz:position x="-1049.118" y="337.2147"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="investment management">
+        <viz:size value="79.81757"></viz:size>
+        <viz:position x="44.974976" y="-1279.1948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="management consultants">
+        <viz:size value="74.69188"></viz:size>
+        <viz:position x="587.93365" y="-138.95097"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="business and management journals">
+        <viz:size value="74.15796"></viz:size>
+        <viz:position x="-169.70753" y="-1075.5975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="strategic management">
+        <viz:size value="73.73082"></viz:size>
+        <viz:position x="-469.6069" y="1225.0002"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="emergency management">
+        <viz:size value="72.983315"></viz:size>
+        <viz:position x="-572.4857" y="-628.0888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="kellogg school of management alumni">
+        <viz:size value="71.16797"></viz:size>
+        <viz:position x="-113.58888" y="-326.97708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="product management">
+        <viz:size value="70.95439"></viz:size>
+        <viz:position x="829.10394" y="-226.62408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="memory management">
+        <viz:size value="70.52725"></viz:size>
+        <viz:position x="-115.60605" y="-68.73956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="property management">
+        <viz:size value="70.31368"></viz:size>
+        <viz:position x="574.7667" y="-629.1678"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="digital rights management">
+        <viz:size value="69.352615"></viz:size>
+        <viz:position x="491.80322" y="367.89877"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="process management">
+        <viz:size value="69.24583"></viz:size>
+        <viz:position x="1110.5225" y="700.9825"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="identity management">
+        <viz:size value="68.925476"></viz:size>
+        <viz:position x="-18.180218" y="851.0347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="risk management">
+        <viz:size value="68.49833"></viz:size>
+        <viz:position x="95.020485" y="65.81113"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="brand management">
+        <viz:size value="67.75084"></viz:size>
+        <viz:position x="271.40402" y="504.37057"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="traffic management">
+        <viz:size value="67.32369"></viz:size>
+        <viz:position x="-398.17795" y="300.2581"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="management occupations">
+        <viz:size value="66.14906"></viz:size>
+        <viz:position x="-560.71466" y="-337.09995"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="wildlife management areas of virginia">
+        <viz:size value="65.40156"></viz:size>
+        <viz:position x="-145.4824" y="198.93459"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="event management">
+        <viz:size value="64.97441"></viz:size>
+        <viz:position x="75.080055" y="336.59567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="key management">
+        <viz:size value="63.906563"></viz:size>
+        <viz:position x="372.0262" y="-304.5929"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="management accounting">
+        <viz:size value="62.838715"></viz:size>
+        <viz:position x="-1088.3276" y="88.9146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="management education">
+        <viz:size value="62.838715"></viz:size>
+        <viz:position x="-411.97324" y="-986.0297"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="customer relationship management">
+        <viz:size value="61.77086"></viz:size>
+        <viz:position x="344.2404" y="-44.1865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="ucla anderson school of management alumni">
+        <viz:size value="61.23693"></viz:size>
+        <viz:position x="128.57176" y="-198.85341"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="radio resource management">
+        <viz:size value="60.275864"></viz:size>
+        <viz:position x="30.8348" y="608.8352"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="knowledge management">
+        <viz:size value="59.84872"></viz:size>
+        <viz:position x="944.2029" y="910.50726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="yale school of management">
+        <viz:size value="59.20801"></viz:size>
+        <viz:position x="-680.74304" y="-1122.6672"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="customer experience management">
+        <viz:size value="59.20801"></viz:size>
+        <viz:position x="464.7088" y="674.70886"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="website management">
+        <viz:size value="58.99444"></viz:size>
+        <viz:position x="-44.590332" y="1101.1652"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="sports management video games">
+        <viz:size value="58.35373"></viz:size>
+        <viz:position x="92.96681" y="-1010.26874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="document management systems">
+        <viz:size value="58.140156"></viz:size>
+        <viz:position x="442.80237" y="951.51733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="indian institute of management calcutta">
+        <viz:size value="57.8198"></viz:size>
+        <viz:position x="-393.38416" y="538.759"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="asian institute of management">
+        <viz:size value="57.60623"></viz:size>
+        <viz:position x="567.45355" y="115.974396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="boston university school of management alumni">
+        <viz:size value="57.60623"></viz:size>
+        <viz:position x="-344.36932" y="-209.07446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="management science">
+        <viz:size value="57.39266"></viz:size>
+        <viz:position x="-359.87668" y="45.155285"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="disaster management">
+        <viz:size value="56.111237"></viz:size>
+        <viz:position x="-838.78" y="-701.68146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="quality management">
+        <viz:size value="56.111237"></viz:size>
+        <viz:position x="1221.8774" y="471.3481"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="services management and marketing">
+        <viz:size value="55.897667"></viz:size>
+        <viz:position x="-246.8843" y="750.5499"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="records management">
+        <viz:size value="55.577305"></viz:size>
+        <viz:position x="665.20197" y="847.9453"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="configuration management">
+        <viz:size value="55.36374"></viz:size>
+        <viz:position x="972.41235" y="445.27884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="forest management">
+        <viz:size value="54.509457"></viz:size>
+        <viz:position x="-843.692" y="41.281307"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="performance management">
+        <viz:size value="53.228035"></viz:size>
+        <viz:position x="668.8442" y="531.9392"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="natural resource management">
+        <viz:size value="52.587322"></viz:size>
+        <viz:position x="1051.8718" y="-325.17474"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="samuel curtis johnson graduate school of management">
+        <viz:size value="52.587322"></viz:size>
+        <viz:position x="-894.9561" y="-962.5279"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="out-of-band management">
+        <viz:size value="52.26696"></viz:size>
+        <viz:position x="-813.5204" y="304.32062"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="habitat management equipment and methods">
+        <viz:size value="51.305893"></viz:size>
+        <viz:position x="-817.70355" y="-210.47469"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="apollo management">
+        <viz:size value="48.95662"></viz:size>
+        <viz:position x="-646.34454" y="492.71625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="time management">
+        <viz:size value="48.10234"></viz:size>
+        <viz:position x="-1069.6517" y="-752.53"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="stormwater management">
+        <viz:size value="46.714127"></viz:size>
+        <viz:position x="1280.0544" y="234.00922"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="task management software">
+        <viz:size value="46.714127"></viz:size>
+        <viz:position x="-1205.1418" y="-539.5493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="association football management video games">
+        <viz:size value="45.75306"></viz:size>
+        <viz:position x="330.44986" y="-1044.0146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="environmental management">
+        <viz:size value="45.21913"></viz:size>
+        <viz:position x="1211.9585" y="-508.18466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="hospitality management">
+        <viz:size value="44.044495"></viz:size>
+        <viz:position x="-761.49554" y="772.2415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="change management">
+        <viz:size value="42.229145"></viz:size>
+        <viz:position x="-1278.3909" y="-286.3835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="indian institute of management bangalore">
+        <viz:size value="42.229145"></viz:size>
+        <viz:position x="950.82446" y="-910.4615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="indian institutes of management">
+        <viz:size value="40.94772"></viz:size>
+        <viz:position x="586.56696" y="-905.9465"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="web server management software">
+        <viz:size value="40.200222"></viz:size>
+        <viz:position x="298.58337" y="1268.9169"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="it service management">
+        <viz:size value="40.200222"></viz:size>
+        <viz:position x="767.56934" y="291.52808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="asset management">
+        <viz:size value="36.996666"></viz:size>
+        <viz:position x="871.8885" y="-502.86664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="theatrical management">
+        <viz:size value="36.996666"></viz:size>
+        <viz:position x="-347.13492" y="-480.86456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="management of obesity">
+        <viz:size value="36.0356"></viz:size>
+        <viz:position x="339.35776" y="-549.77435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="management organizations">
+        <viz:size value="36.0356"></viz:size>
+        <viz:position x="-594.4537" y="-74.68916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="travel management">
+        <viz:size value="31.55061"></viz:size>
+        <viz:position x="-1313.242" y="-22.667627"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="oaktree capital management">
+        <viz:size value="31.55061"></viz:size>
+        <viz:position x="-524.51544" y="740.05817"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="inclement weather management">
+        <viz:size value="31.55061"></viz:size>
+        <viz:position x="-771.6517" y="-466.4805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="management publications">
+        <viz:size value="30.26919"></viz:size>
+        <viz:position x="-444.57816" y="-1227.6185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="long-term capital management">
+        <viz:size value="30.26919"></viz:size>
+        <viz:position x="-197.9452" y="-1309.3464"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="treatment and management of attention deficit hyperactivity disorder">
+        <viz:size value="28.774193"></viz:size>
+        <viz:position x="117.07848" y="-732.33484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="indian institute of management lucknow">
+        <viz:size value="27.172415"></viz:size>
+        <viz:position x="756.0375" y="-1072.3519"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="management terminology">
+        <viz:size value="25.357063"></viz:size>
+        <viz:position x="113.1627" y="-456.3369"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="directors of harvard management company">
+        <viz:size value="25.357063"></viz:size>
+        <viz:position x="-639.99457" y="-876.35156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="secretaries of budget and management of the philippines">
+        <viz:size value="25.357063"></viz:size>
+        <viz:position x="815.0061" y="33.64272"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="publication management software">
+        <viz:size value="23.328142"></viz:size>
+        <viz:position x="1028.6472" y="202.91563"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="package management software that uses gtk ">
+        <viz:size value="20.87208"></viz:size>
+        <viz:position x="-224.23083" y="1286.8418"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="catchment management authorities of victoria">
+        <viz:size value="18.095661"></viz:size>
+        <viz:position x="1059.249" y="-56.252903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="indian institute of social welfare and business management alumni">
+        <viz:size value="18.095661"></viz:size>
+        <viz:position x="-906.23334" y="561.65894"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="customer communications management">
+        <viz:size value="18.095661"></viz:size>
+        <viz:position x="524.0925" y="1185.9054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="sports management mmorpgs">
+        <viz:size value="18.095661"></viz:size>
+        <viz:position x="349.02484" y="-805.5898"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="turkish management scientists">
+        <viz:size value="14.678532"></viz:size>
+        <viz:position x="-1296.6279" y="257.1212"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="indian institute of management indore">
+        <viz:size value="14.678532"></viz:size>
+        <viz:position x="624.21" y="-393.00702"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="package management software that uses qt">
+        <viz:size value="10.193548"></viz:size>
+        <viz:position x="235.5392" y="783.8137"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="collection management software">
+        <viz:size value="10.193548"></viz:size>
+        <viz:position x="49.83118" y="1321.7074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="indian institute of management kozhikode">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="532.98267" y="-1193.846"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="veterinary practice management software">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-117.47195" y="-841.6947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="service lifecycle management">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-514.6363" y="974.0025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="web content management system">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-271.7518" y="1004.9388"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="hotel management">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-914.388" y="946.48596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="indian management scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1076.9423" y="-699.7234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="indian institute of management amritsar">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="790.4678" y="-733.9399"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="discretionary fund management">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="280.0295" y="-1287.213"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="global management company">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1072.3403" y="745.4918"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="indian institute of management ranchi director in charge">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-161.69434" y="464.01312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="fisheries management">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1288.7783" y="-249.10779"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="veterinary practice management companies">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-350.1837" y="-746.8733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="34.0"></edge>
+      <edge id="1" source="2" target="0" weight="26.0"></edge>
+      <edge id="2" source="3" target="0" weight="16.0"></edge>
+      <edge id="3" source="4" target="5" weight="15.0"></edge>
+      <edge id="4" source="6" target="7" weight="14.0"></edge>
+      <edge id="5" source="8" target="9" weight="10.0"></edge>
+      <edge id="6" source="10" target="11" weight="10.0"></edge>
+      <edge id="7" source="12" target="1" weight="9.0"></edge>
+      <edge id="8" source="4" target="13" weight="9.0"></edge>
+      <edge id="9" source="14" target="15" weight="9.0"></edge>
+      <edge id="10" source="4" target="2" weight="8.0"></edge>
+      <edge id="11" source="4" target="16" weight="7.0"></edge>
+      <edge id="12" source="17" target="18" weight="6.0"></edge>
+      <edge id="13" source="19" target="20" weight="6.0"></edge>
+      <edge id="14" source="21" target="5" weight="6.0"></edge>
+      <edge id="15" source="2" target="19" weight="5.0"></edge>
+      <edge id="16" source="4" target="22" weight="5.0"></edge>
+      <edge id="17" source="23" target="14" weight="4.0"></edge>
+      <edge id="18" source="24" target="14" weight="4.0"></edge>
+      <edge id="19" source="25" target="26" weight="4.0"></edge>
+      <edge id="20" source="4" target="27" weight="3.0"></edge>
+      <edge id="21" source="28" target="29" weight="2.0"></edge>
+      <edge id="22" source="30" target="31" weight="2.0"></edge>
+      <edge id="23" source="32" target="33" weight="2.0"></edge>
+      <edge id="24" source="34" target="0" weight="2.0"></edge>
+      <edge id="25" source="35" target="36" weight="2.0"></edge>
+      <edge id="26" source="0" target="37" weight="2.0"></edge>
+      <edge id="27" source="38" target="39" weight="2.0"></edge>
+      <edge id="28" source="6" target="40" weight="2.0"></edge>
+      <edge id="29" source="41" target="42" weight="2.0"></edge>
+      <edge id="30" source="43" target="44"></edge>
+      <edge id="31" source="45" target="26"></edge>
+      <edge id="32" source="46" target="0"></edge>
+      <edge id="33" source="47" target="48"></edge>
+      <edge id="34" source="49" target="36"></edge>
+      <edge id="35" source="48" target="50"></edge>
+      <edge id="36" source="0" target="51"></edge>
+      <edge id="37" source="0" target="52"></edge>
+      <edge id="38" source="31" target="53"></edge>
+      <edge id="39" source="54" target="55"></edge>
+      <edge id="40" source="56" target="57"></edge>
+      <edge id="41" source="58" target="59"></edge>
+      <edge id="42" source="31" target="60"></edge>
+      <edge id="43" source="61" target="62"></edge>
+      <edge id="44" source="63" target="42"></edge>
+      <edge id="45" source="31" target="64"></edge>
+      <edge id="46" source="65" target="66"></edge>
+      <edge id="47" source="67" target="68"></edge>
+      <edge id="48" source="61" target="69"></edge>
+      <edge id="49" source="46" target="70"></edge>
+      <edge id="50" source="71" target="72"></edge>
+      <edge id="51" source="52" target="19"></edge>
+      <edge id="52" source="73" target="33"></edge>
+      <edge id="53" source="4" target="74"></edge>
+      <edge id="54" source="75" target="43"></edge>
+      <edge id="55" source="33" target="76"></edge>
+      <edge id="56" source="77" target="78"></edge>
+      <edge id="57" source="79" target="80"></edge>
+      <edge id="58" source="10" target="81"></edge>
+      <edge id="59" source="82" target="83"></edge>
+      <edge id="60" source="30" target="84"></edge>
+      <edge id="61" source="32" target="79"></edge>
+      <edge id="62" source="55" target="85"></edge>
+      <edge id="63" source="86" target="87"></edge>
+      <edge id="64" source="88" target="58"></edge>
+    </edges>
+  </graph>
+</gexf>

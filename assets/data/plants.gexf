@@ -1,0 +1,771 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="plants described in">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="364.57504" y="348.45792"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="vulnerable plants">
+        <viz:size value="86.05966"></viz:size>
+        <viz:position x="-343.65045" y="-826.1363"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="endangered plants">
+        <viz:size value="84.17583"></viz:size>
+        <viz:position x="-563.8176" y="-183.32338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="garden plants">
+        <viz:size value="80.93564"></viz:size>
+        <viz:position x="517.15234" y="-26.619234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="plant pathogens and diseases">
+        <viz:size value="79.27787"></viz:size>
+        <viz:position x="537.0993" y="-1261.6815"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="medicinal plants">
+        <viz:size value="74.83202"></viz:size>
+        <viz:position x="769.3731" y="-40.532684"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="plant species">
+        <viz:size value="72.9482"></viz:size>
+        <viz:position x="166.61107" y="404.71323"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="least concern plants">
+        <viz:size value="72.64678"></viz:size>
+        <viz:position x="-1237.7202" y="586.45"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="carnivorous plants">
+        <viz:size value="69.63266"></viz:size>
+        <viz:position x="-15.520966" y="612.5476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="poisonous plants">
+        <viz:size value="62.474102"></viz:size>
+        <viz:position x="762.60767" y="-542.21234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="plants used in traditional native american medicine">
+        <viz:size value="59.686035"></viz:size>
+        <viz:position x="45.741364" y="221.93356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="drought-tolerant plants">
+        <viz:size value="59.23391"></viz:size>
+        <viz:position x="346.2483" y="-167.49718"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="freshwater plants">
+        <viz:size value="57.72685"></viz:size>
+        <viz:position x="1355.0463" y="129.22632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="edible plants">
+        <viz:size value="53.80848"></viz:size>
+        <viz:position x="-113.746414" y="-187.37547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="hybrid plants">
+        <viz:size value="53.80848"></viz:size>
+        <viz:position x="240.72047" y="640.4207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="plants used in native american cuisine">
+        <viz:size value="53.58242"></viz:size>
+        <viz:position x="319.06653" y="122.51656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="plants used in traditional chinese medicine">
+        <viz:size value="53.35636"></viz:size>
+        <viz:position x="756.2485" y="364.86282"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="prehistoric plants">
+        <viz:size value="53.35636"></viz:size>
+        <viz:position x="14.509609" y="850.2579"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="plant taxonomy">
+        <viz:size value="52.075356"></viz:size>
+        <viz:position x="-89.596375" y="-1153.1777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="aquatic plants">
+        <viz:size value="52.075356"></viz:size>
+        <viz:position x="596.28577" y="1241.1854"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="parasitic plants">
+        <viz:size value="52.0"></viz:size>
+        <viz:position x="1244.6764" y="-562.41406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="manufacturing plants">
+        <viz:size value="51.92465"></viz:size>
+        <viz:position x="-780.7788" y="-830.11993"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="plants used in traditional african medicine">
+        <viz:size value="51.397175"></viz:size>
+        <viz:position x="258.14172" y="876.4011"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="house plants">
+        <viz:size value="50.56829"></viz:size>
+        <viz:position x="477.09082" y="757.9144"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="plants and pollinators">
+        <viz:size value="50.116173"></viz:size>
+        <viz:position x="499.22018" y="514.7602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="butterfly food plants">
+        <viz:size value="49.66405"></viz:size>
+        <viz:position x="580.5793" y="203.52713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="extinct plants">
+        <viz:size value="47.930927"></viz:size>
+        <viz:position x="-253.98068" y="1163.3866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="devonian plants">
+        <viz:size value="47.554165"></viz:size>
+        <viz:position x="-866.57556" y="771.63135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="dioecious plants">
+        <viz:size value="46.875984"></viz:size>
+        <viz:position x="1347.4794" y="-310.4185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="plants used in bonsai">
+        <viz:size value="46.875984"></viz:size>
+        <viz:position x="1109.9229" y="-783.4159"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="bird food plants">
+        <viz:size value="46.64992"></viz:size>
+        <viz:position x="139.80902" y="-38.811447"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="plant common names">
+        <viz:size value="45.293564"></viz:size>
+        <viz:position x="1298.4486" y="-89.73967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="plants used in ayurveda">
+        <viz:size value="45.14286"></viz:size>
+        <viz:position x="1293.3494" y="342.8615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="succulent plants">
+        <viz:size value="43.861855"></viz:size>
+        <viz:position x="-265.12408" y="200.63504"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="fiber plants">
+        <viz:size value="43.108322"></viz:size>
+        <viz:position x="852.18884" y="162.06624"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="night-blooming plants">
+        <viz:size value="42.80691"></viz:size>
+        <viz:position x="357.56964" y="-645.1533"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="eocene plants">
+        <viz:size value="41.827316"></viz:size>
+        <viz:position x="-131.84169" y="406.30457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="ephemeral plants">
+        <viz:size value="41.299843"></viz:size>
+        <viz:position x="-101.55154" y="-438.1849"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="salt marsh plants">
+        <viz:size value="41.299843"></viz:size>
+        <viz:position x="1113.6793" y="750.16907"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="perennial plants">
+        <viz:size value="40.998432"></viz:size>
+        <viz:position x="1122.8073" y="-328.1717"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="plant characters">
+        <viz:size value="39.642075"></viz:size>
+        <viz:position x="-672.88245" y="-1178.9312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="hydroelectric power plants in washington">
+        <viz:size value="38.059658"></viz:size>
+        <viz:position x="-713.28705" y="-5.8570075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="food plant diseases">
+        <viz:size value="37.833595"></viz:size>
+        <viz:position x="379.38412" y="-1101.5856"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="caudiciform plants">
+        <viz:size value="37.381477"></viz:size>
+        <viz:position x="-342.45273" y="-46.991104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="phytoremediation plants">
+        <viz:size value="37.080063"></viz:size>
+        <viz:position x="611.5701" y="945.9358"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="hydroelectric power plants in california">
+        <viz:size value="36.854004"></viz:size>
+        <viz:position x="-1360.1921" y="-142.57967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="annual plants">
+        <viz:size value="36.02512"></viz:size>
+        <viz:position x="996.81415" y="-569.08594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="silurian plants">
+        <viz:size value="34.14129"></viz:size>
+        <viz:position x="-867.5669" y="389.60205"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="triassic plants">
+        <viz:size value="33.463108"></viz:size>
+        <viz:position x="-661.5083" y="895.7853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="carboniferous plants">
+        <viz:size value="31.880692"></viz:size>
+        <viz:position x="-716.60596" y="597.3838"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="permian plants">
+        <viz:size value="30.524334"></viz:size>
+        <viz:position x="-471.43646" y="1292.7975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="miocene plants">
+        <viz:size value="30.524334"></viz:size>
+        <viz:position x="180.30258" y="1120.3833"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="plant hormones">
+        <viz:size value="30.524334"></viz:size>
+        <viz:position x="-340.27472" y="-1079.8907"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="hardwood forest plants">
+        <viz:size value="30.072214"></viz:size>
+        <viz:position x="-36.517834" y="1083.0"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="cultivars of australian plants">
+        <viz:size value="30.072214"></viz:size>
+        <viz:position x="108.05706" y="-299.34943"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="plant genera">
+        <viz:size value="29.54474"></viz:size>
+        <viz:position x="-115.8475" y="-923.29926"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="divaricating plants">
+        <viz:size value="29.54474"></viz:size>
+        <viz:position x="614.7175" y="-956.0088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="hydroelectric power plants in oregon">
+        <viz:size value="29.017271"></viz:size>
+        <viz:position x="-789.7861" y="-299.84845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="cretaceous plants">
+        <viz:size value="29.017271"></viz:size>
+        <viz:position x="-440.11237" y="813.5969"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="brackish water plants">
+        <viz:size value="28.489798"></viz:size>
+        <viz:position x="953.3304" y="542.665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="fictional plants">
+        <viz:size value="28.489798"></viz:size>
+        <viz:position x="753.9078" y="-1135.5881"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="plants by habitat">
+        <viz:size value="27.886972"></viz:size>
+        <viz:position x="359.4096" y="-871.4674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="mythic plants">
+        <viz:size value="27.284147"></viz:size>
+        <viz:position x="-1207.4194" y="-632.9395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="plant communities of virginia">
+        <viz:size value="27.284147"></viz:size>
+        <viz:position x="83.21894" y="1359.1613"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="christmas plants">
+        <viz:size value="26.605967"></viz:size>
+        <viz:position x="889.96204" y="-314.31796"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="dungeons dragons plants">
+        <viz:size value="25.927788"></viz:size>
+        <viz:position x="949.85345" y="-988.2818"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="jurassic plants">
+        <viz:size value="25.927788"></viz:size>
+        <viz:position x="-245.92961" y="635.1621"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="fossil plants">
+        <viz:size value="25.174255"></viz:size>
+        <viz:position x="-403.24573" y="393.17783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="biennial plants">
+        <viz:size value="25.174255"></viz:size>
+        <viz:position x="656.9567" y="-248.37277"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="aircraft assembly plants in the united kingdom">
+        <viz:size value="25.174255"></viz:size>
+        <viz:position x="-872.82544" y="-1045.7485"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="oligocene plants">
+        <viz:size value="25.174255"></viz:size>
+        <viz:position x="-217.13269" y="891.80566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="introduced plants">
+        <viz:size value="24.34537"></viz:size>
+        <viz:position x="-96.26783" y="40.800472"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="plants of the united states air force">
+        <viz:size value="24.34537"></viz:size>
+        <viz:position x="-964.04865" y="-661.3236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="paleocene plants">
+        <viz:size value="23.441132"></viz:size>
+        <viz:position x="-489.26865" y="591.089"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="chemical plants">
+        <viz:size value="23.441132"></viz:size>
+        <viz:position x="-1062.0973" y="-872.1526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="plants by habit">
+        <viz:size value="22.536892"></viz:size>
+        <viz:position x="123.29476" y="-566.8098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="plants of continental subarctic climate">
+        <viz:size value="21.481947"></viz:size>
+        <viz:position x="-1103.074" y="820.6938"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="plants in the bible">
+        <viz:size value="20.35165"></viz:size>
+        <viz:position x="-1017.57983" y="-428.07886"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="plants of mild maritime climate">
+        <viz:size value="20.35165"></viz:size>
+        <viz:position x="330.10638" y="-403.39127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="rhizomatous plants">
+        <viz:size value="20.35165"></viz:size>
+        <viz:position x="1036.8489" y="344.79446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="hydroelectric power plants in texas">
+        <viz:size value="20.35165"></viz:size>
+        <viz:position x="-889.0585" y="146.90862"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="animals and plants named after david attenborough">
+        <viz:size value="19.070644"></viz:size>
+        <viz:position x="-642.99207" y="324.45798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="hydroelectric power plants in south carolina">
+        <viz:size value="17.638933"></viz:size>
+        <viz:position x="-909.7681" y="1019.5835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="hydroelectric power plants in arizona">
+        <viz:size value="17.638933"></viz:size>
+        <viz:position x="-1137.1442" y="37.70671"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="plants used in traditional maori medicine">
+        <viz:size value="17.638933"></viz:size>
+        <viz:position x="1004.65344" y="-101.364235"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="hydroelectric power plants in kentucky">
+        <viz:size value="17.638933"></viz:size>
+        <viz:position x="-1139.6238" y="-229.0709"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="hydroelectric power plants in alaska">
+        <viz:size value="15.905808"></viz:size>
+        <viz:position x="-218.40662" y="-1351.5723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="cormous plants">
+        <viz:size value="15.905808"></viz:size>
+        <viz:position x="1094.1805" y="107.963974"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="stoloniferous plants">
+        <viz:size value="15.905808"></viz:size>
+        <viz:position x="796.4538" y="783.4431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="domesticated plants">
+        <viz:size value="15.905808"></viz:size>
+        <viz:position x="708.32935" y="590.349"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="plants of temperate climates">
+        <viz:size value="13.946625"></viz:size>
+        <viz:position x="119.336945" y="-828.59393"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="coprophagous plants">
+        <viz:size value="13.946625"></viz:size>
+        <viz:position x="-516.7436" y="128.78845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="hydroelectric power plants in oklahoma">
+        <viz:size value="13.946625"></viz:size>
+        <viz:position x="-933.79175" y="-111.61912"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="bulbous plants">
+        <viz:size value="13.946625"></viz:size>
+        <viz:position x="991.4797" y="935.04803"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="middle-earth plants">
+        <viz:size value="13.946625"></viz:size>
+        <viz:position x="-566.6128" y="-968.319"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="evolution of plants">
+        <viz:size value="11.535322"></viz:size>
+        <viz:position x="137.45964" y="-1086.1824"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="hydroelectric power plants in south dakota">
+        <viz:size value="11.535322"></viz:size>
+        <viz:position x="-757.43445" y="-546.6056"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="hydroelectric power plants in georgia">
+        <viz:size value="11.535322"></viz:size>
+        <viz:position x="-709.787" y="1164.8873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="aging-related substances in plants">
+        <viz:size value="11.535322"></viz:size>
+        <viz:position x="-457.3282" y="-1281.5621"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="toxic plants of western australia">
+        <viz:size value="8.370487"></viz:size>
+        <viz:position x="833.9235" y="-793.4325"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="hydroelectric power plants in vermont">
+        <viz:size value="8.370487"></viz:size>
+        <viz:position x="-545.1643" y="-437.10538"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="pleistocene plants">
+        <viz:size value="8.370487"></viz:size>
+        <viz:position x="-158.16751" y="1360.6353"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="former hydroelectric power plants in the united states">
+        <viz:size value="8.370487"></viz:size>
+        <viz:position x="-1317.9529" y="351.3321"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="paracarnivorous plants">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-469.20612" y="1054.3367"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="plants of mediterranean climate">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="547.66315" y="-431.12292"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="hydroelectric power plants in new hampshire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-337.01437" y="-572.01245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="plants native of wisconsin">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-332.01624" y="-303.52463"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="plants of the southeastern united states">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="418.98752" y="1067.042"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="hydroelectric power plants in illinois">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1100.7743" y="292.58374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="ordovician plants">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1014.3881" y="565.9265"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="hydroelectric power plants in indiana">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1303.0153" y="-407.6954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="hydroelectric power plants in hawaii">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="277.29163" y="-1330.9535"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="plants of mild maritme climate">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="588.3648" y="-716.43286"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="pliocene plants">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="335.6676" y="1319.7825"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="hydroelectric power plants in nebraska">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-562.679" y="-705.97327"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="plants of humid continental climate">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-103.40282" y="-682.8672"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="hydroelectric power plants in nevada">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1358.1979" y="108.23281"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="proposed hydroelectric power plants in the united states">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="43.261894" y="-1360.7816"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="aquarium plants">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1242.0298" y="563.3088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="plants described n 1958">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="798.86816" y="1081.3032"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="391.0"></edge>
+      <edge id="1" source="2" target="0" weight="369.0"></edge>
+      <edge id="2" source="3" target="4" weight="284.0"></edge>
+      <edge id="3" source="0" target="5" weight="165.0"></edge>
+      <edge id="4" source="1" target="3" weight="130.0"></edge>
+      <edge id="5" source="0" target="4" weight="93.0"></edge>
+      <edge id="6" source="5" target="3" weight="81.0"></edge>
+      <edge id="7" source="5" target="6" weight="73.0"></edge>
+      <edge id="8" source="7" target="8" weight="70.0"></edge>
+      <edge id="9" source="9" target="3" weight="66.0"></edge>
+      <edge id="10" source="10" target="3" weight="63.0"></edge>
+      <edge id="11" source="0" target="10" weight="61.0"></edge>
+      <edge id="12" source="0" target="11" weight="61.0"></edge>
+      <edge id="13" source="0" target="8" weight="60.0"></edge>
+      <edge id="14" source="12" target="0" weight="53.0"></edge>
+      <edge id="15" source="0" target="13" weight="50.0"></edge>
+      <edge id="16" source="0" target="9" weight="43.0"></edge>
+      <edge id="17" source="0" target="14" weight="42.0"></edge>
+      <edge id="18" source="15" target="0" weight="40.0"></edge>
+      <edge id="19" source="16" target="17" weight="39.0"></edge>
+      <edge id="20" source="14" target="3" weight="37.0"></edge>
+      <edge id="21" source="0" target="18" weight="34.0"></edge>
+      <edge id="22" source="19" target="20" weight="31.0"></edge>
+      <edge id="23" source="4" target="6" weight="23.0"></edge>
+      <edge id="24" source="1" target="21" weight="23.0"></edge>
+      <edge id="25" source="8" target="3" weight="21.0"></edge>
+      <edge id="26" source="22" target="8" weight="21.0"></edge>
+      <edge id="27" source="3" target="23" weight="19.0"></edge>
+      <edge id="28" source="9" target="6" weight="18.0"></edge>
+      <edge id="29" source="24" target="3" weight="17.0"></edge>
+      <edge id="30" source="7" target="10" weight="15.0"></edge>
+      <edge id="31" source="25" target="26" weight="13.0"></edge>
+      <edge id="32" source="27" target="0" weight="12.0"></edge>
+      <edge id="33" source="28" target="29" weight="12.0"></edge>
+      <edge id="34" source="30" target="12" weight="11.0"></edge>
+      <edge id="35" source="3" target="31" weight="11.0"></edge>
+      <edge id="36" source="0" target="28" weight="9.0"></edge>
+      <edge id="37" source="1" target="32" weight="9.0"></edge>
+      <edge id="38" source="33" target="1" weight="8.0"></edge>
+      <edge id="39" source="0" target="34" weight="8.0"></edge>
+      <edge id="40" source="0" target="35" weight="7.0"></edge>
+      <edge id="41" source="0" target="31" weight="6.0"></edge>
+      <edge id="42" source="36" target="37" weight="6.0"></edge>
+      <edge id="43" source="3" target="38" weight="6.0"></edge>
+      <edge id="44" source="0" target="39" weight="5.0"></edge>
+      <edge id="45" source="40" target="41" weight="5.0"></edge>
+      <edge id="46" source="2" target="42" weight="5.0"></edge>
+      <edge id="47" source="43" target="0" weight="5.0"></edge>
+      <edge id="48" source="44" target="37" weight="5.0"></edge>
+      <edge id="49" source="37" target="26" weight="5.0"></edge>
+      <edge id="50" source="45" target="0" weight="4.0"></edge>
+      <edge id="51" source="46" target="31" weight="4.0"></edge>
+      <edge id="52" source="7" target="47" weight="4.0"></edge>
+      <edge id="53" source="48" target="38" weight="4.0"></edge>
+      <edge id="54" source="49" target="32" weight="4.0"></edge>
+      <edge id="55" source="36" target="25" weight="3.0"></edge>
+      <edge id="56" source="7" target="38" weight="3.0"></edge>
+      <edge id="57" source="7" target="31" weight="3.0"></edge>
+      <edge id="58" source="36" target="12" weight="3.0"></edge>
+      <edge id="59" source="12" target="50" weight="3.0"></edge>
+      <edge id="60" source="51" target="52" weight="3.0"></edge>
+      <edge id="61" source="53" target="54" weight="3.0"></edge>
+      <edge id="62" source="55" target="31" weight="3.0"></edge>
+      <edge id="63" source="0" target="47" weight="3.0"></edge>
+      <edge id="64" source="30" target="27" weight="3.0"></edge>
+      <edge id="65" source="45" target="3" weight="3.0"></edge>
+      <edge id="66" source="56" target="28" weight="2.0"></edge>
+      <edge id="67" source="57" target="47" weight="2.0"></edge>
+      <edge id="68" source="36" target="43" weight="2.0"></edge>
+      <edge id="69" source="5" target="58" weight="2.0"></edge>
+      <edge id="70" source="36" target="59" weight="2.0"></edge>
+      <edge id="71" source="60" target="61" weight="2.0"></edge>
+      <edge id="72" source="5" target="62" weight="2.0"></edge>
+      <edge id="73" source="36" target="2" weight="2.0"></edge>
+      <edge id="74" source="63" target="3" weight="2.0"></edge>
+      <edge id="75" source="64" target="65" weight="2.0"></edge>
+      <edge id="76" source="47" target="3" weight="2.0"></edge>
+      <edge id="77" source="43" target="26" weight="2.0"></edge>
+      <edge id="78" source="66" target="48" weight="2.0"></edge>
+      <edge id="79" source="67" target="3" weight="2.0"></edge>
+      <edge id="80" source="7" target="68" weight="2.0"></edge>
+      <edge id="81" source="36" target="15" weight="2.0"></edge>
+      <edge id="82" source="36" target="20" weight="2.0"></edge>
+      <edge id="83" source="59" target="26" weight="2.0"></edge>
+      <edge id="84" source="69" target="70"></edge>
+      <edge id="85" source="71" target="72"></edge>
+      <edge id="86" source="63" target="29"></edge>
+      <edge id="87" source="45" target="73"></edge>
+      <edge id="88" source="74" target="75"></edge>
+      <edge id="89" source="44" target="59"></edge>
+      <edge id="90" source="76" target="52"></edge>
+      <edge id="91" source="77" target="78"></edge>
+      <edge id="92" source="45" target="79"></edge>
+      <edge id="93" source="57" target="2"></edge>
+      <edge id="94" source="57" target="8"></edge>
+      <edge id="95" source="35" target="36"></edge>
+      <edge id="96" source="6" target="28"></edge>
+      <edge id="97" source="80" target="0"></edge>
+      <edge id="98" source="0" target="38"></edge>
+      <edge id="99" source="7" target="45"></edge>
+      <edge id="100" source="7" target="28"></edge>
+      <edge id="101" source="81" target="12"></edge>
+      <edge id="102" source="82" target="48"></edge>
+      <edge id="103" source="48" target="68"></edge>
+      <edge id="104" source="1" target="58"></edge>
+      <edge id="105" source="0" target="68"></edge>
+      <edge id="106" source="83" target="84"></edge>
+      <edge id="107" source="85" target="86"></edge>
+      <edge id="108" source="62" target="87"></edge>
+      <edge id="109" source="48" target="45"></edge>
+      <edge id="110" source="52" target="88"></edge>
+      <edge id="111" source="89" target="38"></edge>
+      <edge id="112" source="47" target="29"></edge>
+      <edge id="113" source="33" target="63"></edge>
+      <edge id="114" source="38" target="90"></edge>
+      <edge id="115" source="91" target="5"></edge>
+      <edge id="116" source="92" target="93"></edge>
+      <edge id="117" source="12" target="44"></edge>
+      <edge id="118" source="57" target="14"></edge>
+      <edge id="119" source="45" target="94"></edge>
+      <edge id="120" source="95" target="42"></edge>
+      <edge id="121" source="96" target="0"></edge>
+      <edge id="122" source="33" target="68"></edge>
+      <edge id="123" source="79" target="97"></edge>
+      <edge id="124" source="0" target="37"></edge>
+      <edge id="125" source="98" target="70"></edge>
+      <edge id="126" source="48" target="97"></edge>
+      <edge id="127" source="99" target="100"></edge>
+      <edge id="128" source="55" target="68"></edge>
+      <edge id="129" source="101" target="2"></edge>
+      <edge id="130" source="7" target="97"></edge>
+      <edge id="131" source="102" target="31"></edge>
+      <edge id="132" source="103" target="71"></edge>
+      <edge id="133" source="104" target="68"></edge>
+      <edge id="134" source="97" target="3"></edge>
+      <edge id="135" source="105" target="106"></edge>
+      <edge id="136" source="0" target="97"></edge>
+      <edge id="137" source="107" target="108"></edge>
+      <edge id="138" source="35" target="30"></edge>
+      <edge id="139" source="109" target="20"></edge>
+      <edge id="140" source="68" target="3"></edge>
+      <edge id="141" source="48" target="31"></edge>
+      <edge id="142" source="45" target="110"></edge>
+      <edge id="143" source="111" target="112"></edge>
+      <edge id="144" source="63" target="7"></edge>
+      <edge id="145" source="63" target="0"></edge>
+      <edge id="146" source="113" target="3"></edge>
+      <edge id="147" source="50" target="27"></edge>
+      <edge id="148" source="114" target="28"></edge>
+      <edge id="149" source="115" target="2"></edge>
+      <edge id="150" source="97" target="110"></edge>
+      <edge id="151" source="81" target="27"></edge>
+      <edge id="152" source="22" target="47"></edge>
+      <edge id="153" source="104" target="38"></edge>
+      <edge id="154" source="116" target="47"></edge>
+      <edge id="155" source="117" target="118"></edge>
+      <edge id="156" source="35" target="26"></edge>
+      <edge id="157" source="119" target="38"></edge>
+    </edges>
+  </graph>
+</gexf>

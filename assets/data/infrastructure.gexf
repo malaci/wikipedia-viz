@@ -1,0 +1,747 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="energy infrastructure">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="178.62155" y="814.54987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="transport infrastructure">
+        <viz:size value="85.136086"></viz:size>
+        <viz:position x="844.0749" y="-205.49466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="rail infrastructure">
+        <viz:size value="84.852066"></viz:size>
+        <viz:position x="-70.376976" y="-424.376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="infrastructure completed in 2000s">
+        <viz:size value="75.195274"></viz:size>
+        <viz:position x="395.78943" y="514.0518"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="infrastructure completed in 1960s">
+        <viz:size value="73.49113"></viz:size>
+        <viz:position x="-76.478676" y="886.3621"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="infrastructure completed in 1950s">
+        <viz:size value="71.12426"></viz:size>
+        <viz:position x="139.5491" y="594.92975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="infrastructure completed in 1890s">
+        <viz:size value="69.23077"></viz:size>
+        <viz:position x="301.67584" y="-75.76718"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="infrastructure completed in 1910s">
+        <viz:size value="68.94674"></viz:size>
+        <viz:position x="239.2536" y="351.9063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="electric power infrastructure">
+        <viz:size value="68.66272"></viz:size>
+        <viz:position x="-359.28696" y="813.4105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="infrastructure completed in 1900s">
+        <viz:size value="68.66272"></viz:size>
+        <viz:position x="468.32513" y="115.112076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="infrastructure completed in 2010s">
+        <viz:size value="67.52663"></viz:size>
+        <viz:position x="587.05945" y="681.2643"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="infrastructure completed in 1990s">
+        <viz:size value="67.52663"></viz:size>
+        <viz:position x="-39.692944" y="465.36237"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="infrastructure completed in 1880s">
+        <viz:size value="66.29585"></viz:size>
+        <viz:position x="621.47656" y="-68.3258"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="infrastructure completed in 1980s">
+        <viz:size value="66.10651"></viz:size>
+        <viz:position x="-143.40674" y="674.70013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="infrastructure completed in 1930s">
+        <viz:size value="65.06509"></viz:size>
+        <viz:position x="523.17804" y="323.0733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="infrastructure completed in 1970s">
+        <viz:size value="64.97041"></viz:size>
+        <viz:position x="77.91962" y="1056.947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="infrastructure completed in 1920s">
+        <viz:size value="63.550297"></viz:size>
+        <viz:position x="704.7814" y="493.03668"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="infrastructure completed in 1940s">
+        <viz:size value="60.047337"></viz:size>
+        <viz:position x="388.91397" y="771.6106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="water supply infrastructure">
+        <viz:size value="60.047337"></viz:size>
+        <viz:position x="413.31735" y="-267.54227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="road infrastructure">
+        <viz:size value="59.76331"></viz:size>
+        <viz:position x="-302.15802" y="-1302.1757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="infrastructure completed in 1870s">
+        <viz:size value="58.62722"></viz:size>
+        <viz:position x="141.11462" y="-278.15338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="infrastructure completed in 1860s">
+        <viz:size value="57.585796"></viz:size>
+        <viz:position x="-26.14371" y="212.32419"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="cloud infrastructure">
+        <viz:size value="57.112427"></viz:size>
+        <viz:position x="-337.29068" y="-1048.8755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="telecommunications infrastructure">
+        <viz:size value="56.828403"></viz:size>
+        <viz:position x="-599.9539" y="-303.11667"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="new york infrastructure">
+        <viz:size value="56.260353"></viz:size>
+        <viz:position x="190.69029" y="125.59173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="infrastructure in india">
+        <viz:size value="55.502956"></viz:size>
+        <viz:position x="169.68007" y="-1109.5035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="infrastructure in london">
+        <viz:size value="54.93491"></viz:size>
+        <viz:position x="943.72363" y="-516.5027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="infrastructure in the united states">
+        <viz:size value="53.893494"></viz:size>
+        <viz:position x="747.4325" y="213.08997"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="infrastructure completed in 1850s">
+        <viz:size value="50.674553"></viz:size>
+        <viz:position x="1082.9504" y="-62.127594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="railway infrastructure companies">
+        <viz:size value="50.011833"></viz:size>
+        <viz:position x="-375.60208" y="-408.64478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="infrastructure completed in 1910s">
+        <viz:size value="50.011833"></viz:size>
+        <viz:position x="-733.42975" y="218.06042"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="spanish colonial infrastructure in the philippines">
+        <viz:size value="50.011833"></viz:size>
+        <viz:position x="-851.67267" y="-212.53194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="infrastructure in the united kingdom">
+        <viz:size value="48.970413"></viz:size>
+        <viz:position x="-642.29083" y="-45.427135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="infrastructure completed in 1840s">
+        <viz:size value="48.970413"></viz:size>
+        <viz:position x="643.62085" y="-312.2996"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="computing infrastructure">
+        <viz:size value="48.49704"></viz:size>
+        <viz:position x="-931.86145" y="-637.181"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="infrastructure completed in 1830s">
+        <viz:size value="48.213017"></viz:size>
+        <viz:position x="935.3305" y="380.48956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="infrastructure in africa">
+        <viz:size value="47.360947"></viz:size>
+        <viz:position x="-352.57922" y="540.7263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="infrastructure in indonesia">
+        <viz:size value="46.22485"></viz:size>
+        <viz:position x="-87.95124" y="-1094.9362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="airport infrastructure">
+        <viz:size value="45.940826"></viz:size>
+        <viz:position x="-980.47064" y="311.0356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="pedestrian infrastructure">
+        <viz:size value="44.899406"></viz:size>
+        <viz:position x="-536.6944" y="-1229.3993"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="nuclear weapons infrastructure of the united states">
+        <viz:size value="44.236687"></viz:size>
+        <viz:position x="974.25555" y="922.99994"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="london water infrastructure">
+        <viz:size value="44.236687"></viz:size>
+        <viz:position x="-260.5839" y="302.07452"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="infrastructure in canada">
+        <viz:size value="43.47929"></viz:size>
+        <viz:position x="292.60696" y="1305.9474"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="infrastructure completed in 1890s">
+        <viz:size value="41.869823"></viz:size>
+        <viz:position x="-890.07" y="36.3669"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="sewerage infrastructure">
+        <viz:size value="41.396446"></viz:size>
+        <viz:position x="-782.9711" y="-463.07407"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="port infrastructure">
+        <viz:size value="41.396446"></viz:size>
+        <viz:position x="-568.2044" y="-588.1913"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="natural gas infrastructure">
+        <viz:size value="41.01775"></viz:size>
+        <viz:position x="-181.97084" y="1102.5183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="infrastructure in australia">
+        <viz:size value="41.01775"></viz:size>
+        <viz:position x="-514.5988" y="359.32626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="infrastructure completed in 1820s">
+        <viz:size value="41.01775"></viz:size>
+        <viz:position x="207.57518" y="-507.85437"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="infrastructure completed in 1810s">
+        <viz:size value="40.54438"></viz:size>
+        <viz:position x="718.4164" y="-538.5293"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="cycling infrastructure">
+        <viz:size value="40.071007"></viz:size>
+        <viz:position x="-63.56802" y="-1336.8169"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="infrastructure completed in 1790s">
+        <viz:size value="39.029583"></viz:size>
+        <viz:position x="556.59" y="-731.8781"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="infrastructure in malaysia">
+        <viz:size value="38.461536"></viz:size>
+        <viz:position x="-663.7766" y="1171.6289"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="infrastructure completed in 1770s">
+        <viz:size value="37.89349"></viz:size>
+        <viz:position x="440.71613" y="-514.3109"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="infrastructure completed in 1750s">
+        <viz:size value="36.094673"></viz:size>
+        <viz:position x="386.3857" y="-997.1957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="infrastructure completed in 1720s">
+        <viz:size value="35.431953"></viz:size>
+        <viz:position x="-1238.8158" y="415.57727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="infrastructure completed in 1780s">
+        <viz:size value="34.011837"></viz:size>
+        <viz:position x="22.857513" y="-58.39138"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="hydrogen infrastructure">
+        <viz:size value="34.011837"></viz:size>
+        <viz:position x="62.092167" y="1316.6836"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="infrastructure completed in 1800s">
+        <viz:size value="32.402367"></viz:size>
+        <viz:position x="-1190.4517" y="646.95575"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="infrastructure completed in 1760s">
+        <viz:size value="32.402367"></viz:size>
+        <viz:position x="624.128" y="-953.69684"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="infrastructure investment">
+        <viz:size value="31.550297"></viz:size>
+        <viz:position x="872.75464" y="-1027.8982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="infrastructure in germany">
+        <viz:size value="30.603548"></viz:size>
+        <viz:position x="-402.17984" y="-150.04959"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="infrastructure in sweden">
+        <viz:size value="30.603548"></viz:size>
+        <viz:position x="316.00104" y="1054.7029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="proposed infrastructure in hong kong">
+        <viz:size value="30.603548"></viz:size>
+        <viz:position x="1064.3904" y="-313.33054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="infrastructure in scotland">
+        <viz:size value="30.603548"></viz:size>
+        <viz:position x="-570.08685" y="657.2154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="london underground infrastructure">
+        <viz:size value="29.562132"></viz:size>
+        <viz:position x="1055.2191" y="-833.3987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="infrastructure in europe">
+        <viz:size value="29.562132"></viz:size>
+        <viz:position x="-163.73373" y="-219.34885"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="infrastructure completed in 1740s">
+        <viz:size value="28.426035"></viz:size>
+        <viz:position x="1155.2432" y="718.6428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="infrastructure in kenya">
+        <viz:size value="28.426035"></viz:size>
+        <viz:position x="758.0153" y="832.9835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="infrastructure in louisville, kentucky">
+        <viz:size value="27.289942"></viz:size>
+        <viz:position x="-174.45328" y="1336.219"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="infrastructure completed in 1730s">
+        <viz:size value="25.964495"></viz:size>
+        <viz:position x="1322.5092" y="314.0979"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="infrastructure in oklahoma">
+        <viz:size value="25.964495"></viz:size>
+        <viz:position x="932.00616" y="636.27386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="infrastructure completed in the 15th century">
+        <viz:size value="25.964495"></viz:size>
+        <viz:position x="-1341.152" y="-54.695526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="proposed infrastructure in pakistan">
+        <viz:size value="25.964495"></viz:size>
+        <viz:position x="303.43204" y="-755.5906"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="infrastructure completed in the 13th century">
+        <viz:size value="25.964495"></viz:size>
+        <viz:position x="-1225.7075" y="-543.75916"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="fuels infrastructure">
+        <viz:size value="24.54438"></viz:size>
+        <viz:position x="-1037.1897" y="850.96857"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="infrastructure in poland">
+        <viz:size value="24.54438"></viz:size>
+        <viz:position x="554.3148" y="986.37445"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="infrastructure completed in 1700s">
+        <viz:size value="21.136093"></viz:size>
+        <viz:position x="1184.2244" y="492.78293"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="infrastructure completed in the 17th century">
+        <viz:size value="21.136093"></viz:size>
+        <viz:position x="-1043.2473" y="-390.09705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="proposed infrastructure in china">
+        <viz:size value="21.136093"></viz:size>
+        <viz:position x="-976.9641" y="547.5945"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="infrastructure in iran">
+        <viz:size value="21.136093"></viz:size>
+        <viz:position x="531.82184" y="1233.87"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="infrastructure in brazil">
+        <viz:size value="18.95858"></viz:size>
+        <viz:position x="-854.69684" y="1017.0511"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="coal infrastructure">
+        <viz:size value="18.95858"></viz:size>
+        <viz:position x="-817.3459" y="736.39496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="florida infrastructure">
+        <viz:size value="18.95858"></viz:size>
+        <viz:position x="880.41364" y="45.67179"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="proposed infrastructure in nigeria">
+        <viz:size value="16.49704"></viz:size>
+        <viz:position x="-1112.5304" y="-774.20294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="infrastructure in turkey">
+        <viz:size value="16.49704"></viz:size>
+        <viz:position x="-245.53479" y="-600.9014"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="infrastructure in thailand">
+        <viz:size value="16.49704"></viz:size>
+        <viz:position x="-427.32797" y="1275.8871"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="infrastructure by country">
+        <viz:size value="16.49704"></viz:size>
+        <viz:position x="419.93304" y="-1258.0753"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="infrastructure completed in 1710s">
+        <viz:size value="16.49704"></viz:size>
+        <viz:position x="18.60184" y="-660.34186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="proposed infrastructure in saudi arabia">
+        <viz:size value="16.49704"></viz:size>
+        <viz:position x="-169.70805" y="-849.2928"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="infrastructure in botswana">
+        <viz:size value="13.467456"></viz:size>
+        <viz:position x="-734.25116" y="475.11893"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="cultural infrastructure completed in 1990s">
+        <viz:size value="13.467456"></viz:size>
+        <viz:position x="1102.0951" y="204.50847"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="infrastructure in mexico">
+        <viz:size value="13.467456"></viz:size>
+        <viz:position x="-415.34332" y="-775.3308"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="infrastructure in israel">
+        <viz:size value="9.491125"></viz:size>
+        <viz:position x="-420.8453" y="1040.6583"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="infrastructure completed in the 20th century">
+        <viz:size value="9.491125"></viz:size>
+        <viz:position x="1320.1493" y="-178.91309"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="oil shale infrastructure">
+        <viz:size value="9.491125"></viz:size>
+        <viz:position x="-623.4069" y="902.5936"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="infrastructure completed in 1610s">
+        <viz:size value="9.491125"></viz:size>
+        <viz:position x="827.19037" y="-769.73474"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="proposed infrastructure in north america">
+        <viz:size value="9.491125"></viz:size>
+        <viz:position x="-1121.6284" y="116.21508"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="iowa infrastructure">
+        <viz:size value="9.491125"></viz:size>
+        <viz:position x="-227.43385" y="35.354183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="proposed infrastructure in singapore">
+        <viz:size value="9.491125"></viz:size>
+        <viz:position x="89.56366" y="-886.52405"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="infrastructure in south america">
+        <viz:size value="9.491125"></viz:size>
+        <viz:position x="-1100.0411" y="-139.29572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="infrastructure completed in the 14th century">
+        <viz:size value="9.491125"></viz:size>
+        <viz:position x="-1338.7418" y="203.76169"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="infrastructure in afghanistan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="187.04716" y="-1339.8293"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="proposed infrastructure in djibouti">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-729.78436" y="-781.9646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="proposed infrastructure in niger">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-765.1447" y="-1108.7804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="proposed infrastructure in yemen">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-573.5408" y="-962.3867"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="infrastructure by city">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="777.44745" y="1108.7954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="proposed transportation infrastructure in the north west of england">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1279.1406" y="-418.60516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="physical infrastructure">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="651.8983" y="-1184.798"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="infrastructure completed in the 12th century">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1305.8506" y="-303.11786"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="proposed transportation infrastructure in taiwan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1325.639" y="56.657368"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="proposed infrastructure in portugal">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-464.25385" y="121.091446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="proposed infrastructure in nicaragua">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1163.8029" y="-625.27997"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="proposed infrastructure in algeria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-932.47986" y="-941.3423"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="39.0"></edge>
+      <edge id="1" source="0" target="2" weight="105.0"></edge>
+      <edge id="2" source="3" target="0" weight="171.0"></edge>
+      <edge id="3" source="0" target="4" weight="102.0"></edge>
+      <edge id="4" source="5" target="0" weight="16.0"></edge>
+      <edge id="5" source="0" target="6" weight="160.0"></edge>
+      <edge id="6" source="7" target="8" weight="13.0"></edge>
+      <edge id="7" source="9" target="0" weight="99.0"></edge>
+      <edge id="8" source="10" target="11" weight="7.0"></edge>
+      <edge id="9" source="0" target="12" weight="6.0"></edge>
+      <edge id="10" source="0" target="13" weight="54.0"></edge>
+      <edge id="11" source="0" target="14" weight="54.0"></edge>
+      <edge id="12" source="0" target="15" weight="5.0"></edge>
+      <edge id="13" source="11" target="16" weight="4.0"></edge>
+      <edge id="14" source="0" target="17" weight="40.0"></edge>
+      <edge id="15" source="4" target="2" weight="20.0"></edge>
+      <edge id="16" source="18" target="0" weight="4.0"></edge>
+      <edge id="17" source="19" target="1" weight="4.0"></edge>
+      <edge id="18" source="0" target="20" weight="27.0"></edge>
+      <edge id="19" source="21" target="0" weight="3.0"></edge>
+      <edge id="20" source="13" target="1" weight="27.0"></edge>
+      <edge id="21" source="0" target="22" weight="12.0"></edge>
+      <edge id="22" source="23" target="24" weight="3.0"></edge>
+      <edge id="23" source="25" target="0" weight="3.0"></edge>
+      <edge id="24" source="6" target="14" weight="27.0"></edge>
+      <edge id="25" source="0" target="26" weight="30.0"></edge>
+      <edge id="26" source="27" target="28" weight="30.0"></edge>
+      <edge id="27" source="8" target="26" weight="20.0"></edge>
+      <edge id="28" source="29" target="7" weight="2.0"></edge>
+      <edge id="29" source="7" target="30" weight="2.0"></edge>
+      <edge id="30" source="6" target="3" weight="18.0"></edge>
+      <edge id="31" source="2" target="3" weight="18.0"></edge>
+      <edge id="32" source="31" target="27" weight="20.0"></edge>
+      <edge id="33" source="1" target="4" weight="12.0"></edge>
+      <edge id="34" source="17" target="14" weight="18.0"></edge>
+      <edge id="35" source="32" target="27" weight="20.0"></edge>
+      <edge id="36" source="33" target="23" weight="2.0"></edge>
+      <edge id="37" source="33" target="26" weight="20.0"></edge>
+      <edge id="38" source="34" target="7"></edge>
+      <edge id="39" source="35" target="36" weight="5.0"></edge>
+      <edge id="40" source="23" target="37"></edge>
+      <edge id="41" source="1" target="38"></edge>
+      <edge id="42" source="39" target="20" weight="9.0"></edge>
+      <edge id="43" source="13" target="40" weight="8.0"></edge>
+      <edge id="44" source="31" target="41" weight="10.0"></edge>
+      <edge id="45" source="14" target="2" weight="5.0"></edge>
+      <edge id="46" source="1" target="42"></edge>
+      <edge id="47" source="33" target="43"></edge>
+      <edge id="48" source="14" target="44" weight="9.0"></edge>
+      <edge id="49" source="45" target="46" weight="8.0"></edge>
+      <edge id="50" source="45" target="47" weight="9.0"></edge>
+      <edge id="51" source="26" target="20" weight="9.0"></edge>
+      <edge id="52" source="36" target="48" weight="7.0"></edge>
+      <edge id="53" source="49" target="5"></edge>
+      <edge id="54" source="0" target="50"></edge>
+      <edge id="55" source="27" target="26" weight="10.0"></edge>
+      <edge id="56" source="51" target="52"></edge>
+      <edge id="57" source="17" target="20" weight="9.0"></edge>
+      <edge id="58" source="6" target="17" weight="10.0"></edge>
+      <edge id="59" source="9" target="39" weight="10.0"></edge>
+      <edge id="60" source="53" target="54"></edge>
+      <edge id="61" source="13" target="2" weight="5.0"></edge>
+      <edge id="62" source="7" target="31" weight="10.0"></edge>
+      <edge id="63" source="6" target="2" weight="5.0"></edge>
+      <edge id="64" source="23" target="55"></edge>
+      <edge id="65" source="7" target="56"></edge>
+      <edge id="66" source="41" target="6" weight="10.0"></edge>
+      <edge id="67" source="39" target="22" weight="4.0"></edge>
+      <edge id="68" source="57" target="58"></edge>
+      <edge id="69" source="26" target="28" weight="10.0"></edge>
+      <edge id="70" source="14" target="4" weight="6.0"></edge>
+      <edge id="71" source="4" target="13" weight="9.0"></edge>
+      <edge id="72" source="9" target="59" weight="10.0"></edge>
+      <edge id="73" source="33" target="20" weight="9.0"></edge>
+      <edge id="74" source="60" target="17" weight="10.0"></edge>
+      <edge id="75" source="26" target="40" weight="8.0"></edge>
+      <edge id="76" source="26" target="32" weight="10.0"></edge>
+      <edge id="77" source="41" target="26" weight="10.0"></edge>
+      <edge id="78" source="13" target="22" weight="4.0"></edge>
+      <edge id="79" source="33" target="61"></edge>
+      <edge id="80" source="35" target="62" weight="5.0"></edge>
+      <edge id="81" source="63" target="27" weight="9.0"></edge>
+      <edge id="82" source="64" target="33"></edge>
+      <edge id="83" source="17" target="26" weight="10.0"></edge>
+      <edge id="84" source="31" target="65" weight="3.0"></edge>
+      <edge id="85" source="17" target="35" weight="10.0"></edge>
+      <edge id="86" source="66" target="67"></edge>
+      <edge id="87" source="68" target="28" weight="10.0"></edge>
+      <edge id="88" source="17" target="12" weight="10.0"></edge>
+      <edge id="89" source="0" target="69"></edge>
+      <edge id="90" source="70" target="71"></edge>
+      <edge id="91" source="32" target="39" weight="10.0"></edge>
+      <edge id="92" source="8" target="20" weight="9.0"></edge>
+      <edge id="93" source="15" target="3" weight="9.0"></edge>
+      <edge id="94" source="35" target="26" weight="10.0"></edge>
+      <edge id="95" source="34" target="23"></edge>
+      <edge id="96" source="14" target="9" weight="9.0"></edge>
+      <edge id="97" source="72" target="73"></edge>
+      <edge id="98" source="74" target="75" weight="8.0"></edge>
+      <edge id="99" source="25" target="9" weight="9.0"></edge>
+      <edge id="100" source="9" target="12" weight="9.0"></edge>
+      <edge id="101" source="13" target="3" weight="9.0"></edge>
+      <edge id="102" source="26" target="39" weight="10.0"></edge>
+      <edge id="103" source="22" target="12" weight="4.0"></edge>
+      <edge id="104" source="25" target="76"></edge>
+      <edge id="105" source="77" target="26" weight="10.0"></edge>
+      <edge id="106" source="28" target="31" weight="10.0"></edge>
+      <edge id="107" source="14" target="20" weight="9.0"></edge>
+      <edge id="108" source="13" target="9" weight="9.0"></edge>
+      <edge id="109" source="26" target="78" weight="10.0"></edge>
+      <edge id="110" source="41" target="13" weight="9.0"></edge>
+      <edge id="111" source="79" target="59" weight="10.0"></edge>
+      <edge id="112" source="80" target="81"></edge>
+      <edge id="113" source="9" target="15" weight="9.0"></edge>
+      <edge id="114" source="6" target="4" weight="6.0"></edge>
+      <edge id="115" source="1" target="82"></edge>
+      <edge id="116" source="9" target="32" weight="10.0"></edge>
+      <edge id="117" source="83" target="32" weight="10.0"></edge>
+      <edge id="118" source="53" target="84"></edge>
+      <edge id="119" source="33" target="28" weight="10.0"></edge>
+      <edge id="120" source="0" target="39" weight="10.0"></edge>
+      <edge id="121" source="85" target="72"></edge>
+      <edge id="122" source="59" target="45" weight="8.0"></edge>
+      <edge id="123" source="13" target="8" weight="9.0"></edge>
+      <edge id="124" source="6" target="20" weight="9.0"></edge>
+      <edge id="125" source="14" target="35" weight="10.0"></edge>
+      <edge id="126" source="23" target="30"></edge>
+      <edge id="127" source="86" target="47" weight="9.0"></edge>
+      <edge id="128" source="87" target="7"></edge>
+      <edge id="129" source="4" target="41" weight="10.0"></edge>
+      <edge id="130" source="88" target="56"></edge>
+      <edge id="131" source="5" target="55"></edge>
+      <edge id="132" source="14" target="3" weight="9.0"></edge>
+      <edge id="133" source="14" target="13" weight="9.0"></edge>
+      <edge id="134" source="33" target="63" weight="9.0"></edge>
+      <edge id="135" source="27" target="41" weight="10.0"></edge>
+      <edge id="136" source="17" target="39" weight="10.0"></edge>
+      <edge id="137" source="45" target="89" weight="3.0"></edge>
+      <edge id="138" source="33" target="90"></edge>
+      <edge id="139" source="32" target="7" weight="10.0"></edge>
+      <edge id="140" source="20" target="28" weight="10.0"></edge>
+      <edge id="141" source="70" target="91"></edge>
+      <edge id="142" source="5" target="72"></edge>
+      <edge id="143" source="92" target="82"></edge>
+      <edge id="144" source="31" target="32" weight="10.0"></edge>
+      <edge id="145" source="27" target="83" weight="9.0"></edge>
+      <edge id="146" source="93" target="41" weight="10.0"></edge>
+      <edge id="147" source="4" target="94" weight="6.0"></edge>
+      <edge id="148" source="7" target="95"></edge>
+      <edge id="149" source="22" target="20" weight="9.0"></edge>
+      <edge id="150" source="13" target="96" weight="9.0"></edge>
+      <edge id="151" source="23" target="97"></edge>
+      <edge id="152" source="13" target="6" weight="10.0"></edge>
+      <edge id="153" source="49" target="1"></edge>
+      <edge id="154" source="68" target="98"></edge>
+      <edge id="155" source="3" target="99" weight="9.0"></edge>
+      <edge id="156" source="48" target="100" weight="6.0"></edge>
+      <edge id="157" source="28" target="59" weight="10.0"></edge>
+      <edge id="158" source="101" target="102"></edge>
+      <edge id="159" source="35" target="63" weight="9.0"></edge>
+      <edge id="160" source="14" target="39" weight="10.0"></edge>
+      <edge id="161" source="103" target="27"></edge>
+      <edge id="162" source="104" target="33"></edge>
+      <edge id="163" source="46" target="40" weight="8.0"></edge>
+    </edges>
+  </graph>
+</gexf>

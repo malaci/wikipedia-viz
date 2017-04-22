@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="5" label="maritime incidents in 1940s">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-234.98929" y="-689.8468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="maritime incidents in 1910s">
+        <viz:size value="80.040474"></viz:size>
+        <viz:position x="-572.0871" y="-741.6954"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="maritime incidents in 1930s">
+        <viz:size value="70.76726"></viz:size>
+        <viz:position x="-795.32886" y="-608.9025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="maritime incidents in 1920s">
+        <viz:size value="70.23735"></viz:size>
+        <viz:position x="-769.6806" y="-197.85355"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="maritime incidents in 2000s">
+        <viz:size value="68.02944"></viz:size>
+        <viz:position x="554.06024" y="-210.77332"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="maritime incidents in 1970s">
+        <viz:size value="66.17479"></viz:size>
+        <viz:position x="145.92041" y="-158.39517"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="maritime incidents in 1950s">
+        <viz:size value="65.90985"></viz:size>
+        <viz:position x="64.0581" y="-1245.2969"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="maritime incidents in 1960s">
+        <viz:size value="65.90985"></viz:size>
+        <viz:position x="-86.47763" y="-472.65466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="maritime incidents in 1800s">
+        <viz:size value="65.90985"></viz:size>
+        <viz:position x="-1234.8027" y="-232.22903"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="maritime incidents in 1980s">
+        <viz:size value="65.55658"></viz:size>
+        <viz:position x="-115.35922" y="-214.01878"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="maritime incidents in 2010s">
+        <viz:size value="63.79025"></viz:size>
+        <viz:position x="341.41064" y="-51.27708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="maritime incidents in 1860s">
+        <viz:size value="62.112236"></viz:size>
+        <viz:position x="-1209.355" y="406.07736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="maritime incidents in 1900s">
+        <viz:size value="61.935604"></viz:size>
+        <viz:position x="-1031.4917" y="-104.51251"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="maritime incidents in 1990s">
+        <viz:size value="61.229073"></viz:size>
+        <viz:position x="-63.0944" y="3.8674755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="maritime incidents in 1810s">
+        <viz:size value="61.140755"></viz:size>
+        <viz:position x="-404.48196" y="666.12524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="maritime incidents in 1790s">
+        <viz:size value="58.84453"></viz:size>
+        <viz:position x="-848.231" y="896.0278"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="maritime incidents in 1880s">
+        <viz:size value="56.813248"></viz:size>
+        <viz:position x="-1251.7354" y="70.354614"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="maritime incidents in 1850s">
+        <viz:size value="56.0184"></viz:size>
+        <viz:position x="-1048.7869" y="205.74034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="maritime incidents in 1890s">
+        <viz:size value="55.665134"></viz:size>
+        <viz:position x="-620.3581" y="-407.43808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="international maritime incidents">
+        <viz:size value="55.311867"></viz:size>
+        <viz:position x="390.1593" y="161.77884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="maritime incidents in 1870s">
+        <viz:size value="54.605335"></viz:size>
+        <viz:position x="-957.3013" y="485.30637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="maritime incidents in 1840s">
+        <viz:size value="50.542778"></viz:size>
+        <viz:position x="-729.8464" y="654.223"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="maritime incidents in 1780s">
+        <viz:size value="50.189514"></viz:size>
+        <viz:position x="-430.30762" y="1152.6841"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="maritime incidents in 1770s">
+        <viz:size value="48.953083"></viz:size>
+        <viz:position x="-670.86945" y="1077.1106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="maritime incidents in 1820s">
+        <viz:size value="48.77645"></viz:size>
+        <viz:position x="-543.4408" y="859.8737"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="maritime incidents in 1830s">
+        <viz:size value="48.334866"></viz:size>
+        <viz:position x="-25.281158" y="744.3643"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="maritime incidents in 1760s">
+        <viz:size value="43.65409"></viz:size>
+        <viz:position x="-1037.0554" y="715.46075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="maritime incidents in 1740s">
+        <viz:size value="41.5345"></viz:size>
+        <viz:position x="-13.806924" y="984.8355"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="maritime incidents in the united kingdom">
+        <viz:size value="39.67985"></viz:size>
+        <viz:position x="-802.4012" y="294.41965"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="maritime incidents in 1700s">
+        <viz:size value="39.67985"></viz:size>
+        <viz:position x="258.23865" y="1184.873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="maritime incidents in the united states">
+        <viz:size value="37.118675"></viz:size>
+        <viz:position x="-167.90567" y="255.1434"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="maritime incidents in australia">
+        <viz:size value="33.93928"></viz:size>
+        <viz:position x="-553.79407" y="159.25925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="maritime incidents in argentina">
+        <viz:size value="33.93928"></viz:size>
+        <viz:position x="481.9153" y="589.9104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="maritime incidents in ireland">
+        <viz:size value="32.70285"></viz:size>
+        <viz:position x="-532.77625" y="-129.55115"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="maritime incidents in the soviet union">
+        <viz:size value="31.99632"></viz:size>
+        <viz:position x="-172.4032" y="-1196.6191"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="maritime incidents in chile">
+        <viz:size value="31.99632"></viz:size>
+        <viz:position x="-596.0061" y="446.98605"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="maritime incidents in spain">
+        <viz:size value="31.289791"></viz:size>
+        <viz:position x="-402.4037" y="-923.1795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="maritime incidents in 1720s">
+        <viz:size value="31.289791"></viz:size>
+        <viz:position x="33.659214" y="1253.1772"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="maritime incidents in the philippines">
+        <viz:size value="31.289791"></viz:size>
+        <viz:position x="-328.9344" y="-295.05634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="maritime incidents in brazil">
+        <viz:size value="30.494942"></viz:size>
+        <viz:position x="-924.79645" y="-379.76294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="maritime incidents in indonesia">
+        <viz:size value="29.700094"></viz:size>
+        <viz:position x="32.152924" y="-701.8778"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="maritime incidents involving slave ships">
+        <viz:size value="29.700094"></viz:size>
+        <viz:position x="-280.81482" y="907.0496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="maritime incidents in turkey">
+        <viz:size value="27.845448"></viz:size>
+        <viz:position x="273.81604" y="-654.7491"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="maritime incidents in canada">
+        <viz:size value="26.785648"></viz:size>
+        <viz:position x="110.79336" y="180.34644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="maritime incidents in india">
+        <viz:size value="25.725851"></viz:size>
+        <viz:position x="769.565" y="-641.6295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="16th-century maritime incidents">
+        <viz:size value="25.725851"></viz:size>
+        <viz:position x="889.4383" y="482.67352"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="maritime incidents in libya">
+        <viz:size value="25.725851"></viz:size>
+        <viz:position x="544.93964" y="-578.9139"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="maritime incidents in south africa">
+        <viz:size value="24.48942"></viz:size>
+        <viz:position x="-368.92722" y="365.56866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="maritime incidents in bangladesh">
+        <viz:size value="24.48942"></viz:size>
+        <viz:position x="990.44434" y="-245.30501"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="maritime incidents in greece">
+        <viz:size value="23.164675"></viz:size>
+        <viz:position x="313.18613" y="-895.68713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="maritime incidents in russia">
+        <viz:size value="23.164675"></viz:size>
+        <viz:position x="320.97195" y="394.28134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="maritime incidents in norway">
+        <viz:size value="21.663294"></viz:size>
+        <viz:position x="-416.92572" y="-1191.1414"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="maritime incidents in south korea">
+        <viz:size value="21.663294"></viz:size>
+        <viz:position x="60.997974" y="444.5795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="maritime incidents in 1690s">
+        <viz:size value="21.663294"></viz:size>
+        <viz:position x="-203.33037" y="1209.7576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="17th-century maritime incidents">
+        <viz:size value="21.663294"></viz:size>
+        <viz:position x="714.0507" y="1015.9451"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="maritime incidents in israel">
+        <viz:size value="19.98528"></viz:size>
+        <viz:position x="548.4773" y="-834.5136"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="maritime incidents in japan">
+        <viz:size value="19.98528"></viz:size>
+        <viz:position x="-147.88847" y="-927.0767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="maritime incidents in 1660s">
+        <viz:size value="17.954002"></viz:size>
+        <viz:position x="1075.163" y="663.3015"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="maritime incidents in italy">
+        <viz:size value="17.954002"></viz:size>
+        <viz:position x="411.52557" y="-387.38226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="maritime incidents in vietnam">
+        <viz:size value="17.954002"></viz:size>
+        <viz:position x="789.4843" y="-390.1564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="maritime incidents related to the european migrant crisis">
+        <viz:size value="15.657773"></viz:size>
+        <viz:position x="771.64325" y="-102.69863"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="maritime incidents in egypt">
+        <viz:size value="15.657773"></viz:size>
+        <viz:position x="981.92413" y="-792.4197"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="maritime incidents in france">
+        <viz:size value="12.831647"></viz:size>
+        <viz:position x="-419.77756" y="-537.52203"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="maritime incidents in tanzania">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="632.69214" y="373.93637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="maritime incidents in new zealand">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="-333.6788" y="35.05471"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="maritime incidents in the faroe islands">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="253.65765" y="915.9468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="maritime incidents in albania">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="163.04819" y="-409.42114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="maritime incidents in malta">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="557.0484" y="-1103.0198"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="maritime incidents in sweden">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="-809.3249" y="45.851208"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="maritime incidents in china">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="98.02564" y="-987.4595"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="maritime incidents in 1680s">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="904.93536" y="861.04114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="maritime incidents in cuba">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="320.84708" y="-1198.1188"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="maritime incidents in 1600s">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="1151.7297" y="405.4098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="maritime incidents in uruguay">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="-1157.8066" y="-493.96848"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="maritime incidents in lebanon">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="-648.99225" y="-1064.9427"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="maritime incidents in hong kong">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="723.0975" y="673.4961"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="maritime incidents in singapore">
+        <viz:size value="9.122355"></viz:size>
+        <viz:position x="-819.2709" y="-901.8312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="maritime incidents in the turks and caicos islands">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1231.8165" y="175.26613"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="maritime incidents in estonia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1016.8808" y="-733.19434"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="maritime incidents in papua new guinea">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="502.71292" y="848.4217"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="maritime incidents in finland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-174.9654" y="561.4638"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="maritime incidents in germany">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="229.37201" y="664.83185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="maritime incidents in denmark">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1011.9898" y="30.999372"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="maritime incidents in kiribati">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1246.7446" y="-95.18454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="maritime incidents in panama">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="648.3821" y="113.93397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="maritime incidents in somalia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="888.8405" y="232.66144"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="maritime incidents in pakistan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1208.5079" y="-367.10242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="21st-century maritime incidents">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="775.20776" y="-959.60266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="maritime incidents in tonga">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1062.0048" y="-560.16864"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="maritime incidents in 1650s">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="495.5205" y="1144.7375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="90.0"></edge>
+      <edge id="1" source="2" target="3" weight="60.0"></edge>
+      <edge id="2" source="4" target="5" weight="50.0"></edge>
+      <edge id="3" source="6" target="3" weight="40.0"></edge>
+      <edge id="4" source="5" target="7" weight="40.0"></edge>
+      <edge id="5" source="8" target="9" weight="21.0"></edge>
+      <edge id="6" source="2" target="10" weight="30.0"></edge>
+      <edge id="7" source="11" target="8" weight="14.0"></edge>
+      <edge id="8" source="3" target="12" weight="2.0"></edge>
+      <edge id="9" source="13" target="14" weight="8.0"></edge>
+      <edge id="10" source="15" target="6" weight="20.0"></edge>
+      <edge id="11" source="16" target="8" weight="14.0"></edge>
+      <edge id="12" source="17" target="18" weight="20.0"></edge>
+      <edge id="13" source="7" target="4" weight="20.0"></edge>
+      <edge id="14" source="5" target="19" weight="20.0"></edge>
+      <edge id="15" source="20" target="8" weight="14.0"></edge>
+      <edge id="16" source="21" target="8" weight="14.0"></edge>
+      <edge id="17" source="22" target="6" weight="20.0"></edge>
+      <edge id="18" source="23" target="24" weight="20.0"></edge>
+      <edge id="19" source="25" target="26" weight="20.0"></edge>
+      <edge id="20" source="8" target="27" weight="20.0"></edge>
+      <edge id="21" source="3" target="8" weight="14.0"></edge>
+      <edge id="22" source="2" target="8" weight="14.0"></edge>
+      <edge id="23" source="3" target="19" weight="20.0"></edge>
+      <edge id="24" source="7" target="28" weight="20.0"></edge>
+      <edge id="25" source="29" target="8" weight="14.0"></edge>
+      <edge id="26" source="8" target="28" weight="14.0"></edge>
+      <edge id="27" source="24" target="30" weight="20.0"></edge>
+      <edge id="28" source="15" target="31" weight="20.0"></edge>
+      <edge id="29" source="7" target="32" weight="10.0"></edge>
+      <edge id="30" source="5" target="20" weight="10.0"></edge>
+      <edge id="31" source="24" target="6" weight="10.0"></edge>
+      <edge id="32" source="33" target="5" weight="10.0"></edge>
+      <edge id="33" source="5" target="34" weight="10.0"></edge>
+      <edge id="34" source="2" target="23" weight="10.0"></edge>
+      <edge id="35" source="7" target="35" weight="10.0"></edge>
+      <edge id="36" source="36" target="25" weight="10.0"></edge>
+      <edge id="37" source="37" target="5" weight="10.0"></edge>
+      <edge id="38" source="38" target="31" weight="10.0"></edge>
+      <edge id="39" source="39" target="8" weight="7.0"></edge>
+      <edge id="40" source="8" target="40" weight="7.0"></edge>
+      <edge id="41" source="41" target="1" weight="10.0"></edge>
+      <edge id="42" source="32" target="8" weight="7.0"></edge>
+      <edge id="43" source="6" target="42" weight="10.0"></edge>
+      <edge id="44" source="43" target="31" weight="10.0"></edge>
+      <edge id="45" source="26" target="1" weight="10.0"></edge>
+      <edge id="46" source="44" target="26"></edge>
+      <edge id="47" source="45" target="8" weight="7.0"></edge>
+      <edge id="48" source="46" target="28" weight="10.0"></edge>
+      <edge id="49" source="15" target="47" weight="10.0"></edge>
+      <edge id="50" source="19" target="24" weight="10.0"></edge>
+      <edge id="51" source="48" target="1" weight="10.0"></edge>
+      <edge id="52" source="49" target="3"></edge>
+      <edge id="53" source="36" target="8" weight="7.0"></edge>
+      <edge id="54" source="46" target="50" weight="10.0"></edge>
+      <edge id="55" source="2" target="0" weight="10.0"></edge>
+      <edge id="56" source="27" target="24" weight="10.0"></edge>
+      <edge id="57" source="51" target="6" weight="10.0"></edge>
+      <edge id="58" source="52" target="24" weight="10.0"></edge>
+      <edge id="59" source="53" target="8" weight="7.0"></edge>
+      <edge id="60" source="51" target="54"></edge>
+      <edge id="61" source="31" target="12" weight="10.0"></edge>
+      <edge id="62" source="24" target="0" weight="10.0"></edge>
+      <edge id="63" source="51" target="27" weight="10.0"></edge>
+      <edge id="64" source="2" target="55" weight="10.0"></edge>
+      <edge id="65" source="56" target="8" weight="7.0"></edge>
+      <edge id="66" source="24" target="3" weight="10.0"></edge>
+      <edge id="67" source="57" target="8" weight="7.0"></edge>
+      <edge id="68" source="58" target="7" weight="10.0"></edge>
+      <edge id="69" source="27" target="6" weight="10.0"></edge>
+      <edge id="70" source="38" target="54" weight="10.0"></edge>
+      <edge id="71" source="54" target="31" weight="10.0"></edge>
+      <edge id="72" source="1" target="37" weight="10.0"></edge>
+      <edge id="73" source="59" target="8" weight="7.0"></edge>
+      <edge id="74" source="20" target="44"></edge>
+      <edge id="75" source="54" target="12"></edge>
+      <edge id="76" source="2" target="53" weight="10.0"></edge>
+      <edge id="77" source="27" target="19" weight="10.0"></edge>
+      <edge id="78" source="52" target="35" weight="10.0"></edge>
+      <edge id="79" source="60" target="5" weight="10.0"></edge>
+      <edge id="80" source="20" target="45"></edge>
+      <edge id="81" source="61" target="2" weight="10.0"></edge>
+      <edge id="82" source="54" target="62" weight="10.0"></edge>
+      <edge id="83" source="23" target="5" weight="10.0"></edge>
+      <edge id="84" source="17" target="24" weight="10.0"></edge>
+      <edge id="85" source="18" target="63" weight="10.0"></edge>
+      <edge id="86" source="36" target="64"></edge>
+      <edge id="87" source="65" target="2" weight="10.0"></edge>
+      <edge id="88" source="51" target="66" weight="10.0"></edge>
+      <edge id="89" source="6" target="26" weight="10.0"></edge>
+      <edge id="90" source="2" target="21" weight="10.0"></edge>
+      <edge id="91" source="7" target="47" weight="10.0"></edge>
+      <edge id="92" source="67" target="18" weight="10.0"></edge>
+      <edge id="93" source="48" target="12"></edge>
+      <edge id="94" source="13" target="68" weight="2.0"></edge>
+      <edge id="95" source="43" target="39" weight="10.0"></edge>
+      <edge id="96" source="31" target="66" weight="10.0"></edge>
+      <edge id="97" source="52" target="8" weight="7.0"></edge>
+      <edge id="98" source="11" target="6" weight="10.0"></edge>
+      <edge id="99" source="69" target="5" weight="10.0"></edge>
+      <edge id="100" source="22" target="24" weight="10.0"></edge>
+      <edge id="101" source="2" target="6" weight="10.0"></edge>
+      <edge id="102" source="70" target="6" weight="10.0"></edge>
+      <edge id="103" source="71" target="72" weight="10.0"></edge>
+      <edge id="104" source="41" target="24" weight="10.0"></edge>
+      <edge id="105" source="22" target="45"></edge>
+      <edge id="106" source="73" target="74" weight="10.0"></edge>
+      <edge id="107" source="54" target="75" weight="10.0"></edge>
+      <edge id="108" source="76" target="3" weight="3.0"></edge>
+      <edge id="109" source="43" target="47" weight="10.0"></edge>
+      <edge id="110" source="54" target="77" weight="10.0"></edge>
+      <edge id="111" source="4" target="19" weight="10.0"></edge>
+      <edge id="112" source="44" target="22"></edge>
+      <edge id="113" source="52" target="2" weight="10.0"></edge>
+      <edge id="114" source="2" target="69" weight="10.0"></edge>
+      <edge id="115" source="24" target="39" weight="10.0"></edge>
+      <edge id="116" source="4" target="35" weight="10.0"></edge>
+      <edge id="117" source="2" target="26" weight="10.0"></edge>
+      <edge id="118" source="23" target="6" weight="10.0"></edge>
+      <edge id="119" source="78" target="0"></edge>
+      <edge id="120" source="20" target="64"></edge>
+      <edge id="121" source="2" target="36" weight="10.0"></edge>
+      <edge id="122" source="51" target="24" weight="10.0"></edge>
+      <edge id="123" source="24" target="8" weight="7.0"></edge>
+      <edge id="124" source="22" target="64"></edge>
+      <edge id="125" source="75" target="71" weight="10.0"></edge>
+      <edge id="126" source="58" target="4" weight="10.0"></edge>
+      <edge id="127" source="2" target="24" weight="10.0"></edge>
+      <edge id="128" source="54" target="79" weight="10.0"></edge>
+      <edge id="129" source="58" target="25" weight="10.0"></edge>
+      <edge id="130" source="13" target="80" weight="3.0"></edge>
+      <edge id="131" source="81" target="19" weight="10.0"></edge>
+      <edge id="132" source="46" target="47" weight="10.0"></edge>
+      <edge id="133" source="82" target="54" weight="10.0"></edge>
+      <edge id="134" source="82" target="3" weight="10.0"></edge>
+      <edge id="135" source="8" target="10" weight="7.0"></edge>
+      <edge id="136" source="5" target="70" weight="10.0"></edge>
+      <edge id="137" source="39" target="5" weight="10.0"></edge>
+      <edge id="138" source="83" target="8" weight="7.0"></edge>
+      <edge id="139" source="77" target="67" weight="10.0"></edge>
+      <edge id="140" source="51" target="43" weight="10.0"></edge>
+      <edge id="141" source="27" target="26" weight="10.0"></edge>
+      <edge id="142" source="2" target="63" weight="10.0"></edge>
+      <edge id="143" source="46" target="43" weight="10.0"></edge>
+      <edge id="144" source="0" target="5" weight="10.0"></edge>
+      <edge id="145" source="35" target="5" weight="10.0"></edge>
+      <edge id="146" source="82" target="66" weight="10.0"></edge>
+      <edge id="147" source="17" target="38" weight="10.0"></edge>
+      <edge id="148" source="15" target="58" weight="10.0"></edge>
+      <edge id="149" source="16" target="6" weight="10.0"></edge>
+      <edge id="150" source="2" target="84" weight="10.0"></edge>
+      <edge id="151" source="17" target="7" weight="10.0"></edge>
+      <edge id="152" source="15" target="46" weight="10.0"></edge>
+      <edge id="153" source="8" target="85" weight="7.0"></edge>
+      <edge id="154" source="29" target="2" weight="10.0"></edge>
+      <edge id="155" source="46" target="12" weight="10.0"></edge>
+      <edge id="156" source="25" target="39" weight="10.0"></edge>
+      <edge id="157" source="7" target="19" weight="10.0"></edge>
+      <edge id="158" source="22" target="27" weight="10.0"></edge>
+      <edge id="159" source="60" target="8" weight="7.0"></edge>
+      <edge id="160" source="2" target="86" weight="10.0"></edge>
+      <edge id="161" source="5" target="87" weight="10.0"></edge>
+      <edge id="162" source="15" target="39"></edge>
+      <edge id="163" source="82" target="38" weight="10.0"></edge>
+      <edge id="164" source="15" target="50" weight="10.0"></edge>
+      <edge id="165" source="6" target="69" weight="10.0"></edge>
+      <edge id="166" source="24" target="88" weight="10.0"></edge>
+      <edge id="167" source="36" target="19" weight="10.0"></edge>
+      <edge id="168" source="39" target="73" weight="10.0"></edge>
+      <edge id="169" source="0" target="3"></edge>
+      <edge id="170" source="66" target="38" weight="10.0"></edge>
+      <edge id="171" source="50" target="43" weight="10.0"></edge>
+      <edge id="172" source="78" target="25" weight="10.0"></edge>
+      <edge id="173" source="82" target="52" weight="10.0"></edge>
+      <edge id="174" source="6" target="12" weight="10.0"></edge>
+      <edge id="175" source="50" target="47" weight="10.0"></edge>
+      <edge id="176" source="89" target="54" weight="3.0"></edge>
+      <edge id="177" source="26" target="64"></edge>
+      <edge id="178" source="17" target="58" weight="10.0"></edge>
+      <edge id="179" source="32" target="47" weight="10.0"></edge>
+      <edge id="180" source="36" target="44"></edge>
+      <edge id="181" source="2" target="19" weight="10.0"></edge>
+      <edge id="182" source="9" target="5" weight="10.0"></edge>
+      <edge id="183" source="37" target="6" weight="10.0"></edge>
+      <edge id="184" source="25" target="4" weight="10.0"></edge>
+      <edge id="185" source="25" target="35" weight="10.0"></edge>
+      <edge id="186" source="67" target="8" weight="7.0"></edge>
+      <edge id="187" source="32" target="35" weight="10.0"></edge>
+      <edge id="188" source="21" target="5" weight="10.0"></edge>
+      <edge id="189" source="54" target="71" weight="10.0"></edge>
+      <edge id="190" source="58" target="43" weight="10.0"></edge>
+    </edges>
+  </graph>
+</gexf>

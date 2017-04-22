@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="indie rock">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-0.5333382" y="1.6758156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="indie pop">
+        <viz:size value="81.05599"></viz:size>
+        <viz:position x="-482.27338" y="183.62909"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="indie video games">
+        <viz:size value="74.912"></viz:size>
+        <viz:position x="353.9513" y="-375.4757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="indie record labels">
+        <viz:size value="71.327995"></viz:size>
+        <viz:position x="514.65106" y="42.752026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="indie folk">
+        <viz:size value="49.14133"></viz:size>
+        <viz:position x="-444.75348" y="-262.46518"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="indie eps">
+        <viz:size value="43.850666"></viz:size>
+        <viz:position x="-156.62386" y="492.3242"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="xbox 360 live indie games">
+        <viz:size value="34.54933"></viz:size>
+        <viz:position x="-71.94543" y="-510.96713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="finnish indie labels">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="287.52707" y="428.52695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="275.0"></edge>
+      <edge id="1" source="0" target="2" weight="14.0"></edge>
+      <edge id="2" source="3" target="4" weight="12.0"></edge>
+      <edge id="3" source="1" target="5" weight="5.0"></edge>
+      <edge id="4" source="1" target="6"></edge>
+      <edge id="5" source="7" target="6"></edge>
+    </edges>
+  </graph>
+</gexf>

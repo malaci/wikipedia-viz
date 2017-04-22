@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport"    content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="The entire Wikipedia in one interactive image, for the purpose of overviewing the content of the most prominent knowledge base of the world">
+	<meta name="author"      content="Ron Bekkerman">
+	
+	<title>The Wikipedia Visualization Project</title>
+
+	<link rel="shortcut icon" href="assets/images/favicon.ico">
+	
+	<!-- Bootstrap itself -->
+	<link href="//netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+
+	<!-- Custom styles -->
+	<link rel="stylesheet" href="assets/css/slider.css">
+	<link rel="stylesheet" href="assets/css/page.css">
+	<link rel="stylesheet" href="assets/css/graph.css">
+	<!-- Fonts -->
+	<link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+	<link href='//fonts.googleapis.com/css?family=Wire+One' rel='stylesheet' type='text/css'>
+</head>
+
+<body class="theme-invert">
+
+<nav class="mainmenu">
+	<div class="container">
+		<div class="dropdown">
+
+			<button type="button" class="navbar-toggle" data-toggle="dropdown">
+				<span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
+				<i class="fa fa-times" aria-hidden="true"></i>
+			</button>
+			<!-- <a data-toggle="dropdown" href="#">Dropdown trigger</a> -->
+			<ul class="dropdown-menu" role="menu" aria-labelledby="dLabel">
+				<li><a href="#head" class="active">The Graph</a></li>
+				<li><a href="#about">About</a></li>
+				<li><a href="#contact">Get In Touch</a></li>
+
+			</ul>
+		</div>
+		<div class="page-title title"><h2>The Wikipedia Visualization Project</h2></div>
+
+
+	</div>
+</nav>
+
+<!-- Main (Home) section -->
+<section class="section" id="head">
+				<div id="graph-container"></div>
+				<div class="graph-spinner hidden"><i class="fa fa-spinner fa-spin" style="font-size:64px"></i></div>
+				<div id="control-pane" class="hidden-sm hidden-xs ">
+
+					<div>
+						<!--h4>category</h4-->
+						<div id="node-category"/>
+					</div>
+					<div >
+						 <span  class="min" id="min-degree-val"></span>
+						<input id="min-degree" type="range" min="0" max="0" value="0">
+						<span class="max" id="max-degree-value"></span><br>
+					</div>
+					<span class="line"></span>
+					<br>
+					<ul class="list-inline nav-links">
+						<li id="nav-link-main"><a class="nav-links" onclick="onMainView()"><strong>ROOT</strong></a></li>
+						<li id="nav-link-in" class="hidden"> >> </li>
+						<li id="nav-link-secondary"  class="hidden"></li>
+					</ul>
+
+					<!--div>
+						<button class="btn btn-primary btn-sm" id="reset-btn">reset filters</button>
+					</div-->
+					<div id="dump" class="hidden"></div>
+				</div>
+			</div>
+
+</section>
+
+<!-- Second (About) section -->
+<section class="section" id="about">
+	<div class="container">
+	
+		<h2 class="text-center title">About</h2>
+		<div class="row">
+			<div class="col-sm-4 col-sm-offset-2">    
+				<h5><strong>The Project<br></strong></h5>
+				<p>The Wikipedia Visualization Project is currently being developed at Prof. Ron Bekkerman's Data Science Lab at the University of Haifa, Israel.<br> To the best of our knowledge, this work is the first-ever attempt to represent the entire Wikipedia in one interactive image, for the purpose of overviewing the content of the most prominent knowledge base of the world. <br> Our methodology can be used for assessing comprehensiveness of Wikipedia and defining the strategy of turning it into the complete collective memory of the humanity.</p>
+			</div>
+			<div class="col-sm-4">
+				<h5><strong>The Graph<br></strong></h5>
+				<p>The graph shows 443 largest categories covering over 90% of Wikipedia pages.<br> Two categories are connected to each other if a substantial amount of Wikipedia pages belong to both categories simultaneously. <br>The color of the category represents one of four main themes of Wikipedia (Places and Nature, Sports, Science and Society, Arts and Culture) or Other if the category is ambiguous. <br>Size of a category node corresponds to the size of the category (in number of pages it covers).
+					<br>Hover over a node to see the name of the corresponding category and names of its neighbors. Click on a node to see the second-level categories and their connections.</p>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+<!-- Fourth (Contact) section -->
+<section class="section" id="contact">
+	<div class="container">
+	
+		<h2 class="text-center title">Get in touch</h2>
+
+		<div class="row">
+			<div class="col-sm-8 col-sm-offset-2 text-center">
+				<p class="lead">Have a question about this project ?</p>
+				<p>Feel free to contact us !</p>
+				<!--p><b>mail@mail.com</b><br><br></p-->
+				<ul class="list-inline list-social">
+					<li><a href="https://www.linkedin.com/in/bekkerman/" class="btn btn-link"><i class="fa fa-linkedin fa-fw"></i> Ron Bekkerman</a></li>
+					<li><a href="https://www.linkedin.com/in/olga-donin-71715726/" class="btn btn-link"><i class="fa fa-linkedin fa-fw"></i> Olga Donin </a></li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+</section>
+
+
+<!-- Load js libs only when the page is loaded. -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+<script src="assets/js/modernizr.custom.72241.js"></script>
+<!-- Custom template scripts -->
+<script src="assets/libs/sigma.min.js"></script>
+<script src="assets/libs/plugins.min.js"></script>
+<script src="assets/js/graph.js"></script>
+<script src="assets/js/page.js"></script>
+</body>
+</html>

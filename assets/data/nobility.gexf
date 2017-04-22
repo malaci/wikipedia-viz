@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="3" label="polish nobility">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="394.25946" y="385.9339"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="medieval nobility">
+        <viz:size value="98.45694"></viz:size>
+        <viz:position x="-114.9597" y="-619.9871"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="italian nobility">
+        <viz:size value="91.62341"></viz:size>
+        <viz:position x="-851.93646" y="-613.85297"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="russian nobility">
+        <viz:size value="91.40299"></viz:size>
+        <viz:position x="875.1536" y="-474.83377"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="french nobility">
+        <viz:size value="91.18254"></viz:size>
+        <viz:position x="-339.72873" y="-26.612589"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="hungarian nobility">
+        <viz:size value="90.52125"></viz:size>
+        <viz:position x="-116.32893" y="138.84164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="german nobility">
+        <viz:size value="89.08841"></viz:size>
+        <viz:position x="-505.1524" y="942.37555"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="swedish nobility">
+        <viz:size value="88.75774"></viz:size>
+        <viz:position x="174.25821" y="-298.0225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="16th-century english nobility">
+        <viz:size value="87.98622"></viz:size>
+        <viz:position x="-1267.2577" y="-244.34956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="portuguese nobility">
+        <viz:size value="85.01034"></viz:size>
+        <viz:position x="-819.0065" y="552.9101"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="spanish nobility">
+        <viz:size value="81.81401"></viz:size>
+        <viz:position x="-756.7429" y="-299.94046"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="dutch nobility">
+        <viz:size value="80.160736"></viz:size>
+        <viz:position x="145.14546" y="797.55396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="serbian nobility">
+        <viz:size value="77.29507"></viz:size>
+        <viz:position x="-489.41434" y="-962.06506"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="bohemian nobility">
+        <viz:size value="76.96441"></viz:size>
+        <viz:position x="327.57205" y="1245.1981"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="lithuanian nobility">
+        <viz:size value="75.09069"></viz:size>
+        <viz:position x="755.1535" y="382.25873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="austrian nobility">
+        <viz:size value="73.8783"></viz:size>
+        <viz:position x="-368.39883" y="239.30632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="danish nobility">
+        <viz:size value="73.65786"></viz:size>
+        <viz:position x="-553.9146" y="606.1141"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="17th-century english nobility">
+        <viz:size value="73.32721"></viz:size>
+        <viz:position x="-1051.5665" y="696.2751"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="belgian nobility">
+        <viz:size value="71.12285"></viz:size>
+        <viz:position x="347.789" y="-1222.6707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="nobility of georgia">
+        <viz:size value="71.01263"></viz:size>
+        <viz:position x="-264.07538" y="1056.5603"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="finnish nobility">
+        <viz:size value="69.57979"></viz:size>
+        <viz:position x="147.92465" y="-25.022873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="mughal nobility">
+        <viz:size value="68.036736"></viz:size>
+        <viz:position x="174.71277" y="523.5713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="croatian nobility">
+        <viz:size value="66.05281"></viz:size>
+        <viz:position x="-169.02397" y="-850.3533"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="norwegian nobility">
+        <viz:size value="66.05281"></viz:size>
+        <viz:position x="788.6539" y="1025.0681"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="fictional nobility">
+        <viz:size value="63.29736"></viz:size>
+        <viz:position x="-342.51517" y="750.1714"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="romanian nobility">
+        <viz:size value="63.29736"></viz:size>
+        <viz:position x="-76.9902" y="622.76874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="albanian nobility">
+        <viz:size value="61.86452"></viz:size>
+        <viz:position x="-699.5637" y="-1094.3113"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="bosnian nobility">
+        <viz:size value="59.329506"></viz:size>
+        <viz:position x="-241.83182" y="-1062.58"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="belarusian nobility">
+        <viz:size value="58.55798"></viz:size>
+        <viz:position x="818.65906" y="122.41695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="prussian nobility">
+        <viz:size value="57.235363"></viz:size>
+        <viz:position x="550.3751" y="-899.83307"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="titles of nobility">
+        <viz:size value="57.014923"></viz:size>
+        <viz:position x="-1033.338" y="107.99805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="ruthenian nobility">
+        <viz:size value="57.014923"></viz:size>
+        <viz:position x="574.6233" y="210.48679"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="ukrainian nobility">
+        <viz:size value="56.13318"></viz:size>
+        <viz:position x="1055.9194" y="3.6577442"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="baltic nobility">
+        <viz:size value="55.47187"></viz:size>
+        <viz:position x="608.30566" y="-60.75301"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="bulgarian nobility">
+        <viz:size value="55.141216"></viz:size>
+        <viz:position x="-83.143715" y="379.72964"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="nobility from copenhagen">
+        <viz:size value="54.479908"></viz:size>
+        <viz:position x="-1287.1746" y="6.162483"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="nobility of the americas">
+        <viz:size value="53.48794"></viz:size>
+        <viz:position x="-599.63873" y="356.58154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="brazilian nobility">
+        <viz:size value="53.15729"></viz:size>
+        <viz:position x="-798.3829" y="226.25298"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="japanese nobility">
+        <viz:size value="52.05511"></viz:size>
+        <viz:position x="1285.1106" y="-138.12746"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="saxon nobility">
+        <viz:size value="52.05511"></viz:size>
+        <viz:position x="389.131" y="-716.2402"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="silesian nobility">
+        <viz:size value="50.84271"></viz:size>
+        <viz:position x="300.80573" y="-980.04456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="nobility of the holy roman empire">
+        <viz:size value="50.401836"></viz:size>
+        <viz:position x="349.93726" y="101.891945"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="european nobility">
+        <viz:size value="48.528126"></viz:size>
+        <viz:position x="-577.3072" y="60.689167"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="blind royalty and nobility">
+        <viz:size value="48.528126"></viz:size>
+        <viz:position x="-1202.6798" y="504.8424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="flemish nobility">
+        <viz:size value="48.087254"></viz:size>
+        <viz:position x="110.985" y="-1289.9342"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="irish nobility">
+        <viz:size value="45.331802"></viz:size>
+        <viz:position x="741.4788" y="758.5964"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="republic of venice nobility">
+        <viz:size value="44.780712"></viz:size>
+        <viz:position x="-672.97235" y="-787.41376"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="armenian nobility">
+        <viz:size value="44.1194"></viz:size>
+        <viz:position x="1238.5564" y="-417.2762"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="moravian nobility">
+        <viz:size value="44.1194"></viz:size>
+        <viz:position x="170.73804" y="-575.01074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="pomeranian nobility">
+        <viz:size value="43.45809"></viz:size>
+        <viz:position x="1097.8398" y="-619.1517"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="czech nobility">
+        <viz:size value="43.45809"></viz:size>
+        <viz:position x="580.7577" y="-1155.8046"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="egyptian nobility">
+        <viz:size value="43.45809"></viz:size>
+        <viz:position x="914.4973" y="557.7244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="gay nobility">
+        <viz:size value="42.135475"></viz:size>
+        <viz:position x="-1195.7208" y="-501.82764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="mexican nobility">
+        <viz:size value="41.36395"></viz:size>
+        <viz:position x="-797.849" y="-43.033173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="bavarian nobility">
+        <viz:size value="41.36395"></viz:size>
+        <viz:position x="-717.5056" y="1078.8201"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="deaf royalty and nobility">
+        <viz:size value="38.93915"></viz:size>
+        <viz:position x="-1255.6492" y="253.57127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="westphalian nobility">
+        <viz:size value="38.93915"></viz:size>
+        <viz:position x="762.3458" y="-750.51495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="video game nobility">
+        <viz:size value="38.93915"></viz:size>
+        <viz:position x="-114.487144" y="864.7757"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="circassian nobility">
+        <viz:size value="38.93915"></viz:size>
+        <viz:position x="1048.3678" y="-285.10114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="filipino nobility">
+        <viz:size value="38.93915"></viz:size>
+        <viz:position x="987.01117" y="838.52795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="estonian nobility">
+        <viz:size value="37.06544"></viz:size>
+        <viz:position x="402.8338" y="-430.14285"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="lorraine nobility">
+        <viz:size value="34.9713"></viz:size>
+        <viz:position x="991.9457" y="-826.2456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="assassinated nobility">
+        <viz:size value="33.758896"></viz:size>
+        <viz:position x="565.4577" y="1157.8922"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="nobility of the holy see">
+        <viz:size value="32.43628"></viz:size>
+        <viz:position x="-360.22144" y="-480.9446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="carniolan nobility">
+        <viz:size value="31.113663"></viz:size>
+        <viz:position x="581.0707" y="564.65216"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="nobility of herzegovina">
+        <viz:size value="31.113663"></viz:size>
+        <viz:position x="-402.56638" y="-727.0183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="franconian nobility">
+        <viz:size value="31.113663"></viz:size>
+        <viz:position x="76.96889" y="1295.1604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="alsatian nobility">
+        <viz:size value="29.570608"></viz:size>
+        <viz:position x="-47.966972" y="-382.27475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="royalty and nobility of austria-hungary">
+        <viz:size value="29.570608"></viz:size>
+        <viz:position x="-319.24478" y="481.34473"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="13th-century nobility">
+        <viz:size value="29.570608"></viz:size>
+        <viz:position x="-276.61813" y="-267.10977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="cuban nobility">
+        <viz:size value="29.570608"></viz:size>
+        <viz:position x="-536.86615" y="-223.49615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="azorean nobility">
+        <viz:size value="29.570608"></viz:size>
+        <viz:position x="-991.2502" y="382.3465"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="nobility stubs">
+        <viz:size value="27.917336"></viz:size>
+        <viz:position x="-1032.0819" y="-150.92967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="swabian nobility">
+        <viz:size value="27.917336"></viz:size>
+        <viz:position x="-187.07274" y="1284.3657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="luxembourgian nobility">
+        <viz:size value="27.917336"></viz:size>
+        <viz:position x="299.82788" y="997.58136"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="thuringian nobility">
+        <viz:size value="27.917336"></viz:size>
+        <viz:position x="614.92346" y="-573.79865"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="murdered nobility">
+        <viz:size value="27.917336"></viz:size>
+        <viz:position x="38.53694" y="-1054.3428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="ragusan nobility">
+        <viz:size value="27.917336"></viz:size>
+        <viz:position x="-154.96013" y="-1290.2083"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="cantabrian nobility">
+        <viz:size value="27.917336"></viz:size>
+        <viz:position x="-980.50055" y="-397.7711"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="hessian nobility">
+        <viz:size value="27.917336"></viz:size>
+        <viz:position x="105.97407" y="-808.37024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="marshals of nobility">
+        <viz:size value="26.043627"></viz:size>
+        <viz:position x="37.052937" y="1063.4608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="latvian nobility">
+        <viz:size value="26.043627"></viz:size>
+        <viz:position x="395.12173" y="-168.82755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="mecklenburgian nobility">
+        <viz:size value="26.043627"></viz:size>
+        <viz:position x="799.71063" y="-1014.38574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="gaelic nobility of ireland">
+        <viz:size value="26.043627"></viz:size>
+        <viz:position x="535.25244" y="899.4734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="montenegrin nobility">
+        <viz:size value="26.043627"></viz:size>
+        <viz:position x="848.5528" y="-156.37035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="livonian nobility">
+        <viz:size value="26.043627"></viz:size>
+        <viz:position x="653.50525" y="-322.3952"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="greek nobility">
+        <viz:size value="23.949482"></viz:size>
+        <viz:position x="-895.62445" y="-921.62494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="wurttembergian nobility">
+        <viz:size value="23.949482"></viz:size>
+        <viz:position x="-929.0422" y="909.8796"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="12th-century nobility">
+        <viz:size value="23.949482"></viz:size>
+        <viz:position x="-73.26527" y="-110.61347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="korean nobility">
+        <viz:size value="21.414465"></viz:size>
+        <viz:position x="1281.1642" y="122.901054"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="descendants of neapolitan nobility">
+        <viz:size value="18.548794"></viz:size>
+        <viz:position x="-1068.2023" y="-730.7691"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="asian nobility">
+        <viz:size value="18.548794"></viz:size>
+        <viz:position x="1142.4509" y="616.04193"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="pakistani nobility">
+        <viz:size value="15.021813"></viz:size>
+        <viz:position x="1238.0283" y="377.08533"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="conditional nobility">
+        <viz:size value="15.021813"></viz:size>
+        <viz:position x="-441.72192" y="-1223.7303"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="nobility of lippe">
+        <viz:size value="10.3926525"></viz:size>
+        <viz:position x="-471.95435" y="1211.4515"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="royalty and nobility work group articles needing attention">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1017.9246" y="288.65985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="slovak nobility">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="141.09972" y="257.30743"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="slovene nobility">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="376.9296" y="695.94104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="icelandic nobility">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-718.07275" y="790.6256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="sicilian nobility">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-608.9127" y="-517.76"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="28.0"></edge>
+      <edge id="1" source="0" target="2" weight="22.0"></edge>
+      <edge id="2" source="0" target="3" weight="15.0"></edge>
+      <edge id="3" source="4" target="5" weight="13.0"></edge>
+      <edge id="4" source="6" target="7" weight="11.0"></edge>
+      <edge id="5" source="8" target="9" weight="8.0"></edge>
+      <edge id="6" source="10" target="11" weight="7.0"></edge>
+      <edge id="7" source="12" target="13" weight="7.0"></edge>
+      <edge id="8" source="0" target="14" weight="6.0"></edge>
+      <edge id="9" source="15" target="16" weight="6.0"></edge>
+      <edge id="10" source="17" target="7" weight="6.0"></edge>
+      <edge id="11" source="18" target="19" weight="5.0"></edge>
+      <edge id="12" source="14" target="13" weight="5.0"></edge>
+      <edge id="13" source="20" target="12" weight="5.0"></edge>
+      <edge id="14" source="12" target="21" weight="5.0"></edge>
+      <edge id="15" source="22" target="7" weight="5.0"></edge>
+      <edge id="16" source="23" target="24" weight="5.0"></edge>
+      <edge id="17" source="4" target="25" weight="4.0"></edge>
+      <edge id="18" source="26" target="27" weight="4.0"></edge>
+      <edge id="19" source="22" target="9" weight="4.0"></edge>
+      <edge id="20" source="28" target="25" weight="4.0"></edge>
+      <edge id="21" source="13" target="29" weight="4.0"></edge>
+      <edge id="22" source="10" target="30" weight="4.0"></edge>
+      <edge id="23" source="31" target="6" weight="4.0"></edge>
+      <edge id="24" source="19" target="12" weight="4.0"></edge>
+      <edge id="25" source="18" target="20" weight="3.0"></edge>
+      <edge id="26" source="32" target="23" weight="3.0"></edge>
+      <edge id="27" source="3" target="33" weight="3.0"></edge>
+      <edge id="28" source="18" target="21" weight="3.0"></edge>
+      <edge id="29" source="34" target="35" weight="3.0"></edge>
+      <edge id="30" source="31" target="30" weight="3.0"></edge>
+      <edge id="31" source="36" target="30" weight="3.0"></edge>
+      <edge id="32" source="20" target="37" weight="2.0"></edge>
+      <edge id="33" source="9" target="38" weight="2.0"></edge>
+      <edge id="34" source="39" target="40" weight="2.0"></edge>
+      <edge id="35" source="30" target="41" weight="2.0"></edge>
+      <edge id="36" source="13" target="42" weight="2.0"></edge>
+      <edge id="37" source="11" target="43" weight="2.0"></edge>
+      <edge id="38" source="23" target="25" weight="2.0"></edge>
+      <edge id="39" source="15" target="44" weight="2.0"></edge>
+      <edge id="40" source="45" target="13" weight="2.0"></edge>
+      <edge id="41" source="46" target="47" weight="2.0"></edge>
+      <edge id="42" source="48" target="49" weight="2.0"></edge>
+      <edge id="43" source="38" target="39" weight="2.0"></edge>
+      <edge id="44" source="50" target="51" weight="2.0"></edge>
+      <edge id="45" source="52" target="53" weight="2.0"></edge>
+      <edge id="46" source="30" target="42" weight="2.0"></edge>
+      <edge id="47" source="54" target="13" weight="2.0"></edge>
+      <edge id="48" source="55" target="39" weight="2.0"></edge>
+      <edge id="49" source="16" target="56" weight="2.0"></edge>
+      <edge id="50" source="31" target="11" weight="2.0"></edge>
+      <edge id="51" source="57" target="58"></edge>
+      <edge id="52" source="59" target="60"></edge>
+      <edge id="53" source="61" target="62"></edge>
+      <edge id="54" source="18" target="63"></edge>
+      <edge id="55" source="64" target="23"></edge>
+      <edge id="56" source="46" target="65"></edge>
+      <edge id="57" source="66" target="11"></edge>
+      <edge id="58" source="15" target="67"></edge>
+      <edge id="59" source="68" target="69"></edge>
+      <edge id="60" source="70" target="71"></edge>
+      <edge id="61" source="72" target="39"></edge>
+      <edge id="62" source="7" target="73"></edge>
+      <edge id="63" source="74" target="75"></edge>
+      <edge id="64" source="39" target="76"></edge>
+      <edge id="65" source="61" target="6"></edge>
+      <edge id="66" source="77" target="78"></edge>
+      <edge id="67" source="79" target="48"></edge>
+      <edge id="68" source="34" target="42"></edge>
+      <edge id="69" source="80" target="81"></edge>
+      <edge id="70" source="18" target="13"></edge>
+      <edge id="71" source="70" target="82"></edge>
+      <edge id="72" source="36" target="13"></edge>
+      <edge id="73" source="61" target="16"></edge>
+      <edge id="74" source="70" target="83"></edge>
+      <edge id="75" source="49" target="84"></edge>
+      <edge id="76" source="47" target="85"></edge>
+      <edge id="77" source="37" target="76"></edge>
+      <edge id="78" source="66" target="86"></edge>
+      <edge id="79" source="87" target="17"></edge>
+      <edge id="80" source="84" target="88"></edge>
+      <edge id="81" source="80" target="37"></edge>
+      <edge id="82" source="18" target="30"></edge>
+      <edge id="83" source="89" target="34"></edge>
+      <edge id="84" source="11" target="42"></edge>
+      <edge id="85" source="90" target="91"></edge>
+      <edge id="86" source="81" target="33"></edge>
+      <edge id="87" source="68" target="92"></edge>
+      <edge id="88" source="81" target="6"></edge>
+      <edge id="89" source="70" target="93"></edge>
+      <edge id="90" source="23" target="94"></edge>
+      <edge id="91" source="95" target="30"></edge>
+      <edge id="92" source="37" target="23"></edge>
+      <edge id="93" source="6" target="89"></edge>
+      <edge id="94" source="96" target="97"></edge>
+      <edge id="95" source="15" target="98"></edge>
+      <edge id="96" source="66" target="13"></edge>
+    </edges>
+  </graph>
+</gexf>

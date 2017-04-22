@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="lok sabha members">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-625.10126" y="-319.59665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="14th lok sabha">
+        <viz:size value="64.20668"></viz:size>
+        <viz:position x="15.01169" y="26.922958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="15th lok sabha">
+        <viz:size value="63.72037"></viz:size>
+        <viz:position x="279.19495" y="-626.9065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="16th lok sabha">
+        <viz:size value="63.331314"></viz:size>
+        <viz:position x="312.97592" y="-192.50745"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="13th lok sabha">
+        <viz:size value="58.759884"></viz:size>
+        <viz:position x="-85.82968" y="-346.81787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="12th lok sabha">
+        <viz:size value="58.46809"></viz:size>
+        <viz:position x="-727.075" y="33.756397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="11th lok sabha">
+        <viz:size value="56.620064"></viz:size>
+        <viz:position x="-352.33218" y="-24.022783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="10th lok sabha">
+        <viz:size value="54.8693"></viz:size>
+        <viz:position x="-63.02728" y="-733.80475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="lok sabha constituencies in uttar pradesh">
+        <viz:size value="38.13982"></viz:size>
+        <viz:position x="301.35712" y="255.1446"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="lok sabha constituencies in maharashtra">
+        <viz:size value="33.56839"></viz:size>
+        <viz:position x="674.0345" y="301.50967"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="lok sabha constituencies in tamil nadu">
+        <viz:size value="30.553192"></viz:size>
+        <viz:position x="50.859188" y="711.698"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="lok sabha constituencies in west bengal">
+        <viz:size value="29.969606"></viz:size>
+        <viz:position x="606.0036" y="-440.71432"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="lok sabha constituencies in bihar">
+        <viz:size value="29.67781"></viz:size>
+        <viz:position x="-345.4141" y="667.6827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="speakers of the lok sabha">
+        <viz:size value="28.218843"></viz:size>
+        <viz:position x="-594.2862" y="375.24097"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="lok sabha constituencies in karnataka">
+        <viz:size value="24.32827"></viz:size>
+        <viz:position x="706.77045" y="-65.567665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="constituencies of the lok sabha">
+        <viz:size value="8.474165"></viz:size>
+        <viz:position x="407.75903" y="614.4413"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="secretaries general of the lok sabha">
+        <viz:size value="8.474165"></viz:size>
+        <viz:position x="-146.82486" y="357.43408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="leaders of the lok sabha">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-414.07593" y="-593.893"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="543.0"></edge>
+      <edge id="1" source="2" target="0" weight="542.0"></edge>
+      <edge id="2" source="0" target="3" weight="530.0"></edge>
+      <edge id="3" source="0" target="4" weight="299.0"></edge>
+      <edge id="4" source="5" target="1" weight="189.0"></edge>
+      <edge id="5" source="6" target="1" weight="159.0"></edge>
+      <edge id="6" source="4" target="7" weight="142.0"></edge>
+      <edge id="7" source="4" target="6" weight="132.0"></edge>
+      <edge id="8" source="7" target="1" weight="118.0"></edge>
+      <edge id="9" source="4" target="5" weight="103.0"></edge>
+      <edge id="10" source="5" target="2" weight="94.0"></edge>
+      <edge id="11" source="6" target="2" weight="80.0"></edge>
+      <edge id="12" source="5" target="3" weight="63.0"></edge>
+      <edge id="13" source="7" target="2" weight="62.0"></edge>
+      <edge id="14" source="6" target="3" weight="49.0"></edge>
+      <edge id="15" source="7" target="3" weight="40.0"></edge>
+      <edge id="16" source="0" target="8" weight="36.0"></edge>
+      <edge id="17" source="6" target="8" weight="14.0"></edge>
+      <edge id="18" source="8" target="5" weight="11.0"></edge>
+      <edge id="19" source="7" target="8" weight="9.0"></edge>
+      <edge id="20" source="0" target="9" weight="7.0"></edge>
+      <edge id="21" source="6" target="9" weight="3.0"></edge>
+      <edge id="22" source="0" target="10" weight="2.0"></edge>
+      <edge id="23" source="9" target="5" weight="2.0"></edge>
+      <edge id="24" source="10" target="5"></edge>
+      <edge id="25" source="9" target="7"></edge>
+      <edge id="26" source="10" target="7"></edge>
+      <edge id="27" source="11" target="12"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,672 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="male sport wrestlers">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-91.40663" y="279.8423"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="american sport wrestlers">
+        <viz:size value="74.10826"></viz:size>
+        <viz:position x="-892.4481" y="-956.0783"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="female sport wrestlers">
+        <viz:size value="68.729355"></viz:size>
+        <viz:position x="362.70178" y="-647.7859"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="russian sport wrestlers">
+        <viz:size value="64.62679"></viz:size>
+        <viz:position x="-582.0327" y="-159.49686"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="iranian sport wrestlers">
+        <viz:size value="58.062683"></viz:size>
+        <viz:position x="-473.9179" y="-368.74298"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="swedish sport wrestlers">
+        <viz:size value="58.062683"></viz:size>
+        <viz:position x="-329.5274" y="727.3097"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="japanese sport wrestlers">
+        <viz:size value="57.971516"></viz:size>
+        <viz:position x="9.039213" y="-215.40747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="turkish sport wrestlers">
+        <viz:size value="57.971516"></viz:size>
+        <viz:position x="-214.10963" y="-304.179"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="finnish sport wrestlers">
+        <viz:size value="57.88035"></viz:size>
+        <viz:position x="-841.4406" y="980.82587"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="soviet sport wrestlers">
+        <viz:size value="56.421658"></viz:size>
+        <viz:position x="317.10004" y="-66.34522"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="canadian sport wrestlers">
+        <viz:size value="56.056988"></viz:size>
+        <viz:position x="812.97437" y="-165.48254"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="german sport wrestlers">
+        <viz:size value="55.418808"></viz:size>
+        <viz:position x="-996.74854" y="336.22772"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="bulgarian sport wrestlers">
+        <viz:size value="53.777786"></viz:size>
+        <viz:position x="-803.05505" y="724.8775"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="hungarian sport wrestlers">
+        <viz:size value="53.50428"></viz:size>
+        <viz:position x="-1185.0068" y="-555.0213"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="ukrainian sport wrestlers">
+        <viz:size value="52.319096"></viz:size>
+        <viz:position x="439.5936" y="-410.19345"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="french sport wrestlers">
+        <viz:size value="51.86325"></viz:size>
+        <viz:position x="1237.6022" y="413.9177"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="south korean sport wrestlers">
+        <viz:size value="50.95157"></viz:size>
+        <viz:position x="-334.931" y="448.6931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="armenian sport wrestlers">
+        <viz:size value="50.769234"></viz:size>
+        <viz:position x="-132.07335" y="19.043001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="british sport wrestlers">
+        <viz:size value="49.94872"></viz:size>
+        <viz:position x="-117.24149" y="548.222"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="polish sport wrestlers">
+        <viz:size value="49.94872"></viz:size>
+        <viz:position x="-596.00726" y="862.54407"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="indian sport wrestlers">
+        <viz:size value="48.94587"></viz:size>
+        <viz:position x="-55.63741" y="-510.09366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="norwegian sport wrestlers">
+        <viz:size value="48.307697"></viz:size>
+        <viz:position x="-136.57336" y="-761.65424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="azerbaijani sport wrestlers">
+        <viz:size value="48.03419"></viz:size>
+        <viz:position x="687.80817" y="-392.09436"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="sport wrestlers from georgia">
+        <viz:size value="47.851852"></viz:size>
+        <viz:position x="536.3328" y="314.34674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="romanian sport wrestlers">
+        <viz:size value="47.851852"></viz:size>
+        <viz:position x="-91.67021" y="808.4897"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="cuban sport wrestlers">
+        <viz:size value="47.12251"></viz:size>
+        <viz:position x="122.287674" y="609.29114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="italian sport wrestlers">
+        <viz:size value="46.849003"></viz:size>
+        <viz:position x="353.19824" y="487.16583"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="kazakhstani sport wrestlers">
+        <viz:size value="45.20798"></viz:size>
+        <viz:position x="313.68204" y="184.35701"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="mongolian sport wrestlers">
+        <viz:size value="44.934475"></viz:size>
+        <viz:position x="616.37555" y="-651.62933"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="belarusian sport wrestlers">
+        <viz:size value="44.934475"></viz:size>
+        <viz:position x="549.70996" y="57.22072"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="greek sport wrestlers">
+        <viz:size value="44.660973"></viz:size>
+        <viz:position x="-25.459236" y="-1026.7616"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="chinese sport wrestlers">
+        <viz:size value="43.38462"></viz:size>
+        <viz:position x="204.90402" y="-1043.0125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="danish sport wrestlers">
+        <viz:size value="39.646725"></viz:size>
+        <viz:position x="-387.4608" y="975.2342"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="czech sport wrestlers">
+        <viz:size value="39.646725"></viz:size>
+        <viz:position x="-1245.863" y="486.65872"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="austrian sport wrestlers">
+        <viz:size value="39.646725"></viz:size>
+        <viz:position x="1291.1886" y="-45.61602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="swiss sport wrestlers">
+        <viz:size value="39.190887"></viz:size>
+        <viz:position x="129.17935" y="357.13293"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="belgian sport wrestlers">
+        <viz:size value="39.190887"></viz:size>
+        <viz:position x="614.8736" y="560.66473"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="uzbekistani sport wrestlers">
+        <viz:size value="39.190887"></viz:size>
+        <viz:position x="779.978" y="339.04123"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="estonian sport wrestlers">
+        <viz:size value="38.188038"></viz:size>
+        <viz:position x="-328.6078" y="179.5551"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="new zealand sport wrestlers">
+        <viz:size value="37.18519"></viz:size>
+        <viz:position x="83.76137" y="1067.3218"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="yugoslav sport wrestlers">
+        <viz:size value="37.18519"></viz:size>
+        <viz:position x="-1044.3392" y="88.90607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="serbian sport wrestlers">
+        <viz:size value="37.18519"></viz:size>
+        <viz:position x="-1285.2466" y="-303.71118"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="australian sport wrestlers">
+        <viz:size value="36.63818"></viz:size>
+        <viz:position x="902.15765" y="-944.4599"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="north korean sport wrestlers">
+        <viz:size value="36.09117"></viz:size>
+        <viz:position x="632.4461" y="-894.59534"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="egyptian sport wrestlers">
+        <viz:size value="34.905987"></viz:size>
+        <viz:position x="705.2823" y="-1120.034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="kyrgyzstani sport wrestlers">
+        <viz:size value="33.629635"></viz:size>
+        <viz:position x="99.48259" y="49.029377"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="mexican sport wrestlers">
+        <viz:size value="31.35043"></viz:size>
+        <viz:position x="404.79807" y="728.68396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="dutch sport wrestlers">
+        <viz:size value="31.35043"></viz:size>
+        <viz:position x="33.606426" y="-1292.7269"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="latvian sport wrestlers">
+        <viz:size value="29.618237"></viz:size>
+        <viz:position x="-333.74332" y="-103.969284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="czechoslovak sport wrestlers">
+        <viz:size value="29.618237"></viz:size>
+        <viz:position x="-1017.24567" y="580.6649"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="afghan sport wrestlers">
+        <viz:size value="29.618237"></viz:size>
+        <viz:position x="168.55997" y="839.4683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="moldovan sport wrestlers">
+        <viz:size value="26.427353"></viz:size>
+        <viz:position x="1006.4632" y="31.271164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="venezuelan sport wrestlers">
+        <viz:size value="25.150997"></viz:size>
+        <viz:position x="477.40152" y="-1175.6915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="tunisian sport wrestlers">
+        <viz:size value="25.150997"></viz:size>
+        <viz:position x="390.21176" y="-907.0997"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="spanish sport wrestlers">
+        <viz:size value="25.150997"></viz:size>
+        <viz:position x="-255.5948" y="-1003.74316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="nigerian sport wrestlers">
+        <viz:size value="23.783478"></viz:size>
+        <viz:position x="164.27925" y="-517.638"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="brazilian sport wrestlers">
+        <viz:size value="23.783478"></viz:size>
+        <viz:position x="848.9835" y="-688.3089"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="puerto rican sport wrestlers">
+        <viz:size value="23.783478"></viz:size>
+        <viz:position x="274.07382" y="-1287.1794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="slovak sport wrestlers">
+        <viz:size value="23.783478"></viz:size>
+        <viz:position x="-831.4205" y="-79.273895"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="senegalese sport wrestlers">
+        <viz:size value="22.23362"></viz:size>
+        <viz:position x="114.012695" y="-770.93915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="argentine sport wrestlers">
+        <viz:size value="22.23362"></viz:size>
+        <viz:position x="754.02716" y="747.2779"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="tajikistani sport wrestlers">
+        <viz:size value="22.23362"></viz:size>
+        <viz:position x="-297.1199" y="-551.1842"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="israeli sport wrestlers">
+        <viz:size value="20.501425"></viz:size>
+        <viz:position x="549.3939" y="-183.48808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="colombian sport wrestlers">
+        <viz:size value="20.501425"></viz:size>
+        <viz:position x="-429.14145" y="-1226.3889"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="lithuanian sport wrestlers">
+        <viz:size value="20.501425"></viz:size>
+        <viz:position x="-180.54488" y="1286.4653"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="croatian sport wrestlers">
+        <viz:size value="18.404558"></viz:size>
+        <viz:position x="-1325.4061" y="-20.922712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="south african sport wrestlers">
+        <viz:size value="18.404558"></viz:size>
+        <viz:position x="-160.94443" y="1043.3417"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="macedonian sport wrestlers">
+        <viz:size value="18.404558"></viz:size>
+        <viz:position x="-567.6707" y="81.91946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="algerian sport wrestlers">
+        <viz:size value="18.404558"></viz:size>
+        <viz:position x="915.40857" y="550.97784"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="african-american sport wrestlers">
+        <viz:size value="18.404558"></viz:size>
+        <viz:position x="-700.0987" y="-1119.825"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="peruvian sport wrestlers">
+        <viz:size value="18.404558"></viz:size>
+        <viz:position x="68.877045" y="1302.4429"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="guatemalan sport wrestlers">
+        <viz:size value="16.03419"></viz:size>
+        <viz:position x="-640.6913" y="1124.8005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="luxembourgian sport wrestlers">
+        <viz:size value="16.03419"></viz:size>
+        <viz:position x="570.3421" y="906.63837"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="pakistani sport wrestlers">
+        <viz:size value="13.11681"></viz:size>
+        <viz:position x="-424.06985" y="-748.07526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="albanian sport wrestlers">
+        <viz:size value="13.11681"></viz:size>
+        <viz:position x="-1063.6458" y="814.9245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="turkmenistan sport wrestlers">
+        <viz:size value="13.11681"></viz:size>
+        <viz:position x="229.98605" y="-282.822"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="bissau-guinean sport wrestlers">
+        <viz:size value="13.11681"></viz:size>
+        <viz:position x="1081.3047" y="-747.96796"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="lebanese sport wrestlers">
+        <viz:size value="13.11681"></viz:size>
+        <viz:position x="-550.924" y="609.0622"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="palauan sport wrestlers">
+        <viz:size value="9.28775"></viz:size>
+        <viz:position x="-1247.6628" y="231.12875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="portuguese sport wrestlers">
+        <viz:size value="9.28775"></viz:size>
+        <viz:position x="-558.0216" y="337.10153"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="ecuadorian sport wrestlers">
+        <viz:size value="9.28775"></viz:size>
+        <viz:position x="319.53613" y="1259.9618"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="panamanian sport wrestlers">
+        <viz:size value="9.28775"></viz:size>
+        <viz:position x="346.80475" y="1016.73114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="guam sport wrestlers">
+        <viz:size value="9.28775"></viz:size>
+        <viz:position x="-195.61877" y="-1274.5892"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="central african republic sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-499.04742" y="-982.13873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="chilean sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1005.10736" y="-364.78036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="monegasque sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1147.7012" y="643.74255"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="sport wrestlers from abkhazia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="566.61487" y="1171.0206"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="namibian sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-614.2996" y="-557.7077"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="bosnia and herzegovina sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1293.355" y="-289.8223"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="filipino sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1080.4337" y="-138.83537"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="malagasy sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1056.4525" y="-235.66983"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="cypriot sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-790.3213" y="185.70993"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="federated states of micronesia sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-868.9569" y="-578.78864"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="salvadoran sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-765.8461" y="-329.4426"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="vietnamese sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="936.33307" y="-456.13776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="moroccan sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-770.2278" y="465.43887"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="cameroonian sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1177.3278" y="-521.432"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="marshallese sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-418.9567" y="1227.1688"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="honduran sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1012.68695" y="294.75354"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="icelandic sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-698.64307" y="-784.6682"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="dominican republic sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="790.3469" y="1030.7599"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="ivorian sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="779.9923" y="85.38491"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="iraqi sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="971.49927" y="844.77673"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="bahamian sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1272.45" y="176.6889"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="bahraini sport wrestlers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1042.2832" y="-760.5681"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="118.0"></edge>
+      <edge id="1" source="0" target="2" weight="116.0"></edge>
+      <edge id="2" source="0" target="3" weight="114.0"></edge>
+      <edge id="3" source="0" target="4" weight="105.0"></edge>
+      <edge id="4" source="5" target="0" weight="104.0"></edge>
+      <edge id="5" source="0" target="6" weight="95.0"></edge>
+      <edge id="6" source="0" target="7" weight="84.0"></edge>
+      <edge id="7" source="0" target="8" weight="80.0"></edge>
+      <edge id="8" source="0" target="9" weight="68.0"></edge>
+      <edge id="9" source="10" target="0" weight="67.0"></edge>
+      <edge id="10" source="11" target="0" weight="62.0"></edge>
+      <edge id="11" source="12" target="0" weight="57.0"></edge>
+      <edge id="12" source="13" target="0" weight="57.0"></edge>
+      <edge id="13" source="0" target="14" weight="56.0"></edge>
+      <edge id="14" source="0" target="15" weight="51.0"></edge>
+      <edge id="15" source="16" target="0" weight="50.0"></edge>
+      <edge id="16" source="17" target="0" weight="48.0"></edge>
+      <edge id="17" source="0" target="18" weight="48.0"></edge>
+      <edge id="18" source="0" target="19" weight="44.0"></edge>
+      <edge id="19" source="0" target="20" weight="43.0"></edge>
+      <edge id="20" source="0" target="21" weight="40.0"></edge>
+      <edge id="21" source="0" target="22" weight="39.0"></edge>
+      <edge id="22" source="0" target="23" weight="29.0"></edge>
+      <edge id="23" source="24" target="0" weight="29.0"></edge>
+      <edge id="24" source="25" target="0" weight="28.0"></edge>
+      <edge id="25" source="0" target="26" weight="27.0"></edge>
+      <edge id="26" source="27" target="0" weight="25.0"></edge>
+      <edge id="27" source="28" target="0" weight="23.0"></edge>
+      <edge id="28" source="13" target="29" weight="22.0"></edge>
+      <edge id="29" source="29" target="8" weight="19.0"></edge>
+      <edge id="30" source="30" target="0" weight="17.0"></edge>
+      <edge id="31" source="31" target="27" weight="16.0"></edge>
+      <edge id="32" source="0" target="32" weight="16.0"></edge>
+      <edge id="33" source="29" target="33" weight="16.0"></edge>
+      <edge id="34" source="19" target="29" weight="16.0"></edge>
+      <edge id="35" source="0" target="34" weight="14.0"></edge>
+      <edge id="36" source="5" target="29" weight="14.0"></edge>
+      <edge id="37" source="0" target="35" weight="14.0"></edge>
+      <edge id="38" source="0" target="36" weight="12.0"></edge>
+      <edge id="39" source="37" target="14" weight="12.0"></edge>
+      <edge id="40" source="29" target="38" weight="10.0"></edge>
+      <edge id="41" source="39" target="9" weight="9.0"></edge>
+      <edge id="42" source="13" target="37" weight="9.0"></edge>
+      <edge id="43" source="37" target="9" weight="9.0"></edge>
+      <edge id="44" source="17" target="29" weight="8.0"></edge>
+      <edge id="45" source="40" target="0" weight="8.0"></edge>
+      <edge id="46" source="0" target="41" weight="8.0"></edge>
+      <edge id="47" source="29" target="18" weight="7.0"></edge>
+      <edge id="48" source="0" target="42" weight="7.0"></edge>
+      <edge id="49" source="0" target="43" weight="7.0"></edge>
+      <edge id="50" source="0" target="44" weight="6.0"></edge>
+      <edge id="51" source="29" target="21" weight="6.0"></edge>
+      <edge id="52" source="0" target="45" weight="6.0"></edge>
+      <edge id="53" source="46" target="0" weight="6.0"></edge>
+      <edge id="54" source="29" target="22" weight="6.0"></edge>
+      <edge id="55" source="47" target="34" weight="6.0"></edge>
+      <edge id="56" source="0" target="48" weight="6.0"></edge>
+      <edge id="57" source="0" target="49" weight="6.0"></edge>
+      <edge id="58" source="0" target="50" weight="6.0"></edge>
+      <edge id="59" source="0" target="51" weight="6.0"></edge>
+      <edge id="60" source="0" target="52" weight="6.0"></edge>
+      <edge id="61" source="37" target="18" weight="6.0"></edge>
+      <edge id="62" source="39" target="26" weight="5.0"></edge>
+      <edge id="63" source="37" target="22" weight="5.0"></edge>
+      <edge id="64" source="29" target="53" weight="5.0"></edge>
+      <edge id="65" source="0" target="54" weight="5.0"></edge>
+      <edge id="66" source="0" target="55" weight="5.0"></edge>
+      <edge id="67" source="56" target="29" weight="5.0"></edge>
+      <edge id="68" source="0" target="57" weight="4.0"></edge>
+      <edge id="69" source="37" target="21" weight="4.0"></edge>
+      <edge id="70" source="0" target="58" weight="4.0"></edge>
+      <edge id="71" source="46" target="29" weight="3.0"></edge>
+      <edge id="72" source="41" target="29" weight="3.0"></edge>
+      <edge id="73" source="0" target="59" weight="3.0"></edge>
+      <edge id="74" source="60" target="29" weight="3.0"></edge>
+      <edge id="75" source="0" target="61" weight="3.0"></edge>
+      <edge id="76" source="0" target="62" weight="3.0"></edge>
+      <edge id="77" source="27" target="63" weight="3.0"></edge>
+      <edge id="78" source="39" target="50" weight="3.0"></edge>
+      <edge id="79" source="64" target="8" weight="2.0"></edge>
+      <edge id="80" source="29" target="65" weight="2.0"></edge>
+      <edge id="81" source="14" target="66" weight="2.0"></edge>
+      <edge id="82" source="22" target="66" weight="2.0"></edge>
+      <edge id="83" source="0" target="67" weight="2.0"></edge>
+      <edge id="84" source="36" target="39" weight="2.0"></edge>
+      <edge id="85" source="30" target="29" weight="2.0"></edge>
+      <edge id="86" source="29" target="67" weight="2.0"></edge>
+      <edge id="87" source="37" target="26" weight="2.0"></edge>
+      <edge id="88" source="39" target="30" weight="2.0"></edge>
+      <edge id="89" source="68" target="69" weight="2.0"></edge>
+      <edge id="90" source="70" target="29" weight="2.0"></edge>
+      <edge id="91" source="71" target="29" weight="2.0"></edge>
+      <edge id="92" source="0" target="72" weight="2.0"></edge>
+      <edge id="93" source="29" target="50" weight="2.0"></edge>
+      <edge id="94" source="29" target="73" weight="2.0"></edge>
+      <edge id="95" source="74" target="29" weight="2.0"></edge>
+      <edge id="96" source="29" target="36" weight="2.0"></edge>
+      <edge id="97" source="0" target="75" weight="2.0"></edge>
+      <edge id="98" source="29" target="76" weight="2.0"></edge>
+      <edge id="99" source="0" target="77"></edge>
+      <edge id="100" source="78" target="29"></edge>
+      <edge id="101" source="0" target="79"></edge>
+      <edge id="102" source="80" target="29"></edge>
+      <edge id="103" source="29" target="81"></edge>
+      <edge id="104" source="82" target="41"></edge>
+      <edge id="105" source="29" target="52"></edge>
+      <edge id="106" source="0" target="83"></edge>
+      <edge id="107" source="84" target="29"></edge>
+      <edge id="108" source="39" target="51"></edge>
+      <edge id="109" source="0" target="85"></edge>
+      <edge id="110" source="40" target="39"></edge>
+      <edge id="111" source="86" target="29"></edge>
+      <edge id="112" source="7" target="87"></edge>
+      <edge id="113" source="88" target="29"></edge>
+      <edge id="114" source="0" target="89"></edge>
+      <edge id="115" source="90" target="0"></edge>
+      <edge id="116" source="0" target="91"></edge>
+      <edge id="117" source="0" target="92"></edge>
+      <edge id="118" source="93" target="94"></edge>
+      <edge id="119" source="37" target="67"></edge>
+      <edge id="120" source="39" target="95"></edge>
+      <edge id="121" source="30" target="66"></edge>
+      <edge id="122" source="29" target="43"></edge>
+      <edge id="123" source="40" target="96"></edge>
+      <edge id="124" source="97" target="29"></edge>
+      <edge id="125" source="0" target="98"></edge>
+      <edge id="126" source="86" target="99"></edge>
+      <edge id="127" source="0" target="100"></edge>
+      <edge id="128" source="101" target="29"></edge>
+      <edge id="129" source="37" target="52"></edge>
+      <edge id="130" source="0" target="86"></edge>
+      <edge id="131" source="102" target="29"></edge>
+      <edge id="132" source="0" target="103"></edge>
+      <edge id="133" source="0" target="104"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="4" label="ontario">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="1.9736141E-4" y="3.7157533E-5"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="quebec">
+        <viz:size value="76.08082"></viz:size>
+        <viz:position x="267.28397" y="419.683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="british columbia">
+        <viz:size value="70.9091"></viz:size>
+        <viz:position x="-267.2841" y="-419.68274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="manitoba">
+        <viz:size value="29.53535"></viz:size>
+        <viz:position x="-496.8552" y="21.922089"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="newfoundland">
+        <viz:size value="9.818192"></viz:size>
+        <viz:position x="229.97292" y="-440.97415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="labrador">
+        <viz:size value="4.9697194"></viz:size>
+        <viz:position x="496.85535" y="-21.92213"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="winnipeg">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-229.97314" y="440.97397"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="1526.0"></edge>
+      <edge id="1" source="2" target="3" weight="1188.0"></edge>
+    </edges>
+  </graph>
+</gexf>

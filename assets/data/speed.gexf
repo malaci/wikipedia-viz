@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="speed skaters">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="552.0471" y="438.5622"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="speed skating">
+        <viz:size value="93.355804"></viz:size>
+        <viz:position x="260.26846" y="646.47876"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="american speed association">
+        <viz:size value="58.771957"></viz:size>
+        <viz:position x="292.08844" y="109.68711"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="speed metal">
+        <viz:size value="56.216503"></viz:size>
+        <viz:position x="-553.43396" y="-431.6246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="crosley class high speed transports">
+        <viz:size value="47.18722"></viz:size>
+        <viz:position x="-10.217209" y="307.55832"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="land speed record people">
+        <viz:size value="46.931675"></viz:size>
+        <viz:position x="-106.38759" y="706.9831"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="brighton speed trials people">
+        <viz:size value="44.03549"></viz:size>
+        <viz:position x="-426.45392" y="538.37933"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="land speed record cars">
+        <viz:size value="44.03549"></viz:size>
+        <viz:position x="-687.14905" y="-103.111565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="water speed records">
+        <viz:size value="33.47294"></viz:size>
+        <viz:position x="-296.89084" y="86.73135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="land speed records">
+        <viz:size value="22.484472"></viz:size>
+        <viz:position x="-665.97675" y="265.43088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="paralympic ice sledge speed racers of norway">
+        <viz:size value="12.518189"></viz:size>
+        <viz:position x="-166.44989" y="-254.74048"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="ice sledge speed racers at the 1988 winter paralympics">
+        <viz:size value="12.518189"></viz:size>
+        <viz:position x="192.30118" y="-239.8174"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="ice sledge speed racers at the 1994 winter paralympics">
+        <viz:size value="12.518189"></viz:size>
+        <viz:position x="442.22778" y="-567.5177"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="paralympic ice sledge speed racers of great britain">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-263.00052" y="-661.58374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="paralympic ice sledge speed racers of japan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="707.0569" y="95.79695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="ice sledge speed racers at the 1998 winter paralympics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="636.00775" y="-256.699"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="ice sledge speed racers at the 1984 winter paralympics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="93.96207" y="-680.5135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="568.0"></edge>
+      <edge id="1" source="2" target="3" weight="6.0"></edge>
+      <edge id="2" source="4" target="5" weight="4.0"></edge>
+      <edge id="3" source="6" target="5" weight="3.0"></edge>
+      <edge id="4" source="7" target="3" weight="2.0"></edge>
+      <edge id="5" source="8" target="9" weight="2.0"></edge>
+      <edge id="6" source="10" target="6" weight="2.0"></edge>
+      <edge id="7" source="6" target="11"></edge>
+      <edge id="8" source="4" target="11"></edge>
+      <edge id="9" source="10" target="4"></edge>
+      <edge id="10" source="12" target="11"></edge>
+      <edge id="11" source="10" target="13"></edge>
+      <edge id="12" source="9" target="3"></edge>
+    </edges>
+  </graph>
+</gexf>

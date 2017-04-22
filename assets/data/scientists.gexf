@@ -1,0 +1,1613 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="3" label="american scientists">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="129.44344" y="107.19042"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="women scientists">
+        <viz:size value="96.33015"></viz:size>
+        <viz:position x="620.5475" y="-495.23566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="computer scientists">
+        <viz:size value="93.41095"></viz:size>
+        <viz:position x="843.8815" y="574.892"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="20th-century scientists">
+        <viz:size value="89.490875"></viz:size>
+        <viz:position x="180.19894" y="-212.31006"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="political scientists">
+        <viz:size value="87.238914"></viz:size>
+        <viz:position x="100.457535" y="1043.1038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="jewish scientists">
+        <viz:size value="78.31451"></viz:size>
+        <viz:position x="-323.87576" y="619.8521"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="british scientists">
+        <viz:size value="76.312775"></viz:size>
+        <viz:position x="242.54366" y="-384.64716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="indian scientists">
+        <viz:size value="72.642914"></viz:size>
+        <viz:position x="-311.15652" y="-1088.7268"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="german scientists">
+        <viz:size value="72.476105"></viz:size>
+        <viz:position x="-738.17334" y="649.01276"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="fictional scientists">
+        <viz:size value="72.14249"></viz:size>
+        <viz:position x="-731.4619" y="1533.6084"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="21st-century scientists">
+        <viz:size value="71.80886"></viz:size>
+        <viz:position x="699.9192" y="-281.47305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="184" label="social scientists">
+        <viz:size value="70.05734"></viz:size>
+        <viz:position x="-363.79608" y="429.59644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="australian scientists">
+        <viz:size value="68.80626"></viz:size>
+        <viz:position x="-154.7711" y="1688.9675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="226" label="canadian scientists">
+        <viz:size value="68.63944"></viz:size>
+        <viz:position x="-1579.4845" y="-618.5618"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="236" label="cognitive scientists">
+        <viz:size value="64.80278"></viz:size>
+        <viz:position x="-350.30853" y="-237.83023"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="195" label="french scientists">
+        <viz:size value="64.719376"></viz:size>
+        <viz:position x="-398.40222" y="1404.105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="russian scientists">
+        <viz:size value="63.88532"></viz:size>
+        <viz:position x="-216.24255" y="874.89526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="169" label="systems scientists">
+        <viz:size value="63.218075"></viz:size>
+        <viz:position x="-1154.5746" y="242.94292"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="antarctic scientists">
+        <viz:size value="62.384014"></viz:size>
+        <viz:position x="834.28516" y="-1202.8585"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="dutch scientists">
+        <viz:size value="60.465683"></viz:size>
+        <viz:position x="-1104.7251" y="-711.62616"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="19th-century scientists">
+        <viz:size value="60.38228"></viz:size>
+        <viz:position x="547.27295" y="-219.09985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="english scientists">
+        <viz:size value="60.21546"></viz:size>
+        <viz:position x="-935.4716" y="-94.771835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="scientists at bell labs">
+        <viz:size value="59.715027"></viz:size>
+        <viz:position x="-1241.3113" y="-1119.6622"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="israeli scientists">
+        <viz:size value="59.381405"></viz:size>
+        <viz:position x="-406.33" y="804.07544"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="173" label="belgian scientists">
+        <viz:size value="59.13119"></viz:size>
+        <viz:position x="223.34825" y="-1668.9731"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="soviet scientists">
+        <viz:size value="58.38054"></viz:size>
+        <viz:position x="191.51184" y="891.3205"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="italian scientists">
+        <viz:size value="58.213726"></viz:size>
+        <viz:position x="-886.1323" y="-308.54327"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="scientists from vienna">
+        <viz:size value="58.130318"></viz:size>
+        <viz:position x="-675.1844" y="209.36517"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="african-american scientists">
+        <viz:size value="57.96351"></viz:size>
+        <viz:position x="450.3664" y="3.681569"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="earth scientists">
+        <viz:size value="57.796696"></viz:size>
+        <viz:position x="356.9364" y="425.92294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="lgbt scientists">
+        <viz:size value="57.12945"></viz:size>
+        <viz:position x="-1480.0215" y="834.1576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="iranian scientists">
+        <viz:size value="56.712425"></viz:size>
+        <viz:position x="41.78333" y="-1691.1901"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="planetary scientists">
+        <viz:size value="56.295395"></viz:size>
+        <viz:position x="-1195.3129" y="454.41614"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="turkish scientists">
+        <viz:size value="56.21199"></viz:size>
+        <viz:position x="-1489.5723" y="-814.51886"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="pakistani scientists">
+        <viz:size value="55.21112"></viz:size>
+        <viz:position x="-539.0456" y="1590.0775"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="new zealand scientists">
+        <viz:size value="54.710686"></viz:size>
+        <viz:position x="-1515.4965" y="346.1215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="brazilian scientists">
+        <viz:size value="54.29366"></viz:size>
+        <viz:position x="-1528.2308" y="122.49165"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="forensic scientists">
+        <viz:size value="54.126846"></viz:size>
+        <viz:position x="-929.27637" y="1429.3112"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="scientists from berlin">
+        <viz:size value="54.126846"></viz:size>
+        <viz:position x="-829.0404" y="825.2977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="food scientists">
+        <viz:size value="53.960033"></viz:size>
+        <viz:position x="1653.767" y="227.6755"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="hungarian scientists">
+        <viz:size value="53.125977"></viz:size>
+        <viz:position x="-1019.26624" y="810.9226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="scientists from amsterdam">
+        <viz:size value="53.125977"></viz:size>
+        <viz:position x="-923.5448" y="-776.01764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="178" label="polymer scientists and engineers">
+        <viz:size value="52.125107"></viz:size>
+        <viz:position x="-164.26796" y="-102.04455"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="kerala scientists">
+        <viz:size value="51.958298"></viz:size>
+        <viz:position x="15.318226" y="-864.54675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="danish scientists">
+        <viz:size value="51.87489"></viz:size>
+        <viz:position x="-1697.4519" y="-9.87839"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="scientists from california">
+        <viz:size value="51.624676"></viz:size>
+        <viz:position x="815.0961" y="775.26044"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="rocket scientists">
+        <viz:size value="51.457863"></viz:size>
+        <viz:position x="-535.1139" y="-565.2936"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="austrian scientists">
+        <viz:size value="51.207645"></viz:size>
+        <viz:position x="-950.88763" y="610.2576"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="polish scientists">
+        <viz:size value="51.040833"></viz:size>
+        <viz:position x="-337.57706" y="-864.5703"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="chinese scientists">
+        <viz:size value="49.956562"></viz:size>
+        <viz:position x="880.28284" y="367.18372"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="215" label="andhra pradesh scientists">
+        <viz:size value="49.956562"></viz:size>
+        <viz:position x="-632.0747" y="-1561.9884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="irish scientists">
+        <viz:size value="49.53953"></viz:size>
+        <viz:position x="15.488848" y="-458.55304"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="170" label="scientists from illinois">
+        <viz:size value="49.28931"></viz:size>
+        <viz:position x="-1644.866" y="468.41138"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="217" label="tamil scientists">
+        <viz:size value="48.95569"></viz:size>
+        <viz:position x="1407.2253" y="-259.4884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="232" label="scientists from zhejiang">
+        <viz:size value="48.95569"></viz:size>
+        <viz:position x="1623.0282" y="-332.88135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="187" label="spanish scientists">
+        <viz:size value="48.705475"></viz:size>
+        <viz:position x="227.0577" y="1671.0931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="ukrainian scientists">
+        <viz:size value="48.705475"></viz:size>
+        <viz:position x="-231.20036" y="1258.7396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="south african scientists">
+        <viz:size value="48.12163"></viz:size>
+        <viz:position x="1054.3304" y="-305.24503"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="190" label="scientists who committed suicide">
+        <viz:size value="47.954823"></viz:size>
+        <viz:position x="-727.6416" y="-185.67686"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="azerbaijani scientists">
+        <viz:size value="47.954823"></viz:size>
+        <viz:position x="260.50754" y="732.0154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="218" label="environmental scientists">
+        <viz:size value="47.78801"></viz:size>
+        <viz:position x="434.65994" y="1641.966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="argentine scientists">
+        <viz:size value="47.287575"></viz:size>
+        <viz:position x="17.868694" y="-41.028625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="172" label="swiss scientists">
+        <viz:size value="47.120766"></viz:size>
+        <viz:position x="-651.5157" y="974.9239"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="185" label="soil scientists">
+        <viz:size value="46.953953"></viz:size>
+        <viz:position x="992.2274" y="-1109.2887"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="karnataka scientists">
+        <viz:size value="46.953953"></viz:size>
+        <viz:position x="-324.46906" y="-1281.2689"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="scientists from bangalore">
+        <viz:size value="46.787144"></viz:size>
+        <viz:position x="1017.1004" y="741.6439"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="177" label="scientists from jiangsu">
+        <viz:size value="45.702866"></viz:size>
+        <viz:position x="1490.1301" y="-101.78866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="scientists from prague">
+        <viz:size value="45.702866"></viz:size>
+        <viz:position x="-726.36633" y="-667.83093"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="scientists from the san francisco bay area">
+        <viz:size value="45.536057"></viz:size>
+        <viz:position x="659.13257" y="583.42096"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="early spaceflight scientists">
+        <viz:size value="45.119026"></viz:size>
+        <viz:position x="-445.74323" y="989.59625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="scottish scientists">
+        <viz:size value="44.702"></viz:size>
+        <viz:position x="553.3868" y="-694.90955"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="248" label="czech scientists">
+        <viz:size value="44.535187"></viz:size>
+        <viz:position x="-1038.0234" y="-438.87155"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="scientists from shanghai">
+        <viz:size value="44.28497"></viz:size>
+        <viz:position x="1074.982" y="270.3912"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="armenian scientists">
+        <viz:size value="44.118156"></viz:size>
+        <viz:position x="334.48584" y="1063.5302"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="scientists from pennsylvania">
+        <viz:size value="43.867943"></viz:size>
+        <viz:position x="-351.6701" y="-44.665104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="196" label="greek scientists">
+        <viz:size value="43.450912"></viz:size>
+        <viz:position x="-896.5889" y="-973.12213"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="17th-century scientists">
+        <viz:size value="42.950478"></viz:size>
+        <viz:position x="277.53818" y="-1428.4404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="18th-century scientists">
+        <viz:size value="42.450043"></viz:size>
+        <viz:position x="452.82608" y="-412.59473"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="scientists from new york">
+        <viz:size value="42.199825"></viz:size>
+        <viz:position x="531.04236" y="168.54285"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="223" label="serbian scientists">
+        <viz:size value="41.198956"></viz:size>
+        <viz:position x="-1006.69714" y="120.1555"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="nigerian scientists">
+        <viz:size value="40.94874"></viz:size>
+        <viz:position x="693.19794" y="339.53912"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="atmospheric scientists">
+        <viz:size value="40.615116"></viz:size>
+        <viz:position x="775.4979" y="-608.0487"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="201" label="space scientists">
+        <viz:size value="40.364902"></viz:size>
+        <viz:position x="-907.2835" y="-577.22723"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="scientists from frankfurt">
+        <viz:size value="39.447437"></viz:size>
+        <viz:position x="-652.97174" y="452.21475"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="scientists from london">
+        <viz:size value="39.447437"></viz:size>
+        <viz:position x="-539.1016" y="-163.3029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="human genome project scientists">
+        <viz:size value="39.113815"></viz:size>
+        <viz:position x="215.5997" y="546.64465"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="bangladeshi scientists">
+        <viz:size value="39.113815"></viz:size>
+        <viz:position x="611.1153" y="-1139.0166"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="yoruba scientists">
+        <viz:size value="39.113815"></viz:size>
+        <viz:position x="531.501" y="416.38098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="color scientists">
+        <viz:size value="38.78019"></viz:size>
+        <viz:position x="-240.22768" y="269.22592"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="scientists from western australia">
+        <viz:size value="38.446568"></viz:size>
+        <viz:position x="39.633614" y="1681.9268"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="filipino scientists">
+        <viz:size value="38.446568"></viz:size>
+        <viz:position x="-1495.6128" y="-80.887405"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="materials scientists and engineers">
+        <viz:size value="38.446568"></viz:size>
+        <viz:position x="1448.228" y="-446.81305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="portuguese scientists">
+        <viz:size value="37.695915"></viz:size>
+        <viz:position x="-1691.5165" y="221.28658"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="korean scientists">
+        <viz:size value="37.695915"></viz:size>
+        <viz:position x="423.03033" y="-1273.0824"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="191" label="croatian scientists">
+        <viz:size value="37.362293"></viz:size>
+        <viz:position x="-1016.327" y="393.5536"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="egyptian scientists">
+        <viz:size value="37.362293"></viz:size>
+        <viz:position x="97.160866" y="-1276.477"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="weapons scientists and engineers">
+        <viz:size value="37.362293"></viz:size>
+        <viz:position x="-362.3972" y="1654.3951"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="mexican scientists">
+        <viz:size value="36.945263"></viz:size>
+        <viz:position x="712.9395" y="1348.9856"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="vietnamese scientists">
+        <viz:size value="36.61164"></viz:size>
+        <viz:position x="364.3802" y="-202.30608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="16th-century scientists">
+        <viz:size value="36.61164"></viz:size>
+        <viz:position x="238.41824" y="-995.7163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="scientists from portland, oregon">
+        <viz:size value="36.61164"></viz:size>
+        <viz:position x="1175.7202" y="885.974"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="scientists from st louis, missouri">
+        <viz:size value="36.61164"></viz:size>
+        <viz:position x="-24.937178" y="857.76337"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="gentleman scientists">
+        <viz:size value="36.194614"></viz:size>
+        <viz:position x="385.2498" y="-590.8307"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="chilean scientists">
+        <viz:size value="35.777584"></viz:size>
+        <viz:position x="1227.3156" y="-205.98985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="slovak scientists">
+        <viz:size value="35.777584"></viz:size>
+        <viz:position x="-879.0685" y="1011.059"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="254" label="west bengal scientists">
+        <viz:size value="35.777584"></viz:size>
+        <viz:position x="638.05133" y="-1317.0878"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="200" label="catalan scientists">
+        <viz:size value="35.27715"></viz:size>
+        <viz:position x="-286.47534" y="-1489.9733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="230" label="scientists from melbourne">
+        <viz:size value="35.27715"></viz:size>
+        <viz:position x="-1640.3273" y="-416.79236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="sri lankan scientists">
+        <viz:size value="34.86012"></viz:size>
+        <viz:position x="965.05884" y="938.756"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="scientists from detroit, michigan">
+        <viz:size value="34.86012"></viz:size>
+        <viz:position x="-519.5251" y="600.23315"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="maharashtra scientists">
+        <viz:size value="34.86012"></viz:size>
+        <viz:position x="182.83601" y="-777.3537"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="taiwanese scientists">
+        <viz:size value="34.359688"></viz:size>
+        <viz:position x="1134.1003" y="80.09729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="enlightenment scientists">
+        <viz:size value="34.359688"></viz:size>
+        <viz:position x="1230.684" y="-421.66882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="icelandic scientists">
+        <viz:size value="34.359688"></viz:size>
+        <viz:position x="741.43585" y="-808.3098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="cornish scientists">
+        <viz:size value="33.859253"></viz:size>
+        <viz:position x="-1285.7491" y="-146.00584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="scientists from shandong">
+        <viz:size value="33.859253"></viz:size>
+        <viz:position x="1216.2709" y="435.25882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="165" label="haskins laboratories scientists">
+        <viz:size value="33.358818"></viz:size>
+        <viz:position x="-767.5986" y="1325.5939"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="ottoman scientists">
+        <viz:size value="33.358818"></viz:size>
+        <viz:position x="-1274.1499" y="-824.5895"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="uttar pradesh scientists">
+        <viz:size value="33.358818"></viz:size>
+        <viz:position x="-163.58061" y="-980.57043"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="hakka scientists">
+        <viz:size value="32.858383"></viz:size>
+        <viz:position x="31.91237" y="669.0037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="kurdish scientists">
+        <viz:size value="32.858383"></viz:size>
+        <viz:position x="-87.98702" y="-1558.8707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="belarusian scientists">
+        <viz:size value="32.858383"></viz:size>
+        <viz:position x="32.443314" y="461.6867"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="199" label="murdered scientists">
+        <viz:size value="32.858383"></viz:size>
+        <viz:position x="-1362.4021" y="999.9338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="206" label="veterinary scientists">
+        <viz:size value="32.858383"></viz:size>
+        <viz:position x="-1083.3398" y="1030.0828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="scientists from beijing">
+        <viz:size value="32.274544"></viz:size>
+        <viz:position x="1029.2194" y="512.4308"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="latvian scientists">
+        <viz:size value="31.690704"></viz:size>
+        <viz:position x="148.02333" y="1228.785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="scientists from copenhagen">
+        <viz:size value="31.690704"></viz:size>
+        <viz:position x="-1679.349" y="-213.26231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="hong kong scientists">
+        <viz:size value="31.106863"></viz:size>
+        <viz:position x="1070.1123" y="-80.539825"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="national scientists of the philippines">
+        <viz:size value="31.106863"></viz:size>
+        <viz:position x="-1469.8676" y="-269.01532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="iraqi scientists">
+        <viz:size value="31.106863"></viz:size>
+        <viz:position x="479.07455" y="-1466.3063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="medieval scientists">
+        <viz:size value="31.106863"></viz:size>
+        <viz:position x="51.503036" y="-1063.6581"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="bengali scientists">
+        <viz:size value="31.106863"></viz:size>
+        <viz:position x="366.52478" y="-797.3607"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="malaysian scientists">
+        <viz:size value="30.439617"></viz:size>
+        <viz:position x="845.864" y="-28.596632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="scientists from fujian">
+        <viz:size value="30.439617"></viz:size>
+        <viz:position x="928.94977" y="158.93637"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="scientists who worked on qibla determination">
+        <viz:size value="30.439617"></viz:size>
+        <viz:position x="403.24292" y="-1630.5386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="249" label="scientists from kansas">
+        <viz:size value="29.772373"></viz:size>
+        <viz:position x="1392.5518" y="-984.3493"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="scientists from suzhou">
+        <viz:size value="29.772373"></viz:size>
+        <viz:position x="873.259" y="-192.70694"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="247" label="lebanese scientists">
+        <viz:size value="29.772373"></viz:size>
+        <viz:position x="-1082.4875" y="-223.02641"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="171" label="scientists active at the museum fur naturkunde, berlin">
+        <viz:size value="29.772373"></viz:size>
+        <viz:position x="-776.47943" y="26.370768"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="scientists from guangdong">
+        <viz:size value="29.772373"></viz:size>
+        <viz:position x="339.25055" y="199.64305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="scientists from hunan">
+        <viz:size value="29.02172"></viz:size>
+        <viz:position x="1185.5509" y="639.5583"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="243" label="scientists from lahore">
+        <viz:size value="29.02172"></viz:size>
+        <viz:position x="-388.56015" y="146.08223"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="chief scientists of the united states air force">
+        <viz:size value="29.02172"></viz:size>
+        <viz:position x="-153.2851" y="98.008156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="193" label="somalian scientists">
+        <viz:size value="28.271069"></viz:size>
+        <viz:position x="1012.73315" y="-507.53214"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="arab scientists">
+        <viz:size value="28.271069"></viz:size>
+        <viz:position x="449.18457" y="-1046.0337"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="jesuit scientists">
+        <viz:size value="28.271069"></viz:size>
+        <viz:position x="-861.7714" y="218.75806"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="thai scientists">
+        <viz:size value="28.271069"></viz:size>
+        <viz:position x="908.40674" y="1171.541"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="metamaterials scientists">
+        <viz:size value="28.271069"></viz:size>
+        <viz:position x="-229.38333" y="-1701.2876"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="15th-century scientists">
+        <viz:size value="28.271069"></viz:size>
+        <viz:position x="-96.60086" y="-1187.6698"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="scientists from jiangxi">
+        <viz:size value="27.43701"></viz:size>
+        <viz:position x="609.3252" y="782.1598"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="scientists who died in nazi concentration camps">
+        <viz:size value="27.43701"></viz:size>
+        <viz:position x="-750.9889" y="-443.15408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="lithuanian scientists">
+        <viz:size value="27.43701"></viz:size>
+        <viz:position x="-0.86295485" y="-263.85367"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="cuban scientists">
+        <viz:size value="27.43701"></viz:size>
+        <viz:position x="-272.957" y="1064.2528"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="scientists from virginia">
+        <viz:size value="27.43701"></viz:size>
+        <viz:position x="267.7712" y="-18.82855"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="245" label="peruvian scientists">
+        <viz:size value="27.43701"></viz:size>
+        <viz:position x="1359.5709" y="-619.84937"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="168" label="13th-century scientists">
+        <viz:size value="26.519548"></viz:size>
+        <viz:position x="-481.68903" y="-1394.7811"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="220" label="slovenian scientists">
+        <viz:size value="26.519548"></viz:size>
+        <viz:position x="183.06273" y="313.98465"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="data scientists">
+        <viz:size value="26.519548"></viz:size>
+        <viz:position x="-1551.9633" y="641.94745"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="182" label="estonian scientists">
+        <viz:size value="26.519548"></viz:size>
+        <viz:position x="-88.11813" y="1065.2869"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="scientists from sichuan">
+        <viz:size value="26.519548"></viz:size>
+        <viz:position x="1391.1879" y="530.5577"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="scientists from liaoning">
+        <viz:size value="26.519548"></viz:size>
+        <viz:position x="1310.5636" y="-0.48567882"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="166" label="yugoslav scientists">
+        <viz:size value="26.519548"></viz:size>
+        <viz:position x="-1343.4498" y="272.09277"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="textile scientists">
+        <viz:size value="25.518679"></viz:size>
+        <viz:position x="-167.33893" y="-313.5403"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="219" label="madhya pradesh scientists">
+        <viz:size value="25.518679"></viz:size>
+        <viz:position x="607.7995" y="1564.5696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="kazakhstani scientists">
+        <viz:size value="25.518679"></viz:size>
+        <viz:position x="329.68332" y="1271.2642"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="scientists from hubei">
+        <viz:size value="25.518679"></viz:size>
+        <viz:position x="1434.3815" y="334.75977"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="183" label="nepalese scientists">
+        <viz:size value="25.518679"></viz:size>
+        <viz:position x="1084.4061" y="1083.086"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="242" label="odisha scientists">
+        <viz:size value="25.518679"></viz:size>
+        <viz:position x="-1386.6067" y="509.97177"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="180" label="flemish scientists">
+        <viz:size value="24.51781"></viz:size>
+        <viz:position x="-1143.9728" y="-3.7324114"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="austro-hungarian scientists">
+        <viz:size value="24.51781"></viz:size>
+        <viz:position x="-838.7571" y="431.70544"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="212" label="scientists from anhui">
+        <viz:size value="24.51781"></viz:size>
+        <viz:position x="423.1703" y="855.35876"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="192" label="uruguayan scientists">
+        <viz:size value="24.51781"></viz:size>
+        <viz:position x="-686.0655" y="1156.3657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="ethiopian scientists">
+        <viz:size value="24.51781"></viz:size>
+        <viz:position x="1589.1062" y="563.97754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="167" label="macedonian scientists">
+        <viz:size value="23.35013"></viz:size>
+        <viz:position x="-1331.7933" y="69.87888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="scientists from hebei">
+        <viz:size value="23.35013"></viz:size>
+        <viz:position x="723.6775" y="142.76125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="250" label="assam scientists">
+        <viz:size value="23.35013"></viz:size>
+        <viz:position x="1332.2733" y="750.2849"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="174" label="kenyan scientists">
+        <viz:size value="23.35013"></viz:size>
+        <viz:position x="-44.44946" y="1484.5729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="244" label="punjab, india scientists">
+        <viz:size value="23.35013"></viz:size>
+        <viz:position x="-5.465498" y="-648.8025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="197" label="byzantine scientists">
+        <viz:size value="23.35013"></viz:size>
+        <viz:position x="-711.03735" y="-874.2441"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="natural scientists">
+        <viz:size value="23.35013"></viz:size>
+        <viz:position x="-155.49814" y="658.06085"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="189" label="scientists from henan">
+        <viz:size value="23.35013"></viz:size>
+        <viz:position x="1277.6414" y="234.53828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="pharmaceutical scientists">
+        <viz:size value="23.35013"></viz:size>
+        <viz:position x="959.4435" y="1375.2915"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="240" label="dominican republic scientists">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="-381.898" y="-428.4956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="235" label="saudi arabian scientists">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="770.14496" y="-1452.9335"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="221" label="bihar scientists">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="-1120.7386" y="-1284.8014"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="198" label="sicilian scientists">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="-1216.643" y="873.85315"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="9th-century scientists">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="-522.04846" y="-775.8169"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="231" label="chief scientists of australia">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="-1433.462" y="-458.20825"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="14th-century scientists">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="-124.69068" y="-1364.6256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="frisian scientists">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="-1107.1589" y="-933.377"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="216" label="uttarakhand scientists">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="-947.7607" y="-1384.9187"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="229" label="scientists from kochi">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="256.8646" y="-1181.9601"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="scientists from tianjin">
+        <viz:size value="22.099045"></viz:size>
+        <viz:position x="452.77267" y="641.3039"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="237" label="trinidad and tobago scientists">
+        <viz:size value="20.681147"></viz:size>
+        <viz:position x="-593.6517" y="791.521"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="202" label="gujarat scientists">
+        <viz:size value="20.681147"></viz:size>
+        <viz:position x="-589.1666" y="-367.74"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="goa scientists">
+        <viz:size value="20.681147"></viz:size>
+        <viz:position x="848.56903" y="-411.21207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="164" label="scientists from northern ireland">
+        <viz:size value="19.096437"></viz:size>
+        <viz:position x="-579.1104" y="1367.6193"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="11th-century scientists">
+        <viz:size value="19.096437"></viz:size>
+        <viz:position x="-670.0285" y="-1317.0775"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="12th-century scientists">
+        <viz:size value="19.096437"></viz:size>
+        <viz:position x="-337.72342" y="-652.123"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="scientists from bristol">
+        <viz:size value="19.096437"></viz:size>
+        <viz:position x="557.17566" y="-897.23596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="igbo scientists">
+        <viz:size value="19.096437"></viz:size>
+        <viz:position x="636.05" y="-29.228237"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="209" label="delhi scientists">
+        <viz:size value="19.096437"></viz:size>
+        <viz:position x="-503.11026" y="303.16522"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="176" label="scientists from shaanxi">
+        <viz:size value="19.096437"></viz:size>
+        <viz:position x="-518.086" y="-1184.4413"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="255" label="10th-century scientists">
+        <viz:size value="19.096437"></viz:size>
+        <viz:position x="-797.7692" y="-1486.2928"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="234" label="scientists from varanasi">
+        <viz:size value="17.178104"></viz:size>
+        <viz:position x="-1148.8196" y="646.22595"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="222" label="jharkhand scientists">
+        <viz:size value="17.178104"></viz:size>
+        <viz:position x="-1022.3029" y="-1125.7616"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="scientists from mexico city">
+        <viz:size value="17.178104"></viz:size>
+        <viz:position x="805.0901" y="1505.1099"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="burmese scientists">
+        <viz:size value="17.178104"></viz:size>
+        <viz:position x="-1374.549" y="-994.0513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="210" label="meghalaya scientists">
+        <viz:size value="17.178104"></viz:size>
+        <viz:position x="-21.465778" y="254.39278"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="moldovan scientists">
+        <viz:size value="17.178104"></viz:size>
+        <viz:position x="502.4015" y="1378.6266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="moroccan scientists">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="1244.2737" y="-1153.6984"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="188" label="costa rican scientists">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="314.62732" y="1480.9222"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="scientists from chongqing">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="1660.6008" y="34.05303"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="175" label="aerosol scientists">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="-554.7228" y="38.00138"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="bolivian scientists">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="936.89435" y="-703.2589"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="228" label="emirati scientists">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="635.06244" y="-1591.6226"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="181" label="honduran scientists">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="1275.1383" y="1087.363"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="252" label="ecuadorian scientists">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="1518.1985" y="-755.7372"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="246" label="republic of venice scientists">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="-1197.7946" y="-539.9752"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="253" label="8th-century scientists">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="-442.22025" y="-1615.585"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="uzbekistani scientists">
+        <viz:size value="15.009556"></viz:size>
+        <viz:position x="-41.596794" y="1281.009"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="251" label="kuwaiti scientists">
+        <viz:size value="12.340573"></viz:size>
+        <viz:position x="1701.258" y="-153.4592"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="256" label="singaporean scientists">
+        <viz:size value="12.340573"></viz:size>
+        <viz:position x="1392.3359" y="935.2196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="238" label="scientists from harbin">
+        <viz:size value="12.340573"></viz:size>
+        <viz:position x="1461.4398" y="128.63115"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="205" label="senegalese scientists">
+        <viz:size value="12.340573"></viz:size>
+        <viz:position x="-1235.3446" y="1150.7604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="namibian scientists">
+        <viz:size value="12.340573"></viz:size>
+        <viz:position x="944.22815" y="-1404.5299"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="scientists who died in the holocaust">
+        <viz:size value="12.340573"></viz:size>
+        <viz:position x="1101.9027" y="-798.0017"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="211" label="guatemalan scientists">
+        <viz:size value="12.340573"></viz:size>
+        <viz:position x="1531.1808" y="745.80566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="renaissance scientists">
+        <viz:size value="12.340573"></viz:size>
+        <viz:position x="94.12886" y="-1467.6155"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="207" label="algerian scientists">
+        <viz:size value="8.837533"></viz:size>
+        <viz:position x="188.85588" y="-578.81006"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="5th-century scientists">
+        <viz:size value="8.837533"></viz:size>
+        <viz:position x="-698.2173" y="-1074.2263"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="214" label="himachal pradesh scientists">
+        <viz:size value="8.837533"></viz:size>
+        <viz:position x="-829.8475" y="-1209.7885"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="213" label="scientists from ohio">
+        <viz:size value="8.837533"></viz:size>
+        <viz:position x="-163.99461" y="-742.8275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="203" label="tunisian scientists">
+        <viz:size value="8.837533"></viz:size>
+        <viz:position x="1168.5798" y="-614.43945"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="scientists from hainan">
+        <viz:size value="8.837533"></viz:size>
+        <viz:position x="566.1645" y="977.50116"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="syrian scientists">
+        <viz:size value="8.837533"></viz:size>
+        <viz:position x="-460.89084" y="1181.1272"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="scientists from minnesota">
+        <viz:size value="8.837533"></viz:size>
+        <viz:position x="1652.837" y="394.0408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="haryana scientists">
+        <viz:size value="8.837533"></viz:size>
+        <viz:position x="1135.7518" y="1278.2505"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="scientists from inner mongolia">
+        <viz:size value="8.837533"></viz:size>
+        <viz:position x="-930.9922" y="1194.5151"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="first nations scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="929.5052" y="-918.4227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="194" label="cape verdean scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-236.66722" y="1489.4222"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="224" label="scientists from vermont">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-194.34468" y="-514.6966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="scientists from russia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="135.53105" y="1433.5925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="227" label="libyan scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="718.48773" y="1151.8491"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="225" label="scientists of canada">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1369.3674" y="-645.6152"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="239" label="scientists from massachusetts">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1151.8691" y="-978.05524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="241" label="telangana scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1334.8588" y="702.8677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="204" label="albanian scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-151.15813" y="445.29733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="guyana scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1248.4215" y="-346.14752"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="dominica scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1302.6884" y="-810.81885"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="233" label="qatari scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1616.4401" y="-555.57544"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="scientists from washington">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1094.6469" y="-1287.902"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="mongolian scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1095.352" y="1290.7539"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="bashkir scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="512.5279" y="1177.6733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="186" label="ugandan scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="755.461" y="-1008.3702"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="208" label="puducherry scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-514.15" y="-983.95795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="179" label="bibliometrics scientists">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="773.9009" y="970.4828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="139.0"></edge>
+      <edge id="1" source="2" target="3" weight="104.0"></edge>
+      <edge id="2" source="4" target="1" weight="96.0"></edge>
+      <edge id="3" source="0" target="5" weight="84.0"></edge>
+      <edge id="4" source="6" target="1" weight="65.0"></edge>
+      <edge id="5" source="3" target="7" weight="44.0"></edge>
+      <edge id="6" source="6" target="5" weight="41.0"></edge>
+      <edge id="7" source="8" target="9" weight="36.0"></edge>
+      <edge id="8" source="3" target="6" weight="32.0"></edge>
+      <edge id="9" source="7" target="1" weight="29.0"></edge>
+      <edge id="10" source="10" target="3" weight="27.0"></edge>
+      <edge id="11" source="2" target="11" weight="26.0"></edge>
+      <edge id="12" source="12" target="13" weight="23.0"></edge>
+      <edge id="13" source="14" target="3" weight="21.0"></edge>
+      <edge id="14" source="13" target="5" weight="21.0"></edge>
+      <edge id="15" source="15" target="16" weight="19.0"></edge>
+      <edge id="16" source="2" target="17" weight="19.0"></edge>
+      <edge id="17" source="7" target="5" weight="18.0"></edge>
+      <edge id="18" source="18" target="19" weight="18.0"></edge>
+      <edge id="19" source="13" target="20" weight="17.0"></edge>
+      <edge id="20" source="1" target="21" weight="16.0"></edge>
+      <edge id="21" source="22" target="23" weight="14.0"></edge>
+      <edge id="22" source="15" target="24" weight="13.0"></edge>
+      <edge id="23" source="3" target="21" weight="12.0"></edge>
+      <edge id="24" source="1" target="8" weight="11.0"></edge>
+      <edge id="25" source="25" target="12" weight="11.0"></edge>
+      <edge id="26" source="8" target="5" weight="11.0"></edge>
+      <edge id="27" source="5" target="26" weight="11.0"></edge>
+      <edge id="28" source="27" target="28" weight="11.0"></edge>
+      <edge id="29" source="5" target="14" weight="10.0"></edge>
+      <edge id="30" source="29" target="30" weight="10.0"></edge>
+      <edge id="31" source="31" target="5" weight="10.0"></edge>
+      <edge id="32" source="13" target="16" weight="10.0"></edge>
+      <edge id="33" source="20" target="32" weight="9.0"></edge>
+      <edge id="34" source="1" target="14" weight="9.0"></edge>
+      <edge id="35" source="33" target="34" weight="9.0"></edge>
+      <edge id="36" source="21" target="12" weight="9.0"></edge>
+      <edge id="37" source="9" target="35" weight="8.0"></edge>
+      <edge id="38" source="36" target="21" weight="8.0"></edge>
+      <edge id="39" source="37" target="6" weight="8.0"></edge>
+      <edge id="40" source="14" target="12" weight="8.0"></edge>
+      <edge id="41" source="38" target="13" weight="7.0"></edge>
+      <edge id="42" source="12" target="39" weight="7.0"></edge>
+      <edge id="43" source="16" target="32" weight="7.0"></edge>
+      <edge id="44" source="0" target="40" weight="7.0"></edge>
+      <edge id="45" source="41" target="12" weight="7.0"></edge>
+      <edge id="46" source="5" target="42" weight="6.0"></edge>
+      <edge id="47" source="7" target="43" weight="6.0"></edge>
+      <edge id="48" source="28" target="14" weight="6.0"></edge>
+      <edge id="49" source="0" target="44" weight="6.0"></edge>
+      <edge id="50" source="45" target="46" weight="6.0"></edge>
+      <edge id="51" source="47" target="7" weight="6.0"></edge>
+      <edge id="52" source="1" target="48" weight="5.0"></edge>
+      <edge id="53" source="49" target="13" weight="5.0"></edge>
+      <edge id="54" source="50" target="51" weight="5.0"></edge>
+      <edge id="55" source="52" target="53" weight="5.0"></edge>
+      <edge id="56" source="2" target="54" weight="5.0"></edge>
+      <edge id="57" source="55" target="3" weight="4.0"></edge>
+      <edge id="58" source="15" target="56" weight="4.0"></edge>
+      <edge id="59" source="17" target="57" weight="4.0"></edge>
+      <edge id="60" source="58" target="59" weight="4.0"></edge>
+      <edge id="61" source="60" target="61" weight="4.0"></edge>
+      <edge id="62" source="47" target="62" weight="4.0"></edge>
+      <edge id="63" source="9" target="33" weight="4.0"></edge>
+      <edge id="64" source="63" target="13" weight="4.0"></edge>
+      <edge id="65" source="37" target="0" weight="4.0"></edge>
+      <edge id="66" source="1" target="33" weight="4.0"></edge>
+      <edge id="67" source="64" target="3" weight="4.0"></edge>
+      <edge id="68" source="1" target="65" weight="4.0"></edge>
+      <edge id="69" source="66" target="9" weight="4.0"></edge>
+      <edge id="70" source="56" target="2" weight="3.0"></edge>
+      <edge id="71" source="67" target="68" weight="3.0"></edge>
+      <edge id="72" source="3" target="69" weight="3.0"></edge>
+      <edge id="73" source="70" target="71" weight="3.0"></edge>
+      <edge id="74" source="72" target="12" weight="3.0"></edge>
+      <edge id="75" source="29" target="9" weight="3.0"></edge>
+      <edge id="76" source="36" target="73" weight="3.0"></edge>
+      <edge id="77" source="21" target="74" weight="3.0"></edge>
+      <edge id="78" source="75" target="9" weight="3.0"></edge>
+      <edge id="79" source="76" target="57" weight="3.0"></edge>
+      <edge id="80" source="76" target="77" weight="3.0"></edge>
+      <edge id="81" source="4" target="78" weight="3.0"></edge>
+      <edge id="82" source="12" target="79" weight="3.0"></edge>
+      <edge id="83" source="80" target="13" weight="3.0"></edge>
+      <edge id="84" source="81" target="82" weight="3.0"></edge>
+      <edge id="85" source="83" target="44" weight="3.0"></edge>
+      <edge id="86" source="13" target="84" weight="2.0"></edge>
+      <edge id="87" source="5" target="85" weight="2.0"></edge>
+      <edge id="88" source="86" target="21" weight="2.0"></edge>
+      <edge id="89" source="13" target="87" weight="2.0"></edge>
+      <edge id="90" source="21" target="88" weight="2.0"></edge>
+      <edge id="91" source="89" target="21" weight="2.0"></edge>
+      <edge id="92" source="21" target="90" weight="2.0"></edge>
+      <edge id="93" source="91" target="21" weight="2.0"></edge>
+      <edge id="94" source="83" target="92" weight="2.0"></edge>
+      <edge id="95" source="79" target="1" weight="2.0"></edge>
+      <edge id="96" source="29" target="3" weight="2.0"></edge>
+      <edge id="97" source="28" target="93" weight="2.0"></edge>
+      <edge id="98" source="94" target="1" weight="2.0"></edge>
+      <edge id="99" source="3" target="95" weight="2.0"></edge>
+      <edge id="100" source="3" target="96" weight="2.0"></edge>
+      <edge id="101" source="28" target="62" weight="2.0"></edge>
+      <edge id="102" source="94" target="5" weight="2.0"></edge>
+      <edge id="103" source="97" target="1" weight="2.0"></edge>
+      <edge id="104" source="98" target="1" weight="2.0"></edge>
+      <edge id="105" source="99" target="1" weight="2.0"></edge>
+      <edge id="106" source="100" target="1" weight="2.0"></edge>
+      <edge id="107" source="101" target="3" weight="2.0"></edge>
+      <edge id="108" source="5" target="65" weight="2.0"></edge>
+      <edge id="109" source="9" target="102" weight="2.0"></edge>
+      <edge id="110" source="36" target="98" weight="2.0"></edge>
+      <edge id="111" source="103" target="104" weight="2.0"></edge>
+      <edge id="112" source="101" target="1" weight="2.0"></edge>
+      <edge id="113" source="63" target="32" weight="2.0"></edge>
+      <edge id="114" source="98" target="5" weight="2.0"></edge>
+      <edge id="115" source="105" target="106" weight="2.0"></edge>
+      <edge id="116" source="66" target="107" weight="2.0"></edge>
+      <edge id="117" source="108" target="6" weight="2.0"></edge>
+      <edge id="118" source="109" target="110" weight="2.0"></edge>
+      <edge id="119" source="36" target="79" weight="2.0"></edge>
+      <edge id="120" source="111" target="6" weight="2.0"></edge>
+      <edge id="121" source="112" target="113" weight="2.0"></edge>
+      <edge id="122" source="101" target="5" weight="2.0"></edge>
+      <edge id="123" source="12" target="114" weight="2.0"></edge>
+      <edge id="124" source="0" target="108" weight="2.0"></edge>
+      <edge id="125" source="115" target="9" weight="2.0"></edge>
+      <edge id="126" source="116" target="103" weight="2.0"></edge>
+      <edge id="127" source="117" target="118" weight="2.0"></edge>
+      <edge id="128" source="119" target="103" weight="2.0"></edge>
+      <edge id="129" source="33" target="120" weight="2.0"></edge>
+      <edge id="130" source="4" target="121"></edge>
+      <edge id="131" source="109" target="59"></edge>
+      <edge id="132" source="113" target="110"></edge>
+      <edge id="133" source="79" target="122"></edge>
+      <edge id="134" source="123" target="118"></edge>
+      <edge id="135" source="8" target="124"></edge>
+      <edge id="136" source="125" target="126"></edge>
+      <edge id="137" source="127" target="128"></edge>
+      <edge id="138" source="6" target="129"></edge>
+      <edge id="139" source="66" target="120"></edge>
+      <edge id="140" source="57" target="130"></edge>
+      <edge id="141" source="131" target="128"></edge>
+      <edge id="142" source="132" target="133"></edge>
+      <edge id="143" source="134" target="13"></edge>
+      <edge id="144" source="95" target="135"></edge>
+      <edge id="145" source="1" target="58"></edge>
+      <edge id="146" source="136" target="12"></edge>
+      <edge id="147" source="137" target="138"></edge>
+      <edge id="148" source="139" target="19"></edge>
+      <edge id="149" source="127" target="21"></edge>
+      <edge id="150" source="1" target="109"></edge>
+      <edge id="151" source="98" target="140"></edge>
+      <edge id="152" source="15" target="141"></edge>
+      <edge id="153" source="123" target="142"></edge>
+      <edge id="154" source="103" target="143"></edge>
+      <edge id="155" source="144" target="145"></edge>
+      <edge id="156" source="128" target="146"></edge>
+      <edge id="157" source="147" target="13"></edge>
+      <edge id="158" source="44" target="123"></edge>
+      <edge id="159" source="148" target="1"></edge>
+      <edge id="160" source="149" target="5"></edge>
+      <edge id="161" source="62" target="1"></edge>
+      <edge id="162" source="101" target="12"></edge>
+      <edge id="163" source="94" target="110"></edge>
+      <edge id="164" source="117" target="135"></edge>
+      <edge id="165" source="4" target="150"></edge>
+      <edge id="166" source="79" target="151"></edge>
+      <edge id="167" source="58" target="28"></edge>
+      <edge id="168" source="152" target="13"></edge>
+      <edge id="169" source="21" target="153"></edge>
+      <edge id="170" source="21" target="154"></edge>
+      <edge id="171" source="149" target="1"></edge>
+      <edge id="172" source="9" target="155"></edge>
+      <edge id="173" source="144" target="156"></edge>
+      <edge id="174" source="1" target="157"></edge>
+      <edge id="175" source="110" target="66"></edge>
+      <edge id="176" source="94" target="158"></edge>
+      <edge id="177" source="159" target="1"></edge>
+      <edge id="178" source="12" target="65"></edge>
+      <edge id="179" source="160" target="161"></edge>
+      <edge id="180" source="8" target="107"></edge>
+      <edge id="181" source="4" target="162"></edge>
+      <edge id="182" source="109" target="119"></edge>
+      <edge id="183" source="103" target="107"></edge>
+      <edge id="184" source="62" target="3"></edge>
+      <edge id="185" source="163" target="117"></edge>
+      <edge id="186" source="12" target="73"></edge>
+      <edge id="187" source="164" target="165"></edge>
+      <edge id="188" source="166" target="167"></edge>
+      <edge id="189" source="168" target="110"></edge>
+      <edge id="190" source="169" target="57"></edge>
+      <edge id="191" source="144" target="170"></edge>
+      <edge id="192" source="15" target="171"></edge>
+      <edge id="193" source="73" target="153"></edge>
+      <edge id="194" source="95" target="172"></edge>
+      <edge id="195" source="89" target="0"></edge>
+      <edge id="196" source="168" target="107"></edge>
+      <edge id="197" source="155" target="1"></edge>
+      <edge id="198" source="58" target="116"></edge>
+      <edge id="199" source="173" target="120"></edge>
+      <edge id="200" source="117" target="174"></edge>
+      <edge id="201" source="175" target="3"></edge>
+      <edge id="202" source="163" target="21"></edge>
+      <edge id="203" source="94" target="3"></edge>
+      <edge id="204" source="2" target="135"></edge>
+      <edge id="205" source="9" target="176"></edge>
+      <edge id="206" source="98" target="177"></edge>
+      <edge id="207" source="101" target="178"></edge>
+      <edge id="208" source="12" target="179"></edge>
+      <edge id="209" source="180" target="123"></edge>
+      <edge id="210" source="12" target="181"></edge>
+      <edge id="211" source="182" target="2"></edge>
+      <edge id="212" source="12" target="183"></edge>
+      <edge id="213" source="184" target="95"></edge>
+      <edge id="214" source="29" target="185"></edge>
+      <edge id="215" source="186" target="1"></edge>
+      <edge id="216" source="187" target="188"></edge>
+      <edge id="217" source="149" target="3"></edge>
+      <edge id="218" source="21" target="189"></edge>
+      <edge id="219" source="149" target="190"></edge>
+      <edge id="220" source="57" target="191"></edge>
+      <edge id="221" source="172" target="192"></edge>
+      <edge id="222" source="193" target="1"></edge>
+      <edge id="223" source="194" target="195"></edge>
+      <edge id="224" source="196" target="197"></edge>
+      <edge id="225" source="198" target="199"></edge>
+      <edge id="226" source="200" target="109"></edge>
+      <edge id="227" source="201" target="202"></edge>
+      <edge id="228" source="117" target="188"></edge>
+      <edge id="229" source="1" target="203"></edge>
+      <edge id="230" source="3" target="204"></edge>
+      <edge id="231" source="205" target="206"></edge>
+      <edge id="232" source="207" target="5"></edge>
+      <edge id="233" source="123" target="191"></edge>
+      <edge id="234" source="208" target="9"></edge>
+      <edge id="235" source="12" target="62"></edge>
+      <edge id="236" source="209" target="3"></edge>
+      <edge id="237" source="63" target="94"></edge>
+      <edge id="238" source="57" target="184"></edge>
+      <edge id="239" source="182" target="32"></edge>
+      <edge id="240" source="210" target="3"></edge>
+      <edge id="241" source="155" target="137"></edge>
+      <edge id="242" source="28" target="65"></edge>
+      <edge id="243" source="104" target="58"></edge>
+      <edge id="244" source="128" target="211"></edge>
+      <edge id="245" source="101" target="28"></edge>
+      <edge id="246" source="182" target="13"></edge>
+      <edge id="247" source="21" target="212"></edge>
+      <edge id="248" source="5" target="213"></edge>
+      <edge id="249" source="9" target="214"></edge>
+      <edge id="250" source="91" target="117"></edge>
+      <edge id="251" source="215" target="216"></edge>
+      <edge id="252" source="52" target="184"></edge>
+      <edge id="253" source="217" target="65"></edge>
+      <edge id="254" source="218" target="219"></edge>
+      <edge id="255" source="6" target="220"></edge>
+      <edge id="256" source="86" target="65"></edge>
+      <edge id="257" source="95" target="220"></edge>
+      <edge id="258" source="52" target="12"></edge>
+      <edge id="259" source="221" target="222"></edge>
+      <edge id="260" source="57" target="223"></edge>
+      <edge id="261" source="1" target="29"></edge>
+      <edge id="262" source="178" target="149"></edge>
+      <edge id="263" source="113" target="171"></edge>
+      <edge id="264" source="5" target="224"></edge>
+      <edge id="265" source="117" target="74"></edge>
+      <edge id="266" source="225" target="226"></edge>
+      <edge id="267" source="12" target="227"></edge>
+      <edge id="268" source="75" target="215"></edge>
+      <edge id="269" source="228" target="104"></edge>
+      <edge id="270" source="29" target="5"></edge>
+      <edge id="271" source="8" target="229"></edge>
+      <edge id="272" source="98" target="3"></edge>
+      <edge id="273" source="230" target="231"></edge>
+      <edge id="274" source="73" target="232"></edge>
+      <edge id="275" source="233" target="140"></edge>
+      <edge id="276" source="1" target="52"></edge>
+      <edge id="277" source="142" target="234"></edge>
+      <edge id="278" source="21" target="151"></edge>
+      <edge id="279" source="235" target="58"></edge>
+      <edge id="280" source="117" target="141"></edge>
+      <edge id="281" source="236" target="101"></edge>
+      <edge id="282" source="73" target="1"></edge>
+      <edge id="283" source="149" target="202"></edge>
+      <edge id="284" source="117" target="212"></edge>
+      <edge id="285" source="53" target="237"></edge>
+      <edge id="286" source="21" target="238"></edge>
+      <edge id="287" source="239" target="1"></edge>
+      <edge id="288" source="5" target="240"></edge>
+      <edge id="289" source="52" target="5"></edge>
+      <edge id="290" source="241" target="242"></edge>
+      <edge id="291" source="59" target="66"></edge>
+      <edge id="292" source="3" target="243"></edge>
+      <edge id="293" source="28" target="52"></edge>
+      <edge id="294" source="197" target="75"></edge>
+      <edge id="295" source="244" target="5"></edge>
+      <edge id="296" source="123" target="137"></edge>
+      <edge id="297" source="78" target="66"></edge>
+      <edge id="298" source="1" target="245"></edge>
+      <edge id="299" source="17" target="113"></edge>
+      <edge id="300" source="155" target="197"></edge>
+      <edge id="301" source="137" target="246"></edge>
+      <edge id="302" source="113" target="19"></edge>
+      <edge id="303" source="247" target="190"></edge>
+      <edge id="304" source="248" target="113"></edge>
+      <edge id="305" source="249" target="185"></edge>
+      <edge id="306" source="12" target="250"></edge>
+      <edge id="307" source="128" target="251"></edge>
+      <edge id="308" source="111" target="252"></edge>
+      <edge id="309" source="128" target="151"></edge>
+      <edge id="310" source="253" target="9"></edge>
+      <edge id="311" source="29" target="254"></edge>
+      <edge id="312" source="75" target="255"></edge>
+      <edge id="313" source="256" target="12"></edge>
+      <edge id="314" source="5" target="62"></edge>
+    </edges>
+  </graph>
+</gexf>

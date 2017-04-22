@@ -1,0 +1,495 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="23" label="literary critics">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="380.50806" y="310.71274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="american critics">
+        <viz:size value="94.78058"></viz:size>
+        <viz:position x="-132.78589" y="-105.67571"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="film critics">
+        <viz:size value="93.568924"></viz:size>
+        <viz:position x="-849.6899" y="372.81894"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="art critics">
+        <viz:size value="85.55339"></viz:size>
+        <viz:position x="-36.420395" y="716.63635"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="music critics">
+        <viz:size value="83.968925"></viz:size>
+        <viz:position x="-835.32904" y="-456.10345"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="english critics">
+        <viz:size value="78.5631"></viz:size>
+        <viz:position x="-386.81616" y="-219.4478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="women critics">
+        <viz:size value="72.41165"></viz:size>
+        <viz:position x="-531.562" y="490.88477"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="british critics">
+        <viz:size value="71.945625"></viz:size>
+        <viz:position x="203.13908" y="1183.5927"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="critics of islam">
+        <viz:size value="70.54757"></viz:size>
+        <viz:position x="581.58154" y="-447.13416"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="theatre critics">
+        <viz:size value="66.91261"></viz:size>
+        <viz:position x="-1179.2784" y="-92.972404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="norwegian critics">
+        <viz:size value="64.39612"></viz:size>
+        <viz:position x="-1132.9891" y="-340.78088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="social critics">
+        <viz:size value="62.252422"></viz:size>
+        <viz:position x="-185.4874" y="-654.0998"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="critics of feminism">
+        <viz:size value="60.667957"></viz:size>
+        <viz:position x="874.5402" y="-200.56299"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="critics of judaism">
+        <viz:size value="60.295143"></viz:size>
+        <viz:position x="383.5927" y="-804.8164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="critics of religions">
+        <viz:size value="60.108734"></viz:size>
+        <viz:position x="74.56791" y="-653.0772"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="wine critics">
+        <viz:size value="59.363106"></viz:size>
+        <viz:position x="1059.7928" y="566.4591"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="critics of the catholic church">
+        <viz:size value="58.52427"></viz:size>
+        <viz:position x="-450.59262" y="-1095.5845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="science fiction critics">
+        <viz:size value="57.778637"></viz:size>
+        <viz:position x="-159.87886" y="-384.57068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="spanish critics">
+        <viz:size value="56.19417"></viz:size>
+        <viz:position x="-1009.1824" y="665.47406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="critics of the european union">
+        <viz:size value="55.914562"></viz:size>
+        <viz:position x="681.4848" y="53.447075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="critics employed by the new york times">
+        <viz:size value="53.95728"></viz:size>
+        <viz:position x="-341.18582" y="309.29703"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="video game critics">
+        <viz:size value="53.398056"></viz:size>
+        <viz:position x="138.18118" y="222.12923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="restaurant critics">
+        <viz:size value="53.118443"></viz:size>
+        <viz:position x="-638.79694" y="219.2692"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="critics of scientology">
+        <viz:size value="52.186405"></viz:size>
+        <viz:position x="932.146" y="-740.6421"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="cultural critics">
+        <viz:size value="51.254368"></viz:size>
+        <viz:position x="131.64774" y="-58.250435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="critics of alternative medicine">
+        <viz:size value="50.974754"></viz:size>
+        <viz:position x="-410.42773" y="-830.09717"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="comics critics">
+        <viz:size value="50.41553"></viz:size>
+        <viz:position x="-682.35443" y="-975.572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="television critics">
+        <viz:size value="49.94951"></viz:size>
+        <viz:position x="-924.50574" y="100.33855"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="dutch critics">
+        <viz:size value="48.271843"></viz:size>
+        <viz:position x="336.76907" y="-250.37344"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="opera critics">
+        <viz:size value="48.085434"></viz:size>
+        <viz:position x="-659.12866" y="-46.67245"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="critics of mormonism">
+        <viz:size value="48.085434"></viz:size>
+        <viz:position x="-200.9185" y="-1181.706"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="pakistani critics">
+        <viz:size value="47.80582"></viz:size>
+        <viz:position x="1170.9633" y="289.6478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="critics of atheism">
+        <viz:size value="47.80582"></viz:size>
+        <viz:position x="146.4983" y="-904.5481"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="polish critics">
+        <viz:size value="46.966988"></viz:size>
+        <viz:position x="284.97098" y="813.83093"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="critics associations">
+        <viz:size value="46.966988"></viz:size>
+        <viz:position x="-748.3918" y="627.2338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="critics of postmodernism">
+        <viz:size value="46.128155"></viz:size>
+        <viz:position x="398.79303" y="35.96048"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="urdu critics">
+        <viz:size value="45.56893"></viz:size>
+        <viz:position x="1204.6486" y="7.0530396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="irish critics">
+        <viz:size value="45.289318"></viz:size>
+        <viz:position x="640.4936" y="315.14743"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="photography critics">
+        <viz:size value="44.9165"></viz:size>
+        <viz:position x="423.28375" y="1074.0531"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="israeli critics">
+        <viz:size value="43.984463"></viz:size>
+        <viz:position x="-67.223045" y="435.47705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="critics of multiculturalism">
+        <viz:size value="42.866016"></viz:size>
+        <viz:position x="597.2639" y="-190.20818"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="swedish critics">
+        <viz:size value="42.866016"></viz:size>
+        <viz:position x="-504.2927" y="793.57227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="argentine critics">
+        <viz:size value="42.493202"></viz:size>
+        <viz:position x="-580.82404" y="1042.443"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="dance critics">
+        <viz:size value="42.493202"></viz:size>
+        <viz:position x="-618.282" y="-325.65677"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="critics of creationism">
+        <viz:size value="41.654366"></viz:size>
+        <viz:position x="-420.78928" y="-531.2281"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="critics of christianity">
+        <viz:size value="41.654366"></viz:size>
+        <viz:position x="323.03247" y="-541.59845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="austrian critics">
+        <viz:size value="40.442715"></viz:size>
+        <viz:position x="947.2258" y="64.52976"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="the new yorker critics">
+        <viz:size value="39.9767"></viz:size>
+        <viz:position x="-116.183334" y="156.12328"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="uruguayan critics">
+        <viz:size value="38.48543"></viz:size>
+        <viz:position x="-1114.1879" y="416.445"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="hungarian critics">
+        <viz:size value="37.36699"></viz:size>
+        <viz:position x="-241.50668" y="907.23236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="anime and manga critics">
+        <viz:size value="36.807766"></viz:size>
+        <viz:position x="-880.8022" y="-804.22107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="critics of work and the work ethic">
+        <viz:size value="36.807766"></viz:size>
+        <viz:position x="-645.6709" y="-670.55817"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="critics of the unification church">
+        <viz:size value="34.29126"></viz:size>
+        <viz:position x="516.02057" y="-1046.3113"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="slovenian critics">
+        <viz:size value="34.29126"></viz:size>
+        <viz:position x="-334.17133" y="1147.2739"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="radio critics">
+        <viz:size value="32.8"></viz:size>
+        <viz:position x="-887.54724" y="-174.30106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="rock critics">
+        <viz:size value="32.8"></viz:size>
+        <viz:position x="-396.77127" y="50.129097"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="architecture critics">
+        <viz:size value="32.8"></viz:size>
+        <viz:position x="55.75345" y="948.63196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="egyptian critics">
+        <viz:size value="26.928154"></viz:size>
+        <viz:position x="-1183.4934" y="166.94632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="nigerian critics">
+        <viz:size value="25.623299"></viz:size>
+        <viz:position x="-293.6105" y="611.0774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="critics of marxism">
+        <viz:size value="25.623299"></viz:size>
+        <viz:position x="95.823044" y="-357.13556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="critics of classical liberalism">
+        <viz:size value="24.225243"></viz:size>
+        <viz:position x="1094.8986" y="-505.34125"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="critics of animal rights">
+        <viz:size value="24.225243"></viz:size>
+        <viz:position x="904.7139" y="332.02835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="critics of arab nationalism">
+        <viz:size value="24.225243"></viz:size>
+        <viz:position x="840.1067" y="-470.8313"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="venezuelan critics">
+        <viz:size value="22.640776"></viz:size>
+        <viz:position x="-1049.4875" y="-594.92566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="critics of jehovah s witnesses">
+        <viz:size value="20.869902"></viz:size>
+        <viz:position x="753.83325" y="-943.391"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="chilean critics">
+        <viz:size value="20.869902"></viz:size>
+        <viz:position x="757.06946" y="575.4948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="kosovan critics">
+        <viz:size value="18.726212"></viz:size>
+        <viz:position x="185.40295" y="540.2205"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="critics of christian science">
+        <viz:size value="16.302912"></viz:size>
+        <viz:position x="626.9373" y="-707.8006"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="ecuadorian critics">
+        <viz:size value="16.302912"></viz:size>
+        <viz:position x="459.03848" y="561.95044"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="critics of falun gong">
+        <viz:size value="16.302912"></viz:size>
+        <viz:position x="51.612896" y="-1171.8994"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="critics of islamism">
+        <viz:size value="16.302912"></viz:size>
+        <viz:position x="1145.2942" y="-249.55888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="telugu critics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="893.20874" y="803.4631"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="critics of the family international">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="302.1475" y="-1161.3129"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="sanskrit critics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="686.1147" y="1008.07196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="namibian critics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-806.606" y="888.1107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="critics employed by politiken">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="563.15704" y="791.6601"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="critics of political correctness">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-138.13785" y="-919.89484"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="ballet critics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-70.948166" y="1194.0006"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="69.0"></edge>
+      <edge id="1" source="2" target="3" weight="59.0"></edge>
+      <edge id="2" source="2" target="4" weight="56.0"></edge>
+      <edge id="3" source="5" target="6" weight="37.0"></edge>
+      <edge id="4" source="7" target="8" weight="23.0"></edge>
+      <edge id="5" source="3" target="9" weight="22.0"></edge>
+      <edge id="6" source="1" target="2" weight="17.0"></edge>
+      <edge id="7" source="10" target="0" weight="17.0"></edge>
+      <edge id="8" source="11" target="12" weight="13.0"></edge>
+      <edge id="9" source="13" target="0" weight="12.0"></edge>
+      <edge id="10" source="0" target="14" weight="10.0"></edge>
+      <edge id="11" source="15" target="16" weight="9.0"></edge>
+      <edge id="12" source="17" target="12" weight="9.0"></edge>
+      <edge id="13" source="18" target="0" weight="8.0"></edge>
+      <edge id="14" source="0" target="19" weight="8.0"></edge>
+      <edge id="15" source="20" target="1" weight="8.0"></edge>
+      <edge id="16" source="21" target="4" weight="8.0"></edge>
+      <edge id="17" source="22" target="12" weight="7.0"></edge>
+      <edge id="18" source="19" target="23" weight="7.0"></edge>
+      <edge id="19" source="24" target="25" weight="7.0"></edge>
+      <edge id="20" source="1" target="5" weight="7.0"></edge>
+      <edge id="21" source="14" target="23" weight="7.0"></edge>
+      <edge id="22" source="3" target="26" weight="6.0"></edge>
+      <edge id="23" source="15" target="24" weight="6.0"></edge>
+      <edge id="24" source="27" target="6" weight="5.0"></edge>
+      <edge id="25" source="15" target="12" weight="5.0"></edge>
+      <edge id="26" source="1" target="27" weight="5.0"></edge>
+      <edge id="27" source="28" target="17" weight="5.0"></edge>
+      <edge id="28" source="11" target="28" weight="5.0"></edge>
+      <edge id="29" source="29" target="2" weight="4.0"></edge>
+      <edge id="30" source="30" target="31" weight="4.0"></edge>
+      <edge id="31" source="31" target="25" weight="4.0"></edge>
+      <edge id="32" source="10" target="23" weight="4.0"></edge>
+      <edge id="33" source="32" target="23" weight="4.0"></edge>
+      <edge id="34" source="33" target="34" weight="4.0"></edge>
+      <edge id="35" source="28" target="35" weight="4.0"></edge>
+      <edge id="36" source="23" target="36" weight="4.0"></edge>
+      <edge id="37" source="11" target="19" weight="4.0"></edge>
+      <edge id="38" source="37" target="38" weight="4.0"></edge>
+      <edge id="39" source="0" target="39" weight="4.0"></edge>
+      <edge id="40" source="2" target="40" weight="3.0"></edge>
+      <edge id="41" source="10" target="2" weight="3.0"></edge>
+      <edge id="42" source="23" target="41" weight="3.0"></edge>
+      <edge id="43" source="42" target="4" weight="3.0"></edge>
+      <edge id="44" source="43" target="10" weight="3.0"></edge>
+      <edge id="45" source="33" target="44" weight="3.0"></edge>
+      <edge id="46" source="45" target="23" weight="3.0"></edge>
+      <edge id="47" source="12" target="46" weight="3.0"></edge>
+      <edge id="48" source="4" target="47" weight="3.0"></edge>
+      <edge id="49" source="48" target="49" weight="2.0"></edge>
+      <edge id="50" source="50" target="51" weight="2.0"></edge>
+      <edge id="51" source="51" target="3" weight="2.0"></edge>
+      <edge id="52" source="39" target="43" weight="2.0"></edge>
+      <edge id="53" source="4" target="52" weight="2.0"></edge>
+      <edge id="54" source="26" target="53" weight="2.0"></edge>
+      <edge id="55" source="24" target="46"></edge>
+      <edge id="56" source="1" target="52"></edge>
+      <edge id="57" source="33" target="54"></edge>
+      <edge id="58" source="55" target="24"></edge>
+      <edge id="59" source="24" target="56"></edge>
+      <edge id="60" source="57" target="23"></edge>
+      <edge id="61" source="58" target="12"></edge>
+      <edge id="62" source="59" target="23"></edge>
+      <edge id="63" source="60" target="4"></edge>
+      <edge id="64" source="61" target="24"></edge>
+      <edge id="65" source="28" target="46"></edge>
+      <edge id="66" source="62" target="53"></edge>
+      <edge id="67" source="33" target="63"></edge>
+      <edge id="68" source="64" target="12"></edge>
+      <edge id="69" source="53" target="43"></edge>
+      <edge id="70" source="33" target="55"></edge>
+      <edge id="71" source="14" target="46"></edge>
+      <edge id="72" source="65" target="23"></edge>
+      <edge id="73" source="4" target="66"></edge>
+      <edge id="74" source="39" target="2"></edge>
+      <edge id="75" source="3" target="60"></edge>
+      <edge id="76" source="67" target="3"></edge>
+      <edge id="77" source="0" target="53"></edge>
+      <edge id="78" source="19" target="68"></edge>
+      <edge id="79" source="69" target="12"></edge>
+      <edge id="80" source="70" target="52"></edge>
+      <edge id="81" source="71" target="53"></edge>
+      <edge id="82" source="72" target="68"></edge>
+      <edge id="83" source="53" target="20"></edge>
+      <edge id="84" source="73" target="6"></edge>
+      <edge id="85" source="74" target="70"></edge>
+      <edge id="86" source="75" target="2"></edge>
+      <edge id="87" source="19" target="46"></edge>
+      <edge id="88" source="76" target="77"></edge>
+      <edge id="89" source="31" target="46"></edge>
+      <edge id="90" source="33" target="61"></edge>
+      <edge id="91" source="38" target="46"></edge>
+    </edges>
+  </graph>
+</gexf>

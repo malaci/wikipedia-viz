@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="reality television">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="325.62744" y="210.11642"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="virtual reality">
+        <viz:size value="69.83091"></viz:size>
+        <viz:position x="-663.0003" y="-373.69928"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="reality show winners">
+        <viz:size value="58.763447"></viz:size>
+        <viz:position x="359.14087" y="-178.79231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="augmented reality">
+        <viz:size value="52.12297"></viz:size>
+        <viz:position x="-329.31427" y="-222.8974"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="mixed reality">
+        <viz:size value="43.18702"></viz:size>
+        <viz:position x="-13.9433155" y="-754.7634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="reality cooking competition winners">
+        <viz:size value="42.285225"></viz:size>
+        <viz:position x="31.16946" y="-393.65482"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="alternate reality">
+        <viz:size value="41.79334"></viz:size>
+        <viz:position x="-370.5772" y="-635.07764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="reality dancing competition contestants">
+        <viz:size value="33.84116"></viz:size>
+        <viz:position x="-4.9388866" y="-0.2908092"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="consensus reality">
+        <viz:size value="32.857384"></viz:size>
+        <viz:position x="-659.552" y="382.23352"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="primetime emmy award for outstanding reality program winners">
+        <viz:size value="25.151152"></viz:size>
+        <viz:position x="657.2935" y="376.841"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="reality web series">
+        <viz:size value="21.789923"></viz:size>
+        <viz:position x="735.3034" y="2.928818"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="reality modeling competition winners">
+        <viz:size value="20.396242"></viz:size>
+        <viz:position x="365.27325" y="-638.0676"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="reality cooking competition contestants">
+        <viz:size value="18.838598"></viz:size>
+        <viz:position x="-365.65775" y="634.2169"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="reality by type">
+        <viz:size value="18.838598"></viz:size>
+        <viz:position x="-727.08624" y="-2.251543"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="reality dancing competition winners">
+        <viz:size value="16.95303"></viz:size>
+        <viz:position x="5.9247293" y="761.5733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="reality entertainment films">
+        <viz:size value="16.95303"></viz:size>
+        <viz:position x="-19.49704" y="399.45142"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="girls generation reality shows">
+        <viz:size value="14.821519"></viz:size>
+        <viz:position x="368.72375" y="633.45404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="reality modeling competition participants">
+        <viz:size value="8.75491"></viz:size>
+        <viz:position x="657.379" y="-383.9323"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="f reality shows">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-352.26855" y="182.61159"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="99.0"></edge>
+      <edge id="1" source="1" target="2" weight="24.0"></edge>
+      <edge id="2" source="3" target="4" weight="16.0"></edge>
+      <edge id="3" source="5" target="3" weight="15.0"></edge>
+      <edge id="4" source="1" target="6" weight="9.0"></edge>
+      <edge id="5" source="1" target="7" weight="5.0"></edge>
+      <edge id="6" source="1" target="8" weight="5.0"></edge>
+      <edge id="7" source="1" target="9" weight="4.0"></edge>
+      <edge id="8" source="10" target="5" weight="4.0"></edge>
+      <edge id="9" source="11" target="1" weight="3.0"></edge>
+      <edge id="10" source="12" target="5" weight="3.0"></edge>
+      <edge id="11" source="1" target="13" weight="3.0"></edge>
+      <edge id="12" source="14" target="1" weight="2.0"></edge>
+      <edge id="13" source="15" target="1" weight="2.0"></edge>
+      <edge id="14" source="4" target="12" weight="2.0"></edge>
+      <edge id="15" source="1" target="16"></edge>
+      <edge id="16" source="12" target="17"></edge>
+      <edge id="17" source="1" target="18"></edge>
+    </edges>
+  </graph>
+</gexf>

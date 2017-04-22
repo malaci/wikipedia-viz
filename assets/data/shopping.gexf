@@ -1,0 +1,634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="shopping malls">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="130.7359" y="57.927853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="shopping districts and streets">
+        <viz:size value="71.17494"></viz:size>
+        <viz:position x="1321.7565" y="-70.745316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="shopping centres in hong kong">
+        <viz:size value="49.36815"></viz:size>
+        <viz:position x="-144.85748" y="122.336685"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="shopping websites">
+        <viz:size value="48.031334"></viz:size>
+        <viz:position x="-1204.723" y="-463.17145"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="shopping networks">
+        <viz:size value="47.195824"></viz:size>
+        <viz:position x="-1086.9481" y="718.81494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="shopping property management firms">
+        <viz:size value="45.608356"></viz:size>
+        <viz:position x="-1270.1833" y="-234.01558"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="shopping centres in melbourne">
+        <viz:size value="41.514362"></viz:size>
+        <viz:position x="-428.755" y="180.65732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="shopping centres in sydney">
+        <viz:size value="40.678852"></viz:size>
+        <viz:position x="-724.5324" y="439.10654"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="shopping streets in london">
+        <viz:size value="40.678852"></viz:size>
+        <viz:position x="-920.08594" y="933.1483"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="shopping centres in london">
+        <viz:size value="39.843346"></viz:size>
+        <viz:position x="-272.81195" y="620.4516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="shopping centres in wales">
+        <viz:size value="35.331596"></viz:size>
+        <viz:position x="-217.75557" y="363.3387"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="shopping centres in ireland">
+        <viz:size value="34.412533"></viz:size>
+        <viz:position x="-524.65393" y="660.7425"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="shopping centres in scotland">
+        <viz:size value="34.412533"></viz:size>
+        <viz:position x="-357.95758" y="-1246.8553"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="shopping centres in brisbane">
+        <viz:size value="33.409924"></viz:size>
+        <viz:position x="-687.6617" y="204.1314"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="shopping in cardiff">
+        <viz:size value="31.154049"></viz:size>
+        <viz:position x="-470.74356" y="419.93134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="shopping centres in australia">
+        <viz:size value="31.154049"></viz:size>
+        <viz:position x="383.9976" y="-1.3964727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="shopping centres in sweden">
+        <viz:size value="30.485643"></viz:size>
+        <viz:position x="-21.353117" y="556.9357"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="shopping centres in the auckland region">
+        <viz:size value="30.485643"></viz:size>
+        <viz:position x="230.38264" y="507.74564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="shopping centres in county dublin">
+        <viz:size value="30.485643"></viz:size>
+        <viz:position x="309.51453" y="-458.70135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="shopping centres in norway">
+        <viz:size value="30.485643"></viz:size>
+        <viz:position x="635.1725" y="-65.91118"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="shopping in taipei">
+        <viz:size value="29.817236"></viz:size>
+        <viz:position x="1071.0073" y="65.03297"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="shopping in chennai">
+        <viz:size value="29.065277"></viz:size>
+        <viz:position x="567.816" y="-522.338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="shopping centres in adelaide">
+        <viz:size value="28.31332"></viz:size>
+        <viz:position x="-300.77667" y="-68.59016"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="shopping centres in queensland">
+        <viz:size value="28.31332"></viz:size>
+        <viz:position x="-1229.1274" y="484.12802"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="shopping centres in manchester">
+        <viz:size value="28.31332"></viz:size>
+        <viz:position x="-162.402" y="1316.6013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="shopping centres in the west midlands">
+        <viz:size value="27.477808"></viz:size>
+        <viz:position x="304.17123" y="261.524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="shopping centers in chicago, illinois">
+        <viz:size value="27.477808"></viz:size>
+        <viz:position x="883.52045" y="-120.67413"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="shopping in croydon">
+        <viz:size value="26.558748"></viz:size>
+        <viz:position x="-668.3947" y="851.37445"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="shopping centres in new zealand">
+        <viz:size value="26.558748"></viz:size>
+        <viz:position x="475.1377" y="-264.72076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="shopping centres in denmark">
+        <viz:size value="24.553526"></viz:size>
+        <viz:position x="252.4571" y="-937.9526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="shopping arcades in australia">
+        <viz:size value="24.553526"></viz:size>
+        <viz:position x="-993.8314" y="452.71634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="shopping centres in johannesburg">
+        <viz:size value="23.383812"></viz:size>
+        <viz:position x="-47.918594" y="813.0838"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="shopping centres on the gold coast, queensland">
+        <viz:size value="23.383812"></viz:size>
+        <viz:position x="217.76688" y="-198.97128"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="shopping centres in france">
+        <viz:size value="23.383812"></viz:size>
+        <viz:position x="-946.3941" y="218.95407"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="shopping centres in kent">
+        <viz:size value="23.383812"></viz:size>
+        <viz:position x="804.9019" y="-964.52057"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="shopping arcades in england">
+        <viz:size value="23.383812"></viz:size>
+        <viz:position x="-418.6125" y="1226.6942"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="shopping centers in brazil">
+        <viz:size value="22.13055"></viz:size>
+        <viz:position x="-818.54517" y="658.3373"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="shopping centres in the united kingdom">
+        <viz:size value="22.13055"></viz:size>
+        <viz:position x="-1309.1436" y="7.508236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="shopping centres in leeds">
+        <viz:size value="22.13055"></viz:size>
+        <viz:position x="-464.41168" y="991.5638"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="shopping centres in hampshire">
+        <viz:size value="22.13055"></viz:size>
+        <viz:position x="151.30898" y="-659.1001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="shopping in newport, wales">
+        <viz:size value="20.710184"></viz:size>
+        <viz:position x="-768.1771" y="-1001.4415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="shopping centres in the australian capital territory">
+        <viz:size value="20.710184"></viz:size>
+        <viz:position x="191.62529" y="763.5657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="shopping centres in tasmania">
+        <viz:size value="20.710184"></viz:size>
+        <viz:position x="492.48364" y="461.43845"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="shopping streets in england">
+        <viz:size value="20.710184"></viz:size>
+        <viz:position x="381.3388" y="-1227.8715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="shopping arcades in the united states">
+        <viz:size value="19.122717"></viz:size>
+        <viz:position x="43.030815" y="305.7431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="shopping centers in portland, oregon">
+        <viz:size value="19.122717"></viz:size>
+        <viz:position x="-207.13663" y="-327.06662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="shopping centres in tyne and wear">
+        <viz:size value="19.122717"></viz:size>
+        <viz:position x="594.32056" y="890.4107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="shopping streets in copenhagen">
+        <viz:size value="19.122717"></viz:size>
+        <viz:position x="1269.0242" y="-405.7023"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="shopping centres in south yorkshire">
+        <viz:size value="17.201044"></viz:size>
+        <viz:position x="553.57574" y="195.68423"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="shopping centres in victoria">
+        <viz:size value="17.201044"></viz:size>
+        <viz:position x="699.56024" y="668.3899"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="shopping streets in reading, berkshire">
+        <viz:size value="17.201044"></viz:size>
+        <viz:position x="-105.60885" y="-1297.2542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="shopping centres in estonia">
+        <viz:size value="17.201044"></viz:size>
+        <viz:position x="-460.92993" y="-283.2309"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="shopping streets in cambridge">
+        <viz:size value="17.201044"></viz:size>
+        <viz:position x="642.8615" y="-1161.6216"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="shopping centres in edinburgh">
+        <viz:size value="17.201044"></viz:size>
+        <viz:position x="-901.29456" y="-474.78146"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="shopping centres in oxford">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="431.49704" y="701.0805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="shopping centers in ukraine">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="-109.27231" y="-575.485"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="shopping centres in copenhagen">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="729.4072" y="388.55356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="shopping streets in wales">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="-969.8942" y="-882.05457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="shopping centres in leicestershire">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="-292.24768" y="855.3799"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="shopping centres in oslo">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="919.66376" y="844.121"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="bid shopping">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="-1246.5531" y="242.87582"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="shopping centres in liverpool">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="488.12842" y="-965.90106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="shopping centres in glasgow">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="54.997833" y="-391.0156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="shopping centres in italy">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="60.865585" y="-1066.1233"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="shopping centres in county durham">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="-450.90186" y="-957.9899"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="shopping centres in cambridgeshire">
+        <viz:size value="15.028721"></viz:size>
+        <viz:position x="-696.8898" y="1124.2303"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="shopping centres in aberdeen">
+        <viz:size value="12.355092"></viz:size>
+        <viz:position x="-198.96988" y="-1025.7821"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="shopping centres in helsinki">
+        <viz:size value="12.355092"></viz:size>
+        <viz:position x="829.1201" y="-596.83496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="shopping centres in townsville">
+        <viz:size value="12.355092"></viz:size>
+        <viz:position x="730.1965" y="-331.28473"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="shopping centres in north yorkshire">
+        <viz:size value="12.355092"></viz:size>
+        <viz:position x="1105.3933" y="691.20264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="shopping centres on the sunshine coast, queensland">
+        <viz:size value="12.355092"></viz:size>
+        <viz:position x="395.11298" y="-716.93787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="shopping centres in somerset">
+        <viz:size value="12.355092"></viz:size>
+        <viz:position x="-158.8701" y="1071.5221"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="shopping centers in houston, texas">
+        <viz:size value="12.355092"></viz:size>
+        <viz:position x="-783.4738" y="-698.197"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="shopping centres in shropshire">
+        <viz:size value="12.355092"></viz:size>
+        <viz:position x="350.8221" y="976.44135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="shopping centres in dorset">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="91.41169" y="1263.1312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="shopping centres in darwin, northern territory">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="1269.708" y="207.26804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="shopping centres in nottinghamshire">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="-553.6583" y="-749.9052"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="shopping centres in gauteng">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="102.35944" y="1023.02997"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="shopping centres in surrey">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="914.9563" y="553.0101"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="shopping centres in berkshire">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="-375.11646" y="-535.4269"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="shopping centres in hertfordshire">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="-42.507694" y="-130.6359"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="online shopping">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="-1100.2959" y="-673.207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="shopping centres in oxfordshire">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="655.40704" y="-770.8277"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="shopping centres in buckinghamshire">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="808.5608" y="134.93571"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="shopping centres in durban">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="-554.7271" y="-41.77259"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="shopping arcades in italy">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="152.76482" y="-1300.0325"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="shopping centres in norfolk">
+        <viz:size value="8.845953"></viz:size>
+        <viz:position x="1202.8347" y="452.41827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="shopping arcades in france">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1121.7223" y="-195.55539"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="shopping centres in south gloucestershire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-990.9767" y="-247.87157"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="shopping centres in wiltshire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-805.49756" y="-25.264103"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="shopping centres in worcestershire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-727.4554" y="-263.32336"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="shopping centres in derbyshire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="997.86163" y="310.78204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="shopping centres in england">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1050.1464" y="-2.3474662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="shopping centres in east sussex">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="981.4567" y="-815.4632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="shopping centres in dundee">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-599.61206" y="-1167.3958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="shopping arcades in canada">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-276.46823" y="-769.94135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="shopping centres in cape town">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="979.55896" y="-393.24933"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="shopping centres in lempaala">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="328.33334" y="1236.098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="shopping centres in cumbria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="787.46674" y="1033.2288"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="shopping centres in stirling">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-18.78425" y="-828.4531"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="shopping centres in bedfordshire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="558.5937" y="1155.7649"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="shopping centres in essex">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1108.6217" y="-616.47687"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="shopping centres in bristol">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-626.2473" y="-491.7017"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="39.0"></edge>
+      <edge id="1" source="2" target="1" weight="33.0"></edge>
+      <edge id="2" source="3" target="1" weight="26.0"></edge>
+      <edge id="3" source="1" target="4" weight="17.0"></edge>
+      <edge id="4" source="5" target="1" weight="16.0"></edge>
+      <edge id="5" source="1" target="6" weight="15.0"></edge>
+      <edge id="6" source="1" target="7" weight="12.0"></edge>
+      <edge id="7" source="8" target="1" weight="11.0"></edge>
+      <edge id="8" source="9" target="1" weight="9.0"></edge>
+      <edge id="9" source="10" target="1" weight="9.0"></edge>
+      <edge id="10" source="1" target="11" weight="8.0"></edge>
+      <edge id="11" source="12" target="1" weight="8.0"></edge>
+      <edge id="12" source="1" target="13" weight="8.0"></edge>
+      <edge id="13" source="14" target="1" weight="7.0"></edge>
+      <edge id="14" source="15" target="1" weight="7.0"></edge>
+      <edge id="15" source="16" target="1" weight="7.0"></edge>
+      <edge id="16" source="17" target="1" weight="6.0"></edge>
+      <edge id="17" source="1" target="18" weight="6.0"></edge>
+      <edge id="18" source="19" target="0" weight="6.0"></edge>
+      <edge id="19" source="20" target="1" weight="5.0"></edge>
+      <edge id="20" source="21" target="1" weight="5.0"></edge>
+      <edge id="21" source="1" target="22" weight="5.0"></edge>
+      <edge id="22" source="23" target="1" weight="5.0"></edge>
+      <edge id="23" source="1" target="24" weight="4.0"></edge>
+      <edge id="24" source="25" target="1" weight="4.0"></edge>
+      <edge id="25" source="1" target="26" weight="4.0"></edge>
+      <edge id="26" source="1" target="27" weight="4.0"></edge>
+      <edge id="27" source="28" target="29" weight="4.0"></edge>
+      <edge id="28" source="1" target="30" weight="4.0"></edge>
+      <edge id="29" source="31" target="1" weight="4.0"></edge>
+      <edge id="30" source="32" target="1" weight="4.0"></edge>
+      <edge id="31" source="33" target="1" weight="3.0"></edge>
+      <edge id="32" source="34" target="1" weight="3.0"></edge>
+      <edge id="33" source="1" target="35" weight="3.0"></edge>
+      <edge id="34" source="1" target="36" weight="3.0"></edge>
+      <edge id="35" source="37" target="38" weight="3.0"></edge>
+      <edge id="36" source="39" target="40" weight="3.0"></edge>
+      <edge id="37" source="1" target="41" weight="3.0"></edge>
+      <edge id="38" source="42" target="27" weight="3.0"></edge>
+      <edge id="39" source="1" target="43" weight="3.0"></edge>
+      <edge id="40" source="1" target="44" weight="3.0"></edge>
+      <edge id="41" source="1" target="45" weight="3.0"></edge>
+      <edge id="42" source="46" target="1" weight="3.0"></edge>
+      <edge id="43" source="1" target="47" weight="3.0"></edge>
+      <edge id="44" source="48" target="1" weight="3.0"></edge>
+      <edge id="45" source="49" target="50" weight="2.0"></edge>
+      <edge id="46" source="51" target="52" weight="2.0"></edge>
+      <edge id="47" source="53" target="40" weight="2.0"></edge>
+      <edge id="48" source="54" target="1" weight="2.0"></edge>
+      <edge id="49" source="1" target="55" weight="2.0"></edge>
+      <edge id="50" source="1" target="56" weight="2.0"></edge>
+      <edge id="51" source="1" target="49" weight="2.0"></edge>
+      <edge id="52" source="57" target="1" weight="2.0"></edge>
+      <edge id="53" source="58" target="1" weight="2.0"></edge>
+      <edge id="54" source="35" target="59" weight="2.0"></edge>
+      <edge id="55" source="60" target="61" weight="2.0"></edge>
+      <edge id="56" source="1" target="39" weight="2.0"></edge>
+      <edge id="57" source="1" target="62" weight="2.0"></edge>
+      <edge id="58" source="1" target="63" weight="2.0"></edge>
+      <edge id="59" source="1" target="64" weight="2.0"></edge>
+      <edge id="60" source="59" target="43" weight="2.0"></edge>
+      <edge id="61" source="1" target="65" weight="2.0"></edge>
+      <edge id="62" source="66" target="1" weight="2.0"></edge>
+      <edge id="63" source="1" target="67" weight="2.0"></edge>
+      <edge id="64" source="1" target="68" weight="2.0"></edge>
+      <edge id="65" source="1" target="69" weight="2.0"></edge>
+      <edge id="66" source="1" target="70"></edge>
+      <edge id="67" source="19" target="71"></edge>
+      <edge id="68" source="1" target="72"></edge>
+      <edge id="69" source="1" target="73"></edge>
+      <edge id="70" source="1" target="74"></edge>
+      <edge id="71" source="1" target="75"></edge>
+      <edge id="72" source="1" target="76"></edge>
+      <edge id="73" source="77" target="48"></edge>
+      <edge id="74" source="1" target="78"></edge>
+      <edge id="75" source="1" target="79"></edge>
+      <edge id="76" source="1" target="80"></edge>
+      <edge id="77" source="19" target="5"></edge>
+      <edge id="78" source="81" target="1"></edge>
+      <edge id="79" source="82" target="1"></edge>
+      <edge id="80" source="83" target="1"></edge>
+      <edge id="81" source="4" target="77"></edge>
+      <edge id="82" source="84" target="1"></edge>
+      <edge id="83" source="60" target="85"></edge>
+      <edge id="84" source="86" target="1"></edge>
+      <edge id="85" source="69" target="59"></edge>
+      <edge id="86" source="1" target="87"></edge>
+      <edge id="87" source="88" target="77"></edge>
+      <edge id="88" source="19" target="2"></edge>
+      <edge id="89" source="1" target="89"></edge>
+      <edge id="90" source="90" target="1"></edge>
+      <edge id="91" source="91" target="1"></edge>
+      <edge id="92" source="89" target="59"></edge>
+      <edge id="93" source="59" target="80"></edge>
+      <edge id="94" source="55" target="77"></edge>
+      <edge id="95" source="92" target="1"></edge>
+      <edge id="96" source="93" target="1"></edge>
+      <edge id="97" source="77" target="63"></edge>
+      <edge id="98" source="1" target="94"></edge>
+      <edge id="99" source="95" target="1"></edge>
+      <edge id="100" source="96" target="1"></edge>
+      <edge id="101" source="97" target="59"></edge>
+      <edge id="102" source="98" target="99"></edge>
+      <edge id="103" source="100" target="1"></edge>
+      <edge id="104" source="101" target="77"></edge>
+      <edge id="105" source="102" target="1"></edge>
+    </edges>
+  </graph>
+</gexf>

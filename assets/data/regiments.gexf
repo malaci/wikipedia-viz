@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="infantry regiments">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-359.78452" y="-44.02059"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="regiments of the british army">
+        <viz:size value="95.438225"></viz:size>
+        <viz:position x="-776.7838" y="259.40558"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="regiments of the united states army">
+        <viz:size value="87.83527"></viz:size>
+        <viz:position x="-1059.777" y="-46.67923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="cavalry regiments">
+        <viz:size value="82.76663"></viz:size>
+        <viz:position x="-96.912056" y="-289.53748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="artillery regiments">
+        <viz:size value="78.91447"></viz:size>
+        <viz:position x="-959.77216" y="-501.93744"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="regiments of south africa">
+        <viz:size value="76.58289"></viz:size>
+        <viz:position x="725.8851" y="631.85284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="regiments of world war i">
+        <viz:size value="76.27877"></viz:size>
+        <viz:position x="-825.3012" y="16.05339"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="british indian army regiments">
+        <viz:size value="74.65681"></viz:size>
+        <viz:position x="-21.006414" y="346.2291"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="ohio civil war regiments">
+        <viz:size value="74.555435"></viz:size>
+        <viz:position x="888.94495" y="-429.66586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="regiments of france">
+        <viz:size value="73.03484"></viz:size>
+        <viz:position x="-473.1759" y="1184.7554"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="illinois civil war regiments">
+        <viz:size value="70.70327"></viz:size>
+        <viz:position x="396.54248" y="-743.64154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="british colonial regiments">
+        <viz:size value="70.39916"></viz:size>
+        <viz:position x="262.9876" y="296.9348"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="new york civil war regiments">
+        <viz:size value="69.38543"></viz:size>
+        <viz:position x="-290.88788" y="735.33044"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="regiments of canada">
+        <viz:size value="68.57444"></viz:size>
+        <viz:position x="-1081.9392" y="724.95764"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="indiana civil war regiments">
+        <viz:size value="68.37169"></viz:size>
+        <viz:position x="132.12784" y="-1001.7239"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="virginia civil war regiments">
+        <viz:size value="67.45934"></viz:size>
+        <viz:position x="811.59015" y="-142.32632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="guards regiments">
+        <viz:size value="65.93875"></viz:size>
+        <viz:position x="-572.76544" y="-832.1305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="pennsylvania civil war regiments">
+        <viz:size value="64.51953"></viz:size>
+        <viz:position x="1044.3257" y="26.157621"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="arkansas confederate civil war regiments">
+        <viz:size value="63.100315"></viz:size>
+        <viz:position x="636.33966" y="-321.25485"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="regiments of australia">
+        <viz:size value="58.84266"></viz:size>
+        <viz:position x="779.8442" y="1045.8287"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="regiments of sweden">
+        <viz:size value="58.538544"></viz:size>
+        <viz:position x="633.37305" y="853.7647"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="honourable east india company regiments">
+        <viz:size value="58.133053"></viz:size>
+        <viz:position x="-427.12997" y="-264.6215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="regiments of pakistan">
+        <viz:size value="57.62619"></viz:size>
+        <viz:position x="-280.6552" y="-447.49823"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="kentucky union civil war regiments">
+        <viz:size value="57.017952"></viz:size>
+        <viz:position x="617.9257" y="-569.7194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="wisconsin civil war regiments">
+        <viz:size value="56.815205"></viz:size>
+        <viz:position x="785.886" y="114.167656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="regiments of the indian army">
+        <viz:size value="56.409718"></viz:size>
+        <viz:position x="54.592926" y="117.352646"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="regiments of italy">
+        <viz:size value="55.80148"></viz:size>
+        <viz:position x="942.4263" y="516.0078"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="regiments of poland">
+        <viz:size value="53.976765"></viz:size>
+        <viz:position x="-243.38461" y="1288.5828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="united states army regiments in world war ii">
+        <viz:size value="52.96304"></viz:size>
+        <viz:position x="-644.5162" y="-156.87643"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="indian world war i regiments">
+        <viz:size value="52.760292"></viz:size>
+        <viz:position x="-113.804184" y="-48.10629"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="missouri union civil war regiments">
+        <viz:size value="52.760292"></viz:size>
+        <viz:position x="-57.65075" y="844.0586"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="highland regiments">
+        <viz:size value="51.645195"></viz:size>
+        <viz:position x="-575.10657" y="105.318596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="massachusetts civil war regiments">
+        <viz:size value="51.645195"></viz:size>
+        <viz:position x="1274.7228" y="198.98164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="engineer regiments">
+        <viz:size value="50.428722"></viz:size>
+        <viz:position x="196.41795" y="799.7605"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="regiments of scotland">
+        <viz:size value="49.51636"></viz:size>
+        <viz:position x="-711.36206" y="490.20682"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="united states regular army civil war regiments">
+        <viz:size value="49.21225"></viz:size>
+        <viz:position x="-253.55229" y="184.38898"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="indian world war ii regiments">
+        <viz:size value="48.502636"></viz:size>
+        <viz:position x="-319.2389" y="-709.4791"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="french regiments of the ancien regime">
+        <viz:size value="47.793034"></viz:size>
+        <viz:position x="-518.7967" y="-553.6338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="irish regiments">
+        <viz:size value="47.08342"></viz:size>
+        <viz:position x="-265.4868" y="451.71707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="united states colored troops civil war regiments">
+        <viz:size value="46.67793"></viz:size>
+        <viz:position x="313.9418" y="1253.5776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="tennessee confederate civil war regiments">
+        <viz:size value="45.461456"></viz:size>
+        <viz:position x="669.84607" y="-1102.8417"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="regiments of the sri lankan army">
+        <viz:size value="44.95459"></viz:size>
+        <viz:position x="-780.57825" y="727.43695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="tennessee union civil war regiments">
+        <viz:size value="44.549103"></viz:size>
+        <viz:position x="380.61923" y="-989.7985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="rifle regiments">
+        <viz:size value="44.042236"></viz:size>
+        <viz:position x="-488.63977" y="327.85593"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="armored regiments">
+        <viz:size value="43.129883"></viz:size>
+        <viz:position x="382.1576" y="-234.78207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="regiments of the first french empire">
+        <viz:size value="42.62302"></viz:size>
+        <viz:position x="132.3526" y="-172.68712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="military regiments raised in nova scotia">
+        <viz:size value="41.50792"></viz:size>
+        <viz:position x="-493.0438" y="596.7164"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="regiments of yugoslav air force">
+        <viz:size value="40.89968"></viz:size>
+        <viz:position x="1290.3378" y="-56.469383"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="regiments of the royal logistic corps">
+        <viz:size value="40.291447"></viz:size>
+        <viz:position x="-564.9961" y="862.5934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="regiments of the royal armoured corps">
+        <viz:size value="40.291447"></viz:size>
+        <viz:position x="376.79202" y="-487.0994"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="minnesota civil war regiments">
+        <viz:size value="39.68321"></viz:size>
+        <viz:position x="1144.9291" y="-529.3774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="army aviation regiments">
+        <viz:size value="39.68321"></viz:size>
+        <viz:position x="-1041.7593" y="222.75049"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="scottish regiments">
+        <viz:size value="38.36536"></viz:size>
+        <viz:position x="-1197.3248" y="474.41476"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="regiments of yorkshire">
+        <viz:size value="37.655754"></viz:size>
+        <viz:position x="-1226.9161" y="-264.2572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="arkansas union civil war regiments">
+        <viz:size value="36.946148"></viz:size>
+        <viz:position x="50.169872" y="1305.3933"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="regiments of the french first republic">
+        <viz:size value="36.946148"></viz:size>
+        <viz:position x="-67.59569" y="-573.40717"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="danish army regiments">
+        <viz:size value="36.135162"></viz:size>
+        <viz:position x="-1065.2344" y="-735.88196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="california civil war regiments">
+        <viz:size value="35.32418"></viz:size>
+        <viz:position x="1009.27795" y="272.02225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="pennsylvania regiments of the continental army">
+        <viz:size value="35.32418"></viz:size>
+        <viz:position x="202.2339" y="-1257.422"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="florida civil war regiments">
+        <viz:size value="34.411827"></viz:size>
+        <viz:position x="1064.5231" y="-757.46"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="regiments of the french foreign legion">
+        <viz:size value="33.499474"></viz:size>
+        <viz:position x="-109.412155" y="1086.804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="regiments of the royal corps of signals">
+        <viz:size value="33.499474"></viz:size>
+        <viz:position x="-960.9512" y="497.03983"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="malaysia army corps and regiments">
+        <viz:size value="33.499474"></viz:size>
+        <viz:position x="433.394" y="688.3162"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="regiments of the netherlands">
+        <viz:size value="31.370644"></viz:size>
+        <viz:position x="143.10065" y="1056.4883"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="louisiana confederate civil war regiments">
+        <viz:size value="30.15417"></viz:size>
+        <viz:position x="-1280.5071" y="227.13553"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="grenadier regiments">
+        <viz:size value="30.15417"></viz:size>
+        <viz:position x="-705.8055" y="-389.90436"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="regiments of the bourbon restoration">
+        <viz:size value="30.15417"></viz:size>
+        <viz:position x="-91.48696" y="-826.9987"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="regiments of denmark">
+        <viz:size value="30.15417"></viz:size>
+        <viz:position x="-299.85425" y="-1258.0426"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="fusilier regiments">
+        <viz:size value="28.937698"></viz:size>
+        <viz:position x="-923.5281" y="-258.31842"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="regiments of the russian empire">
+        <viz:size value="28.937698"></viz:size>
+        <viz:position x="-367.4882" y="-974.26215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="maryland regiments of the continental army">
+        <viz:size value="27.518478"></viz:size>
+        <viz:position x="-32.158306" y="-1299.0529"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="regiments of greece">
+        <viz:size value="27.518478"></viz:size>
+        <viz:position x="293.2496" y="29.64029"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="regiments of the soviet air forces">
+        <viz:size value="27.518478"></viz:size>
+        <viz:position x="837.11816" y="-676.57214"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="regiments of the soviet union">
+        <viz:size value="25.997889"></viz:size>
+        <viz:position x="-531.7446" y="-1173.3319"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="south carolina union civil war regiments">
+        <viz:size value="25.997889"></viz:size>
+        <viz:position x="553.7939" y="1169.884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="alabama union civil war regiments">
+        <viz:size value="24.274551"></viz:size>
+        <viz:position x="445.41797" y="-1222.4846"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="regiments of the royal corps of transport">
+        <viz:size value="24.274551"></viz:size>
+        <viz:position x="-698.0587" y="1064.2631"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="regiments of the july monarchy">
+        <viz:size value="24.274551"></viz:size>
+        <viz:position x="146.45062" y="-440.09653"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="missouri confederate civil war regiments">
+        <viz:size value="22.348467"></viz:size>
+        <viz:position x="155.52986" y="-726.2759"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="regiments of napoleon i s imperial guard">
+        <viz:size value="22.348467"></viz:size>
+        <viz:position x="-343.45834" y="986.49786"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="regiments of argentina">
+        <viz:size value="22.348467"></viz:size>
+        <viz:position x="-898.34344" y="-901.7243"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="regiments of rhodesia">
+        <viz:size value="22.348467"></viz:size>
+        <viz:position x="559.41925" y="-48.280304"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="regiments of norway">
+        <viz:size value="22.348467"></viz:size>
+        <viz:position x="-125.15915" y="-1066.5127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="regiments of the russian air forces">
+        <viz:size value="20.016893"></viz:size>
+        <viz:position x="629.3434" y="-850.747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="regiments of ceylon">
+        <viz:size value="20.016893"></viz:size>
+        <viz:position x="207.0493" y="535.4438"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="regiments of the russian airborne troops">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="928.6711" y="848.6326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="regiments of the russian federation">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="1107.3743" y="694.5318"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="regiments of caribbean nations">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="487.56046" y="455.36566"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="military communications regiments">
+        <viz:size value="17.381203"></viz:size>
+        <viz:position x="1214.0748" y="447.8934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="united states volunteer civil war regiments">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="1269.5325" y="-320.22168"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="regiments of the german army in world war ii">
+        <viz:size value="14.137276"></viz:size>
+        <viz:position x="-729.42645" y="-1051.85"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="confederate states army regiments">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="879.43555" y="-951.4521"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="regiments of ukraine">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="-1305.4491" y="-28.259663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="united states army rangers regiments">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="-1206.3129" y="-495.4453"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="regiments of the united kingdom">
+        <viz:size value="9.8796215"></viz:size>
+        <viz:position x="-44.522232" y="604.1714"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="regiments of nigeria">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="513.04504" y="196.76083"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="regiments of pacific nations">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="403.24243" y="971.15546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="regiments of japan">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-761.24457" y="-665.304"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="regiments of serbia and montenegro air force">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1046.7288" y="-231.52902"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="foreign regiments in the british army">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-910.81274" y="925.68335"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="regiments of ghana">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="725.9589" y="360.72437"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="127.0"></edge>
+      <edge id="1" source="0" target="2" weight="91.0"></edge>
+      <edge id="2" source="0" target="3" weight="50.0"></edge>
+      <edge id="3" source="4" target="0" weight="44.0"></edge>
+      <edge id="4" source="0" target="5" weight="40.0"></edge>
+      <edge id="5" source="6" target="0" weight="34.0"></edge>
+      <edge id="6" source="7" target="8" weight="32.0"></edge>
+      <edge id="7" source="9" target="0" weight="31.0"></edge>
+      <edge id="8" source="10" target="2" weight="31.0"></edge>
+      <edge id="9" source="5" target="7" weight="27.0"></edge>
+      <edge id="10" source="11" target="4" weight="26.0"></edge>
+      <edge id="11" source="12" target="0" weight="25.0"></edge>
+      <edge id="12" source="0" target="13" weight="24.0"></edge>
+      <edge id="13" source="0" target="14" weight="23.0"></edge>
+      <edge id="14" source="10" target="6" weight="22.0"></edge>
+      <edge id="15" source="0" target="15" weight="19.0"></edge>
+      <edge id="16" source="8" target="0" weight="19.0"></edge>
+      <edge id="17" source="10" target="8" weight="15.0"></edge>
+      <edge id="18" source="0" target="16" weight="15.0"></edge>
+      <edge id="19" source="13" target="11" weight="14.0"></edge>
+      <edge id="20" source="14" target="11" weight="13.0"></edge>
+      <edge id="21" source="16" target="11" weight="13.0"></edge>
+      <edge id="22" source="11" target="17" weight="12.0"></edge>
+      <edge id="23" source="18" target="11" weight="12.0"></edge>
+      <edge id="24" source="6" target="19" weight="11.0"></edge>
+      <edge id="25" source="3" target="11" weight="10.0"></edge>
+      <edge id="26" source="10" target="20" weight="10.0"></edge>
+      <edge id="27" source="0" target="21" weight="10.0"></edge>
+      <edge id="28" source="22" target="23" weight="8.0"></edge>
+      <edge id="29" source="24" target="25" weight="8.0"></edge>
+      <edge id="30" source="4" target="7" weight="8.0"></edge>
+      <edge id="31" source="0" target="17" weight="7.0"></edge>
+      <edge id="32" source="11" target="26" weight="7.0"></edge>
+      <edge id="33" source="6" target="11" weight="7.0"></edge>
+      <edge id="34" source="27" target="28" weight="7.0"></edge>
+      <edge id="35" source="0" target="29" weight="7.0"></edge>
+      <edge id="36" source="0" target="30" weight="7.0"></edge>
+      <edge id="37" source="31" target="25" weight="7.0"></edge>
+      <edge id="38" source="0" target="32" weight="7.0"></edge>
+      <edge id="39" source="7" target="12" weight="6.0"></edge>
+      <edge id="40" source="33" target="34" weight="6.0"></edge>
+      <edge id="41" source="0" target="35" weight="6.0"></edge>
+      <edge id="42" source="10" target="5" weight="6.0"></edge>
+      <edge id="43" source="11" target="15" weight="6.0"></edge>
+      <edge id="44" source="11" target="21" weight="6.0"></edge>
+      <edge id="45" source="36" target="11" weight="6.0"></edge>
+      <edge id="46" source="7" target="35" weight="5.0"></edge>
+      <edge id="47" source="37" target="38" weight="5.0"></edge>
+      <edge id="48" source="30" target="7" weight="5.0"></edge>
+      <edge id="49" source="28" target="29" weight="5.0"></edge>
+      <edge id="50" source="10" target="15" weight="4.0"></edge>
+      <edge id="51" source="39" target="40" weight="4.0"></edge>
+      <edge id="52" source="28" target="21" weight="4.0"></edge>
+      <edge id="53" source="41" target="1" weight="4.0"></edge>
+      <edge id="54" source="28" target="42" weight="4.0"></edge>
+      <edge id="55" source="43" target="2" weight="4.0"></edge>
+      <edge id="56" source="44" target="1" weight="3.0"></edge>
+      <edge id="57" source="45" target="23" weight="3.0"></edge>
+      <edge id="58" source="24" target="46" weight="3.0"></edge>
+      <edge id="59" source="11" target="35" weight="3.0"></edge>
+      <edge id="60" source="0" target="18" weight="3.0"></edge>
+      <edge id="61" source="12" target="47" weight="3.0"></edge>
+      <edge id="62" source="10" target="12" weight="3.0"></edge>
+      <edge id="63" source="28" target="48" weight="3.0"></edge>
+      <edge id="64" source="49" target="35" weight="3.0"></edge>
+      <edge id="65" source="35" target="50" weight="3.0"></edge>
+      <edge id="66" source="10" target="29" weight="2.0"></edge>
+      <edge id="67" source="1" target="51" weight="2.0"></edge>
+      <edge id="68" source="52" target="1" weight="2.0"></edge>
+      <edge id="69" source="5" target="34" weight="2.0"></edge>
+      <edge id="70" source="37" target="8" weight="2.0"></edge>
+      <edge id="71" source="53" target="8" weight="2.0"></edge>
+      <edge id="72" source="11" target="54" weight="2.0"></edge>
+      <edge id="73" source="55" target="11" weight="2.0"></edge>
+      <edge id="74" source="56" target="57" weight="2.0"></edge>
+      <edge id="75" source="58" target="1" weight="2.0"></edge>
+      <edge id="76" source="11" target="59" weight="2.0"></edge>
+      <edge id="77" source="60" target="61"></edge>
+      <edge id="78" source="7" target="62"></edge>
+      <edge id="79" source="28" target="63"></edge>
+      <edge id="80" source="1" target="64"></edge>
+      <edge id="81" source="65" target="25"></edge>
+      <edge id="82" source="60" target="66"></edge>
+      <edge id="83" source="35" target="64"></edge>
+      <edge id="84" source="28" target="18"></edge>
+      <edge id="85" source="67" target="68"></edge>
+      <edge id="86" source="69" target="70"></edge>
+      <edge id="87" source="71" target="1"></edge>
+      <edge id="88" source="37" target="35"></edge>
+      <edge id="89" source="28" target="26"></edge>
+      <edge id="90" source="28" target="32"></edge>
+      <edge id="91" source="72" target="2"></edge>
+      <edge id="92" source="32" target="7"></edge>
+      <edge id="93" source="55" target="52"></edge>
+      <edge id="94" source="73" target="74"></edge>
+      <edge id="95" source="2" target="75"></edge>
+      <edge id="96" source="7" target="29"></edge>
+      <edge id="97" source="76" target="43"></edge>
+      <edge id="98" source="77" target="78"></edge>
+      <edge id="99" source="79" target="28"></edge>
+      <edge id="100" source="0" target="80"></edge>
+      <edge id="101" source="81" target="82"></edge>
+      <edge id="102" source="83" target="0"></edge>
+      <edge id="103" source="25" target="64"></edge>
+      <edge id="104" source="84" target="28"></edge>
+      <edge id="105" source="85" target="28"></edge>
+      <edge id="106" source="31" target="86"></edge>
+      <edge id="107" source="87" target="88"></edge>
+      <edge id="108" source="89" target="90"></edge>
+    </edges>
+  </graph>
+</gexf>

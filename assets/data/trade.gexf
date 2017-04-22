@@ -1,0 +1,693 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="2" label="trade unions">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="223.77412" y="221.79785"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="trade unionists">
+        <viz:size value="89.814316"></viz:size>
+        <viz:position x="997.6644" y="-908.1495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="international trade">
+        <viz:size value="78.77984"></viz:size>
+        <viz:position x="-105.82473" y="818.2705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="free trade">
+        <viz:size value="71.39522"></viz:size>
+        <viz:position x="-1228.2032" y="524.98395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="rough trade">
+        <viz:size value="70.46153"></viz:size>
+        <viz:position x="-344.4642" y="-515.14307"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="trade associations">
+        <viz:size value="68.25463"></viz:size>
+        <viz:position x="794.4131" y="-340.64795"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="professional and trade magazines">
+        <viz:size value="68.0"></viz:size>
+        <viz:position x="-1308.8517" y="281.5826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="industry trade groups based in the united states">
+        <viz:size value="67.66048"></viz:size>
+        <viz:position x="-1147.047" y="-676.5529"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="trade in the united kingdom">
+        <viz:size value="66.2175"></viz:size>
+        <viz:position x="1001.17596" y="408.93057"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="trade fairs">
+        <viz:size value="65.3687"></viz:size>
+        <viz:position x="1132.3059" y="177.16931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="world trade organization">
+        <viz:size value="63.1618"></viz:size>
+        <viz:position x="171.07721" y="-1080.3973"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="illegal drug trade">
+        <viz:size value="61.63395"></viz:size>
+        <viz:position x="13.487518" y="-887.39905"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="fair trade">
+        <viz:size value="60.36074"></viz:size>
+        <viz:position x="-141.22624" y="-653.87524"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="trade ministers">
+        <viz:size value="55.777184"></viz:size>
+        <viz:position x="-616.10944" y="-567.7411"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="trade union leaders">
+        <viz:size value="50.599464"></viz:size>
+        <viz:position x="1138.4995" y="-703.17145"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="trade of china">
+        <viz:size value="50.599464"></viz:size>
+        <viz:position x="-1113.6642" y="735.3404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="trade blocs">
+        <viz:size value="49.75066"></viz:size>
+        <viz:position x="-929.16223" y="579.7381"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="food industry trade groups">
+        <viz:size value="48.562332"></viz:size>
+        <viz:position x="-1247.7085" y="-469.07742"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="european trade union confederation">
+        <viz:size value="47.374004"></viz:size>
+        <viz:position x="572.41693" y="943.9349"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="trade routes">
+        <viz:size value="47.204243"></viz:size>
+        <viz:position x="-1113.2921" y="-121.05849"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="united states federal trade legislation">
+        <viz:size value="47.03448"></viz:size>
+        <viz:position x="-793.6192" y="812.98456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="industry trade groups based in canada">
+        <viz:size value="45.84615"></viz:size>
+        <viz:position x="1055.931" y="-305.11368"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="pan-european trade and professional organisations">
+        <viz:size value="44.827583"></viz:size>
+        <viz:position x="-1003.7766" y="-874.9608"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="video game trade shows">
+        <viz:size value="44.148537"></viz:size>
+        <viz:position x="1343.1451" y="11.338797"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="trade policy">
+        <viz:size value="43.639256"></viz:size>
+        <viz:position x="-517.2847" y="363.91956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="trade shows in the united states">
+        <viz:size value="42.875328"></viz:size>
+        <viz:position x="1023.5399" y="901.5153"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="foreign trade of the united states">
+        <viz:size value="41.856762"></viz:size>
+        <viz:position x="-862.50366" y="86.14676"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="arts and media trade groups">
+        <viz:size value="40.413788"></viz:size>
+        <viz:position x="1085.3152" y="-64.80628"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="industry trade groups based in belgium">
+        <viz:size value="40.07427"></viz:size>
+        <viz:position x="-832.2295" y="-1051.3665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="foreign trade of the soviet union">
+        <viz:size value="37.527847"></viz:size>
+        <viz:position x="-611.33887" y="-1197.7104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="trade ministries">
+        <viz:size value="37.188324"></viz:size>
+        <viz:position x="302.07404" y="-856.5986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="industry trade groups based in india">
+        <viz:size value="36.33952"></viz:size>
+        <viz:position x="683.7769" y="-573.20746"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="foreign trade of united kingdom">
+        <viz:size value="36.33952"></viz:size>
+        <viz:position x="335.64072" y="1300.1256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="united states trade representatives">
+        <viz:size value="35.83024"></viz:size>
+        <viz:position x="-392.90286" y="583.65735"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="trade in the republic of ireland">
+        <viz:size value="35.40583"></viz:size>
+        <viz:position x="891.48315" y="150.66405"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="trade by country">
+        <viz:size value="35.40583"></viz:size>
+        <viz:position x="-103.43199" y="-1103.642"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="trade union law">
+        <viz:size value="34.387268"></viz:size>
+        <viz:position x="128.49445" y="-1.0605927"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="guano trade">
+        <viz:size value="34.387268"></viz:size>
+        <viz:position x="-448.61328" y="-744.4969"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="trade union advisory committee to the oecd">
+        <viz:size value="33.877983"></viz:size>
+        <viz:position x="355.7571" y="1003.28204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="industry trade groups based in france">
+        <viz:size value="33.877983"></viz:size>
+        <viz:position x="-1023.30286" y="-371.05215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="las vegas valley conventions and trade shows">
+        <viz:size value="33.877983"></viz:size>
+        <viz:position x="1239.109" y="523.22095"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="trade by commodity">
+        <viz:size value="33.3687"></viz:size>
+        <viz:position x="129.30563" y="-1322.9236"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="trade in russia">
+        <viz:size value="32.774536"></viz:size>
+        <viz:position x="457.63583" y="243.80135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="swedish trade union confederation">
+        <viz:size value="32.774536"></viz:size>
+        <viz:position x="732.99884" y="324.72247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="grain trade">
+        <viz:size value="32.774536"></viz:size>
+        <viz:position x="-376.67648" y="-1067.6099"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="trade union legislation">
+        <viz:size value="32.180374"></viz:size>
+        <viz:position x="540.4181" y="470.1302"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="civil servants in the board of trade">
+        <viz:size value="31.586206"></viz:size>
+        <viz:position x="793.3" y="-1034.2974"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="department of trade and industry">
+        <viz:size value="30.907162"></viz:size>
+        <viz:position x="590.4268" y="-855.7922"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="national trade union centers of the united states">
+        <viz:size value="30.228117"></viz:size>
+        <viz:position x="-608.08215" y="128.7199"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="secretaries of trade and industry of the philippines">
+        <viz:size value="30.228117"></viz:size>
+        <viz:position x="-752.9672" y="-379.76102"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="computer-related trade shows">
+        <viz:size value="29.46419"></viz:size>
+        <viz:position x="1079.6306" y="668.76013"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="all india trade union congress">
+        <viz:size value="29.46419"></viz:size>
+        <viz:position x="1249.639" y="-482.24878"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="general agreement on tariffs and trade">
+        <viz:size value="28.700264"></viz:size>
+        <viz:position x="-556.36304" y="1005.3394"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="united states trade law">
+        <viz:size value="28.700264"></viz:size>
+        <viz:position x="-680.581" y="547.57135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="pharmaceutical industry trade groups">
+        <viz:size value="27.851458"></viz:size>
+        <viz:position x="-914.07" y="-595.452"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="coolie trade">
+        <viz:size value="27.851458"></viz:size>
+        <viz:position x="-244.4023" y="-871.0012"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="national trade union centers of spain">
+        <viz:size value="27.851458"></viz:size>
+        <viz:position x="-499.3385" y="1255.0579"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="national trade union centres of india">
+        <viz:size value="26.91777"></viz:size>
+        <viz:position x="831.8049" y="-100.70733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="national trade union centers of france">
+        <viz:size value="25.899202"></viz:size>
+        <viz:position x="348.40158" y="740.6877"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="trade wars">
+        <viz:size value="25.899202"></viz:size>
+        <viz:position x="-564.7928" y="762.0431"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="industry trade groups based in the netherlands">
+        <viz:size value="25.899202"></viz:size>
+        <viz:position x="1303.648" y="-232.98906"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="health care industry trade groups">
+        <viz:size value="24.880636"></viz:size>
+        <viz:position x="-1318.556" y="-242.23997"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="organ trade">
+        <viz:size value="24.880636"></viz:size>
+        <viz:position x="370.3046" y="-1288.8599"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="industry trade groups based in germany">
+        <viz:size value="24.880636"></viz:size>
+        <viz:position x="-873.80066" y="-162.50847"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="national trade union centres of the united kingdom">
+        <viz:size value="24.880636"></viz:size>
+        <viz:position x="580.87787" y="697.8126"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="foreign trade of pakistan">
+        <viz:size value="23.692307"></viz:size>
+        <viz:position x="-1104.0023" y="120.566246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="canadian trade magazines">
+        <viz:size value="23.692307"></viz:size>
+        <viz:position x="-1044.7502" y="355.2471"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="national trade union centers of nepal">
+        <viz:size value="22.419098"></viz:size>
+        <viz:position x="158.20706" y="1154.3186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="inter-american trade union federations">
+        <viz:size value="22.419098"></viz:size>
+        <viz:position x="-332.04013" y="847.72266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="chicago board of trade">
+        <viz:size value="22.419098"></viz:size>
+        <viz:position x="-358.6912" y="-1296.3381"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="national trade union centers of germany">
+        <viz:size value="22.419098"></viz:size>
+        <viz:position x="-65.98443" y="173.67459"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="industry trade groups based in china">
+        <viz:size value="22.419098"></viz:size>
+        <viz:position x="823.86145" y="-752.062"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="national trade union centers of japan">
+        <viz:size value="20.976126"></viz:size>
+        <viz:position x="-141.37389" y="581.59705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="national trade union centers of italy">
+        <viz:size value="20.976126"></viz:size>
+        <viz:position x="132.75186" y="892.0306"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="foreign trade of japan">
+        <viz:size value="20.976126"></viz:size>
+        <viz:position x="-796.23334" y="321.55634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="indian national trade union congress">
+        <viz:size value="20.976126"></viz:size>
+        <viz:position x="55.193947" y="-228.42175"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="trade union confederation of the americas">
+        <viz:size value="20.976126"></viz:size>
+        <viz:position x="-348.37146" y="153.38803"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="kyiv national university of trade and economics">
+        <viz:size value="20.976126"></viz:size>
+        <viz:position x="-594.2947" y="-943.5068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="organisation of african trade union unity">
+        <viz:size value="20.976126"></viz:size>
+        <viz:position x="-310.7084" y="1094.6875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="national trade union centers of argentina">
+        <viz:size value="17.41114"></viz:size>
+        <viz:position x="-239.39874" y="363.5379"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="media trade magazines">
+        <viz:size value="17.41114"></viz:size>
+        <viz:position x="-1344.5885" y="24.691204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="ministry of economic development and trade">
+        <viz:size value="17.41114"></viz:size>
+        <viz:position x="-761.796" y="-778.30664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="national trade union centres of canada">
+        <viz:size value="17.41114"></viz:size>
+        <viz:position x="-635.35803" y="-110.14537"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="national trade union centers of mexico">
+        <viz:size value="17.41114"></viz:size>
+        <viz:position x="-495.05942" y="-316.10687"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="national trade union centers of czechoslovakia">
+        <viz:size value="15.204243"></viz:size>
+        <viz:position x="-223.9077" y="1322.9656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="national trade union centres of ireland">
+        <viz:size value="15.204243"></viz:size>
+        <viz:position x="111.9528" y="646.8037"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="trade union officials convicted of crimes">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="631.8258" y="-1193.6221"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="foreign trade of peru">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="-973.9702" y="934.9951"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="permanent under-secretaries of state for trade and industry">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="443.2737" y="-1052.1313"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="foreign trade of colombia">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="37.9767" y="398.17557"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="industry trade groups based in lithuania">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="964.22955" y="-533.3854"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="national trade union centres of south africa">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="-138.39027" y="-53.033024"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="trade union elections">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="-380.65628" y="-82.67362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="national trade union centers of poland">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="390.12534" y="-0.47253948"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="national trade union centers of the netherlands">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="796.1301" y="1080.004"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="european trade union federations">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="241.862" y="-455.06265"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="non tariff barriers to trade">
+        <viz:size value="12.488063"></viz:size>
+        <viz:position x="133.40526" y="-678.1312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="national trade union centers of sweden">
+        <viz:size value="8.923077"></viz:size>
+        <viz:position x="570.9386" y="1208.0673"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="office of the united states trade representative">
+        <viz:size value="8.923077"></viz:size>
+        <viz:position x="-753.88116" y="1109.3894"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="national trade union centers of south korea">
+        <viz:size value="8.923077"></viz:size>
+        <viz:position x="-75.39013" y="1085.7427"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="national trade union centres of hong kong">
+        <viz:size value="8.923077"></viz:size>
+        <viz:position x="-20.122923" y="-447.62122"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="national trade union centers of russia">
+        <viz:size value="8.923077"></viz:size>
+        <viz:position x="646.58875" y="71.12718"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="primate trade">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-109.80156" y="-1336.3182"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="national trade union centres of guyana">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="812.62213" y="565.67725"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="national trade union centres of trinidad and tobago">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="32.20333" y="1349.0621"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="north american trade union stubs">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-218.98245" y="-293.35056"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="national trade union centers of finland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="294.7151" y="486.511"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="trade in the ottoman empire">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="815.9979" y="813.1359"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="london conventions and trade shows">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1319.2811" y="292.60162"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="national trade union centers of norway">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="579.4368" y="-178.57986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="trade union coordination committee">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="311.1252" y="-226.93063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="industry trade groups based in the philippines">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="508.84152" y="-411.18335"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="industry trade groups based in switzerland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="431.918" y="-649.51825"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="27.0"></edge>
+      <edge id="1" source="2" target="3" weight="23.0"></edge>
+      <edge id="2" source="4" target="2" weight="19.0"></edge>
+      <edge id="3" source="5" target="2" weight="19.0"></edge>
+      <edge id="4" source="6" target="3" weight="19.0"></edge>
+      <edge id="5" source="7" target="3" weight="18.0"></edge>
+      <edge id="6" source="8" target="6" weight="12.0"></edge>
+      <edge id="7" source="9" target="2" weight="12.0"></edge>
+      <edge id="8" source="2" target="10" weight="11.0"></edge>
+      <edge id="9" source="11" target="12" weight="10.0"></edge>
+      <edge id="10" source="13" target="14" weight="10.0"></edge>
+      <edge id="11" source="15" target="16" weight="10.0"></edge>
+      <edge id="12" source="17" target="2" weight="8.0"></edge>
+      <edge id="13" source="18" target="2" weight="8.0"></edge>
+      <edge id="14" source="19" target="20" weight="8.0"></edge>
+      <edge id="15" source="2" target="21" weight="8.0"></edge>
+      <edge id="16" source="22" target="2" weight="8.0"></edge>
+      <edge id="17" source="23" target="16" weight="8.0"></edge>
+      <edge id="18" source="2" target="24" weight="8.0"></edge>
+      <edge id="19" source="19" target="25" weight="7.0"></edge>
+      <edge id="20" source="2" target="26" weight="7.0"></edge>
+      <edge id="21" source="27" target="2" weight="7.0"></edge>
+      <edge id="22" source="28" target="2" weight="7.0"></edge>
+      <edge id="23" source="6" target="29" weight="6.0"></edge>
+      <edge id="24" source="30" target="2" weight="6.0"></edge>
+      <edge id="25" source="4" target="31" weight="5.0"></edge>
+      <edge id="26" source="2" target="32" weight="5.0"></edge>
+      <edge id="27" source="31" target="25" weight="4.0"></edge>
+      <edge id="28" source="33" target="2" weight="4.0"></edge>
+      <edge id="29" source="2" target="34" weight="4.0"></edge>
+      <edge id="30" source="6" target="22" weight="4.0"></edge>
+      <edge id="31" source="0" target="35" weight="4.0"></edge>
+      <edge id="32" source="36" target="37" weight="4.0"></edge>
+      <edge id="33" source="11" target="38" weight="4.0"></edge>
+      <edge id="34" source="7" target="9" weight="4.0"></edge>
+      <edge id="35" source="2" target="39" weight="4.0"></edge>
+      <edge id="36" source="6" target="40" weight="4.0"></edge>
+      <edge id="37" source="41" target="6" weight="3.0"></edge>
+      <edge id="38" source="42" target="15" weight="3.0"></edge>
+      <edge id="39" source="17" target="6" weight="3.0"></edge>
+      <edge id="40" source="19" target="43" weight="3.0"></edge>
+      <edge id="41" source="7" target="22" weight="3.0"></edge>
+      <edge id="42" source="17" target="44" weight="3.0"></edge>
+      <edge id="43" source="45" target="46" weight="3.0"></edge>
+      <edge id="44" source="47" target="6" weight="3.0"></edge>
+      <edge id="45" source="15" target="31" weight="2.0"></edge>
+      <edge id="46" source="6" target="48" weight="2.0"></edge>
+      <edge id="47" source="49" target="0" weight="2.0"></edge>
+      <edge id="48" source="50" target="51" weight="2.0"></edge>
+      <edge id="49" source="52" target="53" weight="2.0"></edge>
+      <edge id="50" source="54" target="55" weight="2.0"></edge>
+      <edge id="51" source="6" target="9" weight="2.0"></edge>
+      <edge id="52" source="7" target="56" weight="2.0"></edge>
+      <edge id="53" source="57" target="58" weight="2.0"></edge>
+      <edge id="54" source="59" target="15" weight="2.0"></edge>
+      <edge id="55" source="17" target="19" weight="2.0"></edge>
+      <edge id="56" source="6" target="60" weight="2.0"></edge>
+      <edge id="57" source="6" target="10" weight="2.0"></edge>
+      <edge id="58" source="61" target="57" weight="2.0"></edge>
+      <edge id="59" source="2" target="62" weight="2.0"></edge>
+      <edge id="60" source="2" target="63" weight="2.0"></edge>
+      <edge id="61" source="2" target="64"></edge>
+      <edge id="62" source="65" target="19"></edge>
+      <edge id="63" source="66" target="2"></edge>
+      <edge id="64" source="28" target="67"></edge>
+      <edge id="65" source="68" target="69"></edge>
+      <edge id="66" source="70" target="48"></edge>
+      <edge id="67" source="71" target="2"></edge>
+      <edge id="68" source="7" target="63"></edge>
+      <edge id="69" source="2" target="72"></edge>
+      <edge id="70" source="73" target="74"></edge>
+      <edge id="71" source="6" target="75"></edge>
+      <edge id="72" source="76" target="15"></edge>
+      <edge id="73" source="77" target="6"></edge>
+      <edge id="74" source="30" target="6"></edge>
+      <edge id="75" source="78" target="79"></edge>
+      <edge id="76" source="19" target="80"></edge>
+      <edge id="77" source="81" target="0"></edge>
+      <edge id="78" source="82" target="28"></edge>
+      <edge id="79" source="16" target="65"></edge>
+      <edge id="80" source="83" target="6"></edge>
+      <edge id="81" source="6" target="84"></edge>
+      <edge id="82" source="6" target="85"></edge>
+      <edge id="83" source="19" target="86"></edge>
+      <edge id="84" source="11" target="87"></edge>
+      <edge id="85" source="88" target="2"></edge>
+      <edge id="86" source="46" target="89"></edge>
+      <edge id="87" source="6" target="32"></edge>
+      <edge id="88" source="90" target="91"></edge>
+      <edge id="89" source="81" target="92"></edge>
+      <edge id="90" source="93" target="19"></edge>
+      <edge id="91" source="6" target="94"></edge>
+      <edge id="92" source="28" target="6"></edge>
+      <edge id="93" source="95" target="50"></edge>
+      <edge id="94" source="96" target="97"></edge>
+      <edge id="95" source="98" target="6"></edge>
+      <edge id="96" source="31" target="99"></edge>
+      <edge id="97" source="100" target="19"></edge>
+      <edge id="98" source="101" target="102"></edge>
+      <edge id="99" source="13" target="87"></edge>
+      <edge id="100" source="103" target="6"></edge>
+      <edge id="101" source="78" target="104"></edge>
+      <edge id="102" source="28" target="105"></edge>
+      <edge id="103" source="106" target="2"></edge>
+      <edge id="104" source="7" target="10"></edge>
+      <edge id="105" source="7" target="32"></edge>
+      <edge id="106" source="70" target="84"></edge>
+      <edge id="107" source="31" target="10"></edge>
+      <edge id="108" source="107" target="7"></edge>
+      <edge id="109" source="108" target="46"></edge>
+      <edge id="110" source="70" target="46"></edge>
+      <edge id="111" source="109" target="110"></edge>
+      <edge id="112" source="54" target="8"></edge>
+      <edge id="113" source="6" target="63"></edge>
+      <edge id="114" source="6" target="21"></edge>
+    </edges>
+  </graph>
+</gexf>

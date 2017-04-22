@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="olympic bronze medalists">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-433.5812" y="-485.18185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="recipients of the bronze star medal">
+        <viz:size value="81.0886"></viz:size>
+        <viz:position x="-187.29097" y="640.9716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="pan american games bronze medalists">
+        <viz:size value="80.48101"></viz:size>
+        <viz:position x="624.5642" y="-143.42612"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="commonwealth games bronze medallists">
+        <viz:size value="78.27847"></viz:size>
+        <viz:position x="-269.46146" y="-108.0196"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="paralympic bronze medalists">
+        <viz:size value="77.59493"></viz:size>
+        <viz:position x="-109.84735" y="263.19202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="bronze sculptures">
+        <viz:size value="74.48101"></viz:size>
+        <viz:position x="412.1292" y="-513.2549"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="bronze age">
+        <viz:size value="67.87341"></viz:size>
+        <viz:position x="-540.3033" y="347.0004"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="olympic bronze medallists for great britain">
+        <viz:size value="66.20253"></viz:size>
+        <viz:position x="99.08689" y="-269.8888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="european games bronze medalists">
+        <viz:size value="55.26582"></viz:size>
+        <viz:position x="-36.35506" y="-653.39526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="recipients of the bronze cross">
+        <viz:size value="33.316456"></viz:size>
+        <viz:position x="260.07324" y="102.6068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="recipients of the bronze lion">
+        <viz:size value="30.27848"></viz:size>
+        <viz:position x="249.66447" y="584.2792"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="ancient greek bronze statues of the classical period">
+        <viz:size value="25.34177"></viz:size>
+        <viz:position x="590.48175" y="306.12656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="dong son bronze drums">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-659.1604" y="-71.00997"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="160.0"></edge>
+      <edge id="1" source="2" target="1" weight="61.0"></edge>
+      <edge id="2" source="3" target="0" weight="27.0"></edge>
+      <edge id="3" source="4" target="5" weight="8.0"></edge>
+      <edge id="4" source="6" target="7" weight="3.0"></edge>
+      <edge id="5" source="8" target="7" weight="3.0"></edge>
+      <edge id="6" source="9" target="10"></edge>
+    </edges>
+  </graph>
+</gexf>

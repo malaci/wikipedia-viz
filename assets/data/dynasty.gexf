@@ -1,0 +1,932 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="tang dynasty">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="99.21103" y="-1473.7992"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="qing dynasty">
+        <viz:size value="94.66146"></viz:size>
+        <viz:position x="-399.96353" y="-1435.2347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="han dynasty">
+        <viz:size value="89.603905"></viz:size>
+        <viz:position x="-809.33734" y="233.0661"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="ming dynasty">
+        <viz:size value="86.32585"></viz:size>
+        <viz:position x="-371.0068" y="-1137.3778"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="song dynasty">
+        <viz:size value="82.95415"></viz:size>
+        <viz:position x="192.63507" y="-1250.4814"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="joseon dynasty">
+        <viz:size value="82.11122"></viz:size>
+        <viz:position x="-84.36682" y="-249.65973"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="jin dynasty">
+        <viz:size value="78.0839"></viz:size>
+        <viz:position x="-125.98396" y="-1082.8751"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="yuan dynasty">
+        <viz:size value="75.74243"></viz:size>
+        <viz:position x="-28.528494" y="-1284.395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="zhou dynasty">
+        <viz:size value="74.33756"></viz:size>
+        <viz:position x="1077.1569" y="671.1092"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="sui dynasty">
+        <viz:size value="73.40097"></viz:size>
+        <viz:position x="-244.40024" y="-1296.5391"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="bagrationi dynasty">
+        <viz:size value="68.99902"></viz:size>
+        <viz:position x="-1016.6404" y="-1096.7008"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="eighteenth dynasty of egypt">
+        <viz:size value="68.343414"></viz:size>
+        <viz:position x="665.39453" y="129.3748"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="julio claudian dynasty">
+        <viz:size value="61.225365"></viz:size>
+        <viz:position x="613.06415" y="-100.92215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="fitzgerald dynasty">
+        <viz:size value="60.476097"></viz:size>
+        <viz:position x="154.8267" y="-198.26471"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="chakri dynasty">
+        <viz:size value="60.382435"></viz:size>
+        <viz:position x="-400.90265" y="727.4122"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="fourth dynasty of egypt">
+        <viz:size value="60.28878"></viz:size>
+        <viz:position x="553.3922" y="913.79254"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="ottoman dynasty">
+        <viz:size value="59.914143"></viz:size>
+        <viz:position x="724.12726" y="778.4432"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="butler dynasty">
+        <viz:size value="59.726826"></viz:size>
+        <viz:position x="-486.15817" y="-117.7812"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="palaiologos dynasty">
+        <viz:size value="59.445854"></viz:size>
+        <viz:position x="1478.3923" y="-12.046596"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="rurik dynasty">
+        <viz:size value="59.164875"></viz:size>
+        <viz:position x="-1474.4299" y="-247.5854"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="safavid dynasty">
+        <viz:size value="58.883904"></viz:size>
+        <viz:position x="1107.781" y="-646.238"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="liao dynasty">
+        <viz:size value="58.79024"></viz:size>
+        <viz:position x="526.95557" y="-1385.59"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="pahlavi dynasty">
+        <viz:size value="58.50927"></viz:size>
+        <viz:position x="302.13486" y="263.90787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="nineteenth dynasty of egypt">
+        <viz:size value="58.040974"></viz:size>
+        <viz:position x="858.4235" y="-676.33344"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="ptolemaic dynasty">
+        <viz:size value="55.980488"></viz:size>
+        <viz:position x="761.4318" y="373.42538"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="fifth dynasty of egypt">
+        <viz:size value="55.980488"></viz:size>
+        <viz:position x="363.33743" y="1032.0553"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="qajar dynasty">
+        <viz:size value="55.886826"></viz:size>
+        <viz:position x="987.41736" y="-853.01514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="thirteenth dynasty of egypt">
+        <viz:size value="55.605854"></viz:size>
+        <viz:position x="-464.88678" y="1415.4457"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="qin dynasty">
+        <viz:size value="55.605854"></viz:size>
+        <viz:position x="-1154.3403" y="516.4229"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="shang dynasty">
+        <viz:size value="55.605854"></viz:size>
+        <viz:position x="988.8046" y="423.0861"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="komnenos dynasty">
+        <viz:size value="55.418533"></viz:size>
+        <viz:position x="-1322.7631" y="-715.3274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="liang dynasty">
+        <viz:size value="55.324875"></viz:size>
+        <viz:position x="-295.59048" y="-919.81934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="twelfth dynasty of egypt">
+        <viz:size value="55.137558"></viz:size>
+        <viz:position x="-728.19635" y="-165.56136"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="nemanjic dynasty">
+        <viz:size value="54.95024"></viz:size>
+        <viz:position x="1413.8801" y="-439.2913"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="nguyen dynasty">
+        <viz:size value="54.95024"></viz:size>
+        <viz:position x="-825.6205" y="-1249.1571"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="o brien dynasty">
+        <viz:size value="54.38829"></viz:size>
+        <viz:position x="-8.270359" y="-27.905857"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="o neill dynasty">
+        <viz:size value="52.983414"></viz:size>
+        <viz:position x="618.36066" y="555.3518"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="toungoo dynasty">
+        <viz:size value="52.421463"></viz:size>
+        <viz:position x="-1090.6741" y="-41.302696"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="tran dynasty">
+        <viz:size value="52.421463"></viz:size>
+        <viz:position x="-248.71535" y="-694.8152"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="timurid dynasty">
+        <viz:size value="51.48488"></viz:size>
+        <viz:position x="201.34308" y="636.9268"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="pagan dynasty">
+        <viz:size value="51.016582"></viz:size>
+        <viz:position x="-1408.8857" y="471.00494"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="nerva antonine dynasty">
+        <viz:size value="50.829266"></viz:size>
+        <viz:position x="26.363373" y="836.6618"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="constantinian dynasty">
+        <viz:size value="50.64195"></viz:size>
+        <viz:position x="1048.9972" y="1055.5934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="solomonic dynasty">
+        <viz:size value="50.360973"></viz:size>
+        <viz:position x="-560.3463" y="-336.4156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="muhammad ali dynasty">
+        <viz:size value="50.360973"></viz:size>
+        <viz:position x="-160.4686" y="-472.32086"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="herodian dynasty">
+        <viz:size value="50.173656"></viz:size>
+        <viz:position x="-400.54486" y="102.87057"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="o conor dynasty">
+        <viz:size value="49.518047"></viz:size>
+        <viz:position x="-314.70343" y="320.89664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="maccarthy dynasty">
+        <viz:size value="49.518047"></viz:size>
+        <viz:position x="484.67285" y="-545.756"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="twenty-second dynasty of egypt">
+        <viz:size value="49.237072"></viz:size>
+        <viz:position x="634.68585" y="-1131.5413"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="fitzpatrick dynasty">
+        <viz:size value="49.049755"></viz:size>
+        <viz:position x="-395.42633" y="-503.11017"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="theodosian dynasty">
+        <viz:size value="48.76878"></viz:size>
+        <viz:position x="688.6422" y="1321.8729"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="carolingian dynasty">
+        <viz:size value="48.76878"></viz:size>
+        <viz:position x="-717.15515" y="-803.6347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="twentieth dynasty of egypt">
+        <viz:size value="48.76878"></viz:size>
+        <viz:position x="716.2072" y="-500.66992"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="le dynasty">
+        <viz:size value="48.76878"></viz:size>
+        <viz:position x="1197.0955" y="881.91156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="sixth dynasty of egypt">
+        <viz:size value="48.76878"></viz:size>
+        <viz:position x="-245.15175" y="564.1931"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="mewar dynasty">
+        <viz:size value="48.487804"></viz:size>
+        <viz:position x="556.32263" y="-323.45645"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="twenty-first dynasty of egypt">
+        <viz:size value="48.01951"></viz:size>
+        <viz:position x="-64.16215" y="-844.7924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="twenty-sixth dynasty of egypt">
+        <viz:size value="47.738537"></viz:size>
+        <viz:position x="747.57446" y="-1309.35"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="twenty-fifth dynasty of egypt">
+        <viz:size value="47.738537"></viz:size>
+        <viz:position x="1078.9595" y="-1047.2701"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="flavian dynasty">
+        <viz:size value="47.738537"></viz:size>
+        <viz:position x="268.1718" y="838.7982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="o donnell dynasty">
+        <viz:size value="47.457558"></viz:size>
+        <viz:position x="460.3878" y="708.5343"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="ava dynasty">
+        <viz:size value="47.457558"></viz:size>
+        <viz:position x="-1234.6539" y="313.09183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="hohenstaufen dynasty">
+        <viz:size value="47.176586"></viz:size>
+        <viz:position x="-686.4409" y="1328.046"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="konbaung dynasty">
+        <viz:size value="46.895607"></viz:size>
+        <viz:position x="134.59259" y="426.42416"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="chalukya dynasty">
+        <viz:size value="46.614635"></viz:size>
+        <viz:position x="-1011.6595" y="-449.45105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="chen dynasty">
+        <viz:size value="46.614635"></viz:size>
+        <viz:position x="318.41913" y="-1458.3657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="chola dynasty">
+        <viz:size value="46.333656"></viz:size>
+        <viz:position x="-89.254364" y="1055.3947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="eleventh dynasty of egypt">
+        <viz:size value="46.333656"></viz:size>
+        <viz:position x="-873.50995" y="11.116241"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="dynasty genealogy">
+        <viz:size value="46.05268"></viz:size>
+        <viz:position x="639.5236" y="-734.89874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="premyslid dynasty">
+        <viz:size value="46.05268"></viz:size>
+        <viz:position x="-90.35727" y="386.94016"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="fairhair dynasty">
+        <viz:size value="46.05268"></viz:size>
+        <viz:position x="-159.61935" y="151.71828"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="arsacid dynasty">
+        <viz:size value="45.771706"></viz:size>
+        <viz:position x="881.36395" y="1205.6875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="marinid dynasty">
+        <viz:size value="45.116096"></viz:size>
+        <viz:position x="-1061.8456" y="720.12714"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="buyid dynasty">
+        <viz:size value="45.116096"></viz:size>
+        <viz:position x="-319.35938" y="-287.04898"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="third dynasty of egypt">
+        <viz:size value="44.83512"></viz:size>
+        <viz:position x="-857.85333" y="649.53516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="seventeenth dynasty of egypt">
+        <viz:size value="44.460487"></viz:size>
+        <viz:position x="234.25334" y="1473.3516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="hasmonean dynasty">
+        <viz:size value="44.460487"></viz:size>
+        <viz:position x="321.1562" y="-371.81393"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="kara or evic dynasty">
+        <viz:size value="44.460487"></viz:size>
+        <viz:position x="446.3383" y="83.740906"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="hanthawaddy dynasty">
+        <viz:size value="44.179512"></viz:size>
+        <viz:position x="-963.96027" y="-223.01778"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="almoravid dynasty">
+        <viz:size value="44.179512"></viz:size>
+        <viz:position x="222.26207" y="29.86632"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="merovingian dynasty">
+        <viz:size value="43.80488"></viz:size>
+        <viz:position x="-469.31714" y="479.43594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="luxembourgian dynasty">
+        <viz:size value="43.430244"></viz:size>
+        <viz:position x="-244.5154" y="-69.33515"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="160" label="first dynasty of egypt">
+        <viz:size value="43.430244"></viz:size>
+        <viz:position x="241.13232" y="-588.91864"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="158" label="seljuq dynasty">
+        <viz:size value="43.430244"></viz:size>
+        <viz:position x="534.71075" y="321.80283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="159" label="ikshvaku dynasty">
+        <viz:size value="43.430244"></viz:size>
+        <viz:position x="68.05828" y="202.44205"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="macedonian dynasty">
+        <viz:size value="43.05561"></viz:size>
+        <viz:position x="573.303" y="1146.6089"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="kotromanic dynasty">
+        <viz:size value="43.05561"></viz:size>
+        <viz:position x="1490.8489" y="217.7194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="afsharid dynasty">
+        <viz:size value="43.05561"></viz:size>
+        <viz:position x="1225.0905" y="-849.9516"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="161" label="bavand dynasty">
+        <viz:size value="43.05561"></viz:size>
+        <viz:position x="80.09301" y="-416.8747"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="162" label="severan dynasty">
+        <viz:size value="42.680977"></viz:size>
+        <viz:position x="385.6366" y="-147.6025"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="sixteenth dynasty of egypt">
+        <viz:size value="42.306343"></viz:size>
+        <viz:position x="-85.31551" y="1289.1799"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="asen dynasty">
+        <viz:size value="42.306343"></viz:size>
+        <viz:position x="1424.1217" y="472.01718"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="163" label="chosroid dynasty">
+        <viz:size value="42.306343"></viz:size>
+        <viz:position x="379.69067" y="489.2513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="pinya dynasty">
+        <viz:size value="40.995117"></viz:size>
+        <viz:position x="-1275.4861" y="115.414734"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="sasanian dynasty">
+        <viz:size value="40.620483"></viz:size>
+        <viz:position x="405.26898" y="-1202.0868"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="second dynasty of egypt">
+        <viz:size value="40.620483"></viz:size>
+        <viz:position x="-716.3516" y="840.0059"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="ottonian dynasty">
+        <viz:size value="40.620483"></viz:size>
+        <viz:position x="-1060.6947" y="1061.7766"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="xia dynasty">
+        <viz:size value="40.152195"></viz:size>
+        <viz:position x="1197.8152" y="482.2912"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="salian dynasty">
+        <viz:size value="40.152195"></viz:size>
+        <viz:position x="-880.9657" y="1198.721"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="eighth dynasty of egypt">
+        <viz:size value="39.6839"></viz:size>
+        <viz:position x="1028.3496" y="-248.03473"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="rashtrakuta dynasty">
+        <viz:size value="39.12195"></viz:size>
+        <viz:position x="-640.13354" y="57.055683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="seleucid dynasty">
+        <viz:size value="38.653656"></viz:size>
+        <viz:position x="-634.5083" y="-567.39777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="achaemenid dynasty">
+        <viz:size value="38.653656"></viz:size>
+        <viz:position x="-708.6713" y="1069.0533"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="ly dynasty">
+        <viz:size value="38.091705"></viz:size>
+        <viz:position x="-527.6103" y="-937.1163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="myinsaing dynasty">
+        <viz:size value="38.091705"></viz:size>
+        <viz:position x="-1476.6165" y="253.65617"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="angelid dynasty">
+        <viz:size value="37.529755"></viz:size>
+        <viz:position x="-1084.2408" y="-702.5158"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="valentinian dynasty">
+        <viz:size value="36.967804"></viz:size>
+        <viz:position x="778.46204" y="1020.35736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="hethumid dynasty">
+        <viz:size value="36.405853"></viz:size>
+        <viz:position x="173.25896" y="-813.9824"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="laskarid dynasty">
+        <viz:size value="36.405853"></viz:size>
+        <viz:position x="-946.64197" y="-873.55695"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="saadi dynasty">
+        <viz:size value="36.405853"></viz:size>
+        <viz:position x="-1323.7598" y="682.87036"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="nervo-trajanic dynasty">
+        <viz:size value="35.750244"></viz:size>
+        <viz:position x="-32.04056" y="624.264"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="fourteenth dynasty of egypt">
+        <viz:size value="35.750244"></viz:size>
+        <viz:position x="-298.3684" y="1251.8486"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="argead dynasty">
+        <viz:size value="34.439026"></viz:size>
+        <viz:position x="-725.0564" y="447.9337"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="cometopuli dynasty">
+        <viz:size value="34.439026"></viz:size>
+        <viz:position x="-1424.0387" y="-466.75708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="doukid dynasty">
+        <viz:size value="33.68976"></viz:size>
+        <viz:position x="-1181.9194" y="-919.7876"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="sratsimir dynasty">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="1294.3" y="269.7033"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="adil shahi dynasty">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="853.90063" y="606.3281"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="tay son dynasty">
+        <viz:size value="32.94049"></viz:size>
+        <viz:position x="-611.625" y="-1366.3453"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="seventh dynasty of egypt">
+        <viz:size value="32.09756"></viz:size>
+        <viz:position x="-788.99786" y="-393.708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="lunar dynasty">
+        <viz:size value="32.09756"></viz:size>
+        <viz:position x="537.7809" y="-944.7693"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="tenth dynasty of egypt">
+        <viz:size value="32.09756"></viz:size>
+        <viz:position x="-862.49915" y="-627.4094"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="umayyad dynasty">
+        <viz:size value="32.09756"></viz:size>
+        <viz:position x="402.98822" y="-761.0305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="isaurian dynasty">
+        <viz:size value="32.09756"></viz:size>
+        <viz:position x="133.57365" y="1266.8159"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="pandyan dynasty">
+        <viz:size value="31.254635"></viz:size>
+        <viz:position x="129.73494" y="1046.412"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="western ganga dynasty">
+        <viz:size value="31.254635"></viz:size>
+        <viz:position x="-566.6368" y="270.2816"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="twenty-third dynasty of egypt">
+        <viz:size value="30.318047"></viz:size>
+        <viz:position x="2.5392792" y="-635.5854"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="balti dynasty">
+        <viz:size value="30.318047"></viz:size>
+        <viz:position x="479.453" y="1422.3641"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="fifteenth dynasty of egypt">
+        <viz:size value="30.318047"></viz:size>
+        <viz:position x="-236.50047" y="1479.297"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="phrygian dynasty">
+        <viz:size value="29.287804"></viz:size>
+        <viz:position x="354.02148" y="1251.0172"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="rubenid dynasty">
+        <viz:size value="29.287804"></viz:size>
+        <viz:position x="313.3584" y="-998.2225"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="lazarevic dynasty">
+        <viz:size value="29.287804"></viz:size>
+        <viz:position x="1343.0851" y="-648.90594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="sagaing dynasty">
+        <viz:size value="29.287804"></viz:size>
+        <viz:position x="-1498.3522" y="19.217176"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="antigonid dynasty">
+        <viz:size value="28.1639"></viz:size>
+        <viz:position x="-477.14978" y="-723.0001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="pallava dynasty">
+        <viz:size value="28.1639"></viz:size>
+        <viz:position x="-1219.7538" y="-512.8172"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="twenty-seventh dynasty of egypt">
+        <viz:size value="27.039999"></viz:size>
+        <viz:position x="-309.91388" y="1025.1665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="etichonid dynasty">
+        <viz:size value="25.728779"></viz:size>
+        <viz:position x="-918.1339" y="913.5574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="thirtieth dynasty of egypt">
+        <viz:size value="25.728779"></viz:size>
+        <viz:position x="-954.6781" y="432.61737"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="shishman dynasty">
+        <viz:size value="25.728779"></viz:size>
+        <viz:position x="1476.77" y="-230.94171"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="trieu dynasty">
+        <viz:size value="25.728779"></viz:size>
+        <viz:position x="-1032.8662" y="208.51732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="terter dynasty">
+        <viz:size value="24.323902"></viz:size>
+        <viz:position x="1257.878" y="-204.23856"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="mac dynasty">
+        <viz:size value="24.323902"></viz:size>
+        <viz:position x="948.1975" y="854.70776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="vukanovic dynasty">
+        <viz:size value="24.323902"></viz:size>
+        <viz:position x="1193.589" y="-430.41122"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="chet ton dynasty">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="-611.34064" y="650.6642"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="prome dynasty">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="-1309.0049" y="-102.00657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="ninth dynasty of egypt">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="956.2762" y="-461.25708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="ban phlu luang dynasty">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="-501.10794" y="923.5944"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="sukhothai dynasty">
+        <viz:size value="22.731707"></viz:size>
+        <viz:position x="-1203.0045" y="-287.74234"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="twenty-fourth dynasty of egypt">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="893.6971" y="-1148.3824"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="supponid dynasty">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="-776.90936" y="-1026.4221"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="aribonid dynasty">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="1088.1763" y="209.68297"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="attalid dynasty">
+        <viz:size value="20.952194"></viz:size>
+        <viz:position x="877.36554" y="178.08746"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="wattasid dynasty">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-1206.704" y="877.65326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="smilets dynasty">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="1269.8152" y="28.776777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="xin dynasty">
+        <viz:size value="18.798046"></viz:size>
+        <viz:position x="-141.37312" y="-1502.6982"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="sulayhid dynasty">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="792.65216" y="-279.42853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="wilhelminer dynasty">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="1055.6877" y="-23.015045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="thirty-first dynasty of egypt">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="-512.685" y="1170.7302"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="prasat thong dynasty">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="-201.51831" y="822.5777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="pharaohs of the abydos dynasty">
+        <viz:size value="16.362926"></viz:size>
+        <viz:position x="2.5842788" y="1495.2985"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="ho dynasty">
+        <viz:size value="13.365853"></viz:size>
+        <viz:position x="-588.80994" y="-1159.4808"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="films set in the goryeo dynasty">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="86.219765" y="-1038.5718"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="samma dynasty">
+        <viz:size value="9.432196"></viz:size>
+        <viz:position x="778.59656" y="-936.1664"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="ikhshidid dynasty">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="837.97876" y="-60.323708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label=" inh dynasty">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1321.8345" y="693.7507"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="132.0"></edge>
+      <edge id="1" source="0" target="2" weight="95.0"></edge>
+      <edge id="2" source="3" target="0" weight="94.0"></edge>
+      <edge id="3" source="3" target="4" weight="87.0"></edge>
+      <edge id="4" source="5" target="1" weight="56.0"></edge>
+      <edge id="5" source="5" target="3" weight="53.0"></edge>
+      <edge id="6" source="2" target="4" weight="50.0"></edge>
+      <edge id="7" source="3" target="6" weight="49.0"></edge>
+      <edge id="8" source="5" target="2" weight="46.0"></edge>
+      <edge id="9" source="6" target="2" weight="37.0"></edge>
+      <edge id="10" source="7" target="8" weight="13.0"></edge>
+      <edge id="11" source="2" target="9" weight="13.0"></edge>
+      <edge id="12" source="0" target="10" weight="12.0"></edge>
+      <edge id="13" source="11" target="12" weight="9.0"></edge>
+      <edge id="14" source="13" target="14" weight="9.0"></edge>
+      <edge id="15" source="15" target="16" weight="9.0"></edge>
+      <edge id="16" source="17" target="16" weight="7.0"></edge>
+      <edge id="17" source="1" target="18" weight="7.0"></edge>
+      <edge id="18" source="19" target="20" weight="7.0"></edge>
+      <edge id="19" source="21" target="22" weight="6.0"></edge>
+      <edge id="20" source="23" target="24" weight="6.0"></edge>
+      <edge id="21" source="15" target="25" weight="5.0"></edge>
+      <edge id="22" source="26" target="27" weight="5.0"></edge>
+      <edge id="23" source="28" target="29" weight="5.0"></edge>
+      <edge id="24" source="30" target="31" weight="5.0"></edge>
+      <edge id="25" source="32" target="33" weight="4.0"></edge>
+      <edge id="26" source="30" target="34" weight="4.0"></edge>
+      <edge id="27" source="35" target="36" weight="4.0"></edge>
+      <edge id="28" source="30" target="37" weight="4.0"></edge>
+      <edge id="29" source="38" target="39" weight="3.0"></edge>
+      <edge id="30" source="40" target="33" weight="3.0"></edge>
+      <edge id="31" source="17" target="25" weight="3.0"></edge>
+      <edge id="32" source="41" target="42" weight="3.0"></edge>
+      <edge id="33" source="30" target="43" weight="3.0"></edge>
+      <edge id="34" source="6" target="44" weight="3.0"></edge>
+      <edge id="35" source="1" target="45" weight="3.0"></edge>
+      <edge id="36" source="46" target="47" weight="3.0"></edge>
+      <edge id="37" source="48" target="49" weight="3.0"></edge>
+      <edge id="38" source="50" target="26" weight="3.0"></edge>
+      <edge id="39" source="51" target="52" weight="2.0"></edge>
+      <edge id="40" source="53" target="54" weight="2.0"></edge>
+      <edge id="41" source="55" target="56" weight="2.0"></edge>
+      <edge id="42" source="57" target="7" weight="2.0"></edge>
+      <edge id="43" source="26" target="58" weight="2.0"></edge>
+      <edge id="44" source="46" target="42" weight="2.0"></edge>
+      <edge id="45" source="59" target="60" weight="2.0"></edge>
+      <edge id="46" source="61" target="43" weight="2.0"></edge>
+      <edge id="47" source="62" target="63" weight="2.0"></edge>
+      <edge id="48" source="64" target="65" weight="2.0"></edge>
+      <edge id="49" source="66" target="67" weight="2.0"></edge>
+      <edge id="50" source="68" target="69" weight="2.0"></edge>
+      <edge id="51" source="37" target="61" weight="2.0"></edge>
+      <edge id="52" source="47" target="17" weight="2.0"></edge>
+      <edge id="53" source="70" target="62" weight="2.0"></edge>
+      <edge id="54" source="71" target="72"></edge>
+      <edge id="55" source="73" target="52"></edge>
+      <edge id="56" source="74" target="52"></edge>
+      <edge id="57" source="75" target="76"></edge>
+      <edge id="58" source="77" target="78"></edge>
+      <edge id="59" source="79" target="80"></edge>
+      <edge id="60" source="81" target="44"></edge>
+      <edge id="61" source="82" target="83"></edge>
+      <edge id="62" source="84" target="85"></edge>
+      <edge id="63" source="86" target="87"></edge>
+      <edge id="64" source="88" target="52"></edge>
+      <edge id="65" source="89" target="90"></edge>
+      <edge id="66" source="91" target="92"></edge>
+      <edge id="67" source="93" target="94"></edge>
+      <edge id="68" source="2" target="95"></edge>
+      <edge id="69" source="96" target="97"></edge>
+      <edge id="70" source="27" target="98"></edge>
+      <edge id="71" source="99" target="39"></edge>
+      <edge id="72" source="51" target="100"></edge>
+      <edge id="73" source="101" target="102"></edge>
+      <edge id="74" source="42" target="103"></edge>
+      <edge id="75" source="104" target="77"></edge>
+      <edge id="76" source="105" target="106"></edge>
+      <edge id="77" source="107" target="62"></edge>
+      <edge id="78" source="108" target="109"></edge>
+      <edge id="79" source="110" target="111"></edge>
+      <edge id="80" source="112" target="72"></edge>
+      <edge id="81" source="113" target="109"></edge>
+      <edge id="82" source="35" target="83"></edge>
+      <edge id="83" source="114" target="115"></edge>
+      <edge id="84" source="51" target="116"></edge>
+      <edge id="85" source="64" target="117"></edge>
+      <edge id="86" source="118" target="87"></edge>
+      <edge id="87" source="119" target="120"></edge>
+      <edge id="88" source="121" target="120"></edge>
+      <edge id="89" source="1" target="95"></edge>
+      <edge id="90" source="122" target="123"></edge>
+      <edge id="91" source="4" target="124"></edge>
+      <edge id="92" source="125" target="36"></edge>
+      <edge id="93" source="126" target="127"></edge>
+      <edge id="94" source="128" target="4"></edge>
+      <edge id="95" source="88" target="120"></edge>
+      <edge id="96" source="129" target="109"></edge>
+      <edge id="97" source="74" target="120"></edge>
+      <edge id="98" source="130" target="131"></edge>
+    </edges>
+  </graph>
+</gexf>

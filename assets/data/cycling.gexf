@@ -1,0 +1,986 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="5" label="track cycling">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="530.1315" y="857.55194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="cycling events">
+        <viz:size value="89.75226"></viz:size>
+        <viz:position x="17.294392" y="1051.375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="olympic medalists in cycling">
+        <viz:size value="88.7855"></viz:size>
+        <viz:position x="-141.36679" y="-1005.44244"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="2010s in road cycling">
+        <viz:size value="85.88519"></viz:size>
+        <viz:position x="930.14215" y="-314.9628"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="cycling at the summer olympics">
+        <viz:size value="85.11178"></viz:size>
+        <viz:position x="789.777" y="342.07217"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="commonwealth games medallists in cycling">
+        <viz:size value="84.91843"></viz:size>
+        <viz:position x="-50.347385" y="-558.7401"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="cycling teams">
+        <viz:size value="81.341385"></viz:size>
+        <viz:position x="230.75603" y="-807.48956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="cycling champions">
+        <viz:size value="81.05136"></viz:size>
+        <viz:position x="-320.4146" y="-888.9463"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="2000s in road cycling">
+        <viz:size value="81.05136"></viz:size>
+        <viz:position x="331.08426" y="475.09256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="women s road cycling">
+        <viz:size value="80.18127"></viz:size>
+        <viz:position x="-83.38141" y="198.66629"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="doping cases in cycling">
+        <viz:size value="76.31419"></viz:size>
+        <viz:position x="80.87284" y="-354.14343"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="cycling in the united states">
+        <viz:size value="69.25679"></viz:size>
+        <viz:position x="-590.8144" y="-272.4261"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="2010s road cycling season by team">
+        <viz:size value="67.03323"></viz:size>
+        <viz:position x="1276.2426" y="-706.58966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="men s road cycling">
+        <viz:size value="66.25981"></viz:size>
+        <viz:position x="1061.9814" y="-117.9087"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="1990s in road cycling">
+        <viz:size value="63.166157"></viz:size>
+        <viz:position x="349.07635" y="283.45868"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="cycling at the summer paralympics">
+        <viz:size value="62.682777"></viz:size>
+        <viz:position x="153.24692" y="168.20697"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="cycling at the asian games">
+        <viz:size value="61.3293"></viz:size>
+        <viz:position x="740.81525" y="756.6923"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="cycling in the united kingdom">
+        <viz:size value="59.395767"></viz:size>
+        <viz:position x="-317.8419" y="198.62021"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="cycling at the commonwealth games">
+        <viz:size value="58.525677"></viz:size>
+        <viz:position x="374.9747" y="1432.4067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="1980s in road cycling">
+        <viz:size value="56.592144"></viz:size>
+        <viz:position x="543.42194" y="227.27185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="olympic cycling venues">
+        <viz:size value="54.56193"></viz:size>
+        <viz:position x="629.14307" y="1313.9647"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="cycling at the pan american games">
+        <viz:size value="54.368576"></viz:size>
+        <viz:position x="547.1093" y="635.7669"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="cycling announcers">
+        <viz:size value="53.981873"></viz:size>
+        <viz:position x="161.74358" y="-600.80774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="cycling in italy">
+        <viz:size value="52.72507"></viz:size>
+        <viz:position x="-469.54138" y="-674.7966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="cycling organisations">
+        <viz:size value="52.53172"></viz:size>
+        <viz:position x="-603.84717" y="608.94794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="1950s in road cycling">
+        <viz:size value="51.468273"></viz:size>
+        <viz:position x="584.44666" y="445.21173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="cycling in australia">
+        <viz:size value="51.178246"></viz:size>
+        <viz:position x="-1170.6896" y="353.46112"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="cycling films">
+        <viz:size value="51.178246"></viz:size>
+        <viz:position x="-1138.5763" y="-901.7594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="cycling coaches">
+        <viz:size value="50.984894"></viz:size>
+        <viz:position x="-241.27525" y="-665.38727"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="cycling journalists">
+        <viz:size value="50.501507"></viz:size>
+        <viz:position x="10.260239" y="-1225.8871"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="presidential cycling tour of turkey">
+        <viz:size value="49.728092"></viz:size>
+        <viz:position x="-90.03402" y="-210.89713"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="cycling in france">
+        <viz:size value="49.43806"></viz:size>
+        <viz:position x="-34.499893" y="827.21545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="1920s in road cycling">
+        <viz:size value="47.11782"></viz:size>
+        <viz:position x="353.24152" y="1015.1231"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="1930s in road cycling">
+        <viz:size value="46.82779"></viz:size>
+        <viz:position x="204.31717" y="1210.6726"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="history of cycling">
+        <viz:size value="46.151054"></viz:size>
+        <viz:position x="-928.09955" y="-74.37315"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="1960s in road cycling">
+        <viz:size value="45.474316"></viz:size>
+        <viz:position x="976.53" y="763.7507"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="cycling in the netherlands">
+        <viz:size value="44.700905"></viz:size>
+        <viz:position x="337.2949" y="-1001.1897"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="cycling in germany">
+        <viz:size value="43.540783"></viz:size>
+        <viz:position x="90.47996" y="-1001.2088"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="1970s in road cycling">
+        <viz:size value="43.540783"></viz:size>
+        <viz:position x="813.94855" y="563.7339"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="cycling in belgium">
+        <viz:size value="42.670692"></viz:size>
+        <viz:position x="641.7643" y="-1315.0825"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="1940s in road cycling">
+        <viz:size value="42.187305"></viz:size>
+        <viz:position x="-177.98384" y="425.8443"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="cycling in canada">
+        <viz:size value="42.187305"></viz:size>
+        <viz:position x="-258.76657" y="1226.2428"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="cycling at the south american games">
+        <viz:size value="41.800602"></viz:size>
+        <viz:position x="749.6352" y="-451.40247"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="cycling competitions">
+        <viz:size value="41.31722"></viz:size>
+        <viz:position x="331.16187" y="715.89813"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="cycling safety">
+        <viz:size value="41.31722"></viz:size>
+        <viz:position x="-1246.9597" y="-293.3173"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="cycling clubs">
+        <viz:size value="41.31722"></viz:size>
+        <viz:position x="-472.9265" y="-32.000053"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="cycling infrastructure">
+        <viz:size value="40.833836"></viz:size>
+        <viz:position x="-1465.6552" y="121.23629"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="cycling in oregon">
+        <viz:size value="40.833836"></viz:size>
+        <viz:position x="-636.9201" y="-1080.2224"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="cycling equipment">
+        <viz:size value="40.253773"></viz:size>
+        <viz:position x="-671.85504" y="386.67563"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="cycling jerseys">
+        <viz:size value="39.77039"></viz:size>
+        <viz:position x="-413.88208" y="-1118.8068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="cycling in denmark">
+        <viz:size value="39.77039"></viz:size>
+        <viz:position x="427.3837" y="-1385.973"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="cycling by city">
+        <viz:size value="39.19033"></viz:size>
+        <viz:position x="-440.19922" y="1096.3192"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="cycling in california">
+        <viz:size value="38.03021"></viz:size>
+        <viz:position x="-1411.9634" y="349.85718"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="asian cycling championships">
+        <viz:size value="37.45015"></viz:size>
+        <viz:position x="1065.8403" y="550.83936"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="1910s in road cycling">
+        <viz:size value="37.45015"></viz:size>
+        <viz:position x="1014.11914" y="346.76947"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="1900s in road cycling">
+        <viz:size value="37.45015"></viz:size>
+        <viz:position x="834.49774" y="971.1638"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="cycling in melbourne">
+        <viz:size value="36.77341"></viz:size>
+        <viz:position x="-1238.8916" y="760.38007"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="cycling in spain">
+        <viz:size value="36.77341"></viz:size>
+        <viz:position x="201.88231" y="-153.66507"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="cycling records and statistics">
+        <viz:size value="36.77341"></viz:size>
+        <viz:position x="826.36707" y="1204.404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="cycling in new zealand">
+        <viz:size value="36.096676"></viz:size>
+        <viz:position x="-816.6106" y="-280.127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="utility cycling">
+        <viz:size value="36.096676"></viz:size>
+        <viz:position x="-1407.6094" y="-80.92301"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="european games medalists in cycling">
+        <viz:size value="35.419937"></viz:size>
+        <viz:position x="-36.722958" y="-794.74207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="world university cycling championships">
+        <viz:size value="34.646523"></viz:size>
+        <viz:position x="153.3183" y="597.17163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="cycling museums">
+        <viz:size value="32.132927"></viz:size>
+        <viz:position x="-1016.062" y="153.44806"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="cycling in japan">
+        <viz:size value="31.16616"></viz:size>
+        <viz:position x="1434.9128" y="224.80879"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="cycling in paris">
+        <viz:size value="30.102718"></viz:size>
+        <viz:position x="186.72769" y="892.42706"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="cycling in norway">
+        <viz:size value="30.102718"></viz:size>
+        <viz:position x="-232.7824" y="-7.3946447"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="cycling in switzerland">
+        <viz:size value="30.102718"></viz:size>
+        <viz:position x="808.9519" y="-1189.3344"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="cycling books">
+        <viz:size value="30.102718"></viz:size>
+        <viz:position x="-1360.5933" y="-518.4351"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="french road cycling cup">
+        <viz:size value="28.942596"></viz:size>
+        <viz:position x="336.22928" y="28.948408"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="cycling in new york">
+        <viz:size value="28.942596"></viz:size>
+        <viz:position x="-1345.834" y="566.8272"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="cycling at the youth olympics">
+        <viz:size value="28.942596"></viz:size>
+        <viz:position x="432.28378" y="-215.58266"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="cycling in toronto">
+        <viz:size value="27.782476"></viz:size>
+        <viz:position x="-482.65427" y="854.40875"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="cycling in russia">
+        <viz:size value="27.782476"></viz:size>
+        <viz:position x="496.87927" y="-1144.5002"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="cycling in london">
+        <viz:size value="27.782476"></viz:size>
+        <viz:position x="-226.87207" y="996.5573"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="cycling advocates">
+        <viz:size value="26.429"></viz:size>
+        <viz:position x="-216.34335" y="-1220.8127"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="cycling in yorkshire">
+        <viz:size value="26.429"></viz:size>
+        <viz:position x="-434.88766" y="390.22134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="cycling at the european games">
+        <viz:size value="26.429"></viz:size>
+        <viz:position x="1441.8866" y="-273.956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="cycling in sweden">
+        <viz:size value="24.978851"></viz:size>
+        <viz:position x="-789.0882" y="166.38083"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="cycling in pennsylvania">
+        <viz:size value="24.978851"></viz:size>
+        <viz:position x="-659.5836" y="-491.81326"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="velocio sram pro cycling">
+        <viz:size value="24.978851"></viz:size>
+        <viz:position x="-350.46255" y="-215.02701"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="cycling in victoria">
+        <viz:size value="24.978851"></viz:size>
+        <viz:position x="-1101.98" y="552.72626"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="cycling in england">
+        <viz:size value="24.978851"></viz:size>
+        <viz:position x="-273.01233" y="781.8914"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="national cycling route networks">
+        <viz:size value="24.978851"></viz:size>
+        <viz:position x="-555.33905" y="174.57378"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="long-distance cycling routes">
+        <viz:size value="24.978851"></viz:size>
+        <viz:position x="-33.40239" y="1251.2104"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="cycling in illinois">
+        <viz:size value="23.335346"></viz:size>
+        <viz:position x="-222.82854" y="-1450.0347"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="cycling in georgia">
+        <viz:size value="23.335346"></viz:size>
+        <viz:position x="534.4197" y="-445.5107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="cycling in wisconsin">
+        <viz:size value="21.498487"></viz:size>
+        <viz:position x="-2.9435728" y="-1454.0005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="cycling at the summer universiade">
+        <viz:size value="21.498487"></viz:size>
+        <viz:position x="1197.796" y="-324.84406"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="cycling anime and manga">
+        <viz:size value="21.498487"></viz:size>
+        <viz:position x="-1263.1084" y="-728.30145"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="cannondale pro cycling team">
+        <viz:size value="21.498487"></viz:size>
+        <viz:position x="1151.6674" y="-932.04926"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="pan american cycling championships">
+        <viz:size value="21.498487"></viz:size>
+        <viz:position x="615.5458" y="1057.3867"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="cycling in ireland">
+        <viz:size value="21.498487"></viz:size>
+        <viz:position x="-208.94206" y="-399.69067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="cycling in wales">
+        <viz:size value="21.498487"></viz:size>
+        <viz:position x="-876.4075" y="940.767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="vehicular cycling">
+        <viz:size value="21.498487"></viz:size>
+        <viz:position x="-1125.8411" y="-542.0063"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="cycling in malaysia">
+        <viz:size value="21.498487"></viz:size>
+        <viz:position x="1279.9448" y="668.6719"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="cycling in kazakhstan">
+        <viz:size value="21.498487"></viz:size>
+        <viz:position x="1219.5076" y="110.002365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="cycling clothing">
+        <viz:size value="19.274921"></viz:size>
+        <viz:position x="-371.14908" y="593.73035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="usa pro cycling challenge">
+        <viz:size value="19.274921"></viz:size>
+        <viz:position x="-817.3834" y="-914.5602"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="cycling in washington">
+        <viz:size value="19.274921"></viz:size>
+        <viz:position x="-556.4733" y="-882.7578"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="cycling in massachusetts">
+        <viz:size value="19.274921"></viz:size>
+        <viz:position x="-701.3428" y="-50.9045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="cycling in sydney">
+        <viz:size value="19.274921"></viz:size>
+        <viz:position x="-920.2047" y="1140.1466"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="cycling conferences">
+        <viz:size value="19.274921"></viz:size>
+        <viz:position x="-1148.5444" y="-79.193405"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="national members of the oceanian cycling confederation">
+        <viz:size value="19.274921"></viz:size>
+        <viz:position x="-833.3642" y="582.04956"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="national members of the pan american cycling confederation">
+        <viz:size value="19.274921"></viz:size>
+        <viz:position x="-917.6735" y="374.45435"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="cycling in the san francisco bay area">
+        <viz:size value="19.274921"></viz:size>
+        <viz:position x="-895.2563" y="-513.4461"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="cycling in hong kong">
+        <viz:size value="16.761328"></viz:size>
+        <viz:position x="-653.55035" y="1049.5829"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="cycling in azerbaijan">
+        <viz:size value="16.761328"></viz:size>
+        <viz:position x="669.141" y="-689.8716"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="iam cycling">
+        <viz:size value="16.761328"></viz:size>
+        <viz:position x="975.87775" y="-1066.9459"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="current cycling seasons">
+        <viz:size value="16.761328"></viz:size>
+        <viz:position x="1281.201" y="-110.495384"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="boels dolmans cycling team">
+        <viz:size value="16.761328"></viz:size>
+        <viz:position x="415.02155" y="-634.9732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="philadelphia cycling classic">
+        <viz:size value="16.761328"></viz:size>
+        <viz:position x="840.7116" y="-89.54364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="cycling in greece">
+        <viz:size value="16.761328"></viz:size>
+        <viz:position x="19.328201" y="-18.58521"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="cycling in south korea">
+        <viz:size value="16.761328"></viz:size>
+        <viz:position x="308.8735" y="-413.41888"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="rabo-liv women cycling team">
+        <viz:size value="16.761328"></viz:size>
+        <viz:position x="504.06223" y="-837.0224"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="cycling in michigan">
+        <viz:size value="13.667673"></viz:size>
+        <viz:position x="-724.72455" y="-701.15936"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="cycling in the united arab emirates">
+        <viz:size value="13.667673"></viz:size>
+        <viz:position x="993.21027" y="119.89827"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="cycling qualification for the summer olympics">
+        <viz:size value="13.667673"></viz:size>
+        <viz:position x="1380.9066" y="478.6574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="cycling in singapore">
+        <viz:size value="13.667673"></viz:size>
+        <viz:position x="1180.0511" y="860.9754"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="cycling at the central american and caribbean games">
+        <viz:size value="13.667673"></viz:size>
+        <viz:position x="752.69336" y="116.59864"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="cycling in colorado">
+        <viz:size value="13.667673"></viz:size>
+        <viz:position x="-974.1354" y="-741.7512"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="cycling in thailand">
+        <viz:size value="13.667673"></viz:size>
+        <viz:position x="1227.9149" y="330.66763"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="cycling in copenhagen">
+        <viz:size value="13.667673"></viz:size>
+        <viz:position x="-727.75586" y="1266.3962"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="cycling in turkey">
+        <viz:size value="13.667673"></viz:size>
+        <viz:position x="1054.2573" y="-742.44666"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="cycling at the mediterranean games">
+        <viz:size value="13.667673"></viz:size>
+        <viz:position x="569.6372" y="-20.37668"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="velocio-sram pro cycling">
+        <viz:size value="9.60725"></viz:size>
+        <viz:position x="-424.89633" y="-455.23648"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="cycling in washington, d c ">
+        <viz:size value="9.60725"></viz:size>
+        <viz:position x="-994.0808" y="-1060.5719"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="combination classification in road cycling">
+        <viz:size value="9.60725"></viz:size>
+        <viz:position x="-428.6825" y="-1371.0371"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="cycling in india">
+        <viz:size value="9.60725"></viz:size>
+        <viz:position x="-1457.5226" y="-291.14456"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="cycling at the island games">
+        <viz:size value="9.60725"></viz:size>
+        <viz:position x="673.5848" y="-233.4142"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="cycling in scotland">
+        <viz:size value="9.60725"></viz:size>
+        <viz:position x="429.4835" y="1223.3367"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="cycling in romania">
+        <viz:size value="9.60725"></viz:size>
+        <viz:position x="-528.97375" y="1330.8148"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="cycling at the african games">
+        <viz:size value="9.60725"></viz:size>
+        <viz:position x="-80.93976" y="614.6413"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="cycling at the military world games">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="849.99774" y="-862.45056"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="cycling in maine">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1119.3445" y="955.36426"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="cycling in hobart">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-986.9476" y="744.81805"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="cycling in iowa">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-97.55453" y="1462.0758"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="cycling in ohio">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="137.17787" y="1444.4283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="cycling in the soviet union">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1031.7008" y="1054.5375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="british cycling pioneers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1240.9828" y="131.09471"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="sengers ladies cycling team">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="670.29834" y="-982.34265"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="cycling activism">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1035.3085" y="-312.96707"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="cycling in amsterdam">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-337.2529" y="1431.1675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="cycling in iceland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-704.56836" y="803.2702"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="cycling at the games of the small states of europe">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1465.8761" y="-9.95675"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="belgian road cycling cup">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1099.4078" y="-505.48438"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="cycling in virginia">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-631.28894" y="-1317.2598"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="noris cycling">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="242.17862" y="-1208.4089"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="cycling in minnesota">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="213.24548" y="-1442.4835"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="cycling in maryland">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-830.0025" y="-1202.4429"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="20052001 in road cycling">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="59.635197" y="386.70322"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="cycling in chile">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1362.3511" y="-493.97467"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="cycling at the european youth summer olympic festival">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="887.67847" y="-609.5945"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="29.0"></edge>
+      <edge id="1" source="2" target="3" weight="25.0"></edge>
+      <edge id="2" source="4" target="5" weight="20.0"></edge>
+      <edge id="3" source="6" target="5" weight="19.0"></edge>
+      <edge id="4" source="7" target="5" weight="19.0"></edge>
+      <edge id="5" source="8" target="9" weight="10.0"></edge>
+      <edge id="6" source="0" target="10" weight="80.0"></edge>
+      <edge id="7" source="5" target="11" weight="9.0"></edge>
+      <edge id="8" source="12" target="13" weight="7.0"></edge>
+      <edge id="9" source="8" target="14" weight="7.0"></edge>
+      <edge id="10" source="2" target="15" weight="6.0"></edge>
+      <edge id="11" source="16" target="17" weight="6.0"></edge>
+      <edge id="12" source="16" target="18" weight="6.0"></edge>
+      <edge id="13" source="19" target="20" weight="5.0"></edge>
+      <edge id="14" source="21" target="1" weight="5.0"></edge>
+      <edge id="15" source="22" target="10" weight="40.0"></edge>
+      <edge id="16" source="23" target="3" weight="50.0"></edge>
+      <edge id="17" source="24" target="25" weight="5.0"></edge>
+      <edge id="18" source="10" target="26" weight="40.0"></edge>
+      <edge id="19" source="0" target="11" weight="5.0"></edge>
+      <edge id="20" source="23" target="5" weight="50.0"></edge>
+      <edge id="21" source="8" target="13" weight="5.0"></edge>
+      <edge id="22" source="27" target="5" weight="5.0"></edge>
+      <edge id="23" source="20" target="28" weight="4.0"></edge>
+      <edge id="24" source="29" target="10" weight="32.0"></edge>
+      <edge id="25" source="10" target="21" weight="32.0"></edge>
+      <edge id="26" source="20" target="30" weight="4.0"></edge>
+      <edge id="27" source="31" target="32" weight="4.0"></edge>
+      <edge id="28" source="0" target="33" weight="40.0"></edge>
+      <edge id="29" source="34" target="35" weight="3.0"></edge>
+      <edge id="30" source="36" target="37" weight="3.0"></edge>
+      <edge id="31" source="38" target="10" weight="24.0"></edge>
+      <edge id="32" source="39" target="40" weight="3.0"></edge>
+      <edge id="33" source="7" target="23" weight="30.0"></edge>
+      <edge id="34" source="41" target="10" weight="16.0"></edge>
+      <edge id="35" source="15" target="5" weight="2.0"></edge>
+      <edge id="36" source="4" target="42" weight="2.0"></edge>
+      <edge id="37" source="5" target="43" weight="2.0"></edge>
+      <edge id="38" source="16" target="44" weight="2.0"></edge>
+      <edge id="39" source="45" target="46" weight="2.0"></edge>
+      <edge id="40" source="8" target="33" weight="20.0"></edge>
+      <edge id="41" source="1" target="29" weight="2.0"></edge>
+      <edge id="42" source="34" target="47" weight="2.0"></edge>
+      <edge id="43" source="48" target="49" weight="2.0"></edge>
+      <edge id="44" source="33" target="5" weight="20.0"></edge>
+      <edge id="45" source="50" target="47" weight="2.0"></edge>
+      <edge id="46" source="51" target="32" weight="2.0"></edge>
+      <edge id="47" source="52" target="16" weight="2.0"></edge>
+      <edge id="48" source="53" target="41" weight="14.0"></edge>
+      <edge id="49" source="23" target="15" weight="20.0"></edge>
+      <edge id="50" source="54" target="55" weight="2.0"></edge>
+      <edge id="51" source="2" target="36" weight="2.0"></edge>
+      <edge id="52" source="56" target="57" weight="2.0"></edge>
+      <edge id="53" source="58" target="59" weight="2.0"></edge>
+      <edge id="54" source="0" target="54" weight="2.0"></edge>
+      <edge id="55" source="5" target="54" weight="2.0"></edge>
+      <edge id="56" source="60" target="10" weight="8.0"></edge>
+      <edge id="57" source="7" target="33" weight="10.0"></edge>
+      <edge id="58" source="61" target="62"></edge>
+      <edge id="59" source="63" target="64"></edge>
+      <edge id="60" source="20" target="65"></edge>
+      <edge id="61" source="10" target="66" weight="8.0"></edge>
+      <edge id="62" source="27" target="23" weight="10.0"></edge>
+      <edge id="63" source="67" target="24"></edge>
+      <edge id="64" source="68" target="3" weight="10.0"></edge>
+      <edge id="65" source="69" target="70"></edge>
+      <edge id="66" source="71" target="72"></edge>
+      <edge id="67" source="4" target="73"></edge>
+      <edge id="68" source="40" target="62"></edge>
+      <edge id="69" source="0" target="74" weight="6.0"></edge>
+      <edge id="70" source="35" target="25"></edge>
+      <edge id="71" source="6" target="33" weight="10.0"></edge>
+      <edge id="72" source="67" target="75"></edge>
+      <edge id="73" source="50" target="76"></edge>
+      <edge id="74" source="77" target="78"></edge>
+      <edge id="75" source="10" target="79" weight="8.0"></edge>
+      <edge id="76" source="23" target="80" weight="10.0"></edge>
+      <edge id="77" source="81" target="4" weight="10.0"></edge>
+      <edge id="78" source="40" target="82"></edge>
+      <edge id="79" source="3" target="33" weight="10.0"></edge>
+      <edge id="80" source="83" target="24"></edge>
+      <edge id="81" source="41" target="84" weight="7.0"></edge>
+      <edge id="82" source="4" target="85"></edge>
+      <edge id="83" source="10" target="86" weight="8.0"></edge>
+      <edge id="84" source="87" target="34"></edge>
+      <edge id="85" source="72" target="75"></edge>
+      <edge id="86" source="81" target="6" weight="10.0"></edge>
+      <edge id="87" source="33" target="11" weight="10.0"></edge>
+      <edge id="88" source="33" target="88" weight="10.0"></edge>
+      <edge id="89" source="11" target="81" weight="10.0"></edge>
+      <edge id="90" source="89" target="10" weight="8.0"></edge>
+      <edge id="91" source="90" target="24"></edge>
+      <edge id="92" source="10" target="91" weight="8.0"></edge>
+      <edge id="93" source="40" target="70"></edge>
+      <edge id="94" source="92" target="93"></edge>
+      <edge id="95" source="19" target="36"></edge>
+      <edge id="96" source="94" target="4"></edge>
+      <edge id="97" source="42" target="10" weight="8.0"></edge>
+      <edge id="98" source="7" target="95" weight="10.0"></edge>
+      <edge id="99" source="96" target="28"></edge>
+      <edge id="100" source="1" target="97"></edge>
+      <edge id="101" source="98" target="56" weight="10.0"></edge>
+      <edge id="102" source="23" target="99" weight="10.0"></edge>
+      <edge id="103" source="67" target="49"></edge>
+      <edge id="104" source="100" target="84"></edge>
+      <edge id="105" source="50" target="101"></edge>
+      <edge id="106" source="16" target="102"></edge>
+      <edge id="107" source="103" target="10" weight="8.0"></edge>
+      <edge id="108" source="10" target="82" weight="8.0"></edge>
+      <edge id="109" source="104" target="0"></edge>
+      <edge id="110" source="105" target="106"></edge>
+      <edge id="111" source="10" target="107" weight="8.0"></edge>
+      <edge id="112" source="7" target="81" weight="10.0"></edge>
+      <edge id="113" source="75" target="48"></edge>
+      <edge id="114" source="95" target="0" weight="10.0"></edge>
+      <edge id="115" source="23" target="103" weight="10.0"></edge>
+      <edge id="116" source="4" target="95" weight="10.0"></edge>
+      <edge id="117" source="15" target="98" weight="10.0"></edge>
+      <edge id="118" source="40" target="66"></edge>
+      <edge id="119" source="8" target="32"></edge>
+      <edge id="120" source="7" target="108" weight="10.0"></edge>
+      <edge id="121" source="57" target="24"></edge>
+      <edge id="122" source="30" target="49"></edge>
+      <edge id="123" source="10" target="97" weight="8.0"></edge>
+      <edge id="124" source="109" target="35"></edge>
+      <edge id="125" source="110" target="111"></edge>
+      <edge id="126" source="112" target="20"></edge>
+      <edge id="127" source="10" target="113" weight="8.0"></edge>
+      <edge id="128" source="114" target="1"></edge>
+      <edge id="129" source="34" target="92"></edge>
+      <edge id="130" source="115" target="116"></edge>
+      <edge id="131" source="117" target="118"></edge>
+      <edge id="132" source="119" target="23" weight="10.0"></edge>
+      <edge id="133" source="15" target="81" weight="10.0"></edge>
+      <edge id="134" source="85" target="10" weight="8.0"></edge>
+      <edge id="135" source="10" target="120" weight="8.0"></edge>
+      <edge id="136" source="56" target="118"></edge>
+      <edge id="137" source="121" target="35"></edge>
+      <edge id="138" source="121" target="54"></edge>
+      <edge id="139" source="40" target="111"></edge>
+      <edge id="140" source="10" target="122" weight="8.0"></edge>
+      <edge id="141" source="60" target="1"></edge>
+      <edge id="142" source="105" target="35"></edge>
+      <edge id="143" source="50" target="54"></edge>
+      <edge id="144" source="6" target="108" weight="10.0"></edge>
+      <edge id="145" source="96" target="57"></edge>
+      <edge id="146" source="123" target="124"></edge>
+      <edge id="147" source="33" target="2" weight="10.0"></edge>
+      <edge id="148" source="1" target="125"></edge>
+      <edge id="149" source="56" target="105"></edge>
+      <edge id="150" source="19" target="126"></edge>
+      <edge id="151" source="109" target="54"></edge>
+      <edge id="152" source="34" target="15"></edge>
+      <edge id="153" source="111" target="96"></edge>
+      <edge id="154" source="4" target="127"></edge>
+      <edge id="155" source="11" target="128" weight="10.0"></edge>
+      <edge id="156" source="55" target="129"></edge>
+      <edge id="157" source="114" target="10" weight="8.0"></edge>
+      <edge id="158" source="130" target="24"></edge>
+      <edge id="159" source="76" target="67"></edge>
+      <edge id="160" source="4" target="33" weight="10.0"></edge>
+      <edge id="161" source="54" target="128" weight="10.0"></edge>
+      <edge id="162" source="131" target="40"></edge>
+      <edge id="163" source="15" target="108" weight="10.0"></edge>
+      <edge id="164" source="132" target="133"></edge>
+      <edge id="165" source="50" target="134"></edge>
+      <edge id="166" source="40" target="107"></edge>
+      <edge id="167" source="50" target="135"></edge>
+      <edge id="168" source="136" target="137"></edge>
+      <edge id="169" source="92" target="5"></edge>
+      <edge id="170" source="10" target="138" weight="8.0"></edge>
+      <edge id="171" source="81" target="0" weight="10.0"></edge>
+      <edge id="172" source="123" target="20"></edge>
+      <edge id="173" source="56" target="111"></edge>
+      <edge id="174" source="44" target="139"></edge>
+      <edge id="175" source="4" target="86"></edge>
+      <edge id="176" source="10" target="62" weight="8.0"></edge>
+      <edge id="177" source="140" target="3"></edge>
+      <edge id="178" source="10" target="125" weight="8.0"></edge>
+      <edge id="179" source="102" target="20"></edge>
+      <edge id="180" source="141" target="34"></edge>
+      <edge id="181" source="47" target="57"></edge>
+      <edge id="182" source="50" target="142"></edge>
+      <edge id="183" source="1" target="91"></edge>
+      <edge id="184" source="10" target="73" weight="8.0"></edge>
+      <edge id="185" source="143" target="35"></edge>
+      <edge id="186" source="68" target="15" weight="10.0"></edge>
+      <edge id="187" source="95" target="6" weight="10.0"></edge>
+      <edge id="188" source="6" target="68" weight="10.0"></edge>
+      <edge id="189" source="98" target="11" weight="10.0"></edge>
+      <edge id="190" source="0" target="108" weight="10.0"></edge>
+      <edge id="191" source="5" target="144" weight="10.0"></edge>
+      <edge id="192" source="5" target="95" weight="10.0"></edge>
+      <edge id="193" source="7" target="68" weight="10.0"></edge>
+      <edge id="194" source="132" target="145"></edge>
+      <edge id="195" source="108" target="5" weight="10.0"></edge>
+      <edge id="196" source="128" target="5" weight="10.0"></edge>
+      <edge id="197" source="118" target="146"></edge>
+      <edge id="198" source="147" target="66"></edge>
+      <edge id="199" source="136" target="148"></edge>
+      <edge id="200" source="76" target="149"></edge>
+      <edge id="201" source="150" target="72"></edge>
+      <edge id="202" source="151" target="5" weight="10.0"></edge>
+      <edge id="203" source="152" target="19"></edge>
+      <edge id="204" source="15" target="33" weight="10.0"></edge>
+      <edge id="205" source="50" target="35"></edge>
+      <edge id="206" source="68" target="0" weight="10.0"></edge>
+      <edge id="207" source="97" target="23" weight="10.0"></edge>
+    </edges>
+  </graph>
+</gexf>

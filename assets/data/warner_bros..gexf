@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="0" label="warner bros records">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="299.26907" y="338.29163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="warner bros films">
+        <viz:size value="96.54931"></viz:size>
+        <viz:position x="259.79538" y="-361.91122"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="television series by warner bros television">
+        <viz:size value="77.08387"></viz:size>
+        <viz:position x="-416.30325" y="-175.3557"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="television series by warner bros animation">
+        <viz:size value="46.02765"></viz:size>
+        <viz:position x="-407.27548" y="221.88318"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="warner bros nashville singles">
+        <viz:size value="43.46175"></viz:size>
+        <viz:position x="-79.955185" y="456.9211"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="warner bros franchises">
+        <viz:size value="12.847926"></viz:size>
+        <viz:position x="472.52014" y="-24.368605"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="warner bros cartoon characters">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-128.05077" y="-455.46045"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="15.0"></edge>
+      <edge id="1" source="2" target="3" weight="10.0"></edge>
+      <edge id="2" source="4" target="5" weight="2.0"></edge>
+      <edge id="3" source="4" target="6"></edge>
+    </edges>
+  </graph>
+</gexf>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="shooting guards">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="418.50348" y="-635.7701"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="point guards">
+        <viz:size value="98.88804"></viz:size>
+        <viz:position x="43.846607" y="-731.73035"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="american football guards">
+        <viz:size value="97.03475"></viz:size>
+        <viz:position x="-176.38785" y="-354.269"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="grenadier guards">
+        <viz:size value="76.278"></viz:size>
+        <viz:position x="-759.5704" y="-47.256176"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="coldstream guards">
+        <viz:size value="72.66409"></viz:size>
+        <viz:position x="179.91014" y="355.3361"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="royal guards">
+        <viz:size value="68.957535"></viz:size>
+        <viz:position x="398.65378" y="22.697067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="british life guards officers">
+        <viz:size value="65.15831"></viz:size>
+        <viz:position x="-45.290867" y="731.43005"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="guards regiments">
+        <viz:size value="60.617767"></viz:size>
+        <viz:position x="760.7247" y="45.66283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="border guards">
+        <viz:size value="51.72201"></viz:size>
+        <viz:position x="0.3886436" y="2.0650957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="coast guards">
+        <viz:size value="49.49807"></viz:size>
+        <viz:position x="-217.20697" y="331.4332"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="5th dragoon guards officers">
+        <viz:size value="47.274136"></viz:size>
+        <viz:position x="-396.63" y="-23.259556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="2nd dragoon guards officers">
+        <viz:size value="45.050194"></viz:size>
+        <viz:position x="-421.32578" y="633.8925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="canadian football guards">
+        <viz:size value="43.7529"></viz:size>
+        <viz:position x="217.40988" y="-330.91656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="3rd dragoon guards officers">
+        <viz:size value="43.38224"></viz:size>
+        <viz:position x="338.40805" y="682.075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="7th dragoon guards officers">
+        <viz:size value="38.74904"></viz:size>
+        <viz:position x="-610.71655" y="-404.0402"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="guards units of the byzantine empire">
+        <viz:size value="30.965254"></viz:size>
+        <viz:position x="654.65857" y="-328.17038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="1st the queen s dragoon guards officers">
+        <viz:size value="22.53282"></viz:size>
+        <viz:position x="-655.63324" y="327.04492"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="guards divisions of japan">
+        <viz:size value="13.26641"></viz:size>
+        <viz:position x="611.20074" y="404.13327"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="7th dragoon guards soldiers">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-340.94302" y="-680.3574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="670.0"></edge>
+      <edge id="1" source="2" target="3" weight="24.0"></edge>
+      <edge id="2" source="4" target="5" weight="17.0"></edge>
+      <edge id="3" source="6" target="7" weight="6.0"></edge>
+      <edge id="4" source="8" target="9" weight="6.0"></edge>
+      <edge id="5" source="10" target="6" weight="4.0"></edge>
+      <edge id="6" source="11" target="12" weight="4.0"></edge>
+      <edge id="7" source="13" target="11" weight="3.0"></edge>
+      <edge id="8" source="14" target="3"></edge>
+      <edge id="9" source="10" target="15"></edge>
+      <edge id="10" source="16" target="3"></edge>
+      <edge id="11" source="17" target="18"></edge>
+    </edges>
+  </graph>
+</gexf>

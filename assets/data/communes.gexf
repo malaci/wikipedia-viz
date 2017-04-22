@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="51" label="communes of algeria">
+        <viz:size value="99.99999"></viz:size>
+        <viz:position x="538.9865" y="-469.1026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="rural communes of morocco">
+        <viz:size value="93.264915"></viz:size>
+        <viz:position x="-637.15125" y="-157.08698"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="communes of pas de calais">
+        <viz:size value="92.56125"></viz:size>
+        <viz:position x="-1006.2495" y="196.41853"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="communes of aisne">
+        <viz:size value="91.25444"></viz:size>
+        <viz:position x="1055.5732" y="580.07074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="communes of somme">
+        <viz:size value="90.6513"></viz:size>
+        <viz:position x="-284.18802" y="-1164.5082"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="communes of ivory coast">
+        <viz:size value="90.45026"></viz:size>
+        <viz:position x="-1044.4712" y="-29.943634"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="communes of seine maritime">
+        <viz:size value="90.048164"></viz:size>
+        <viz:position x="-841.62726" y="618.60767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="communes of moselle">
+        <viz:size value="89.646065"></viz:size>
+        <viz:position x="381.56714" y="-304.00693"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="communes of calvados">
+        <viz:size value="89.445015"></viz:size>
+        <viz:position x="402.16568" y="-955.65594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="communes of cote d or">
+        <viz:size value="89.14345"></viz:size>
+        <viz:position x="764.4262" y="-1025.5719"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="communes of oise">
+        <viz:size value="88.84187"></viz:size>
+        <viz:position x="615.9173" y="-863.7341"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="communes of eure">
+        <viz:size value="88.741356"></viz:size>
+        <viz:position x="337.57022" y="746.25555"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="communes of mali">
+        <viz:size value="88.741356"></viz:size>
+        <viz:position x="409.2963" y="544.99274"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="communes of nord">
+        <viz:size value="88.43977"></viz:size>
+        <viz:position x="-626.6574" y="-806.3966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="communes of manche">
+        <viz:size value="87.43455"></viz:size>
+        <viz:position x="-90.05282" y="-448.25253"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="communes of marne">
+        <viz:size value="87.2335"></viz:size>
+        <viz:position x="-20.380186" y="-212.51181"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="communes of doubs">
+        <viz:size value="86.73087"></viz:size>
+        <viz:position x="-182.90225" y="-43.896957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="communes of meurthe et moselle">
+        <viz:size value="86.52984"></viz:size>
+        <viz:position x="-45.100674" y="-1070.1049"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="communes of haute garonne">
+        <viz:size value="86.42931"></viz:size>
+        <viz:position x="-557.5467" y="-575.1312"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="communes of saone et loire">
+        <viz:size value="86.12774"></viz:size>
+        <viz:position x="-111.95134" y="819.8671"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="communes of dordogne">
+        <viz:size value="85.82617"></viz:size>
+        <viz:position x="1066.1799" y="-86.4075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="communes of jura">
+        <viz:size value="85.5246"></viz:size>
+        <viz:position x="-504.25464" y="-1175.7635"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="communes of haute saone">
+        <viz:size value="85.42408"></viz:size>
+        <viz:position x="531.206" y="164.16502"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="communes of pyrenees atlantiques">
+        <viz:size value="85.42408"></viz:size>
+        <viz:position x="990.3136" y="331.58502"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="communes of gironde">
+        <viz:size value="85.323555"></viz:size>
+        <viz:position x="1277.7933" y="-19.496542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="communes of isere">
+        <viz:size value="85.1225"></viz:size>
+        <viz:position x="-446.59924" y="-958.6093"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="communes of bas rhin">
+        <viz:size value="85.02198"></viz:size>
+        <viz:position x="55.478745" y="17.358814"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="communes of orne">
+        <viz:size value="84.82094"></viz:size>
+        <viz:position x="-1114.2316" y="577.6364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="communes of vosges">
+        <viz:size value="84.61989"></viz:size>
+        <viz:position x="1000.6119" y="-323.16107"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="communes of seine et marne">
+        <viz:size value="84.51936"></viz:size>
+        <viz:position x="139.35887" y="850.4119"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="communes of meuse">
+        <viz:size value="84.21779"></viz:size>
+        <viz:position x="195.22142" y="494.96542"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="communes of hautes pyrenees">
+        <viz:size value="83.31308"></viz:size>
+        <viz:position x="-659.0146" y="1079.3728"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="communes of puy de dome">
+        <viz:size value="83.31308"></viz:size>
+        <viz:position x="-715.2794" y="817.20703"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="communes of charente maritime">
+        <viz:size value="83.31308"></viz:size>
+        <viz:position x="-680.8778" y="459.93668"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="communes of gers">
+        <viz:size value="83.011505"></viz:size>
+        <viz:position x="13.998896" y="-844.25256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="communes of ardennes">
+        <viz:size value="83.011505"></viz:size>
+        <viz:position x="-252.6646" y="-276.70526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="communes of yonne">
+        <viz:size value="82.91099"></viz:size>
+        <viz:position x="-933.0322" y="-463.62158"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="communes of haute marne">
+        <viz:size value="82.40836"></viz:size>
+        <viz:position x="219.61888" y="-145.48393"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="communes of aude">
+        <viz:size value="82.20732"></viz:size>
+        <viz:position x="601.1042" y="395.4513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="communes of aube">
+        <viz:size value="82.00628"></viz:size>
+        <viz:position x="1070.7097" y="-700.0001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="communes of ain">
+        <viz:size value="81.80522"></viz:size>
+        <viz:position x="287.67194" y="87.522934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="communes of charente">
+        <viz:size value="81.20209"></viz:size>
+        <viz:position x="302.91217" y="-537.4528"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="communes of eure et loir">
+        <viz:size value="81.10156"></viz:size>
+        <viz:position x="-103.03336" y="-1289.1462"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="communes of maine et loire">
+        <viz:size value="80.3979"></viz:size>
+        <viz:position x="760.6635" y="-385.7526"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="communes of haut rhin">
+        <viz:size value="80.29738"></viz:size>
+        <viz:position x="-1014.0706" y="-722.6018"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="communes of sarthe">
+        <viz:size value="80.09632"></viz:size>
+        <viz:position x="460.06247" y="-701.6545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="communes of cotes d armor">
+        <viz:size value="79.89528"></viz:size>
+        <viz:position x="-819.39105" y="23.533491"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="communes of drome">
+        <viz:size value="79.794754"></viz:size>
+        <viz:position x="13.197669" y="1259.4495"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="communes of loire">
+        <viz:size value="79.39266"></viz:size>
+        <viz:position x="1204.5818" y="404.98163"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="communes of ille et vilaine">
+        <viz:size value="79.19161"></viz:size>
+        <viz:position x="827.1863" y="491.62256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="communes of gard">
+        <viz:size value="79.091095"></viz:size>
+        <viz:position x="-484.08514" y="-339.64404"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="communes of chile">
+        <viz:size value="78.78951"></viz:size>
+        <viz:position x="-689.93744" y="-1037.5656"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="communes of lot">
+        <viz:size value="78.689"></viz:size>
+        <viz:position x="-1239.2521" y="135.016"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="communes of herault">
+        <viz:size value="78.689"></viz:size>
+        <viz:position x="698.9394" y="-637.5782"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="communes of ardeche">
+        <viz:size value="78.487946"></viz:size>
+        <viz:position x="-853.80914" y="-211.18625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="communes of loiret">
+        <viz:size value="78.38742"></viz:size>
+        <viz:position x="142.242" y="-374.73257"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="communes of landes">
+        <viz:size value="78.18638"></viz:size>
+        <viz:position x="-1187.6118" y="359.7802"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="communes of ariege">
+        <viz:size value="78.18638"></viz:size>
+        <viz:position x="862.306" y="-807.4093"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="communes of tarn">
+        <viz:size value="77.88482"></viz:size>
+        <viz:position x="-711.18964" y="-401.40253"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="communes of allier">
+        <viz:size value="77.68376"></viz:size>
+        <viz:position x="814.52856" y="719.0636"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="communes of lot et garonne">
+        <viz:size value="77.58324"></viz:size>
+        <viz:position x="183.26593" y="-1024.9178"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="communes of savoie">
+        <viz:size value="77.28166"></viz:size>
+        <viz:position x="-519.2071" y="295.1856"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="communes of aveyron">
+        <viz:size value="77.28166"></viz:size>
+        <viz:position x="-767.5148" y="248.11636"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="communes of nievre">
+        <viz:size value="77.28166"></viz:size>
+        <viz:position x="1169.5831" y="-483.86563"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="communes of deux sevres">
+        <viz:size value="77.08062"></viz:size>
+        <viz:position x="52.415554" y="652.02606"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="communes of haute savoie">
+        <viz:size value="76.578"></viz:size>
+        <viz:position x="769.60675" y="245.62009"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="communes of loir et cher">
+        <viz:size value="76.47748"></viz:size>
+        <viz:position x="1181.0637" y="176.64891"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="communes of cher">
+        <viz:size value="76.17592"></viz:size>
+        <viz:position x="75.94861" y="-611.7204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="communes of vendee">
+        <viz:size value="76.17592"></viz:size>
+        <viz:position x="-443.6471" y="1170.2574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="communes of correze">
+        <viz:size value="76.075386"></viz:size>
+        <viz:position x="609.40186" y="631.99744"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="communes of finistere">
+        <viz:size value="75.97486"></viz:size>
+        <viz:position x="-869.1667" y="964.4704"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="communes of vienne">
+        <viz:size value="75.77382"></viz:size>
+        <viz:position x="915.0942" y="-547.8706"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="communes of indre et loire">
+        <viz:size value="75.57276"></viz:size>
+        <viz:position x="126.22243" y="255.0683"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="communes of niger">
+        <viz:size value="75.37172"></viz:size>
+        <viz:position x="127.928085" y="-1262.6388"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="communes of mayenne">
+        <viz:size value="74.8691"></viz:size>
+        <viz:position x="609.6074" y="-220.45767"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="communes of morbihan">
+        <viz:size value="74.8691"></viz:size>
+        <viz:position x="-352.30524" y="125.4067"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="communes of tunisia">
+        <viz:size value="74.76858"></viz:size>
+        <viz:position x="649.19885" y="1075.8303"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="communes of cantal">
+        <viz:size value="74.76858"></viz:size>
+        <viz:position x="1235.5051" y="-259.56412"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="communes of yvelines">
+        <viz:size value="74.76858"></viz:size>
+        <viz:position x="398.06998" y="965.32855"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="128" label="communes of haute loire">
+        <viz:size value="74.66805"></viz:size>
+        <viz:position x="-859.46814" y="-886.1951"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="129" label="communes of creuse">
+        <viz:size value="74.66805"></viz:size>
+        <viz:position x="-497.32874" y="921.1654"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="130" label="communes of cameroon">
+        <viz:size value="74.467"></viz:size>
+        <viz:position x="-106.9645" y="180.95079"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="131" label="communes of indre">
+        <viz:size value="73.96439"></viz:size>
+        <viz:position x="-341.60175" y="755.6547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="132" label="communes of rhone">
+        <viz:size value="73.36125"></viz:size>
+        <viz:position x="-416.4515" y="508.54068"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="133" label="communes of haute corse">
+        <viz:size value="73.26073"></viz:size>
+        <viz:position x="-589.8645" y="74.91206"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="134" label="communes of pyrenees orientales">
+        <viz:size value="72.85863"></viz:size>
+        <viz:position x="-220.56358" y="-921.0246"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="135" label="communes of loire atlantique">
+        <viz:size value="72.7581"></viz:size>
+        <viz:position x="-1145.2256" y="-541.8617"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="136" label="communes of mauritania">
+        <viz:size value="71.65235"></viz:size>
+        <viz:position x="-43.755825" y="1037.9912"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="137" label="communes of bac giang province">
+        <viz:size value="71.25025"></viz:size>
+        <viz:position x="-942.13214" y="415.3134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="138" label="communes of alpes de haute provence">
+        <viz:size value="71.0492"></viz:size>
+        <viz:position x="-1064.3411" y="-267.55722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="139" label="communes of haute vienne">
+        <viz:size value="71.0492"></viz:size>
+        <viz:position x="-156.29631" y="-683.9546"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="140" label="communes of essonne">
+        <viz:size value="70.546585"></viz:size>
+        <viz:position x="-321.3621" y="-508.6154"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="141" label="communes of tarn et garonne">
+        <viz:size value="70.44607"></viz:size>
+        <viz:position x="-566.1714" y="665.3995"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="142" label="communes of lozere">
+        <viz:size value="70.34554"></viz:size>
+        <viz:position x="359.91302" y="314.9445"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="143" label="communes of val d oise">
+        <viz:size value="69.7424"></viz:size>
+        <viz:position x="589.2029" y="849.28156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="144" label="communes of hautes alpes">
+        <viz:size value="69.34031"></viz:size>
+        <viz:position x="-276.17178" y="998.35583"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="145" label="communes of alpes maritimes">
+        <viz:size value="67.83245"></viz:size>
+        <viz:position x="456.50848" y="-63.0866"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="146" label="communes of var">
+        <viz:size value="67.02827"></viz:size>
+        <viz:position x="-35.952606" y="417.0202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="147" label="communes of vaucluse">
+        <viz:size value="66.82722"></viz:size>
+        <viz:position x="946.07947" y="96.53415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="148" label="communes of haiti">
+        <viz:size value="66.22408"></viz:size>
+        <viz:position x="-186.41156" y="586.9649"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="149" label="communes of corse du sud">
+        <viz:size value="64.01256"></viz:size>
+        <viz:position x="-267.06097" y="344.6663"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="150" label="communes of bac kan province">
+        <viz:size value="63.50994"></viz:size>
+        <viz:position x="240.45433" y="-783.52704"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="151" label="communes of bouches du rhone">
+        <viz:size value="63.20837"></viz:size>
+        <viz:position x="702.8376" y="16.658983"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="152" label="communes of quang binh province">
+        <viz:size value="62.504707"></viz:size>
+        <viz:position x="-790.24066" y="-643.75323"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="153" label="communes of burundi">
+        <viz:size value="61.80104"></viz:size>
+        <viz:position x="-414.03656" y="-102.22802"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="154" label="communes in olt county">
+        <viz:size value="61.29842"></viz:size>
+        <viz:position x="191.71689" y="1062.2671"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="155" label="communes in dolj county">
+        <viz:size value="61.29842"></viz:size>
+        <viz:position x="-386.43356" y="-735.9439"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="156" label="communes of the territoire de belfort">
+        <viz:size value="61.1979"></viz:size>
+        <viz:position x="-1002.09393" y="774.75256"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="157" label="communes in suceava county">
+        <viz:size value="60.39371"></viz:size>
+        <viz:position x="843.4952" y="-150.80188"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="communes of dien bien province">
+        <viz:size value="60.293186"></viz:size>
+        <viz:position x="248.89044" y="1271.8002"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="communes of benin">
+        <viz:size value="57.27748"></viz:size>
+        <viz:position x="869.37573" y="1192.8773"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="communes of guadeloupe">
+        <viz:size value="44.61151"></viz:size>
+        <viz:position x="1460.6014" y="-206.7381"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="communes of france">
+        <viz:size value="38.781147"></viz:size>
+        <viz:position x="-1263.491" y="-98.001076"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="communes of savanes district">
+        <viz:size value="37.37382"></viz:size>
+        <viz:position x="-1139.7341" y="-923.16644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="communes of woroba district">
+        <viz:size value="35.865963"></viz:size>
+        <viz:position x="1208.8607" y="-870.7078"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="communes of vallee du bandama district">
+        <viz:size value="35.06178"></viz:size>
+        <viz:position x="-1266.586" y="-343.3789"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="communes of lacs district">
+        <viz:size value="34.157063"></viz:size>
+        <viz:position x="509.44785" y="-1379.5227"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="communes of poro region">
+        <viz:size value="28.728794"></viz:size>
+        <viz:position x="-997.5841" y="-1075.297"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="communes of hambol">
+        <viz:size value="28.728794"></viz:size>
+        <viz:position x="-1464.4163" y="-264.30048"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="communes of montagnes district">
+        <viz:size value="27.321463"></viz:size>
+        <viz:position x="-271.26788" y="1443.6001"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="communes of denguele district">
+        <viz:size value="27.321463"></viz:size>
+        <viz:position x="-414.1657" y="-1399.2782"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="communes of sassandra-marahoue district">
+        <viz:size value="25.81361"></viz:size>
+        <viz:position x="1020.04584" y="801.2362"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="communes of tonkpi">
+        <viz:size value="25.81361"></viz:size>
+        <viz:position x="-217.02122" y="1229.0513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="communes of worodougou">
+        <viz:size value="24.10471"></viz:size>
+        <viz:position x="1033.0814" y="-978.0153"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="communes of gbeke">
+        <viz:size value="24.10471"></viz:size>
+        <viz:position x="-1389.9344" y="-529.62787"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="communes in yorubaland">
+        <viz:size value="24.10471"></viz:size>
+        <viz:position x="831.0843" y="954.4271"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="communes of kabadougou">
+        <viz:size value="24.10471"></viz:size>
+        <viz:position x="-209.25941" y="-1471.2665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="communes of goh-djiboua district">
+        <viz:size value="24.10471"></viz:size>
+        <viz:position x="461.3396" y="1189.3822"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="communes of ien bien province">
+        <viz:size value="24.10471"></viz:size>
+        <viz:position x="184.40407" y="1474.3975"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="communes of sud-comoe">
+        <viz:size value="22.194761"></viz:size>
+        <viz:position x="-1340.5575" y="610.69415"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="communes of comoe district">
+        <viz:size value="22.194761"></viz:size>
+        <viz:position x="-1410.1807" y="406.0414"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="communes of haut-sassandra">
+        <viz:size value="22.194761"></viz:size>
+        <viz:position x="1053.8523" y="1039.4161"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="communes of zanzan district">
+        <viz:size value="22.194761"></viz:size>
+        <viz:position x="-896.28235" y="1184.0708"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="communes of bafing region">
+        <viz:size value="22.194761"></viz:size>
+        <viz:position x="1323.7318" y="-656.50946"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="communes of gontougo">
+        <viz:size value="22.194761"></viz:size>
+        <viz:position x="-1090.9167" y="1009.7525"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="communes of bagoue">
+        <viz:size value="22.194761"></viz:size>
+        <viz:position x="-1274.1249" y="-743.0116"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="communes of bere region">
+        <viz:size value="19.88272"></viz:size>
+        <viz:position x="934.0206" y="-1162.6338"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="communes of bas-sassandra district">
+        <viz:size value="19.88272"></viz:size>
+        <viz:position x="1418.5377" y="454.1929"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="communes of belier">
+        <viz:size value="19.88272"></viz:size>
+        <viz:position x="346.67932" y="-1208.027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="communes of nawa region">
+        <viz:size value="19.88272"></viz:size>
+        <viz:position x="1299.4762" y="643.4204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="communes of tchologo">
+        <viz:size value="19.88272"></viz:size>
+        <viz:position x="-834.41754" y="-1209.0817"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="communes of goh">
+        <viz:size value="17.269108"></viz:size>
+        <viz:position x="441.47314" y="1418.7073"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="communes of loh-djiboua">
+        <viz:size value="17.269108"></viz:size>
+        <viz:position x="667.56537" y="1318.705"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="communes of niamey">
+        <viz:size value="17.269108"></viz:size>
+        <viz:position x="48.518345" y="-1481.2051"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="communes of iffou">
+        <viz:size value="17.269108"></viz:size>
+        <viz:position x="722.581" y="-1289.2858"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="communes of marahoue">
+        <viz:size value="17.269108"></viz:size>
+        <viz:position x="1223.0828" y="848.1375"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="communes of moronou region">
+        <viz:size value="17.269108"></viz:size>
+        <viz:position x="557.91675" y="-1129.9714"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="communes of folon region">
+        <viz:size value="14.052355"></viz:size>
+        <viz:position x="-642.6741" y="-1340.7455"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="communes of san-pedro region">
+        <viz:size value="14.052355"></viz:size>
+        <viz:position x="1423.3892" y="237.37411"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="communes of indenie-djuablin">
+        <viz:size value="14.052355"></viz:size>
+        <viz:position x="-1457.3083" y="197.19649"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="communes of cavally region">
+        <viz:size value="14.052355"></viz:size>
+        <viz:position x="-52.70687" y="1473.3625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="communes of bounkani">
+        <viz:size value="14.052355"></viz:size>
+        <viz:position x="-691.6776" y="1302.3569"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="communes of guemon">
+        <viz:size value="14.052355"></viz:size>
+        <viz:position x="-482.8838" y="1391.2316"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="communes of n zi region">
+        <viz:size value="9.830366"></viz:size>
+        <viz:position x="288.84894" y="-1449.4165"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="communes of marie-galante">
+        <viz:size value="9.830366"></viz:size>
+        <viz:position x="1487.3112" y="28.575478"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="communes in orne">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1230.8568" y="810.7565"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="communes of Iles des saintes">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="1410.6907" y="-433.79224"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="armorial of the communes of france, by department">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1472.8856" y="-25.27034"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="10.0"></edge>
+      <edge id="1" source="2" target="3" weight="10.0"></edge>
+      <edge id="2" source="4" target="5" weight="8.0"></edge>
+      <edge id="3" source="6" target="7" weight="7.0"></edge>
+      <edge id="4" source="8" target="9" weight="7.0"></edge>
+      <edge id="5" source="10" target="0" weight="7.0"></edge>
+      <edge id="6" source="11" target="12" weight="7.0"></edge>
+      <edge id="7" source="11" target="13" weight="6.0"></edge>
+      <edge id="8" source="14" target="15" weight="6.0"></edge>
+      <edge id="9" source="16" target="17" weight="6.0"></edge>
+      <edge id="10" source="18" target="3" weight="6.0"></edge>
+      <edge id="11" source="11" target="19" weight="5.0"></edge>
+      <edge id="12" source="20" target="21" weight="5.0"></edge>
+      <edge id="13" source="22" target="23" weight="5.0"></edge>
+      <edge id="14" source="24" target="25" weight="5.0"></edge>
+      <edge id="15" source="26" target="27" weight="5.0"></edge>
+      <edge id="16" source="16" target="28" weight="4.0"></edge>
+      <edge id="17" source="16" target="29" weight="4.0"></edge>
+      <edge id="18" source="3" target="30" weight="4.0"></edge>
+      <edge id="19" source="31" target="32" weight="4.0"></edge>
+      <edge id="20" source="31" target="33" weight="4.0"></edge>
+      <edge id="21" source="34" target="35" weight="4.0"></edge>
+      <edge id="22" source="24" target="36" weight="4.0"></edge>
+      <edge id="23" source="8" target="37" weight="3.0"></edge>
+      <edge id="24" source="38" target="39" weight="3.0"></edge>
+      <edge id="25" source="34" target="40" weight="2.0"></edge>
+      <edge id="26" source="41" target="38" weight="2.0"></edge>
+      <edge id="27" source="16" target="42" weight="2.0"></edge>
+      <edge id="28" source="20" target="43" weight="2.0"></edge>
+      <edge id="29" source="14" target="44" weight="2.0"></edge>
+      <edge id="30" source="22" target="45" weight="2.0"></edge>
+      <edge id="31" source="46" target="14" weight="2.0"></edge>
+      <edge id="32" source="47" target="48"></edge>
+      <edge id="33" source="49" target="50"></edge>
+    </edges>
+  </graph>
+</gexf>

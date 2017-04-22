@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="1" label="new york giants">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="-114.93006" y="-81.95792"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="4" label="san francisco giants">
+        <viz:size value="88.70056"></viz:size>
+        <viz:position x="510.46967" y="-395.10605"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="k-type giants">
+        <viz:size value="78.305084"></viz:size>
+        <viz:position x="-471.50925" y="957.3432"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="huddersfield giants">
+        <viz:size value="70.0791"></viz:size>
+        <viz:position x="-861.91284" y="14.637622"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="yomiuri giants">
+        <viz:size value="69.44633"></viz:size>
+        <viz:position x="824.0779" y="467.76575"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="g type giants">
+        <viz:size value="68.0"></viz:size>
+        <viz:position x="1069.3524" y="637.3574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="san jose giants players">
+        <viz:size value="65.46893"></viz:size>
+        <viz:position x="1272.9386" y="-78.07193"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="m-type giants">
+        <viz:size value="65.28813"></viz:size>
+        <viz:position x="-685.42975" y="-1085.8275"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="phoenix giants players">
+        <viz:size value="64.293785"></viz:size>
+        <viz:position x="486.32852" y="-810.8201"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="b-type giants">
+        <viz:size value="60.768364"></viz:size>
+        <viz:position x="-1053.399" y="-166.1328"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="jersey city giants players">
+        <viz:size value="60.406776"></viz:size>
+        <viz:position x="69.38206" y="333.0873"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="chicago giants players">
+        <viz:size value="59.77401"></viz:size>
+        <viz:position x="320.2197" y="971.69434"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="arizona league giants players">
+        <viz:size value="56.610172"></viz:size>
+        <viz:position x="815.1461" y="144.42792"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="fresno giants players">
+        <viz:size value="54.892654"></viz:size>
+        <viz:position x="601.0029" y="-613.05286"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="dallas giants players">
+        <viz:size value="52.723164"></viz:size>
+        <viz:position x="-713.65015" y="1065.7065"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="tacoma giants players">
+        <viz:size value="52.090397"></viz:size>
+        <viz:position x="343.1745" y="-581.45135"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="gas giants">
+        <viz:size value="51.096046"></viz:size>
+        <viz:position x="-1236.9884" y="-375.48508"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="brooklyn royal giants players">
+        <viz:size value="48.38418"></viz:size>
+        <viz:position x="-217.84578" y="994.68604"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="fictional giants">
+        <viz:size value="47.661015"></viz:size>
+        <viz:position x="-1057.8445" y="147.0183"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="lincoln giants players">
+        <viz:size value="46.75706"></viz:size>
+        <viz:position x="39.72416" y="1061.0103"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="philadelphia giants players">
+        <viz:size value="44.858757"></viz:size>
+        <viz:position x="91.329735" y="842.50934"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="springfield giants players">
+        <viz:size value="44.316383"></viz:size>
+        <viz:position x="215.26794" y="-786.02594"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="newark little giants players">
+        <viz:size value="43.683613"></viz:size>
+        <viz:position x="-400.77695" y="705.14386"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="great falls giants players">
+        <viz:size value="43.683613"></viz:size>
+        <viz:position x="922.336" y="-545.77826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="seattle giants players">
+        <viz:size value="43.683613"></viz:size>
+        <viz:position x="-1099.1274" y="679.20483"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="bacharach giants players">
+        <viz:size value="43.683613"></viz:size>
+        <viz:position x="537.9291" y="862.85077"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="clinton giants players">
+        <viz:size value="43.41243"></viz:size>
+        <viz:position x="763.83466" y="-125.2294"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="everett giants players">
+        <viz:size value="42.056496"></viz:size>
+        <viz:position x="1258.5742" y="178.00385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="giants in fiction">
+        <viz:size value="41.694916"></viz:size>
+        <viz:position x="-902.5298" y="-929.49615"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="amarillo giants players">
+        <viz:size value="41.333332"></viz:size>
+        <viz:position x="766.4523" y="-370.4308"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="memphis giants players">
+        <viz:size value="41.333332"></viz:size>
+        <viz:position x="-466.51154" y="-966.6284"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="bridgeport giants players">
+        <viz:size value="40.971752"></viz:size>
+        <viz:position x="-661.21985" y="782.08295"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="baltimore elite giants players">
+        <viz:size value="39.70621"></viz:size>
+        <viz:position x="558.4332" y="572.5662"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="leland giants players">
+        <viz:size value="39.34463"></viz:size>
+        <viz:position x="324.60983" y="696.9774"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="o-type giants">
+        <viz:size value="37.898304"></viz:size>
+        <viz:position x="-991.6394" y="-432.26736"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="shreveport giants">
+        <viz:size value="37.898304"></viz:size>
+        <viz:position x="-915.2556" y="896.83624"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="youngstown giants players">
+        <viz:size value="36.903954"></viz:size>
+        <viz:position x="-721.8044" y="239.55556"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="st louis giants players">
+        <viz:size value="36.36158"></viz:size>
+        <viz:position x="61.32996" y="1291.4625"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="trenton giants players">
+        <viz:size value="35.819206"></viz:size>
+        <viz:position x="322.3204" y="168.42444"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="portland giants players">
+        <viz:size value="34.0113"></viz:size>
+        <viz:position x="-652.7678" y="498.92087"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="fort smith giants players">
+        <viz:size value="34.0113"></viz:size>
+        <viz:position x="-278.16385" y="-259.616"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="north melbourne giants">
+        <viz:size value="32.655365"></viz:size>
+        <viz:position x="63.776627" y="-1269.3073"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="cuban giants players">
+        <viz:size value="32.655365"></viz:size>
+        <viz:position x="84.84451" y="584.4583"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="ottawa giants players">
+        <viz:size value="31.932205"></viz:size>
+        <viz:position x="588.31256" y="314.34924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="waterbury giants players">
+        <viz:size value="31.932205"></viz:size>
+        <viz:position x="773.2751" y="-1010.9699"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="corpus christi giants players">
+        <viz:size value="31.118645"></viz:size>
+        <viz:position x="25.949858" y="-309.59958"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="richmond giants players">
+        <viz:size value="31.118645"></viz:size>
+        <viz:position x="-214.2576" y="-504.8488"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="victoria giants players">
+        <viz:size value="31.118645"></viz:size>
+        <viz:position x="328.38257" y="-1018.7303"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="rio grande valley giants players">
+        <viz:size value="30.305086"></viz:size>
+        <viz:position x="68.3921" y="-549.0532"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="quincy giants players">
+        <viz:size value="29.401129"></viz:size>
+        <viz:position x="-58.539555" y="-749.65283"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="paterson giants players">
+        <viz:size value="28.40678"></viz:size>
+        <viz:position x="-530.5414" y="-286.6075"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="lexington giants players">
+        <viz:size value="28.40678"></viz:size>
+        <viz:position x="564.71857" y="-1111.4978"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="bellingham giants players">
+        <viz:size value="27.322033"></viz:size>
+        <viz:position x="1211.2028" y="439.4396"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="ottumwa giants players">
+        <viz:size value="27.322033"></viz:size>
+        <viz:position x="-471.56357" y="-533.1259"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="dungeons dragons giants">
+        <viz:size value="27.322033"></viz:size>
+        <viz:position x="-1190.0784" y="434.5979"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="fort scott giants players">
+        <viz:size value="26.237288"></viz:size>
+        <viz:position x="-937.0613" y="378.77545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="manchester giants players">
+        <viz:size value="26.237288"></viz:size>
+        <viz:position x="31.843618" y="113.74003"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="galveston giants players">
+        <viz:size value="26.237288"></viz:size>
+        <viz:position x="-200.58409" y="-990.38794"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="muskogee giants players">
+        <viz:size value="24.97175"></viz:size>
+        <viz:position x="258.82608" y="-320.7981"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="english giants">
+        <viz:size value="24.97175"></viz:size>
+        <viz:position x="-1278.6569" y="-86.09741"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="hastings giants players">
+        <viz:size value="23.61582"></viz:size>
+        <viz:position x="67.57172" y="-1001.3307"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="batavia giants players">
+        <viz:size value="23.61582"></viz:size>
+        <viz:position x="-630.8069" y="-783.0826"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="salt lake city giants players">
+        <viz:size value="23.61582"></viz:size>
+        <viz:position x="996.2673" y="-225.84874"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="oshkosh giants players">
+        <viz:size value="23.61582"></viz:size>
+        <viz:position x="459.47186" y="-146.93904"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="topeka giants players">
+        <viz:size value="23.61582"></viz:size>
+        <viz:position x="-333.39102" y="-751.0776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="joliet giants players">
+        <viz:size value="22.079096"></viz:size>
+        <viz:position x="-875.76935" y="-701.877"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="sharon giants players">
+        <viz:size value="22.079096"></viz:size>
+        <viz:position x="-163.70367" y="482.95193"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="cedar rapids giants players">
+        <viz:size value="20.361582"></viz:size>
+        <viz:position x="1017.66736" y="-813.11487"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="dominican summer league giants players">
+        <viz:size value="20.361582"></viz:size>
+        <viz:position x="1004.7613" y="313.24014"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="harrisburg giants players">
+        <viz:size value="20.361582"></viz:size>
+        <viz:position x="-150.8726" y="753.8901"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="red giants">
+        <viz:size value="18.282486"></viz:size>
+        <viz:position x="-427.07248" y="-1216.3093"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="salisbury giants players">
+        <viz:size value="18.282486"></viz:size>
+        <viz:position x="-210.80603" y="221.01852"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="artesia giants players">
+        <viz:size value="18.282486"></viz:size>
+        <viz:position x="773.0007" y="-781.46924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="college of the sequoias giants baseball players">
+        <viz:size value="18.282486"></viz:size>
+        <viz:position x="1160.7877" y="-559.2782"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="sunbury giants players">
+        <viz:size value="18.282486"></viz:size>
+        <viz:position x="557.16595" y="67.07417"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="canandaigua giants players">
+        <viz:size value="18.282486"></viz:size>
+        <viz:position x="-865.44257" y="627.48895"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="nashville elite giants players">
+        <viz:size value="18.282486"></viz:size>
+        <viz:position x="553.8331" y="1153.7175"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="ice giants">
+        <viz:size value="15.932202"></viz:size>
+        <viz:position x="-1120.1829" y="-658.71545"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="columbus elite giants players">
+        <viz:size value="15.932202"></viz:size>
+        <viz:position x="764.0343" y="715.6872"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="washington elite giants players">
+        <viz:size value="15.932202"></viz:size>
+        <viz:position x="758.46" y="1016.7732"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="pocatello giants players">
+        <viz:size value="15.932202"></viz:size>
+        <viz:position x="1206.1923" y="-324.8202"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="goldsboro giants players">
+        <viz:size value="15.932202"></viz:size>
+        <viz:position x="-794.11005" y="-253.55176"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="wilmington giants players">
+        <viz:size value="15.932202"></viz:size>
+        <viz:position x="-720.6331" y="-506.74966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="marvel comics giants">
+        <viz:size value="15.932202"></viz:size>
+        <viz:position x="-1282.4207" y="185.02538"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="elmwood giants players">
+        <viz:size value="13.039548"></viz:size>
+        <viz:position x="958.52673" y="858.81885"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="medford giants players">
+        <viz:size value="13.039548"></viz:size>
+        <viz:position x="1033.5115" y="29.565058"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="houghton giants players">
+        <viz:size value="13.039548"></viz:size>
+        <viz:position x="-613.2074" y="-36.20195"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="natchez giants players">
+        <viz:size value="9.242938"></viz:size>
+        <viz:position x="-475.4857" y="214.78218"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="lawton giants players">
+        <viz:size value="9.242938"></viz:size>
+        <viz:position x="197.23526" y="-59.89878"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="lakeland giants players">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="323.1069" y="-1254.2097"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="columbia giants players">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-197.78743" y="1247.6116"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="cleveland giants players">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="311.45993" y="1229.2693"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="lake charles giants players">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-172.99379" y="-1245.2207"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="roswell giants players">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-408.6892" y="452.64587"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="greenwood giants players">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-359.85226" y="-9.51383"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="l-type giants">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-461.2009" y="1204.3177"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="jackson giants players">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="332.20493" y="424.75134"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="84.0"></edge>
+      <edge id="1" source="2" target="3" weight="73.0"></edge>
+      <edge id="2" source="4" target="2" weight="66.0"></edge>
+      <edge id="3" source="4" target="5" weight="46.0"></edge>
+      <edge id="4" source="6" target="7" weight="33.0"></edge>
+      <edge id="5" source="6" target="4" weight="28.0"></edge>
+      <edge id="6" source="8" target="5" weight="27.0"></edge>
+      <edge id="7" source="6" target="8" weight="27.0"></edge>
+      <edge id="8" source="9" target="4" weight="26.0"></edge>
+      <edge id="9" source="4" target="10" weight="26.0"></edge>
+      <edge id="10" source="9" target="8" weight="25.0"></edge>
+      <edge id="11" source="11" target="12" weight="25.0"></edge>
+      <edge id="12" source="13" target="5" weight="24.0"></edge>
+      <edge id="13" source="9" target="7" weight="23.0"></edge>
+      <edge id="14" source="10" target="14" weight="20.0"></edge>
+      <edge id="15" source="15" target="12" weight="19.0"></edge>
+      <edge id="16" source="10" target="3" weight="19.0"></edge>
+      <edge id="17" source="11" target="16" weight="17.0"></edge>
+      <edge id="18" source="17" target="11" weight="16.0"></edge>
+      <edge id="19" source="15" target="17" weight="13.0"></edge>
+      <edge id="20" source="18" target="8" weight="13.0"></edge>
+      <edge id="21" source="5" target="7" weight="12.0"></edge>
+      <edge id="22" source="1" target="19" weight="12.0"></edge>
+      <edge id="23" source="7" target="18" weight="12.0"></edge>
+      <edge id="24" source="1" target="20" weight="12.0"></edge>
+      <edge id="25" source="4" target="18" weight="11.0"></edge>
+      <edge id="26" source="0" target="21" weight="10.0"></edge>
+      <edge id="27" source="17" target="22" weight="10.0"></edge>
+      <edge id="28" source="22" target="16" weight="10.0"></edge>
+      <edge id="29" source="15" target="16" weight="10.0"></edge>
+      <edge id="30" source="23" target="17" weight="9.0"></edge>
+      <edge id="31" source="4" target="24" weight="7.0"></edge>
+      <edge id="32" source="9" target="13" weight="7.0"></edge>
+      <edge id="33" source="13" target="25" weight="7.0"></edge>
+      <edge id="34" source="7" target="10" weight="7.0"></edge>
+      <edge id="35" source="21" target="20" weight="7.0"></edge>
+      <edge id="36" source="23" target="12" weight="7.0"></edge>
+      <edge id="37" source="24" target="7" weight="6.0"></edge>
+      <edge id="38" source="26" target="2" weight="6.0"></edge>
+      <edge id="39" source="4" target="27" weight="6.0"></edge>
+      <edge id="40" source="24" target="8" weight="6.0"></edge>
+      <edge id="41" source="4" target="25" weight="6.0"></edge>
+      <edge id="42" source="25" target="8" weight="5.0"></edge>
+      <edge id="43" source="13" target="28" weight="5.0"></edge>
+      <edge id="44" source="13" target="18" weight="5.0"></edge>
+      <edge id="45" source="29" target="12" weight="5.0"></edge>
+      <edge id="46" source="0" target="30" weight="5.0"></edge>
+      <edge id="47" source="13" target="27" weight="5.0"></edge>
+      <edge id="48" source="8" target="27" weight="5.0"></edge>
+      <edge id="49" source="13" target="31" weight="4.0"></edge>
+      <edge id="50" source="8" target="10" weight="4.0"></edge>
+      <edge id="51" source="1" target="32" weight="4.0"></edge>
+      <edge id="52" source="33" target="17" weight="4.0"></edge>
+      <edge id="53" source="34" target="7" weight="4.0"></edge>
+      <edge id="54" source="35" target="36" weight="4.0"></edge>
+      <edge id="55" source="6" target="37" weight="4.0"></edge>
+      <edge id="56" source="4" target="38" weight="4.0"></edge>
+      <edge id="57" source="9" target="39" weight="4.0"></edge>
+      <edge id="58" source="16" target="40" weight="4.0"></edge>
+      <edge id="59" source="41" target="0" weight="4.0"></edge>
+      <edge id="60" source="38" target="13" weight="4.0"></edge>
+      <edge id="61" source="7" target="42" weight="3.0"></edge>
+      <edge id="62" source="4" target="34" weight="3.0"></edge>
+      <edge id="63" source="41" target="19" weight="3.0"></edge>
+      <edge id="64" source="1" target="43" weight="3.0"></edge>
+      <edge id="65" source="8" target="28" weight="3.0"></edge>
+      <edge id="66" source="44" target="45" weight="3.0"></edge>
+      <edge id="67" source="22" target="12" weight="3.0"></edge>
+      <edge id="68" source="23" target="16" weight="3.0"></edge>
+      <edge id="69" source="46" target="47" weight="3.0"></edge>
+      <edge id="70" source="4" target="20" weight="3.0"></edge>
+      <edge id="71" source="31" target="4" weight="3.0"></edge>
+      <edge id="72" source="29" target="17" weight="3.0"></edge>
+      <edge id="73" source="13" target="42" weight="3.0"></edge>
+      <edge id="74" source="8" target="34" weight="3.0"></edge>
+      <edge id="75" source="2" target="48" weight="3.0"></edge>
+      <edge id="76" source="18" target="37" weight="2.0"></edge>
+      <edge id="77" source="4" target="49" weight="2.0"></edge>
+      <edge id="78" source="50" target="51" weight="2.0"></edge>
+      <edge id="79" source="4" target="28" weight="2.0"></edge>
+      <edge id="80" source="52" target="17" weight="2.0"></edge>
+      <edge id="81" source="17" target="53" weight="2.0"></edge>
+      <edge id="82" source="54" target="2" weight="2.0"></edge>
+      <edge id="83" source="31" target="8" weight="2.0"></edge>
+      <edge id="84" source="13" target="24" weight="2.0"></edge>
+      <edge id="85" source="17" target="55" weight="2.0"></edge>
+      <edge id="86" source="4" target="42" weight="2.0"></edge>
+      <edge id="87" source="2" target="39" weight="2.0"></edge>
+      <edge id="88" source="20" target="30" weight="2.0"></edge>
+      <edge id="89" source="1" target="49" weight="2.0"></edge>
+      <edge id="90" source="56" target="19" weight="2.0"></edge>
+      <edge id="91" source="31" target="7" weight="2.0"></edge>
+      <edge id="92" source="57" target="19" weight="2.0"></edge>
+      <edge id="93" source="46" target="17" weight="2.0"></edge>
+      <edge id="94" source="48" target="9" weight="2.0"></edge>
+      <edge id="95" source="6" target="39" weight="2.0"></edge>
+      <edge id="96" source="10" target="58" weight="2.0"></edge>
+      <edge id="97" source="59" target="28" weight="2.0"></edge>
+      <edge id="98" source="20" target="40" weight="2.0"></edge>
+      <edge id="99" source="60" target="61" weight="2.0"></edge>
+      <edge id="100" source="1" target="27" weight="2.0"></edge>
+      <edge id="101" source="62" target="43" weight="2.0"></edge>
+      <edge id="102" source="50" target="63" weight="2.0"></edge>
+      <edge id="103" source="64" target="49" weight="2.0"></edge>
+      <edge id="104" source="1" target="65" weight="2.0"></edge>
+      <edge id="105" source="66" target="67"></edge>
+      <edge id="106" source="68" target="45"></edge>
+      <edge id="107" source="38" target="8"></edge>
+      <edge id="108" source="5" target="58"></edge>
+      <edge id="109" source="25" target="7"></edge>
+      <edge id="110" source="1" target="69"></edge>
+      <edge id="111" source="17" target="40"></edge>
+      <edge id="112" source="64" target="20"></edge>
+      <edge id="113" source="67" target="42"></edge>
+      <edge id="114" source="1" target="42"></edge>
+      <edge id="115" source="13" target="34"></edge>
+      <edge id="116" source="70" target="65"></edge>
+      <edge id="117" source="16" target="53"></edge>
+      <edge id="118" source="49" target="13"></edge>
+      <edge id="119" source="71" target="72"></edge>
+      <edge id="120" source="1" target="73"></edge>
+      <edge id="121" source="56" target="20"></edge>
+      <edge id="122" source="21" target="49"></edge>
+      <edge id="123" source="64" target="27"></edge>
+      <edge id="124" source="5" target="74"></edge>
+      <edge id="125" source="75" target="19"></edge>
+      <edge id="126" source="12" target="76"></edge>
+      <edge id="127" source="17" target="76"></edge>
+      <edge id="128" source="65" target="67"></edge>
+      <edge id="129" source="16" target="76"></edge>
+      <edge id="130" source="65" target="77"></edge>
+      <edge id="131" source="78" target="66"></edge>
+      <edge id="132" source="29" target="16"></edge>
+      <edge id="133" source="1" target="38"></edge>
+      <edge id="134" source="79" target="9"></edge>
+      <edge id="135" source="1" target="80"></edge>
+      <edge id="136" source="13" target="81"></edge>
+      <edge id="137" source="56" target="49"></edge>
+      <edge id="138" source="0" target="82"></edge>
+      <edge id="139" source="83" target="43"></edge>
+      <edge id="140" source="84" target="85"></edge>
+      <edge id="141" source="79" target="6"></edge>
+      <edge id="142" source="56" target="0"></edge>
+      <edge id="143" source="32" target="86"></edge>
+      <edge id="144" source="66" target="87"></edge>
+      <edge id="145" source="8" target="42"></edge>
+      <edge id="146" source="88" target="89"></edge>
+      <edge id="147" source="8" target="49"></edge>
+      <edge id="148" source="75" target="0"></edge>
+      <edge id="149" source="57" target="0"></edge>
+      <edge id="150" source="78" target="42"></edge>
+      <edge id="151" source="90" target="85"></edge>
+      <edge id="152" source="32" target="78"></edge>
+      <edge id="153" source="38" target="7"></edge>
+      <edge id="154" source="45" target="91"></edge>
+      <edge id="155" source="40" target="92"></edge>
+      <edge id="156" source="7" target="27"></edge>
+      <edge id="157" source="93" target="66"></edge>
+      <edge id="158" source="7" target="28"></edge>
+    </edges>
+  </graph>
+</gexf>

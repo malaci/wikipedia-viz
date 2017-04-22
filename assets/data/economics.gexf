@@ -1,0 +1,793 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2017-04-21">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <nodes>
+      <node id="4" label="london school of economics">
+        <viz:size value="100.0"></viz:size>
+        <viz:position x="480.5922" y="-104.89232"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="66" label="economics writers">
+        <viz:size value="73.88878"></viz:size>
+        <viz:position x="1165.5413" y="62.785492"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="8" label="economics books">
+        <viz:size value="73.30637"></viz:size>
+        <viz:position x="-366.2179" y="-405.67307"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="3" label="economics terminology">
+        <viz:size value="70.87968"></viz:size>
+        <viz:position x="-774.6271" y="621.86786"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="77" label="economics journals">
+        <viz:size value="70.39434"></viz:size>
+        <viz:position x="289.73334" y="590.2441"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="0" label="environmental economics">
+        <viz:size value="65.92922"></viz:size>
+        <viz:position x="1380.8848" y="153.99797"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="125" label="norwegian school of economics">
+        <viz:size value="64.86148"></viz:size>
+        <viz:position x="575.9798" y="-611.2181"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="74" label="energy economics">
+        <viz:size value="63.696667"></viz:size>
+        <viz:position x="563.81775" y="987.8038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="44" label="2000s in economics">
+        <viz:size value="63.40546"></viz:size>
+        <viz:position x="-138.82764" y="-425.98102"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="121" label="financial economics">
+        <viz:size value="62.920128"></viz:size>
+        <viz:position x="-532.70105" y="-577.16986"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="126" label="stockholm school of economics">
+        <viz:size value="62.62892"></viz:size>
+        <viz:position x="955.6895" y="-60.27313"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="127" label="business economics">
+        <viz:size value="61.949444"></viz:size>
+        <viz:position x="905.045" y="-301.3574"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="18" label="economics models">
+        <viz:size value="61.36704"></viz:size>
+        <viz:position x="-151.49417" y="1118.4353"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="80" label="labour economics">
+        <viz:size value="61.172905"></viz:size>
+        <viz:position x="-70.772545" y="911.3697"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="37" label="economics organizations">
+        <viz:size value="61.07584"></viz:size>
+        <viz:position x="-1150.9183" y="113.55074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="43" label="welfare economics">
+        <viz:size value="60.105164"></viz:size>
+        <viz:position x="-1175.2559" y="-133.31572"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="108" label="health economics">
+        <viz:size value="59.425686"></viz:size>
+        <viz:position x="-1164.672" y="-782.75366"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="85" label="production economics">
+        <viz:size value="59.037415"></viz:size>
+        <viz:position x="108.26644" y="438.56186"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="42" label="2010s in economics">
+        <viz:size value="57.775536"></viz:size>
+        <viz:position x="-10.955109" y="-233.60074"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="19" label="keynesian economics">
+        <viz:size value="57.29019"></viz:size>
+        <viz:position x="90.939545" y="1164.4038"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="94" label="agricultural economics">
+        <viz:size value="57.193127"></viz:size>
+        <viz:position x="1261.7042" y="-590.03564"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="2" label="monetary economics">
+        <viz:size value="56.028316"></viz:size>
+        <viz:position x="-1002.0282" y="599.45496"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="87" label="public economics">
+        <viz:size value="55.44591"></viz:size>
+        <viz:position x="-88.78061" y="-1.4616544"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="10" label="information economics">
+        <viz:size value="55.44591"></viz:size>
+        <viz:position x="-753.8226" y="-460.32587"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="25" label="law and economics">
+        <viz:size value="55.44591"></viz:size>
+        <viz:position x="-932.7039" y="184.15392"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="63" label="transport economics">
+        <viz:size value="55.154705"></viz:size>
+        <viz:position x="1162.4781" y="-195.66925"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="5" label="nobel laureates in economics">
+        <viz:size value="54.96057"></viz:size>
+        <viz:position x="540.93994" y="173.76445"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="15" label="international economics">
+        <viz:size value="54.378162"></viz:size>
+        <viz:position x="780.08234" y="-494.66907"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="51" label="demographic economics">
+        <viz:size value="53.213352"></viz:size>
+        <viz:position x="229.2284" y="-689.6468"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="57" label="1990s in economics">
+        <viz:size value="52.533875"></viz:size>
+        <viz:position x="-544.1777" y="-302.57584"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="7" label="marxian economics">
+        <viz:size value="52.533875"></viz:size>
+        <viz:position x="-553.44116" y="1286.9155"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="48" label="petroleum economics">
+        <viz:size value="52.048534"></viz:size>
+        <viz:position x="-489.39093" y="-54.798424"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="97" label="development economics">
+        <viz:size value="51.174927"></viz:size>
+        <viz:position x="769.9461" y="-773.0739"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="39" label="1970s in economics">
+        <viz:size value="49.33064"></viz:size>
+        <viz:position x="-329.5337" y="101.04547"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="112" label="ecological economics">
+        <viz:size value="49.33064"></viz:size>
+        <viz:position x="539.71716" y="717.88257"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="83" label="resource economics">
+        <viz:size value="48.748234"></viz:size>
+        <viz:position x="-304.399" y="-1363.9779"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="1" label="economics of sustainability">
+        <viz:size value="48.457027"></viz:size>
+        <viz:position x="1346.0883" y="403.86325"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="111" label="economics schools">
+        <viz:size value="48.457027"></viz:size>
+        <viz:position x="-69.61976" y="-1365.3733"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="116" label="economics websites">
+        <viz:size value="47.583416"></viz:size>
+        <viz:position x="-742.6085" y="-1177.5505"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="41" label="1980s in economics">
+        <viz:size value="47.583416"></viz:size>
+        <viz:position x="-709.34064" y="-159.454"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="9" label="works about economics">
+        <viz:size value="47.00101"></viz:size>
+        <viz:position x="-963.5448" y="-559.9418"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="79" label="economics awards">
+        <viz:size value="46.61274"></viz:size>
+        <viz:position x="-822.6677" y="385.868"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="29" label="1930s in economics">
+        <viz:size value="46.321537"></viz:size>
+        <viz:position x="62.018085" y="693.08374"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="24" label="mathematical economics">
+        <viz:size value="45.642063"></viz:size>
+        <viz:position x="618.6465" y="-1242.5382"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="120" label="family economics">
+        <viz:size value="45.25379"></viz:size>
+        <viz:position x="-1322.6584" y="418.86356"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="16" label="economics lists">
+        <viz:size value="45.25379"></viz:size>
+        <viz:position x="967.522" y="-644.0181"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="99" label="economics research">
+        <viz:size value="44.86552"></viz:size>
+        <viz:position x="961.4829" y="463.53522"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="27" label="economics theorems">
+        <viz:size value="44.477253"></viz:size>
+        <viz:position x="390.96924" y="-1326.4003"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="12" label="economics and climate change">
+        <viz:size value="44.477253"></viz:size>
+        <viz:position x="1386.9272" y="-93.50271"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="72" label="historical school of economics">
+        <viz:size value="44.08898"></viz:size>
+        <viz:position x="607.0367" y="1239.0867"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="28" label="economics paradoxes">
+        <viz:size value="44.08898"></viz:size>
+        <viz:position x="158.81642" y="939.3507"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="38" label="1960s in economics">
+        <viz:size value="43.70071"></viz:size>
+        <viz:position x="-565.65674" y="214.6032"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="71" label="economics of regulation">
+        <viz:size value="43.70071"></viz:size>
+        <viz:position x="-727.7807" y="101.93106"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="109" label="behavioral economics">
+        <viz:size value="43.21537"></viz:size>
+        <viz:position x="92.61332" y="185.74806"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="33" label="cultural economics">
+        <viz:size value="43.21537"></viz:size>
+        <viz:position x="977.5007" y="974.8254"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="119" label="1920s in economics">
+        <viz:size value="43.21537"></viz:size>
+        <viz:position x="315.45206" y="318.23883"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="30" label="economics laws">
+        <viz:size value="42.8271"></viz:size>
+        <viz:position x="-350.52798" y="363.14194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="17" label="economics curves">
+        <viz:size value="42.8271"></viz:size>
+        <viz:position x="-573.16187" y="745.819"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="21" label="stanford university department of economics faculty">
+        <viz:size value="42.34176"></viz:size>
+        <viz:position x="707.8776" y="-173.17027"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="88" label="urban economics">
+        <viz:size value="41.46815"></viz:size>
+        <viz:position x="-58.260273" y="-1116.2715"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="14" label="economics aphorisms">
+        <viz:size value="40.98281"></viz:size>
+        <viz:position x="-1089.5476" y="843.20966"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="6" label="classical economics">
+        <viz:size value="40.98281"></viz:size>
+        <viz:position x="-577.39703" y="962.83887"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="47" label="feminist economics">
+        <viz:size value="40.400406"></viz:size>
+        <viz:position x="-738.37665" y="1145.9252"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="45" label="1940s in economics">
+        <viz:size value="39.915066"></viz:size>
+        <viz:position x="-921.41077" y="-296.71674"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="22" label="economics educators">
+        <viz:size value="39.915066"></viz:size>
+        <viz:position x="363.79697" y="-495.39505"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="20" label="economics effects">
+        <viz:size value="39.33266"></viz:size>
+        <viz:position x="350.5137" y="1100.9568"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="36" label="regional economics">
+        <viz:size value="38.75025"></viz:size>
+        <viz:position x="-1394.8373" y="-50.16583"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="62" label="relation of economics to other disciplines">
+        <viz:size value="36.905964"></viz:size>
+        <viz:position x="-1362.618" y="-314.609"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="32" label="economics and religion">
+        <viz:size value="36.226494"></viz:size>
+        <viz:position x="1137.6063" y="809.26105"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="31" label="criticisms of economics">
+        <viz:size value="35.547016"></viz:size>
+        <viz:position x="-397.0347" y="1128.9071"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="103" label="university of economics in bratislava">
+        <viz:size value="34.770477"></viz:size>
+        <viz:position x="295.20993" y="-263.36185"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="11" label="economics of intellectual property">
+        <viz:size value="34.770477"></viz:size>
+        <viz:position x="-1132.1248" y="-372.97992"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="73" label="innovation economics">
+        <viz:size value="34.770477"></viz:size>
+        <viz:position x="175.9684" y="1380.3567"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="68" label="1950s in economics">
+        <viz:size value="33.99394"></viz:size>
+        <viz:position x="-394.41205" y="606.2777"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="92" label="electricity economics">
+        <viz:size value="33.99394"></viz:size>
+        <viz:position x="-958.9542" y="-1024.9712"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="104" label="intertemporal economics">
+        <viz:size value="33.99394"></viz:size>
+        <viz:position x="-68.12854" y="1376.4688"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="98" label="plekhanov russian university of economics">
+        <viz:size value="33.99394"></viz:size>
+        <viz:position x="1141.3185" y="319.75665"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="54" label="1890s in economics">
+        <viz:size value="33.120327"></viz:size>
+        <viz:position x="155.983" y="-65.66651"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="122" label="rural economics">
+        <viz:size value="31.276037"></viz:size>
+        <viz:position x="1349.5505" y="-351.19434"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="89" label="economics of the arts and literature">
+        <viz:size value="31.276037"></viz:size>
+        <viz:position x="-212.7483" y="-888.97644"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="101" label="universities of economics in europe">
+        <viz:size value="30.208294"></viz:size>
+        <viz:position x="965.9602" y="-944.75"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="65" label="preclassical economics">
+        <viz:size value="30.208294"></viz:size>
+        <viz:position x="940.6496" y="196.71588"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="13" label="time-based economics">
+        <viz:size value="29.04348"></viz:size>
+        <viz:position x="-823.01" y="837.308"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="93" label="economics comparisons">
+        <viz:size value="29.04348"></viz:size>
+        <viz:position x="-948.5348" y="-799.32385"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="35" label="philosophy of economics">
+        <viz:size value="29.04348"></viz:size>
+        <viz:position x="-938.3531" y="-59.334026"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="46" label="economics articles">
+        <viz:size value="29.04348"></viz:size>
+        <viz:position x="-1255.5846" y="-568.95215"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="75" label="1870s in economics">
+        <viz:size value="29.04348"></viz:size>
+        <viz:position x="-266.89996" y="-166.89156"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="115" label="personnel economics">
+        <viz:size value="27.878666"></viz:size>
+        <viz:position x="396.11526" y="1326.6504"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="76" label="neoclassical economics">
+        <viz:size value="26.519716"></viz:size>
+        <viz:position x="-294.39117" y="1352.1365"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="95" label="mineral economics">
+        <viz:size value="26.519716"></viz:size>
+        <viz:position x="1141.4613" y="-801.8098"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="69" label="islamic economics">
+        <viz:size value="26.519716"></viz:size>
+        <viz:position x="1211.8451" y="596.2204"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="86" label="economics publications">
+        <viz:size value="26.519716"></viz:size>
+        <viz:position x="720.74854" y="569.3414"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="55" label="early modern economics">
+        <viz:size value="25.063702"></viz:size>
+        <viz:position x="-1235.76" y="646.6265"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="82" label="1810s in economics">
+        <viz:size value="25.063702"></viz:size>
+        <viz:position x="-716.96716" y="-716.4128"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="67" label="institutional economics">
+        <viz:size value="25.063702"></viz:size>
+        <viz:position x="159.32664" y="-1386.5701"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="91" label="1880s in economics">
+        <viz:size value="25.063702"></viz:size>
+        <viz:position x="-1092.7191" y="383.15155"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="114" label="1910s in economics">
+        <viz:size value="25.063702"></viz:size>
+        <viz:position x="433.06113" y="-1081.5443"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="113" label="1900s in economics">
+        <viz:size value="25.063702"></viz:size>
+        <viz:position x="259.82895" y="-928.3884"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="61" label="1840s in economics">
+        <viz:size value="25.063702"></viz:size>
+        <viz:position x="-452.7264" y="-795.98395"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="26" label="economics papers">
+        <viz:size value="23.41355"></viz:size>
+        <viz:position x="-138.86559" y="242.19194"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="110" label="warsaw school of economics">
+        <viz:size value="23.41355"></viz:size>
+        <viz:position x="172.21777" y="-1155.7804"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="124" label="1790s in economics">
+        <viz:size value="23.41355"></viz:size>
+        <viz:position x="29.961592" y="-888.6766"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="34" label="1860s in economics">
+        <viz:size value="23.41355"></viz:size>
+        <viz:position x="-16.977388" y="-655.8818"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="78" label="kyiv national university of trade and economics">
+        <viz:size value="23.41355"></viz:size>
+        <viz:position x="505.17508" y="457.2306"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="53" label="economics libraries">
+        <viz:size value="21.569262"></viz:size>
+        <viz:position x="728.6983" y="323.52252"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="123" label="experimental economics">
+        <viz:size value="21.569262"></viz:size>
+        <viz:position x="-709.97656" y="-945.8581"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="70" label="computational economics">
+        <viz:size value="21.569262"></viz:size>
+        <viz:position x="345.36917" y="831.46735"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="58" label="1850s in economics">
+        <viz:size value="19.336702"></viz:size>
+        <viz:position x="-119.34526" y="478.97513"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="81" label="post-keynesian economics">
+        <viz:size value="19.336702"></viz:size>
+        <viz:position x="-327.90128" y="888.4477"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="59" label="armenian state university of economics alumni">
+        <viz:size value="19.336702"></viz:size>
+        <viz:position x="755.9375" y="849.7061"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="118" label="israel prize in economics recipients">
+        <viz:size value="16.812943"></viz:size>
+        <viz:position x="734.2935" y="58.282818"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="117" label="radio programs about economics">
+        <viz:size value="16.812943"></viz:size>
+        <viz:position x="-530.663" y="-1271.5505"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="49" label="lahore school of economics">
+        <viz:size value="16.812943"></viz:size>
+        <viz:position x="559.01495" y="-353.3869"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="107" label="professorships in economics">
+        <viz:size value="16.812943"></viz:size>
+        <viz:position x="331.85477" y="73.7638"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="23" label="convexity in economics">
+        <viz:size value="13.706775"></viz:size>
+        <viz:position x="831.4343" y="-1123.7776"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="60" label="saint petersburg university of economics and finance alumni">
+        <viz:size value="13.706775"></viz:size>
+        <viz:position x="935.07764" y="692.4022"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="50" label="1800s in economics">
+        <viz:size value="13.706775"></viz:size>
+        <viz:position x="-190.22098" y="700.2994"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="84" label="economics of primary sector industries">
+        <viz:size value="9.629929"></viz:size>
+        <viz:position x="-286.87463" y="-1134.6957"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="100" label="1770s in economics">
+        <viz:size value="9.629929"></viz:size>
+        <viz:position x="115.82108" y="-445.58514"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="64" label="spaceflight economics">
+        <viz:size value="9.629929"></viz:size>
+        <viz:position x="1093.2197" y="-433.7924"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="96" label="general economics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="470.65375" y="-806.1657"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="102" label="odessa national economics university">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="655.8369" y="-969.0319"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="105" label="1710s in economics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-256.29333" y="-650.22046"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="52" label="economics and finance stubs">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-937.52936" y="1032.6364"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="40" label="forensic economics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-1366.3381" y="192.05095"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="56" label="contemporary economics literature">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-483.39874" y="-1015.9305"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="90" label="works originally published in the quarterly journal of economics">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="-584.5603" y="450.86447"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+      <node id="106" label="economics of religion">
+        <viz:size value="4.0"></viz:size>
+        <viz:position x="804.98126" y="1116.8722"></viz:position>
+        <viz:color r="153" g="255" b="153"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="0" target="1" weight="17.0"></edge>
+      <edge id="1" source="2" target="3" weight="12.0"></edge>
+      <edge id="2" source="4" target="5" weight="11.0"></edge>
+      <edge id="3" source="6" target="7" weight="9.0"></edge>
+      <edge id="4" source="8" target="9" weight="8.0"></edge>
+      <edge id="5" source="10" target="11" weight="7.0"></edge>
+      <edge id="6" source="9" target="11" weight="6.0"></edge>
+      <edge id="7" source="0" target="12" weight="5.0"></edge>
+      <edge id="8" source="13" target="3" weight="4.0"></edge>
+      <edge id="9" source="3" target="14" weight="4.0"></edge>
+      <edge id="10" source="15" target="16" weight="4.0"></edge>
+      <edge id="11" source="17" target="18" weight="4.0"></edge>
+      <edge id="12" source="19" target="20" weight="4.0"></edge>
+      <edge id="13" source="21" target="5" weight="4.0"></edge>
+      <edge id="14" source="4" target="22" weight="4.0"></edge>
+      <edge id="15" source="23" target="24" weight="3.0"></edge>
+      <edge id="16" source="25" target="26" weight="3.0"></edge>
+      <edge id="17" source="24" target="27" weight="3.0"></edge>
+      <edge id="18" source="19" target="28" weight="3.0"></edge>
+      <edge id="19" source="3" target="17" weight="3.0"></edge>
+      <edge id="20" source="29" target="30" weight="20.0"></edge>
+      <edge id="21" source="6" target="3" weight="2.0"></edge>
+      <edge id="22" source="6" target="30" weight="2.0"></edge>
+      <edge id="23" source="7" target="31" weight="2.0"></edge>
+      <edge id="24" source="32" target="33" weight="2.0"></edge>
+      <edge id="25" source="34" target="8" weight="12.0"></edge>
+      <edge id="26" source="35" target="3" weight="2.0"></edge>
+      <edge id="27" source="36" target="37" weight="2.0"></edge>
+      <edge id="28" source="25" target="38" weight="10.0"></edge>
+      <edge id="29" source="39" target="30" weight="10.0"></edge>
+      <edge id="30" source="25" target="40"></edge>
+      <edge id="31" source="39" target="26" weight="10.0"></edge>
+      <edge id="32" source="8" target="41" weight="10.0"></edge>
+      <edge id="33" source="26" target="42" weight="8.0"></edge>
+      <edge id="34" source="43" target="35"></edge>
+      <edge id="35" source="19" target="29" weight="10.0"></edge>
+      <edge id="36" source="44" target="8" weight="10.0"></edge>
+      <edge id="37" source="45" target="46" weight="8.0"></edge>
+      <edge id="38" source="47" target="31"></edge>
+      <edge id="39" source="48" target="38" weight="10.0"></edge>
+      <edge id="40" source="4" target="49"></edge>
+      <edge id="41" source="6" target="50" weight="3.0"></edge>
+      <edge id="42" source="38" target="30" weight="10.0"></edge>
+      <edge id="43" source="51" target="34" weight="6.0"></edge>
+      <edge id="44" source="52" target="3"></edge>
+      <edge id="45" source="8" target="39" weight="10.0"></edge>
+      <edge id="46" source="47" target="13"></edge>
+      <edge id="47" source="53" target="4"></edge>
+      <edge id="48" source="8" target="54" weight="9.0"></edge>
+      <edge id="49" source="55" target="2"></edge>
+      <edge id="50" source="56" target="8"></edge>
+      <edge id="51" source="48" target="57" weight="10.0"></edge>
+      <edge id="52" source="45" target="43" weight="8.0"></edge>
+      <edge id="53" source="58" target="30" weight="3.0"></edge>
+      <edge id="54" source="59" target="60"></edge>
+      <edge id="55" source="8" target="61" weight="5.0"></edge>
+      <edge id="56" source="37" target="38" weight="10.0"></edge>
+      <edge id="57" source="35" target="62"></edge>
+      <edge id="58" source="63" target="64"></edge>
+      <edge id="59" source="65" target="66"></edge>
+      <edge id="60" source="67" target="27"></edge>
+      <edge id="61" source="68" target="17" weight="9.0"></edge>
+      <edge id="62" source="32" target="69"></edge>
+      <edge id="63" source="35" target="41" weight="10.0"></edge>
+      <edge id="64" source="70" target="18"></edge>
+      <edge id="65" source="71" target="13"></edge>
+      <edge id="66" source="54" target="4" weight="9.0"></edge>
+      <edge id="67" source="72" target="73"></edge>
+      <edge id="68" source="70" target="74"></edge>
+      <edge id="69" source="44" target="42" weight="8.0"></edge>
+      <edge id="70" source="39" target="38" weight="10.0"></edge>
+      <edge id="71" source="75" target="30" weight="8.0"></edge>
+      <edge id="72" source="31" target="76"></edge>
+      <edge id="73" source="77" target="78"></edge>
+      <edge id="74" source="79" target="38" weight="10.0"></edge>
+      <edge id="75" source="45" target="10" weight="8.0"></edge>
+      <edge id="76" source="29" target="80" weight="10.0"></edge>
+      <edge id="77" source="45" target="8" weight="8.0"></edge>
+      <edge id="78" source="77" target="70"></edge>
+      <edge id="79" source="81" target="3"></edge>
+      <edge id="80" source="8" target="82" weight="6.0"></edge>
+      <edge id="81" source="41" target="57" weight="10.0"></edge>
+      <edge id="82" source="83" target="84"></edge>
+      <edge id="83" source="9" target="41" weight="10.0"></edge>
+      <edge id="84" source="29" target="85" weight="10.0"></edge>
+      <edge id="85" source="77" target="86"></edge>
+      <edge id="86" source="87" target="39" weight="10.0"></edge>
+      <edge id="87" source="88" target="89"></edge>
+      <edge id="88" source="45" target="37" weight="8.0"></edge>
+      <edge id="89" source="45" target="9" weight="8.0"></edge>
+      <edge id="90" source="76" target="19"></edge>
+      <edge id="91" source="39" target="90" weight="10.0"></edge>
+      <edge id="92" source="37" target="91" weight="5.0"></edge>
+      <edge id="93" source="92" target="93"></edge>
+      <edge id="94" source="8" target="35"></edge>
+      <edge id="95" source="94" target="95"></edge>
+      <edge id="96" source="96" target="97"></edge>
+      <edge id="97" source="61" target="82" weight="6.0"></edge>
+      <edge id="98" source="8" target="89"></edge>
+      <edge id="99" source="8" target="75" weight="8.0"></edge>
+      <edge id="100" source="77" target="81"></edge>
+      <edge id="101" source="98" target="99"></edge>
+      <edge id="102" source="38" target="2" weight="10.0"></edge>
+      <edge id="103" source="38" target="8" weight="10.0"></edge>
+      <edge id="104" source="8" target="100" weight="3.0"></edge>
+      <edge id="105" source="50" target="30" weight="3.0"></edge>
+      <edge id="106" source="101" target="102"></edge>
+      <edge id="107" source="44" target="57" weight="10.0"></edge>
+      <edge id="108" source="18" target="29" weight="10.0"></edge>
+      <edge id="109" source="4" target="103"></edge>
+      <edge id="110" source="46" target="93"></edge>
+      <edge id="111" source="18" target="104"></edge>
+      <edge id="112" source="41" target="71" weight="10.0"></edge>
+      <edge id="113" source="25" target="11"></edge>
+      <edge id="114" source="8" target="105" weight="2.0"></edge>
+      <edge id="115" source="41" target="30" weight="10.0"></edge>
+      <edge id="116" source="32" target="106"></edge>
+      <edge id="117" source="29" target="26" weight="10.0"></edge>
+      <edge id="118" source="54" target="107" weight="9.0"></edge>
+      <edge id="119" source="46" target="108"></edge>
+      <edge id="120" source="80" target="81"></edge>
+      <edge id="121" source="109" target="39" weight="10.0"></edge>
+      <edge id="122" source="91" target="17" weight="5.0"></edge>
+      <edge id="123" source="110" target="111"></edge>
+      <edge id="124" source="112" target="70"></edge>
+      <edge id="125" source="113" target="114" weight="6.0"></edge>
+      <edge id="126" source="19" target="115"></edge>
+      <edge id="127" source="71" target="39" weight="10.0"></edge>
+      <edge id="128" source="39" target="48" weight="10.0"></edge>
+      <edge id="129" source="116" target="117"></edge>
+      <edge id="130" source="77" target="54" weight="9.0"></edge>
+      <edge id="131" source="8" target="42" weight="8.0"></edge>
+      <edge id="132" source="118" target="5"></edge>
+      <edge id="133" source="26" target="119" weight="10.0"></edge>
+      <edge id="134" source="91" target="120" weight="5.0"></edge>
+      <edge id="135" source="121" target="41" weight="10.0"></edge>
+      <edge id="136" source="94" target="122"></edge>
+      <edge id="137" source="123" target="121"></edge>
+      <edge id="138" source="77" target="29" weight="10.0"></edge>
+      <edge id="139" source="51" target="124" weight="4.0"></edge>
+    </edges>
+  </graph>
+</gexf>
