@@ -93,10 +93,27 @@ function updatePane (graph, filter) {
 	Object.keys(categories).forEach(function(c) {
 		//var optionElt = document.createElement("option");
 		//optionElt.text = c;
-		var optionElt = $("<div/>",{ "class": "checkbox" });
-		var labelElt = $("<label/>",{"type":"checkbox","text":c})
+		var checkbx_class ;
+		switch(c) {
+			case 'Places and Nature':
+				checkbx_class="checkbox-success";
+				break;
+			case  'Sports':
+				checkbx_class ="checkbox-danger";
+				break;
+			case 'Arts and Culture':
+				checkbx_class ="checkbox-info";
+				break;
+			case 'Science and Society':
+				checkbx_class ="checkbox-warning";
+				break;
+			default:
+				checkbx_class ='checkbox-primary';
+		}
+		var optionElt = $("<div/>",{ "class": "checkbox " + checkbx_class });
+		var labelElt = $("<label/>",{"type":"checkbox","for":c,"text":c})
+		optionElt.append($("<input/>",{"type":"checkbox","id":c,"checked":"checked"}));
 		optionElt.append(labelElt);
-		labelElt.append($("<input/>",{"type":"checkbox","id":c,"checked":"checked"}));
 		//optionElt.text(c);
 		optionElt.appendTo('#node-category');
 	});
@@ -186,8 +203,10 @@ function lunchGraph(file_to_open) {
 			"nodeBorderColor": "default",//exactly like this
 			"defaultNodeBorderColor": "#696969",//Any color of your choice
 			"defaultBorderView": "always",
-			"labelThreshold": file_to_open.search("main.gexf")>-1 ? 0:3 ,
-			"defaultLabelSize":10
+			"labelThreshold": file_to_open.search("main.gexf")>-1 ? 0:5 ,
+			"defaultLabelSize":11,
+			"labelAlignment":"center",
+			"fontStyle":"bold"
 
 
 		}
