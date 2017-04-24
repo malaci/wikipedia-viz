@@ -95,8 +95,8 @@
 
 .checkbox-danger input[type="checkbox"]:checked + label::before,
 .checkbox-danger input[type="radio"]:checked + label::before {
-  background-color: #d9534f;
-  border-color: #d9534f;
+  background-color: #ff5c33;
+  border-color: #ff5c33;
 }
 .checkbox-danger input[type="checkbox"]:checked + label::after,
 .checkbox-danger input[type="radio"]:checked + label::after {
